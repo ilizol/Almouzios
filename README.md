@@ -10,4 +10,6 @@ All characters would be mapped into the Private Use Area of the Unicode Basic Mu
 
 The font is based from [KA-Almouzios](https://github.com/t-bullock/KA-Almouzios) font.
 
-The missing characters of KA-Almouzios (like gorthmikon, pelastikon, ison indicators, mode words), were imported from [Neanes Stathis Series](https://github.com/neanes/neanes-StathisSeriesFont) font.
+KA Almouzios (almost Chourmouzios) is a typeface that almost looks like the popular Chourmouzios font, used in the Κοινωνικά Παλαιών Διδασκάλων books.
+
+The missing characters of KA Almouzios (like gorthmikon, pelastikon, ison indicators, mode words), were imported from [Neanes Stathis Series](https://github.com/neanes/neanes-StathisSeriesFont) font.
