@@ -1,6 +1,6 @@
-# Neanes Almouzios music font
+# Neanes Almouzios byzantine music font
 
-Neanes Almouzios is an OpenType music font developed for [Neanes](https://neanes.github.io/neanes/), a free and open source scorewriter for notating Byzantine Chant.
+Neanes Almouzios is an OpenType byzantine music font developed for [Neanes](https://neanes.github.io/neanes/), a free and open source scorewriter for notating Byzantine Chant.
 
 Neanes Almouzios is compliant with [Standard Byzantine Music Font Layout (SBMuFL)](https://neanes.github.io/sbmufl/).
 
