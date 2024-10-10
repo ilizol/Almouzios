@@ -1,5 +1,9 @@
 Copyright (c) 2019, Trevor Bullock,
+with Reserved Font Names "KA Almouzios Main", "KA Almouzios Chronos", "KA Almouzios Combo", "KA Almouzios Martyria" and "KA Almouzios Fthora".
 Copyright (c) 2022, Daniel,
+with Reserved Font Name "Neanes".
+Copyright (c) 2024, Neokazis Charalampos,
+with Reserved Font Name "NeanesStathisSeries".
 Copyright (c) 2024, Elias Zolotas,
 with Reserved Font Name "Neanes Almouzios".
 
