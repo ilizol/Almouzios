@@ -8,7 +8,7 @@ SBMuFL is a proposed standard for laying out a font that contains all the charac
 
 All characters would be mapped into the Private Use Area of the Unicode Basic Multilingual Plane and characters would be positioned using features of modern font technologies such as mark-to-base positioning.
 
-The font is based from [KA-Almouzios](https://github.com/t-bullock/KA-Almouzios) font.
+The font is based from [KA Almouzios](https://github.com/t-bullock/KA-Almouzios) font.
 
 KA Almouzios (almost Chourmouzios) is a typeface that almost looks like the popular Chourmouzios font, used in the Κοινωνικά Παλαιών Διδασκάλων books.
 
