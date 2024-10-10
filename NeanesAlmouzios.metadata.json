@@ -7794,7 +7794,7 @@
     "modePlagalSecond": 1.134,
     "modePlagalFourth": 0.93,
     "modeNi": 1.238,
-    "modePa": 1.245,
+    "modePa": 1.407,
     "modeAlphaCapital": 1.083,
     "modeBetaCapital": 1.048,
     "modeGammaCapital": 1.117,
@@ -7811,11 +7811,11 @@
     "modeSecond": 1.542,
     "modeLegetos": 1.535,
     "modeVarys2": 0.923,
-    "modeVou": 1.128,
-    "modeGa": 1.132,
-    "modeDi": 1.073,
-    "modeKe": 1.198,
-    "modeZo": 1.289,
+    "modeVou": 1.487,
+    "modeGa": 1.178,
+    "modeDi": 1.115,
+    "modeKe": 1.184,
+    "modeZo": 1.385,
     "modeOligonKentimaAbove": 0.0,
     "modeElafron": 0.0,
     "modeRunningElafron": 0.0,
@@ -10381,22 +10381,22 @@
     },
     "modeNi": {
       "bBoxNE": [
-        1.13,
-        0.866
+        1.147,
+        0.886
       ],
       "bBoxSW": [
-        0.307,
-        0.151
+        0.308,
+        0.277
       ]
     },
     "modePa": {
       "bBoxNE": [
-        1.15,
-        0.866
+        1.312,
+        0.887
       ],
       "bBoxSW": [
-        0.329,
-        0.366
+        0.331,
+        0.35
       ]
     },
     "modeAlphaCapital": {
@@ -10491,12 +10491,12 @@
     },
     "modeWordEchos": {
       "bBoxNE": [
-        1.504,
-        0.866
+        1.603,
+        0.868
       ],
       "bBoxSW": [
-        -0.09,
-        0.155
+        -0.056,
+        0.187
       ]
     },
     "modeGamma": {
@@ -10561,52 +10561,52 @@
     },
     "modeVou": {
       "bBoxNE": [
-        1.035,
-        0.866
+        1.394,
+        0.892
       ],
       "bBoxSW": [
-        0.329,
-        0.366
+        0.321,
+        0.351
       ]
     },
     "modeGa": {
       "bBoxNE": [
-        1.056,
-        0.866
+        1.102,
+        0.886
       ],
       "bBoxSW": [
-        0.329,
-        0.366
+        0.313,
+        0.35
       ]
     },
     "modeDi": {
       "bBoxNE": [
-        0.976,
-        0.866
+        1.018,
+        0.904
       ],
       "bBoxSW": [
-        0.333,
-        0.366
+        0.322,
+        0.35
       ]
     },
     "modeKe": {
       "bBoxNE": [
-        1.096,
-        0.866
+        1.082,
+        0.878
       ],
       "bBoxSW": [
-        0.333,
-        0.366
+        0.322,
+        0.357
       ]
     },
     "modeZo": {
       "bBoxNE": [
-        1.193,
-        0.867
+        1.289,
+        0.882
       ],
       "bBoxSW": [
-        0.333,
-        0.366
+        0.323,
+        0.361
       ]
     },
     "modeOligonKentimaAbove": {
