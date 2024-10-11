@@ -1669,17 +1669,17 @@
 0xE17B martyriaZygosAbove
 	('martyriaTop', 'mark', 0.0, -199.0)
 0xE190 fthoraDiatonicNiLowAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
-	('fthoraTop', 'mark', 0.0, 734.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1086.0)
+	('fthoraTop', 'mark', 0.0, 784.0)
 0xE191 fthoraDiatonicPaAbove
 	('agogiAboveFthora', 'basemark', -1.0, 1076.0)
-	('fthoraTop', 'mark', 0.0, 644.0)
-0xE192 fthoraDiatonicVouAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1296.0)
 	('fthoraTop', 'mark', 0.0, 634.0)
+0xE192 fthoraDiatonicVouAbove
+	('agogiAboveFthora', 'basemark', -1.0, 1206.0)
+	('fthoraTop', 'mark', 0.0, 704.0)
 0xE193 fthoraDiatonicGaAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1216.0)
-	('fthoraTop', 'mark', 0.0, 684.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1356.0)
+	('fthoraTop', 'mark', 0.0, 534.0)
 0xE194 fthoraDiatonicDiAbove
 	('agogiAboveFthora', 'basemark', -1.0, 1146.0)
 	('fthoraTop', 'mark', 0.0, 744.0)
@@ -1687,62 +1687,62 @@
 	('agogiAboveFthora', 'basemark', -1.0, 1226.0)
 	('fthoraTop', 'mark', 0.0, 804.0)
 0xE196 fthoraDiatonicZoAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1356.0)
-	('fthoraTop', 'mark', 0.0, 624.0)
-0xE197 fthoraDiatonicNiHighAbove
 	('agogiAboveFthora', 'basemark', -1.0, 1226.0)
-	('fthoraTop', 'mark', 0.0, 754.0)
+	('fthoraTop', 'mark', 0.0, 724.0)
+0xE197 fthoraDiatonicNiHighAbove
+	('agogiAboveFthora', 'basemark', -1.0, 1166.0)
+	('fthoraTop', 'mark', 0.0, 784.0)
 0xE198 fthoraHardChromaticPaAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1125.0)
-	('fthoraTop', 'mark', 0.0, 804.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1085.0)
+	('fthoraTop', 'mark', 0.0, 824.0)
 0xE199 fthoraHardChromaticDiAbove
 	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
 	('fthoraTop', 'mark', 0.0, 744.0)
 0xE19A fthoraSoftChromaticDiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1146.0)
-	('fthoraTop', 'mark', 0.0, 804.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
+	('fthoraTop', 'mark', 0.0, 824.0)
 0xE19B fthoraSoftChromaticKeAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1196.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1176.0)
 	('fthoraTop', 'mark', 0.0, 714.0)
 0xE19C fthoraEnharmonicAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1146.0)
-	('fthoraTop', 'mark', 0.0, 734.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1106.0)
+	('fthoraTop', 'mark', 0.0, 754.0)
 0xE19D chroaZygosAbove
 	('agogiAboveFthora', 'basemark', -1.0, 1196.0)
-	('fthoraTop', 'mark', 0.0, 704.0)
-0xE19E chroaKlitonAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1225.0)
 	('fthoraTop', 'mark', 0.0, 734.0)
+0xE19E chroaKlitonAbove
+	('agogiAboveFthora', 'basemark', -1.0, 1125.0)
+	('fthoraTop', 'mark', 0.0, 754.0)
 0xE1C0 fthoraDiatonicNiLowBelow
-	('fthoraBottom', 'mark', 0.0, 264.0)
+	('fthoraBottom', 'mark', 0.0, 214.0)
 0xE1C1 fthoraDiatonicPaBelow
-	('fthoraBottom', 'mark', 0.0, 244.0)
+	('fthoraBottom', 'mark', 0.0, 254.0)
 0xE1C2 fthoraDiatonicVouBelow
-	('fthoraBottom', 'mark', 0.0, 471.0)
+	('fthoraBottom', 'mark', 0.0, 381.0)
 0xE1C3 fthoraDiatonicGaBelow
-	('fthoraBottom', 'mark', 0.0, 374.0)
+	('fthoraBottom', 'mark', 0.0, 484.0)
 0xE1C4 fthoraDiatonicDiBelow
-	('fthoraBottom', 'mark', 0.0, 314.0)
+	('fthoraBottom', 'mark', 0.0, 304.0)
 0xE1C5 fthoraDiatonicKeBelow
-	('fthoraBottom', 'mark', 0.0, 394.0)
-0xE1C6 fthoraDiatonicZoBelow
-	('fthoraBottom', 'mark', 0.0, 514.0)
-0xE1C7 fthoraDiatonicNiHighBelow
-	('fthoraBottom', 'mark', 0.0, 374.0)
-0xE1C8 fthoraHardChromaticPaBelow
-	('fthoraBottom', 'mark', 0.0, 294.0)
-0xE1C9 fthoraHardChromaticDiBelow
-	('fthoraBottom', 'mark', 0.0, 334.0)
-0xE1CA fthoraSoftChromaticDiBelow
-	('fthoraBottom', 'mark', 0.0, 314.0)
-0xE1CB fthoraSoftChromaticKeBelow
 	('fthoraBottom', 'mark', 0.0, 364.0)
-0xE1CC fthoraEnharmonicBelow
-	('fthoraBottom', 'mark', 0.0, 294.0)
-0xE1CD chroaZygosBelow
-	('fthoraBottom', 'mark', 0.0, 354.0)
-0xE1CE chroaKlitonBelow
+0xE1C6 fthoraDiatonicZoBelow
 	('fthoraBottom', 'mark', 0.0, 394.0)
+0xE1C7 fthoraDiatonicNiHighBelow
+	('fthoraBottom', 'mark', 0.0, 314.0)
+0xE1C8 fthoraHardChromaticPaBelow
+	('fthoraBottom', 'mark', 0.0, 224.0)
+0xE1C9 fthoraHardChromaticDiBelow
+	('fthoraBottom', 'mark', 0.0, 314.0)
+0xE1CA fthoraSoftChromaticDiBelow
+	('fthoraBottom', 'mark', 0.0, 234.0)
+0xE1CB fthoraSoftChromaticKeBelow
+	('fthoraBottom', 'mark', 0.0, 284.0)
+0xE1CC fthoraEnharmonicBelow
+	('fthoraBottom', 'mark', 0.0, 214.0)
+0xE1CD chroaZygosBelow
+	('fthoraBottom', 'mark', 0.0, 304.0)
+0xE1CE chroaKlitonBelow
+	('fthoraBottom', 'mark', 0.0, 284.0)
 0xE1F0 diesis2
 	('diesis', 'mark', 196.0, 612.0)
 0xE1F1 diesis4
@@ -1782,10 +1782,10 @@
 0xE256 noteIndicatorZo
 	('noteTop', 'mark', 0.0, 800.0)
 0xE1CF chroaSpathiBelow
-	('fthoraBottom', 'mark', 0.0, 304.0)
+	('fthoraBottom', 'mark', 0.0, 234.0)
 0xE19F chroaSpathiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1136.0)
-	('fthoraTop', 'mark', 0.0, 804.0)
+	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
+	('fthoraTop', 'mark', 0.0, 824.0)
 0xE221 measureNumber3
 	('measureNumber', 'mark', 0.0, 656.0)
 0xE222 measureNumber4
@@ -1960,69 +1960,69 @@
 	('agogi', 'mark', 390.296, -207.723)
 	('agogiAboveFthora', 'mark', 388.983, -208.473)
 0xE1A0 fthoraDiatonicNiLowSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 734.0)
+	('fthoraTopSecondary', 'mark', 0.0, 784.0)
 0xE1A1 fthoraDiatonicPaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 644.0)
-0xE1A2 fthoraDiatonicVouSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 634.0)
+0xE1A2 fthoraDiatonicVouSecondary
+	('fthoraTopSecondary', 'mark', 0.0, 704.0)
 0xE1A3 fthoraDiatonicGaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 684.0)
+	('fthoraTopSecondary', 'mark', 0.0, 534.0)
 0xE1A4 fthoraDiatonicDiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 744.0)
 0xE1A5 fthoraDiatonicKeSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 804.0)
 0xE1A6 fthoraDiatonicZoSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 624.0)
+	('fthoraTopSecondary', 'mark', 0.0, 724.0)
 0xE1A7 fthoraDiatonicNiHighSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 754.0)
+	('fthoraTopSecondary', 'mark', 0.0, 784.0)
 0xE1A8 fthoraHardChromaticPaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 804.0)
+	('fthoraTopSecondary', 'mark', 0.0, 824.0)
 0xE1A9 fthoraHardChromaticDiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 744.0)
 0xE1AA fthoraSoftChromaticDiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 804.0)
+	('fthoraTopSecondary', 'mark', 0.0, 824.0)
 0xE1AB fthoraSoftChromaticKeSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 714.0)
 0xE1AC fthoraEnharmonicSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 734.0)
+	('fthoraTopSecondary', 'mark', 0.0, 754.0)
 0xE1AD chroaZygosSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 704.0)
-0xE1AE chroaKlitonSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 734.0)
+0xE1AE chroaKlitonSecondary
+	('fthoraTopSecondary', 'mark', 0.0, 754.0)
 0xE1AF chroaSpathiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 804.0)
+	('fthoraTopSecondary', 'mark', 0.0, 824.0)
 0xE1B0 fthoraDiatonicNiLowTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 734.0)
+	('fthoraTopTertiary', 'mark', 0.0, 784.0)
 0xE1B1 fthoraDiatonicPaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 644.0)
-0xE1B2 fthoraDiatonicVouTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 634.0)
+0xE1B2 fthoraDiatonicVouTertiary
+	('fthoraTopTertiary', 'mark', 0.0, 704.0)
 0xE1B3 fthoraDiatonicGaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 684.0)
+	('fthoraTopTertiary', 'mark', 0.0, 534.0)
 0xE1B4 fthoraDiatonicDiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 744.0)
 0xE1B5 fthoraDiatonicKeTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 804.0)
 0xE1B6 fthoraDiatonicZoTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 624.0)
+	('fthoraTopTertiary', 'mark', 0.0, 724.0)
 0xE1B7 fthoraDiatonicNiHighTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 754.0)
+	('fthoraTopTertiary', 'mark', 0.0, 784.0)
 0xE1B8 fthoraHardChromaticPaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 804.0)
+	('fthoraTopTertiary', 'mark', 0.0, 824.0)
 0xE1B9 fthoraHardChromaticDiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 744.0)
 0xE1BA fthoraSoftChromaticDiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 804.0)
+	('fthoraTopTertiary', 'mark', 0.0, 824.0)
 0xE1BB fthoraSoftChromaticKeTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 714.0)
 0xE1BC fthoraEnharmonicTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 734.0)
+	('fthoraTopTertiary', 'mark', 0.0, 754.0)
 0xE1BD chroaZygosTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 704.0)
-0xE1BE chroaKlitonTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 734.0)
+0xE1BE chroaKlitonTertiary
+	('fthoraTopTertiary', 'mark', 0.0, 754.0)
 0xE1BF chroaSpathiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 804.0)
+	('fthoraTopTertiary', 'mark', 0.0, 824.0)
 0xE206 yfesis2Secondary
 	('yfesisSecondary', 'mark', -213.0, 452.0)
 0xE207 yfesis4Secondary
