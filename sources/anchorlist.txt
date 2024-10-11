@@ -1658,7 +1658,6 @@
 	('martyriaTop', 'mark', 2.0, -199.0)
 0xE176 martyriaAlphaDottedAbove
 	('martyriaTop', 'mark', 2.0, -192.0)
-	('martyriaBottom', 'mark', 1.0, 427.0)
 0xE177 martyriaHardChromaticPaAbove
 	('martyriaTop', 'mark', 2.0, -192.0)
 0xE178 martyriaHardChromaticDiAbove
