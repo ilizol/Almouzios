@@ -1,5 +1,5 @@
-python3 generate-font.py ../../sources/NeanesAlmouzios.sfd ../../NeanesAlmouzios.otf
-python3 generate-font-metadata.py ../../sources/NeanesAlmouzios.sfd ../metadata/glyphnames.json
+python3 generate-font.py ../../sources/Almouzios.sfd ../../Almouzios.otf
+python3 generate-font-metadata.py ../../sources/Almouzios.sfd ../metadata/glyphnames.json
 
 mv *.metadata.json ../..
 

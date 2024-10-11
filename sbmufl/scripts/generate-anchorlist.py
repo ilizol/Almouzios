@@ -3,8 +3,8 @@
 import fontforge
 from pathlib import Path
 
-# font = fontforge.open("../../NeanesAlmouzios.otf")
-font = fontforge.open("../../sources/NeanesAlmouzios.sfd")
+# font = fontforge.open("../../Almouzios.otf")
+font = fontforge.open("../../sources/Almouzios.sfd")
 
 
 for glyph in (char for char in font.glyphs() if 57344 <= char.unicode <= 63743):

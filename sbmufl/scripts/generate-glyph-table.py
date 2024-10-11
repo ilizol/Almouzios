@@ -5,14 +5,12 @@ file = open("../../sources/namelist.txt")
 print(
     """<style>
             @font-face {
-                font-family: Neanes;
-                /* src: url('../fonts/Neanes.otf'); */
-                src: url('../../../NeanesAlmouzios.otf');
+                font-family: Almouzios;
+                src: url('../../../Almouzios.otf');
             }
 
-            .neanes {
-                font-family: Neanes;
-                /* font-size: 20pt; */
+            .neumes {
+                font-family: Almouzios;
                 font-size: 100pt;
             }
 
@@ -33,7 +31,7 @@ print(
                 border: 1px gray solid;
             }
 
-            td .neanes {
+            td .neumes {
                 display: flex;
                 justify-content: center;
             }
@@ -50,7 +48,7 @@ while line:
     code_point = words[0].removeprefix("0x")
     html = f"""<tr>
     <td>
-        <span class="neanes">&#x{code_point};</span>
+        <span class="neumes">&#x{code_point};</span>
     </td>
     <td>
         <div class="code-point">
