@@ -7587,7 +7587,7 @@
     "oligonApostrofosKentimata": 1.503,
     "oligonElafronKentimata": 1.505,
     "oligonYporroiKentimata": 1.503,
-    "oligonKentimataBelow": 1.352,
+    "oligonKentimataBelow": 1.353,
     "oligonKentimaTripleYpsili": 1.503,
     "oligonIson": 1.353,
     "oligonElafron": 1.352,
@@ -7659,7 +7659,7 @@
     "martyriaNoteDiHigh": 0.886,
     "martyriaNoteKeHigh": 0.894,
     "martyriaTick": 0.165,
-    "oligonKentimataBelow.alt01": 1.465,
+    "oligonKentimataBelow.alt01": 1.352,
     "oligonKentimataAbove.alt01": 1.465,
     "antikenoma.alt01": 0.0,
     "petastiKentimaTripleYpsili": 1.459,
@@ -8357,12 +8357,12 @@
     },
     "oligonKentimataBelow": {
       "bBoxNE": [
-        1.318,
+        1.319,
         0.404
       ],
       "bBoxSW": [
-        0.081,
-        -0.026
+        0.082,
+        -0.03
       ]
     },
     "oligonKentimaTripleYpsili": {
@@ -9077,12 +9077,12 @@
     },
     "oligonKentimataBelow.alt01": {
       "bBoxNE": [
-        1.404,
-        0.393
+        1.318,
+        0.404
       ],
       "bBoxSW": [
-        0.067,
-        -0.023
+        0.081,
+        -0.026
       ]
     },
     "oligonKentimataAbove.alt01": {
