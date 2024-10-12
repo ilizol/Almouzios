@@ -2056,13 +2056,13 @@
 0xE219 barlineShortSingleAbove
 	('barline', 'mark', 75.0, 590.0)
 0xE216 barlineSingleAbove
-	('barline', 'mark', 107.0, 4.0)
+	('barline', 'mark', 96.0, 130.0)
 0xE217 barlineDoubleAbove
-	('barline', 'mark', 175.0, 4.0)
+	('barline', 'mark', 141.0, 130.0)
 0xE218 barlineTheseosAbove
-	('barline', 'mark', 107.0, 4.0)
+	('barline', 'mark', 96.0, 130.0)
 0xE21A barlineShortDoubleAbove
-	('barline', 'mark', 129.0, 590.0)
+	('barline', 'mark', 125.0, 590.0)
 0xE21B barlineShortTheseosAbove
 	('barline', 'mark', 87.0, 589.0)
 0xE1F6 diesis2Secondary
