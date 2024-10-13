@@ -6818,11 +6818,11 @@
     },
     "modePa": {
       "fthoraTop": [
-        0.634,
+        0.633,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.616,
         0.981
       ]
     },
@@ -6848,11 +6848,11 @@
     },
     "modeDi": {
       "fthoraTop": [
-        0.634,
+        0.632,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.615,
         0.981
       ]
     },
@@ -7790,7 +7790,7 @@
     "modePlagalSecond": 1.134,
     "modePlagalFourth": 0.93,
     "modeNi": 1.238,
-    "modePa": 1.407,
+    "modePa": 1.186,
     "modeAlphaCapital": 1.083,
     "modeBetaCapital": 1.048,
     "modeGammaCapital": 1.117,
@@ -7809,7 +7809,7 @@
     "modeVarys2": 0.923,
     "modeVou": 1.487,
     "modeGa": 1.178,
-    "modeDi": 1.115,
+    "modeDi": 1.05,
     "modeKe": 1.184,
     "modeZo": 1.385,
     "modeOligonKentimaAbove": 0.0,
@@ -10387,12 +10387,12 @@
     },
     "modePa": {
       "bBoxNE": [
-        1.312,
-        0.887
+        1.091,
+        0.863
       ],
       "bBoxSW": [
-        0.331,
-        0.35
+        0.329,
+        0.435
       ]
     },
     "modeAlphaCapital": {
@@ -10577,12 +10577,12 @@
     },
     "modeDi": {
       "bBoxNE": [
-        1.018,
-        0.904
+        0.853,
+        0.865
       ],
       "bBoxSW": [
-        0.322,
-        0.35
+        0.333,
+        0.435
       ]
     },
     "modeKe": {
