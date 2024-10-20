@@ -1834,8 +1834,8 @@
 	('fthoraTop', 'base', 634.0, 940.0)
 	('modeTop', 'base', 617.0, 981.0)
 0xE2E1 modePa
-	('fthoraTop', 'base', 633.15, 940.0)
-	('modeTop', 'base', 616.15, 981.0)
+	('fthoraTop', 'base', 632.95, 940.0)
+	('modeTop', 'base', 615.95, 981.0)
 0xE2F7 modeAlphaCapital
 0xE2F8 modeBetaCapital
 0xE2F9 modeGammaCapital
@@ -1859,8 +1859,8 @@
 	('fthoraTop', 'base', 634.0, 940.0)
 	('modeTop', 'base', 617.0, 981.0)
 0xE2E4 modeDi
-	('fthoraTop', 'base', 631.8, 940.0)
-	('modeTop', 'base', 614.8, 981.0)
+	('fthoraTop', 'base', 631.35, 940.0)
+	('modeTop', 'base', 614.35, 981.0)
 0xE2E5 modeKe
 	('fthoraTop', 'base', 634.0, 940.0)
 	('modeTop', 'base', 617.0, 981.0)
