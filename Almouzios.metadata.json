@@ -10207,12 +10207,12 @@
     },
     "isonIndicatorUnison": {
       "bBoxNE": [
-        0.406,
-        1.41
+        0.301,
+        1.311
       ],
       "bBoxSW": [
-        -0.406,
-        0.917
+        -0.301,
+        0.945
       ]
     },
     "isonIndicatorKeLow": {
@@ -10277,12 +10277,12 @@
     },
     "isonIndicatorDi": {
       "bBoxNE": [
-        0.344,
-        1.298
+        0.246,
+        1.313
       ],
       "bBoxSW": [
-        -0.344,
-        0.964
+        -0.246,
+        0.945
       ]
     },
     "isonIndicatorKe": {
