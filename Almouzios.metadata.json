@@ -7791,18 +7791,18 @@
     "modePlagalFourth": 0.93,
     "modeNi": 1.113,
     "modePa": 1.216,
-    "modeAlphaCapital": 1.083,
-    "modeBetaCapital": 1.048,
-    "modeGammaCapital": 1.117,
-    "modeDeltaCapital": 1.063,
+    "modeAlphaCapital": 1.114,
+    "modeBetaCapital": 1.08,
+    "modeGammaCapital": 1.068,
+    "modeDeltaCapital": 1.078,
     "modeVarys": 1.442,
     "modePlagal": 0.775,
     "modeWordVarys": 1.892,
-    "modeAlpha": 1.019,
-    "modeBeta": 1.009,
+    "modeAlpha": 1.046,
+    "modeBeta": 1.058,
     "modeWordEchos": 1.506,
-    "modeGamma": 1.06,
-    "modeDelta": 1.0,
+    "modeGamma": 1.068,
+    "modeDelta": 1.074,
     "modeFirst": 0.98,
     "modeSecond": 1.542,
     "modeLegetos": 1.535,
@@ -10397,42 +10397,42 @@
     },
     "modeAlphaCapital": {
       "bBoxNE": [
-        1.023,
-        0.866
+        1.055,
+        0.822
       ],
       "bBoxSW": [
         0.294,
-        0.366
+        0.365
       ]
     },
     "modeBetaCapital": {
       "bBoxNE": [
-        0.989,
-        0.866
+        1.021,
+        0.822
       ],
       "bBoxSW": [
         0.294,
-        0.366
+        0.365
       ]
     },
     "modeGammaCapital": {
       "bBoxNE": [
-        1.057,
-        0.866
+        1.009,
+        0.822
       ],
       "bBoxSW": [
         0.346,
-        0.366
+        0.365
       ]
     },
     "modeDeltaCapital": {
       "bBoxNE": [
-        1.003,
-        0.891
+        1.018,
+        0.822
       ],
       "bBoxSW": [
         0.292,
-        0.366
+        0.365
       ]
     },
     "modeVarys": {
@@ -10467,22 +10467,22 @@
     },
     "modeAlpha": {
       "bBoxNE": [
-        0.955,
-        0.86
+        0.982,
+        0.822
       ],
       "bBoxSW": [
-        0.295,
-        0.366
+        0.296,
+        0.365
       ]
     },
     "modeBeta": {
       "bBoxNE": [
-        0.95,
-        0.862
+        0.999,
+        0.83
       ],
       "bBoxSW": [
         0.344,
-        0.366
+        0.225
       ]
     },
     "modeWordEchos": {
@@ -10497,22 +10497,22 @@
     },
     "modeGamma": {
       "bBoxNE": [
-        0.999,
-        0.86
+        1.007,
+        0.822
       ],
       "bBoxSW": [
         0.344,
-        0.153
+        0.225
       ]
     },
     "modeDelta": {
       "bBoxNE": [
-        0.94,
-        0.86
+        1.014,
+        0.833
       ],
       "bBoxSW": [
         0.344,
-        0.366
+        0.365
       ]
     },
     "modeFirst": {
