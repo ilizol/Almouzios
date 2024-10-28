@@ -10197,12 +10197,12 @@
     },
     "isonIndicatorDiLow": {
       "bBoxNE": [
-        0.456,
-        1.298
+        0.222,
+        1.354
       ],
       "bBoxSW": [
-        -0.456,
-        0.931
+        -0.222,
+        0.945
       ]
     },
     "isonIndicatorUnison": {
@@ -10217,22 +10217,22 @@
     },
     "isonIndicatorKeLow": {
       "bBoxNE": [
-        0.456,
-        1.298
+        0.228,
+        1.311
       ],
       "bBoxSW": [
-        -0.456,
-        0.931
+        -0.228,
+        0.945
       ]
     },
     "isonIndicatorZo": {
       "bBoxNE": [
-        0.241,
-        1.313
+        0.198,
+        1.352
       ],
       "bBoxSW": [
-        -0.241,
-        0.945
+        -0.198,
+        0.929
       ]
     },
     "isonIndicatorNi": {
@@ -10297,12 +10297,12 @@
     },
     "isonIndicatorZoHigh": {
       "bBoxNE": [
-        0.456,
-        1.298
+        0.241,
+        1.313
       ],
       "bBoxSW": [
-        -0.456,
-        0.955
+        -0.241,
+        0.945
       ]
     },
     "modeThirdNana": {

@@ -12,4 +12,4 @@ The font is based on [KA Almouzios](https://github.com/t-bullock/KA-Almouzios) f
 
 KA Almouzios (almost Chourmouzios) is a typeface that almost looks like the popular Chourmouzios font, used in the Κοινωνικά Παλαιών Διδασκάλων books.
 
-The missing characters of KA Almouzios (like gorthmikon, pelastikon, ison indicators, mode words), were imported from [Noto Music](https://github.com/notofonts/music), [Alegreya](https://github.com/huertatipografica/Alegreya) and [Neanes Stathis Series](https://github.com/neanes/neanes-StathisSeriesFont) fonts.
+The missing characters of KA Almouzios (like gorthmikon, pelastikon, ison indicators, mode words), were imported from [Noto Music](https://github.com/notofonts/music) and [Alegreya](https://github.com/huertatipografica/Alegreya) fonts.

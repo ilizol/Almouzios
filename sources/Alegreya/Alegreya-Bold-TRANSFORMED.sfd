@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1533728606
-ModificationTime: 1730119083
+ModificationTime: 1730119848
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -859,7 +859,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 476 14 6
+WinInfo: 504 14 6
 BeginPrivate: 7
 BlueValues 58 [-242 -230 -100 -88 -12 0 461 473 500 512 586 598 642 654]
 BlueScale 5 0.037
@@ -73741,77 +73741,52 @@ EndChar
 
 StartChar: uni0411
 Encoding: 1041 1041 813
-Width: 627
+Width: 0
 GlyphClass: 1
-Flags: MW
-HStem: -10 84<309.5 366 302 407> 284 84 560 82<301 319 207.5 390.5> 578 7
-VStem: 118 127<112.5 133 112.5 136> 438 144<143.5 210> 453 88
+Flags: HMW
+HStem: -10 84<-723.5 -667 -731 -626> 284 84 560 82<-732 -714 -825.5 -642.5> 578 7
+VStem: -915 127<112.5 133 112.5 136> -595 144<143.5 210> -580 88
 LayerCount: 2
 Back
 SplineSet
-335 -10 m 0xec
- 284 -10 230 0 177 0 c 0xec
- 154 0 103 -3 38 -10 c 1
- 45 56 l 1
- 102 67 118 85 118 136 c 2
- 119 528 l 2
- 119 569 113 578 87 578 c 2
- 57 576 l 1
- 51 585 l 1
- 58 645 l 1xdc
- 104 644 177 642 238 642 c 0
- 400 642 491 645 554 654 c 1
- 562 643 l 1
- 552 584 544 504 541 444 c 1
- 452 438 l 1
- 454 496 l 2xea
- 456 553 442 560 339 560 c 0
- 263 560 258 557 257 524 c 2
- 251 368 l 1
- 348 368 l 2
- 493 368 582 303 582 191 c 0
- 582 73 479 -10 335 -10 c 0xec
-333 74 m 0
- 399 74 438 111 438 176 c 0
- 438 244 403 278 332 287 c 1
- 248 281 l 1
- 245 133 l 2
- 245 92 271 74 333 74 c 0
+-152 -10 m 0xec
+ -203 -10 -257 0 -310 0 c 0xec
+ -333 0 -384 -3 -449 -10 c 1
+ -442 56 l 1
+ -385 67 -369 85 -369 136 c 2
+ -368 528 l 2
+ -368 569 -374 578 -400 578 c 2
+ -430 576 l 1
+ -436 585 l 1
+ -429 645 l 1xdc
+ -383 644 -310 642 -249 642 c 0
+ -87 642 4 645 67 654 c 1
+ 75 643 l 1
+ 65 584 57 504 54 444 c 1
+ -35 438 l 1
+ -33 496 l 2xea
+ -31 553 -45 560 -148 560 c 0
+ -224 560 -229 557 -230 524 c 2
+ -236 368 l 1
+ -139 368 l 2
+ 6 368 95 303 95 191 c 0
+ 95 73 -8 -10 -152 -10 c 0xec
+-154 74 m 0
+ -88 74 -49 111 -49 176 c 0
+ -49 244 -84 278 -155 287 c 1
+ -239 281 l 1
+ -242 133 l 2
+ -242 92 -216 74 -154 74 c 0
 EndSplineSet
 Fore
-SplineSet
-335 -10 m 0xec
- 284 -10 230 0 177 0 c 0xec
- 154 0 103 -3 38 -10 c 1
- 45 56 l 1
- 102 67 118 85 118 136 c 2
- 119 528 l 2
- 119 569 113 578 87 578 c 2
- 57 576 l 1
- 51 585 l 1
- 58 645 l 1xdc
- 104 644 177 642 238 642 c 0
- 400 642 491 645 554 654 c 1
- 562 643 l 1
- 552 584 544 504 541 444 c 1
- 452 438 l 1
- 454 496 l 2xea
- 456 553 442 560 339 560 c 0
- 263 560 258 557 257 524 c 2
- 251 368 l 1
- 348 368 l 2
- 493 368 582 303 582 191 c 0
- 582 73 479 -10 335 -10 c 0xec
-333 74 m 0
- 399 74 438 111 438 176 c 0
- 438 244 403 278 332 287 c 1
- 248 281 l 1
- 245 133 l 2
- 245 92 271 74 333 74 c 0
-EndSplineSet
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0431.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0431.sc
+Refer: 1845 41 S 1 0 0 1 197 0 2
+Refer: 1264 950 S 1 0 0 1 -197 0 2
+Refer: 1844 40 S 1 0 0 1 -487 0 2
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=10 dy=0 dh=20 dv=0
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" parenleft zeta parenright
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0431.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni0431.sc
+LCarets2: 2 0 0
 EndChar
 
 StartChar: uni0412
@@ -76674,99 +76649,62 @@ EndChar
 
 StartChar: uni040F
 Encoding: 1039 1039 845
-Width: 728
+Width: 0
 GlyphClass: 1
-Flags: MW
-HStem: 0 78<178 402 294 459 294 544> 578 7 578 71 623 20G<51 51 420 420>
-VStem: 115 127 312.5 94.5 481 127<124 154>
+Flags: HMW
+HStem: 0 78<-924 -700 -808 -643 -808 -558> 578 7 578 71 623 20G<-1051 -1051 -682 -682>
+VStem: -987 127 -789.5 94.5 -621 127<124 154>
 LayerCount: 2
 Back
 SplineSet
-649 63 m 0xda
- 657 63 670 64 683 65 c 1
- 688 56 l 1
- 681 -2 l 1
- 650 -1 618 0 544 0 c 2
- 459 0 l 2
- 425 0 413 -12 411 -50 c 2
- 403 -181 l 1
- 318 -188 l 1
- 307 -61 l 2
- 302 -12 289 0 238 0 c 2
- 178 0 l 2
- 155 0 106 -3 38 -7 c 1
- 43 58 l 1
- 102 69 113 81 114 139 c 2
- 115 526 l 2
- 115 567 108 578 78 578 c 0xae
- 72 578 61 577 48 577 c 1
- 43 585 l 1
- 51 643 l 1
- 84 642 115 641 145 641 c 0xda
- 206 641 263 644 321 649 c 1
- 316 583 l 1
- 263 575 256 567 253 511 c 0
- 247 391 242 220 242 134 c 0
- 242 91 254 78 294 78 c 2
- 402 78 l 2
- 465 78 481 94 481 154 c 2
- 482 528 l 2
- 482 567 476 578 441 578 c 0xaa
- 435 578 427 578 418 577 c 1
- 413 585 l 1
- 420 643 l 1
- 453 642 485 641 515 641 c 0xda
- 577 641 634 644 688 649 c 1
- 682 584 l 1xaa
- 634 577 623 567 621 529 c 0
- 614 402 608 229 608 136 c 0
- 608 77 616 63 649 63 c 0xda
+98 63 m 0xda
+ 106 63 119 64 132 65 c 1
+ 137 56 l 1
+ 130 -2 l 1
+ 99 -1 67 0 -7 0 c 2
+ -92 0 l 2
+ -126 0 -138 -12 -140 -50 c 2
+ -148 -181 l 1
+ -233 -188 l 1
+ -244 -61 l 2
+ -249 -12 -262 0 -313 0 c 2
+ -373 0 l 2
+ -396 0 -445 -3 -513 -7 c 1
+ -508 58 l 1
+ -449 69 -438 81 -437 139 c 2
+ -436 526 l 2
+ -436 567 -443 578 -473 578 c 0xae
+ -479 578 -490 577 -503 577 c 1
+ -508 585 l 1
+ -500 643 l 1
+ -467 642 -436 641 -406 641 c 0xda
+ -345 641 -288 644 -230 649 c 1
+ -235 583 l 1
+ -288 575 -295 567 -298 511 c 0
+ -304 391 -309 220 -309 134 c 0
+ -309 91 -297 78 -257 78 c 2
+ -149 78 l 2
+ -86 78 -70 94 -70 154 c 2
+ -69 528 l 2
+ -69 567 -75 578 -110 578 c 0xaa
+ -116 578 -124 578 -133 577 c 1
+ -138 585 l 1
+ -131 643 l 1
+ -98 642 -66 641 -36 641 c 0xda
+ 26 641 83 644 137 649 c 1
+ 131 584 l 1xaa
+ 83 577 72 567 70 529 c 0
+ 63 402 57 229 57 136 c 0
+ 57 77 65 63 98 63 c 0xda
 EndSplineSet
 Fore
-SplineSet
-649 63 m 0xda
- 657 63 670 64 683 65 c 1
- 688 56 l 1
- 681 -2 l 1
- 650 -1 618 0 544 0 c 2
- 459 0 l 2
- 425 0 413 -12 411 -50 c 2
- 403 -181 l 1
- 318 -188 l 1
- 307 -61 l 2
- 302 -12 289 0 238 0 c 2
- 178 0 l 2
- 155 0 106 -3 38 -7 c 1
- 43 58 l 1
- 102 69 113 81 114 139 c 2
- 115 526 l 2
- 115 567 108 578 78 578 c 0xae
- 72 578 61 577 48 577 c 1
- 43 585 l 1
- 51 643 l 1
- 84 642 115 641 145 641 c 0xda
- 206 641 263 644 321 649 c 1
- 316 583 l 1
- 263 575 256 567 253 511 c 0
- 247 391 242 220 242 134 c 0
- 242 91 254 78 294 78 c 2
- 402 78 l 2
- 465 78 481 94 481 154 c 2
- 482 528 l 2
- 482 567 476 578 441 578 c 0xaa
- 435 578 427 578 418 577 c 1
- 413 585 l 1
- 420 643 l 1
- 453 642 485 641 515 641 c 0xda
- 577 641 634 644 688 649 c 1
- 682 584 l 1xaa
- 634 577 623 567 621 529 c 0
- 614 402 608 229 608 136 c 0
- 608 77 616 63 649 63 c 0xda
-EndSplineSet
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni045F.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045F.sc
+Refer: 1845 41 S 1 0 0 1 261 0 2
+Refer: 1268 954 S 1 0 0 1 -261 0 2
+Refer: 1844 40 S 1 0 0 1 -551 0 2
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=10 dy=0 dh=20 dv=0
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" parenleft kappa parenright
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045F.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni045F.sc
 EndChar
 
 StartChar: uni042C
@@ -77074,9 +77012,9 @@ StartChar: uni040A
 Encoding: 1034 1034 850
 Width: 0
 GlyphClass: 1
-Flags: HMWO
-HStem: -10 84<-546.5 -490 -554 -449> 0 63<-1063 -946.5> 285 80<-856 -840.5 -856 -836> 289 84 578 64 629 20G<-915 -915 -518 -518>
-VStem: -1119 127<104.5 526> -738 127<112.5 284> -737 135 -418 144<143.5 211>
+Flags: HMW
+HStem: -10 84<-544.5 -488 -552 -447> 0 63<-1061 -944.5> 285 80<-854 -838.5 -854 -834> 289 84 578 64 629 20G<-913 -913 -516 -516>
+VStem: -1117 127<104.5 526> -736 127<112.5 284> -735 135 -416 144<143.5 211>
 LayerCount: 2
 Back
 SplineSet
@@ -77130,9 +77068,9 @@ SplineSet
  7.5 92 33.5 74 95.5 74 c 0x9b40
 EndSplineSet
 Fore
-Refer: 1845 41 N 1 0 0 1 328.5 0 2
-Refer: 1111 922 N 1 0 0 1 -328.5 0 2
-Refer: 1844 40 N 1 0 0 1 -618.5 0 2
+Refer: 1845 41 S 1 0 0 1 328.5 0 2
+Refer: 1111 922 S 1 0 0 1 -328.5 0 2
+Refer: 1844 40 S 1 0 0 1 -618.5 0 2
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=10 dy=0 dh=20 dv=0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" parenleft Kappa parenright
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045A.sc
@@ -77522,95 +77460,60 @@ EndChar
 
 StartChar: uni040B
 Encoding: 1035 1035 857
-Width: 724
+Width: 0
 GlyphClass: 1
-Flags: MW
-HStem: 1 66 300 81<403 513.5> 566 76<200 200> 633 20G<28 28 562 562>
-VStem: 17 70 201 130 521 133<138 180 180 180>
+Flags: HMW
+HStem: 1 66 300 81<-673 -562.5> 566 76<-876 -876> 633 20G<-1048 -1048 -514 -514>
+VStem: -1059 70 -875 130 -555 133<138 180 180 180>
 LayerCount: 2
 Back
 SplineSet
-704 68 m 1xee
- 708 60 l 1
- 701 -2 l 1
- 582 1 l 2
- 556 1 504 0 460 -2 c 1
- 466 63 l 1
- 512 68 520 78 521 138 c 2
- 521 180 l 2
- 523 258 487 295 403 300 c 1
- 330 285 l 1
- 329 230 328 176 328 128 c 0
- 328 80 335 65 373 65 c 0
- 381 65 390 66 400 67 c 1
- 405 61 l 1
- 396 -3 l 1
- 345 -1 302 0 259 0 c 0
- 205 0 162 -2 112 -4 c 1
- 120 61 l 1
- 191 68 201 80 201 154 c 2
- 200 566 l 1xee
- 107 563 100 552 87 435 c 1
- 5 429 l 1
- 11 488 15 571 17 642 c 1
- 28 653 l 1xde
- 127 642 l 1
- 461 642 l 1xee
- 562 653 l 1
- 573 642 l 1xde
- 575 578 579 498 584 444 c 1
- 502 438 l 1
- 486 564 480 562 339 566 c 1
- 336 521 333 446 331 365 c 1
- 375 376 415 381 451 381 c 0
- 576 381 654 319 654 206 c 2
- 654 125 l 2
- 654 78 657 67 684 67 c 0
- 690 67 696 67 704 68 c 1xee
+166 68 m 1xee
+ 170 60 l 1
+ 163 -2 l 1
+ 44 1 l 2
+ 18 1 -34 0 -78 -2 c 1
+ -72 63 l 1
+ -26 68 -18 78 -17 138 c 2
+ -17 180 l 2
+ -15 258 -51 295 -135 300 c 1
+ -208 285 l 1
+ -209 230 -210 176 -210 128 c 0
+ -210 80 -203 65 -165 65 c 0
+ -157 65 -148 66 -138 67 c 1
+ -133 61 l 1
+ -142 -3 l 1
+ -193 -1 -236 0 -279 0 c 0
+ -333 0 -376 -2 -426 -4 c 1
+ -418 61 l 1
+ -347 68 -337 80 -337 154 c 2
+ -338 566 l 1xee
+ -431 563 -438 552 -451 435 c 1
+ -533 429 l 1
+ -527 488 -523 571 -521 642 c 1
+ -510 653 l 1xde
+ -411 642 l 1
+ -77 642 l 1xee
+ 24 653 l 1
+ 35 642 l 1xde
+ 37 578 41 498 46 444 c 1
+ -36 438 l 1
+ -52 564 -58 562 -199 566 c 1
+ -202 521 -205 446 -207 365 c 1
+ -163 376 -123 381 -87 381 c 0
+ 38 381 116 319 116 206 c 2
+ 116 125 l 2
+ 116 78 119 67 146 67 c 0
+ 152 67 158 67 166 68 c 1xee
 EndSplineSet
 Fore
-SplineSet
-704 68 m 1xee
- 708 60 l 1
- 701 -2 l 1
- 582 1 l 2
- 556 1 504 0 460 -2 c 1
- 466 63 l 1
- 512 68 520 78 521 138 c 2
- 521 180 l 2
- 523 258 487 295 403 300 c 1
- 330 285 l 1
- 329 230 328 176 328 128 c 0
- 328 80 335 65 373 65 c 0
- 381 65 390 66 400 67 c 1
- 405 61 l 1
- 396 -3 l 1
- 345 -1 302 0 259 0 c 0
- 205 0 162 -2 112 -4 c 1
- 120 61 l 1
- 191 68 201 80 201 154 c 2
- 200 566 l 1xee
- 107 563 100 552 87 435 c 1
- 5 429 l 1
- 11 488 15 571 17 642 c 1
- 28 653 l 1xde
- 127 642 l 1
- 461 642 l 1xee
- 562 653 l 1
- 573 642 l 1xde
- 575 578 579 498 584 444 c 1
- 502 438 l 1
- 486 564 480 562 339 566 c 1
- 336 521 333 446 331 365 c 1
- 375 376 415 381 451 381 c 0
- 576 381 654 319 654 206 c 2
- 654 125 l 2
- 654 78 657 67 684 67 c 0
- 690 67 696 67 704 68 c 1xee
-EndSplineSet
-Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni045B.sc
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045B.sc
+Refer: 1845 41 S 1 0 0 1 248 0 2
+Refer: 1262 948 S 1 0 0 1 -248 0 2
+Refer: 1844 40 S 1 0 0 1 -538 0 2
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=10 dy=0 dh=20 dv=0
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" parenleft delta parenright
+Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni045B.sc
+Substitution2: "'c2sc' Capitals to Small Capitals lookup 35 subtable" uni045B.sc
 EndChar
 
 StartChar: uni042E
@@ -179637,6 +179540,7 @@ Fore
 Refer: 1845 41 S 1 0 0 1 290 0 2
 Refer: 1107 918 S 1 0 0 1 -290 0 2
 Refer: 1844 40 S 1 0 0 1 -580 0 2
+LCarets2: 2 0 0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" parenleft Zeta parenright
 EndChar
 
