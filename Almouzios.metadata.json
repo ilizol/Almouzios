@@ -7805,7 +7805,7 @@
     "modeDelta": 1.074,
     "modeFirst": 0.98,
     "modeSecond": 1.542,
-    "modeLegetos": 1.535,
+    "modeLegetos": 1.609,
     "modeVarys2": 0.923,
     "modeVou": 1.309,
     "modeGa": 1.005,
@@ -10537,12 +10537,12 @@
     },
     "modeLegetos": {
       "bBoxNE": [
-        1.452,
-        0.538
+        1.526,
+        0.753
       ],
       "bBoxSW": [
-        0.22,
-        0.096
+        0.254,
+        0.297
       ]
     },
     "modeVarys2": {
