@@ -847,11 +847,11 @@ ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 
   SeqLookup: 0 "Single Substitution lookup 49"
 EndFPST
 LangName: 1033 "Copyright 2011 The Alegreya Project Authors (https://github.com/huertatipografica/Alegreya)" "" "Regular" "2.008;HT  ;Alegreya-Medium" "" "Version 2.008;PS 002.008;hotconv 1.0.88;makeotf.lib2.5.64775" "" "" "Huerta Tipografica" "Juan Pablo del Peral" "" "http://www.huertatipografica.com" "http://www.huertatipografica.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Alegreya" "Medium"
-OtfFeatName: 'ss01' 1033 "Roman numerals"
-OtfFeatName: 'ss02' 1033 "Arrows, triangles and circles"
-OtfFeatName: 'ss03' 1033 "Foundry icon"
-OtfFeatName: 'ss04' 1033 "Dynamic arrows and triangles"
 OtfFeatName: 'ss05' 1033 "Greek adscript iota+ACIA"
+OtfFeatName: 'ss04' 1033 "Dynamic arrows and triangles"
+OtfFeatName: 'ss03' 1033 "Foundry icon"
+OtfFeatName: 'ss02' 1033 "Arrows, triangles and circles"
+OtfFeatName: 'ss01' 1033 "Roman numerals"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -74565,7 +74565,7 @@ StartChar: uni0418
 Encoding: 1048 1048 824
 Width: 1260
 GlyphClass: 2
-Flags: HMWO
+Flags: HMW
 HStem: 0 53<174.5 279.5> 571 20G<59 59 448 448> 587 52 627 20G<308 308 698 698>
 VStem: 131 98 520 97<111.5 152>
 LayerCount: 2
@@ -74615,6 +74615,7 @@ Fore
 Refer: 1827 46 N 1 0 0 1 969 0 2
 Refer: 2068 180 N 1 0 0 1 571 0 2
 Refer: 1105 916 N 1 0 0 1 0 0 2
+LCarets2: 2 0 0
 Position2: "'cpsp' Capital Spacing lookup 0 subtable" dx=10 dy=0 dh=20 dv=0
 Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 4 subtable" uni0394 acute period
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni0438.sc
