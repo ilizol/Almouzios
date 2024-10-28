@@ -6808,11 +6808,11 @@
     },
     "modeNi": {
       "fthoraTop": [
-        0.634,
+        0.793,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.776,
         0.981
       ]
     },
@@ -6828,21 +6828,21 @@
     },
     "modeVou": {
       "fthoraTop": [
-        0.634,
+        0.844,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.827,
         0.981
       ]
     },
     "modeGa": {
       "fthoraTop": [
-        0.634,
+        0.714,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.697,
         0.981
       ]
     },
@@ -6858,21 +6858,21 @@
     },
     "modeKe": {
       "fthoraTop": [
-        0.634,
+        0.733,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.716,
         0.981
       ]
     },
     "modeZo": {
       "fthoraTop": [
-        0.634,
+        0.754,
         0.94
       ],
       "modeTop": [
-        0.617,
+        0.737,
         0.981
       ]
     },
@@ -7789,7 +7789,7 @@
     "modeOligonYpsili": 0.0,
     "modePlagalSecond": 1.134,
     "modePlagalFourth": 0.93,
-    "modeNi": 1.238,
+    "modeNi": 1.113,
     "modePa": 1.216,
     "modeAlphaCapital": 1.083,
     "modeBetaCapital": 1.048,
@@ -7797,7 +7797,7 @@
     "modeDeltaCapital": 1.063,
     "modeVarys": 1.442,
     "modePlagal": 0.775,
-    "modeWordVarys": 2.099,
+    "modeWordVarys": 1.892,
     "modeAlpha": 1.019,
     "modeBeta": 1.009,
     "modeWordEchos": 1.506,
@@ -7807,11 +7807,11 @@
     "modeSecond": 1.542,
     "modeLegetos": 1.535,
     "modeVarys2": 0.923,
-    "modeVou": 1.487,
-    "modeGa": 1.178,
+    "modeVou": 1.309,
+    "modeGa": 1.005,
     "modeDi": 1.039,
-    "modeKe": 1.184,
-    "modeZo": 1.385,
+    "modeKe": 1.073,
+    "modeZo": 1.142,
     "modeOligonKentimaAbove": 0.0,
     "modeElafron": 0.0,
     "modeRunningElafron": 0.0,
@@ -10377,12 +10377,12 @@
     },
     "modeNi": {
       "bBoxNE": [
-        1.147,
-        0.886
+        1.005,
+        0.773
       ],
       "bBoxSW": [
-        0.308,
-        0.277
+        0.307,
+        0.226
       ]
     },
     "modePa": {
@@ -10457,12 +10457,12 @@
     },
     "modeWordVarys": {
       "bBoxNE": [
-        1.941,
-        0.881
+        1.735,
+        0.83
       ],
       "bBoxSW": [
         0.331,
-        0.18
+        0.225
       ]
     },
     "modeAlpha": {
@@ -10557,22 +10557,22 @@
     },
     "modeVou": {
       "bBoxNE": [
-        1.394,
-        0.892
+        1.216,
+        0.771
       ],
       "bBoxSW": [
-        0.321,
-        0.351
+        0.309,
+        0.365
       ]
     },
     "modeGa": {
       "bBoxNE": [
-        1.102,
-        0.886
+        0.93,
+        0.776
       ],
       "bBoxSW": [
-        0.313,
-        0.35
+        0.329,
+        0.365
       ]
     },
     "modeDi": {
@@ -10587,22 +10587,22 @@
     },
     "modeKe": {
       "bBoxNE": [
-        1.082,
-        0.878
+        0.941,
+        0.773
       ],
       "bBoxSW": [
-        0.322,
-        0.357
+        0.333,
+        0.363
       ]
     },
     "modeZo": {
       "bBoxNE": [
-        1.289,
-        0.882
+        1.047,
+        0.776
       ],
       "bBoxSW": [
-        0.323,
-        0.361
+        0.333,
+        0.366
       ]
     },
     "modeOligonKentimaAbove": {
