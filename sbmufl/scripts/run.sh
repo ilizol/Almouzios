@@ -10,3 +10,6 @@ mv *.metadata.json ../..
 ./generate-images.py
 ./generate-namelist.py > ../../sources/namelist.txt
 #######################################################
+
+cp -f ../../Almouzios.metadata.json ../../../neanes/src/assets/fonts/Almouzios.metadata.json
+cp -f ../../Almouzios.otf ../../../neanes/src/assets/fonts/Almouzios.otf
