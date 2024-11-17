@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1731850644
+ModificationTime: 1731852065
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2364,7 +2364,7 @@ AnchorPoint: "yfenAbove" 930 641 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 801 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "gorgonBottom" 713 125 basechar 0
 AnchorPoint: "heteronConnecting" 1700 -19 basechar 0
@@ -2460,7 +2460,7 @@ AnchorPoint: "yfenAbove" 930 641 basechar 0
 AnchorPoint: "yfenBelow" 929 -200 basechar 0
 AnchorPoint: "koronis" 783 801 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -51 basechar 0
 AnchorPoint: "heteron" 1027 -33 basechar 0
@@ -2558,7 +2558,7 @@ AnchorPoint: "yfenAbove" 930 641 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 686 801 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
@@ -2635,7 +2635,7 @@ AnchorPoint: "yfenAbove" 930 911 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 891 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -2738,7 +2738,7 @@ AnchorPoint: "yfenAbove" 930 1203 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 801 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 1203 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -2857,7 +2857,7 @@ AnchorPoint: "yfenAbove" 930 1285 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 951 855 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 213 827 basechar 0
+AnchorPoint: "measureNumber" 82 827 basechar 0
 AnchorPoint: "isonIndicator" 82 1283 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -2976,7 +2976,7 @@ AnchorPoint: "yfenAbove" 930 1202 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 911 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 1203 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -3121,7 +3121,7 @@ AnchorPoint: "yfenAbove" 930 1403 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 275 835 basechar 0
 AnchorPoint: "klasmaTop" 353 487 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 1403 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -3264,7 +3264,7 @@ AnchorPoint: "yfenAbove" 930 1271 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1261 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 160 800 basechar 0
+AnchorPoint: "measureNumber" 82 800 basechar 0
 AnchorPoint: "isonIndicator" 82 1273 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -3424,7 +3424,7 @@ AnchorPoint: "yfenAbove" 930 1371 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1371 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 875 basechar 0
+AnchorPoint: "measureNumber" 82 875 basechar 0
 AnchorPoint: "isonIndicator" 82 1373 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -3637,7 +3637,7 @@ AnchorPoint: "yfenAbove" 690 891 basechar 0
 AnchorPoint: "yfenBelow" 754 -236 basechar 0
 AnchorPoint: "koronis" 630 881 basechar 0
 AnchorPoint: "apli" 1244 -424 basechar 0
-AnchorPoint: "measureNumber" 172 773 basechar 0
+AnchorPoint: "measureNumber" 82 773 basechar 0
 AnchorPoint: "isonIndicator" 82 895 basechar 0
 AnchorPoint: "noteTop" 322 661 basechar 0
 AnchorPoint: "fthoraTop" 644 507 basechar 0
@@ -3751,7 +3751,7 @@ AnchorPoint: "yfenAbove" 930 891 basechar 0
 AnchorPoint: "yfenBelow" 1387 -114 basechar 0
 AnchorPoint: "koronis" 630 881 basechar 0
 AnchorPoint: "apli" 1402 -138 basechar 0
-AnchorPoint: "measureNumber" 172 803 basechar 0
+AnchorPoint: "measureNumber" 82 803 basechar 0
 AnchorPoint: "isonIndicator" 82 895 basechar 0
 AnchorPoint: "noteTop" 194 699 basechar 0
 AnchorPoint: "fthoraTop" 587 642 basechar 0
@@ -3847,7 +3847,7 @@ AnchorPoint: "yfenBelow" 159 -40 basechar 0
 AnchorPoint: "koronis" 210 881 basechar 0
 AnchorPoint: "endofonon" 192 -146 basechar 0
 AnchorPoint: "heteronConnecting" 583 -19 basechar 0
-AnchorPoint: "measureNumber" 72 483 basechar 0
+AnchorPoint: "measureNumber" 82 483 basechar 0
 AnchorPoint: "isonIndicator" 82 885 basechar 0
 AnchorPoint: "heteron" 316 -86 basechar 0
 AnchorPoint: "apli" 161 42 basechar 0
@@ -3894,7 +3894,7 @@ AnchorPoint: "yfenAbove" 1060 891 basechar 0
 AnchorPoint: "yfenBelow" 1109 -40 basechar 0
 AnchorPoint: "koronis" 1030 746 basechar 0
 AnchorPoint: "endofonon" 1112 -37 basechar 0
-AnchorPoint: "measureNumber" 172 653 basechar 0
+AnchorPoint: "measureNumber" 770 653 basechar 0
 AnchorPoint: "isonIndicator" 770 887 basechar 0
 AnchorPoint: "heteronConnecting" 1929 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1751 89 basechar 0
@@ -4018,7 +4018,7 @@ AnchorPoint: "yfenAbove" 650 901 basechar 0
 AnchorPoint: "yfenBelow" 659 -40 basechar 0
 AnchorPoint: "koronis" 560 746 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 613 basechar 0
+AnchorPoint: "measureNumber" 82 613 basechar 0
 AnchorPoint: "isonIndicator" 82 897 basechar 0
 AnchorPoint: "gorgonBottom" 487 -18 basechar 0
 AnchorPoint: "heteronConnecting" 1420 -19 basechar 0
@@ -4113,7 +4113,7 @@ AnchorPoint: "yfenAbove" 630 891 basechar 0
 AnchorPoint: "yfenBelow" 659 -210 basechar 0
 AnchorPoint: "koronis" 560 746 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 643 basechar 0
+AnchorPoint: "measureNumber" 82 643 basechar 0
 AnchorPoint: "isonIndicator" 82 897 basechar 0
 AnchorPoint: "heteronConnecting" 1420 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1241 89 basechar 0
@@ -4239,7 +4239,7 @@ AnchorPoint: "yfenAbove" 630 921 basechar 0
 AnchorPoint: "yfenBelow" 659 -300 basechar 0
 AnchorPoint: "koronis" 720 910 basechar 0
 AnchorPoint: "endofonon" 632 -257 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 897 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -180 basechar 0
 AnchorPoint: "omalonConnecting" 1107 -40 basechar 0
@@ -4370,7 +4370,7 @@ AnchorPoint: "yfenAbove" 630 921 basechar 0
 AnchorPoint: "yfenBelow" 659 -40 basechar 0
 AnchorPoint: "koronis" 770 916 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 897 basechar 0
 AnchorPoint: "gorgonBottom" 393 125 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -19 basechar 0
@@ -4476,7 +4476,7 @@ AnchorPoint: "yfenAbove" 630 1301 basechar 0
 AnchorPoint: "yfenBelow" 659 -40 basechar 0
 AnchorPoint: "koronis" 770 1226 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 1233 basechar 0
+AnchorPoint: "measureNumber" 82 1233 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1420 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1240 89 basechar 0
@@ -4641,7 +4641,7 @@ AnchorPoint: "yfenAbove" 630 1251 basechar 0
 AnchorPoint: "yfenBelow" 659 -230 basechar 0
 AnchorPoint: "koronis" 770 1216 basechar 0
 AnchorPoint: "endofonon" 632 -107 basechar 0
-AnchorPoint: "measureNumber" 172 1233 basechar 0
+AnchorPoint: "measureNumber" 82 1233 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1420 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1240 89 basechar 0
@@ -4838,7 +4838,7 @@ AnchorPoint: "yfenAbove" 630 1241 basechar 0
 AnchorPoint: "yfenBelow" 659 -40 basechar 0
 AnchorPoint: "koronis" 770 1226 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 1223 basechar 0
+AnchorPoint: "measureNumber" 82 1223 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1108 89 basechar 0
@@ -5016,7 +5016,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1179 915 basechar 0
 AnchorPoint: "psifiston" 854 140 basechar 0
-AnchorPoint: "measureNumber" 172 1073 basechar 0
+AnchorPoint: "measureNumber" 82 1073 basechar 0
 AnchorPoint: "isonIndicator" 82 1049 basechar 0
 AnchorPoint: "apli" 765 -10 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5163,7 +5163,7 @@ AnchorPoint: "koronis" 730 1046 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
-AnchorPoint: "measureNumber" 172 743 basechar 0
+AnchorPoint: "measureNumber" 82 743 basechar 0
 AnchorPoint: "isonIndicator" 82 1049 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5255,7 +5255,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 991 basechar 0
 AnchorPoint: "psifiston" 860 140 basechar 0
-AnchorPoint: "measureNumber" 172 953 basechar 0
+AnchorPoint: "measureNumber" 82 953 basechar 0
 AnchorPoint: "isonIndicator" 82 1049 basechar 0
 AnchorPoint: "apli" 785 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5386,7 +5386,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1049 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5503,7 +5503,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5636,7 +5636,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5769,7 +5769,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -5928,7 +5928,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -6086,7 +6086,7 @@ AnchorPoint: "koronis" 663 961 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 953 basechar 0
+AnchorPoint: "measureNumber" 82 953 basechar 0
 AnchorPoint: "isonIndicator" 82 997 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -6210,7 +6210,7 @@ AnchorPoint: "koronis" 663 1091 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1103 basechar 0
+AnchorPoint: "measureNumber" 82 1103 basechar 0
 AnchorPoint: "isonIndicator" 82 1049 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -6364,7 +6364,7 @@ AnchorPoint: "koronis" 663 1091 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1103 basechar 0
+AnchorPoint: "measureNumber" 82 1103 basechar 0
 AnchorPoint: "isonIndicator" 82 1037 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -6550,7 +6550,7 @@ AnchorPoint: "koronis" 763 1131 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1243 basechar 0
+AnchorPoint: "measureNumber" 82 1243 basechar 0
 AnchorPoint: "isonIndicator" 82 1133 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -6751,7 +6751,7 @@ AnchorPoint: "heteronConnecting" 806 34 basechar 0
 AnchorPoint: "yfenAbove" 413 875 basechar 0
 AnchorPoint: "yfenBelow" 459 -40 basechar 0
 AnchorPoint: "endofonon" 452 -277 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "gorgonBottom" 354 -18 basechar 0
 AnchorPoint: "isonIndicator" 82 877 basechar 0
 AnchorPoint: "noteTop" 125 507 basechar 0
@@ -6833,7 +6833,7 @@ AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "endofonon" 772 -47 basechar 0
 AnchorPoint: "heteronConnecting" 1594 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1590 130 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 1117 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 262 561 basechar 0
@@ -6959,7 +6959,7 @@ AnchorPoint: "yfenBelow" 1039 -40 basechar 0
 AnchorPoint: "endofonon" 752 -77 basechar 0
 AnchorPoint: "heteronConnecting" 1470 -19 basechar 0
 AnchorPoint: "gorgonSecondary" 625 703 basechar 0
-AnchorPoint: "measureNumber" 194 961 basechar 0
+AnchorPoint: "measureNumber" 82 961 basechar 0
 AnchorPoint: "isonIndicator" 82 1157 basechar 0
 AnchorPoint: "antikenoma" 1053 113 basechar 0
 AnchorPoint: "noteTop" 342 921 basechar 0
@@ -7136,7 +7136,7 @@ AnchorPoint: "yfenAbove" 930 1201 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "endofonon" 802 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1594 -19 basechar 0
-AnchorPoint: "measureNumber" 174 983 basechar 0
+AnchorPoint: "measureNumber" 82 983 basechar 0
 AnchorPoint: "isonIndicator" 82 1207 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 172 991 basechar 0
@@ -7305,7 +7305,7 @@ AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "endofonon" 862 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1594 -19 basechar 0
 AnchorPoint: "gorgonSecondary" 410 874 basechar 0
-AnchorPoint: "measureNumber" 172 1013 basechar 0
+AnchorPoint: "measureNumber" 82 1013 basechar 0
 AnchorPoint: "isonIndicator" 82 1107 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 272 1011 basechar 0
@@ -7467,7 +7467,7 @@ AnchorPoint: "yfenBelow" 989 -40 basechar 0
 AnchorPoint: "endofonon" 782 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1470 -19 basechar 0
 AnchorPoint: "gorgonTop" 1227 733 basechar 0
-AnchorPoint: "measureNumber" 172 1043 basechar 0
+AnchorPoint: "measureNumber" 82 1043 basechar 0
 AnchorPoint: "isonIndicator" 82 1057 basechar 0
 AnchorPoint: "antikenoma" 733 153 basechar 0
 AnchorPoint: "noteTop" 242 1041 basechar 0
@@ -7653,7 +7653,7 @@ AnchorPoint: "yfenAbove" 930 1141 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "endofonon" 852 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1594 -19 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 1147 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 192 941 basechar 0
@@ -7812,7 +7812,7 @@ AnchorPoint: "endofonon" 772 -277 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
 AnchorPoint: "heteronConnecting" 1684 -138 basechar 0
 AnchorPoint: "apli" 803 -227 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "diesis" 710 133 basechar 0
 AnchorPoint: "isonIndicator" 82 877 basechar 0
 AnchorPoint: "omalonConnecting" 1460 -40 basechar 0
@@ -7938,7 +7938,7 @@ AnchorPoint: "yfenAbove" 930 1461 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1461 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 1213 basechar 0
+AnchorPoint: "measureNumber" 82 1213 basechar 0
 AnchorPoint: "isonIndicator" 82 1463 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -8168,7 +8168,7 @@ AnchorPoint: "yfenAbove" 930 911 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 911 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -8300,7 +8300,7 @@ AnchorPoint: "yfenAbove" 930 1091 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1041 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 1093 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -8440,7 +8440,7 @@ AnchorPoint: "yfenBelow" 1029 -40 basechar 0
 AnchorPoint: "koronis" 833 1041 basechar 0
 AnchorPoint: "endofonon" 1052 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1586 -19 basechar 0
-AnchorPoint: "measureNumber" 173 920 basechar 0
+AnchorPoint: "measureNumber" 770 920 basechar 0
 AnchorPoint: "isonIndicator" 770 999 basechar 0
 AnchorPoint: "apli" 1095 -80 basechar 0
 AnchorPoint: "antikenoma" 1003 62 basechar 0
@@ -8623,7 +8623,7 @@ AnchorPoint: "yfenAbove" 930 911 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 911 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -8734,7 +8734,7 @@ AnchorPoint: "yfenAbove" 930 971 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 911 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 82 973 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -8841,7 +8841,7 @@ AnchorPoint: "koronis" 663 961 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 745 140 basechar 0
-AnchorPoint: "measureNumber" 172 663 basechar 0
+AnchorPoint: "measureNumber" 82 663 basechar 0
 AnchorPoint: "isonIndicator" 82 997 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -8966,7 +8966,7 @@ AnchorPoint: "yfenAbove" 1170 1061 basechar 0
 AnchorPoint: "yfenBelow" 1389 -40 basechar 0
 AnchorPoint: "endofonon" 1212 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1970 -19 basechar 0
-AnchorPoint: "measureNumber" 662 913 basechar 0
+AnchorPoint: "measureNumber" 550 913 basechar 0
 AnchorPoint: "isonIndicator" 550 1077 basechar 0
 AnchorPoint: "antikenoma" 1253 153 basechar 0
 AnchorPoint: "noteTop" 732 921 basechar 0
@@ -9181,7 +9181,7 @@ AnchorPoint: "yfenAbove" 830 1061 basechar 0
 AnchorPoint: "yfenBelow" 999 -40 basechar 0
 AnchorPoint: "endofonon" 852 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1480 -19 basechar 0
-AnchorPoint: "measureNumber" 172 1013 basechar 0
+AnchorPoint: "measureNumber" 82 1013 basechar 0
 AnchorPoint: "isonIndicator" 82 1010 basechar 0
 AnchorPoint: "antikenoma" 550 165 basechar 0
 AnchorPoint: "noteTop" 312 1011 basechar 0
@@ -9398,7 +9398,7 @@ AnchorPoint: "yfenAbove" 930 1101 basechar 0
 AnchorPoint: "yfenBelow" 1109 -40 basechar 0
 AnchorPoint: "endofonon" 802 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1920 -19 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 1117 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 262 561 basechar 0
@@ -9429,7 +9429,7 @@ AnchorPoint: "yfenAbove" 930 1251 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "endofonon" 802 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1594 -19 basechar 0
-AnchorPoint: "measureNumber" 164 847 basechar 0
+AnchorPoint: "measureNumber" 82 847 basechar 0
 AnchorPoint: "isonIndicator" 82 1177 basechar 0
 AnchorPoint: "antikenoma" 820 165 basechar 0
 AnchorPoint: "noteTop" 212 850 basechar 0
@@ -9597,7 +9597,7 @@ AnchorPoint: "koronis" 763 1131 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1243 basechar 0
+AnchorPoint: "measureNumber" 82 1320 basechar 0
 AnchorPoint: "isonIndicator" 550 1133 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -9788,7 +9788,7 @@ AnchorPoint: "yfenBelow" 509 -40 basechar 0
 AnchorPoint: "koronis" 370 891 basechar 0
 AnchorPoint: "endofonon" 502 -126 basechar 0
 AnchorPoint: "heteronConnecting" 879 -19 basechar 0
-AnchorPoint: "measureNumber" 172 783 basechar 0
+AnchorPoint: "measureNumber" 82 783 basechar 0
 AnchorPoint: "isonIndicator" 82 885 basechar 0
 AnchorPoint: "gorgonBottom" 348 -18 basechar 0
 AnchorPoint: "apli" 500 18 basechar 0
@@ -9828,7 +9828,7 @@ AnchorPoint: "yfenAbove" 930 1461 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1461 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 1213 basechar 0
+AnchorPoint: "measureNumber" 82 1213 basechar 0
 AnchorPoint: "isonIndicator" 82 1463 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -10083,7 +10083,7 @@ AnchorPoint: "yfenAbove" 630 1231 basechar 0
 AnchorPoint: "yfenBelow" 659 -310 basechar 0
 AnchorPoint: "koronis" 770 1236 basechar 0
 AnchorPoint: "endofonon" 632 -347 basechar 0
-AnchorPoint: "measureNumber" 172 1223 basechar 0
+AnchorPoint: "measureNumber" 82 1223 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -240 basechar 0
 AnchorPoint: "omalonConnecting" 1160 -180 basechar 0
@@ -10351,7 +10351,7 @@ AnchorPoint: "yfenAbove" 630 1231 basechar 0
 AnchorPoint: "yfenBelow" 659 -310 basechar 0
 AnchorPoint: "koronis" 770 1226 basechar 0
 AnchorPoint: "endofonon" 632 -267 basechar 0
-AnchorPoint: "measureNumber" 172 1223 basechar 0
+AnchorPoint: "measureNumber" 82 1223 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -240 basechar 0
 AnchorPoint: "omalonConnecting" 1153 -140 basechar 0
@@ -10585,7 +10585,7 @@ AnchorPoint: "yfenAbove" 630 1231 basechar 0
 AnchorPoint: "yfenBelow" 659 -310 basechar 0
 AnchorPoint: "koronis" 770 1236 basechar 0
 AnchorPoint: "endofonon" 632 -297 basechar 0
-AnchorPoint: "measureNumber" 172 1223 basechar 0
+AnchorPoint: "measureNumber" 82 1223 basechar 0
 AnchorPoint: "isonIndicator" 82 1227 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -180 basechar 0
 AnchorPoint: "omalonConnecting" 1087 -113 basechar 0
@@ -10794,7 +10794,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1220 627 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1389 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -11022,7 +11022,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1389 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -11223,7 +11223,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 187 1293 basechar 0
+AnchorPoint: "measureNumber" 82 1293 basechar 0
 AnchorPoint: "isonIndicator" 82 1389 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -11424,7 +11424,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1227 600 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 133 1273 basechar 0
+AnchorPoint: "measureNumber" 82 1273 basechar 0
 AnchorPoint: "isonIndicator" 82 1389 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -11694,7 +11694,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1193 660 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 193 1280 basechar 0
+AnchorPoint: "measureNumber" 82 1280 basechar 0
 AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -11908,7 +11908,7 @@ AnchorPoint: "yfenAbove" 930 1441 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1441 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 82 1443 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -12086,14 +12086,14 @@ StartChar: oligonKentimaDoubleYpsiliLeft
 Encoding: 57356 57356 98
 Width: 1503
 VWidth: 1392
-Flags: HW
-HStem: 246 121<182.719 1326.04> 595 22<118.535 197.189> 671 26<637.606 672.249> 859 19<656.229 732.998> 1132 31<534.297 571.934> 1311 27<1041.41 1076.45>
+Flags: W
+HStem: 225.04 134.56<275.479 540.56 1097.94 1265.55>
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "yfenAbove" 930 1441 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1441 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 1213 basechar 0
+AnchorPoint: "measureNumber" 82 1213 basechar 0
 AnchorPoint: "isonIndicator" 792 1443 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -12211,14 +12211,14 @@ EndSplineSet
 Fore
 SplineSet
 1060.24023438 1348.5 m 4
- 1060.24023438 1422.83398156 997.370203407 1424.48046875 991.799804688 1424.48046875 c 132
+ 1060.24023438 1422.83398156 997.370203407 1424.48046875 991.799804688 1424.48046875 c 4
  976.333007813 1424.48046875 957.579752604 1418.68033854 935.540039062 1407.08007812 c 4
  888.872375333 1382.51727919 860.452453458 1305.57066461 850.280273438 1176.24023438 c 4
  836.087181754 1012.23707526 803.709318925 926.709032383 662.360351562 871.740234375 c 4
  641.480143229 863.619791666 624.080078125 858.399739583 610.16015625 856.080078125 c 6
  559.120117188 847.959960938 l 5
  773.719726562 744.719726562 l 6
- 822.439778646 722.293294271 855.88655599 711.080078125 874.060058594 711.080078125 c 132
+ 822.439778646 722.293294271 855.88655599 711.080078125 874.060058594 711.080078125 c 4
  950.272222665 711.080078125 841.590370442 777.394546342 762.120117188 800.400390625 c 6
  712.240234375 815.48046875 l 5
  751.6796875 823.599609375 l 6
@@ -12226,14 +12226,14 @@ SplineSet
  1001.16941491 1069.48073704 970.552348413 1276.09539489 1046.3203125 1318.91992188 c 4
  1055.60026042 1325.10677083 1060.24023438 1334.96679687 1060.24023438 1348.5 c 4
 582.3203125 1068.93994141 m 4
- 582.3203125 1143.27482713 519.446556223 1144.91992188 513.879882812 1144.91992188 c 132
+ 582.3203125 1143.27482713 519.446556223 1144.91992188 513.879882812 1144.91992188 c 4
  498.413085937 1144.91992188 479.659667969 1139.11995443 457.619628906 1127.52001953 c 4
  410.952417782 1102.95851085 382.532658667 1026.01173351 372.360351562 896.6796875 c 4
  358.167685729 732.682776663 325.795618728 647.15531261 184.440429688 592.1796875 c 4
  163.560221355 584.059895833 146.16015625 578.83984375 132.240234375 576.51953125 c 6
  81.2001953125 568.400390625 l 5
  295.799804688 465.16015625 l 6
- 344.519856771 442.733072917 377.966634114 431.51953125 396.140136719 431.51953125 c 132
+ 344.519856771 442.733072917 377.966634114 431.51953125 396.140136719 431.51953125 c 4
  472.353288225 431.51953125 363.666596597 497.836875095 284.200195312 520.83984375 c 6
  234.3203125 535.919921875 l 5
  273.759765625 544.040039062 l 6
@@ -12242,28 +12242,28 @@ SplineSet
  577.680338542 1045.54654948 582.3203125 1055.40641276 582.3203125 1068.93994141 c 4
 582.3203125 682.080078125 m 5
  582.3203125 679.759765625 l 6
- 582.3203125 677.553635663 583.78542609 669.734980596 603.199707031 662.939941406 c 132
- 650.412313815 646.415429666 640.546826495 482.695744467 726.739746094 455.879882812 c 132
- 744.139811198 450.466471354 769.466471354 447.759765625 802.719726562 447.759765625 c 132
+ 582.3203125 677.553635663 583.78542609 669.734980596 603.199707031 662.939941406 c 4
+ 650.412313815 646.415429666 640.546826495 482.695744467 726.739746094 455.879882812 c 4
+ 744.139811198 450.466471354 769.466471354 447.759765625 802.719726562 447.759765625 c 4
  835.972981771 447.759765625 852.599609375 454.333333333 852.599609375 467.48046875 c 4
- 852.599609375 487.931693097 832.89870152 474.403526647 816.639648438 506.919921875 c 132
+ 852.599609375 487.931693097 832.89870152 474.403526647 816.639648438 506.919921875 c 4
  789.522086559 561.160753387 782.681983803 656.882991705 735.440429688 682.080078125 c 4
- 713.690093993 693.680338542 683.975176283 699.48046875 646.295676557 699.48046875 c 132
+ 713.690093993 693.680338542 683.975176283 699.48046875 646.295676557 699.48046875 c 4
  608.61617683 699.48046875 587.291055478 693.680338542 582.3203125 682.080078125 c 5
 1184.36035156 356.120117188 m 4
- 1165.79980469 358.439778646 1136.9930013 359.599609375 1097.93994141 359.599609375 c 132
+ 1165.79980469 358.439778646 1136.9930013 359.599609375 1097.93994141 359.599609375 c 4
  1058.88688151 359.599609375 851.826822915 357.279622396 476.759765625 352.639648438 c 5
  390.146484375 352.639648438 334.079752604 354.186523438 308.559570312 357.280273438 c 4
  203.386393229 370.426757813 138.039713542 384.733398437 112.51953125 400.200195312 c 4
- 109.426432291 402.519856771 104.979980468 403.6796875 99.1801757812 403.6796875 c 132
- 72.2304576196 403.6796875 41.0664828922 286.007491183 310.880371094 239.539550781 c 132
+ 109.426432291 402.519856771 104.979980468 403.6796875 99.1801757812 403.6796875 c 4
+ 72.2304576196 403.6796875 41.0664828922 286.007491183 310.880371094 239.539550781 c 4
  380.48030599 227.552897135 457.040039063 221.559570312 540.559570312 221.559570312 c 6
  583.48046875 221.559570312 l 5
- 676.279947917 223.879882812 797.693033854 225.040039062 947.719726562 225.040039062 c 132
+ 676.279947917 223.879882812 797.693033854 225.040039062 947.719726562 225.040039062 c 4
  1097.74641927 225.040039062 1178.94661458 224.653320312 1191.3203125 223.879882812 c 4
  1290.89052088 217.046496249 1366.29026046 204.866483228 1417.51953125 187.33984375 c 4
  1434.16075111 181.646775446 1454.23676588 171.6796875 1454.63964844 171.6796875 c 4
- 1463.91959635 171.6796875 1468.55957031 179.993001302 1468.55957031 196.619628906 c 132
+ 1463.91959635 171.6796875 1468.55957031 179.993001302 1468.55957031 196.619628906 c 4
  1468.55957031 213.24625651 1462.75976562 226.199869791 1451.16015625 235.48046875 c 4
  1373.82682292 301.213541667 1284.89355469 341.426757813 1184.36035156 356.120117188 c 4
 EndSplineSet
@@ -12273,14 +12273,14 @@ StartChar: oligonTripleYpsili
 Encoding: 57357 57357 99
 Width: 1626
 VWidth: 1392
-Flags: HW
-HStem: 246 121<182.719 1326.04> 595 22<118.535 197.189 582.422 661.189 1045.71 1125.18> 1132 31<534.297 571.934 998.221 1035.93 1461.32 1499.93>
+Flags: W
+HStem: 225.04 134.56<275.479 540.56 1097.94 1265.55>
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "yfenAbove" 930 1281 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1281 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 1213 basechar 0
+AnchorPoint: "measureNumber" 82 1213 basechar 0
 AnchorPoint: "isonIndicator" 792 1283 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -12409,14 +12409,14 @@ EndSplineSet
 Fore
 SplineSet
 582.3203125 1068.93994141 m 0
- 582.3203125 1143.27482713 519.446556223 1144.91992188 513.879882812 1144.91992188 c 128
+ 582.3203125 1143.27482713 519.446556223 1144.91992188 513.879882812 1144.91992188 c 0
  498.413085937 1144.91992188 479.659667969 1139.11995443 457.619628906 1127.52001953 c 0
  410.952417782 1102.95851085 382.532658667 1026.01173351 372.360351562 896.6796875 c 0
  358.167685729 732.682776663 325.795618728 647.15531261 184.440429688 592.1796875 c 0
  163.560221355 584.059895833 146.16015625 578.83984375 132.240234375 576.51953125 c 2
  81.2001953125 568.400390625 l 1
  295.799804688 465.16015625 l 2
- 344.519856771 442.733072917 377.966634114 431.51953125 396.140136719 431.51953125 c 128
+ 344.519856771 442.733072917 377.966634114 431.51953125 396.140136719 431.51953125 c 0
  472.353288225 431.51953125 363.666596597 497.836875095 284.200195312 520.83984375 c 2
  234.3203125 535.919921875 l 1
  273.759765625 544.040039062 l 2
@@ -12424,14 +12424,14 @@ SplineSet
  523.246199993 789.911133726 492.635288357 996.53744212 568.400390625 1039.36035156 c 0
  577.680338542 1045.54654948 582.3203125 1055.40641276 582.3203125 1068.93994141 c 0
 1086.91992188 1068.93994141 m 0
- 1086.91992188 1143.27532148 1024.04627431 1144.91992188 1018.47998047 1144.91992188 c 132
+ 1086.91992188 1143.27532148 1024.04627431 1144.91992188 1018.47998047 1144.91992188 c 4
  1003.01350912 1144.91992188 984.260253907 1139.11995443 962.220214844 1127.52001953 c 4
  915.552324564 1102.9581534 887.132239929 1026.01137605 876.959960938 896.6796875 c 4
  862.767093264 732.680444397 830.392841913 647.152670475 689.040039062 592.1796875 c 4
  668.159830729 584.059895833 650.759765625 578.83984375 636.83984375 576.51953125 c 6
  585.799804688 568.400390625 l 1
  800.400390625 465.16015625 l 6
- 849.120442708 442.733072917 882.567057292 431.51953125 900.740234375 431.51953125 c 132
+ 849.120442708 442.733072917 882.567057292 431.51953125 900.740234375 431.51953125 c 4
  976.952001967 431.51953125 868.269394311 497.835952172 788.799804688 520.83984375 c 6
  738.919921875 535.919921875 l 5
  778.360351562 544.040039062 l 6
@@ -12439,14 +12439,14 @@ SplineSet
  1027.84752306 789.899012575 997.231947558 996.534207145 1073 1039.36035156 c 0
  1082.27994792 1045.54654948 1086.91992188 1055.40641276 1086.91992188 1068.93994141 c 0
 1591.51953125 1068.93994141 m 0
- 1591.51953125 1143.27396382 1528.65004662 1144.91992188 1523.08007812 1144.91992188 c 128
+ 1591.51953125 1143.27396382 1528.65004662 1144.91992188 1523.08007812 1144.91992188 c 0
  1507.61328125 1144.91992188 1488.85986328 1139.11995443 1466.81982422 1127.52001953 c 0
  1420.15193394 1102.9581534 1391.7318493 1026.01137605 1381.55957031 896.6796875 c 0
  1367.3679309 732.679296917 1334.99328658 647.152995327 1193.63964844 592.1796875 c 0
  1172.76009115 584.059895833 1155.36035156 578.83984375 1141.44042969 576.51953125 c 2
  1090.40039062 568.400390625 l 1
  1305 465.16015625 l 2
- 1353.72005208 442.733072917 1387.16666666 431.51953125 1405.33984375 431.51953125 c 128
+ 1353.72005208 442.733072917 1387.16666666 431.51953125 1405.33984375 431.51953125 c 0
  1481.55385854 431.51953125 1372.86625574 497.8370303 1293.40039062 520.83984375 c 2
  1243.51953125 535.919921875 l 1
  1282.95996094 544.040039062 l 2
@@ -12454,19 +12454,19 @@ SplineSet
  1532.44268743 789.900936443 1501.83697409 996.537269065 1577.59960938 1039.36035156 c 0
  1586.87955729 1045.54654948 1591.51953125 1055.40641276 1591.51953125 1068.93994141 c 0
 1184.36035156 356.120117188 m 0
- 1165.79980469 358.439778646 1136.9930013 359.599609375 1097.93994141 359.599609375 c 128
+ 1165.79980469 358.439778646 1136.9930013 359.599609375 1097.93994141 359.599609375 c 0
  1058.88688151 359.599609375 851.826822915 357.279622396 476.759765625 352.639648438 c 1
  390.146484375 352.639648438 334.079752604 354.186523438 308.559570312 357.280273438 c 0
  203.386393229 370.426757813 138.039713542 384.733398437 112.51953125 400.200195312 c 0
- 109.426432291 402.519856771 104.979980468 403.6796875 99.1801757812 403.6796875 c 128
- 72.2304576196 403.6796875 41.0664828922 286.007491183 310.880371094 239.539550781 c 128
+ 109.426432291 402.519856771 104.979980468 403.6796875 99.1801757812 403.6796875 c 0
+ 72.2304576196 403.6796875 41.0664828922 286.007491183 310.880371094 239.539550781 c 0
  380.48030599 227.552897135 457.040039063 221.559570312 540.559570312 221.559570312 c 2
  583.48046875 221.559570312 l 1
- 676.279947917 223.879882812 797.693033854 225.040039062 947.719726562 225.040039062 c 128
+ 676.279947917 223.879882812 797.693033854 225.040039062 947.719726562 225.040039062 c 0
  1097.74641927 225.040039062 1178.94661458 224.653320312 1191.3203125 223.879882812 c 0
  1290.89052088 217.046496249 1366.29026046 204.866483228 1417.51953125 187.33984375 c 0
  1434.16075111 181.646775446 1454.23676588 171.6796875 1454.63964844 171.6796875 c 0
- 1463.91959635 171.6796875 1468.55957031 179.993001302 1468.55957031 196.619628906 c 128
+ 1463.91959635 171.6796875 1468.55957031 179.993001302 1468.55957031 196.619628906 c 0
  1468.55957031 213.24625651 1462.75976562 226.199869791 1451.16015625 235.48046875 c 0
  1373.82682292 301.213541667 1284.89355469 341.426757813 1184.36035156 356.120117188 c 0
 EndSplineSet
@@ -12476,15 +12476,15 @@ StartChar: oligonElafronApostrofos
 Encoding: 57364 57364 100
 Width: 1352
 VWidth: 1392
-Flags: HW
-HStem: 246 121<184.719 1328.04> 443 27<640.736 686.969> 502 28.5<338.922 443.904 947.329 987.003> 718 19<385.58 441.156> 828 38.5<401.132 628.654>
-VStem: 140.5 148.5<590.125 736.65>
+Flags: W
+HStem: 220.4 132.239<298.563 816.797> 225.04 135.72<585.503 1107.84> 446.6 34.8008<559.011 621.112> 459.94 82.3594<313.193 376.526> 595.66 58.5801<418.108 571.124> 697.16 53.3594<385.165 762.414>
+VStem: 140.36 162.399<549.457 642.16> 622.92 154.28<490.316 552.442> 934.96 191.4<527.606 592.948>
 AnchorPoint: "gorgonBottom" 667 125 basechar 0
 AnchorPoint: "yfenAbove" 930 1091 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1041 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 943 basechar 0
+AnchorPoint: "measureNumber" 82 943 basechar 0
 AnchorPoint: "isonIndicator" 792 1093 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -12599,48 +12599,48 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-934.959960938 555.639648438 m 4
- 934.959960938 503.533515066 830.559570312 532.654856121 830.559570312 497.640136719 c 132
+934.959960938 555.639648438 m 4x1f80
+ 934.959960938 503.533515066 830.559570312 532.654856121 830.559570312 497.640136719 c 4
  830.559570312 495.32014974 834.813151041 491.066731771 843.3203125 484.879882812 c 260
- 866.876138088 467.747553824 1083.50565938 438.737739865 1118.24023438 488.360351562 c 132
- 1123.65364583 496.093424479 1126.36035156 509.433268229 1126.36035156 528.379882812 c 132
+ 866.876138088 467.747553824 1083.50565938 438.737739865 1118.24023438 488.360351562 c 4
+ 1123.65364583 496.093424479 1126.36035156 509.433268229 1126.36035156 528.379882812 c 4
  1126.36035156 568.066966658 1115.64535487 590.714996701 1088.08007812 618.280273438 c 4
  1035.49348958 670.866861979 934.960286457 707.213541667 786.48046875 727.3203125 c 4
  674.347005209 742.786458333 592.566894532 750.51953125 541.140136719 750.51953125 c 4
  364.650891885 750.51953125 206.505632664 690.096959226 175.16015625 667 c 4
  151.960286458 649.90514269 140.360351562 625.158397898 140.360351562 592.759765625 c 4
- 140.360351562 580.193687138 140.360351562 547.588418556 220.251105498 509.99245571 c 132
+ 140.360351562 580.193687138 140.360351562 547.588418556 220.251105498 509.99245571 c 4
  261.911998746 490.387165766 330.981617226 473.703157092 427.459960938 459.940429688 c 4
- 448.164146834 456.981977336 450.080078125 489.147645816 450.080078125 489.520019531 c 132
- 450.080078125 520.707294533 386.899028674 501.815474588 332.919921875 542.299804688 c 132
+ 448.164146834 456.981977336 450.080078125 489.147645816 450.080078125 489.520019531 c 4
+ 450.080078125 520.707294533 386.899028674 501.815474588 332.919921875 542.299804688 c 4
  312.813151042 557.379882813 302.759765625 574.586588542 302.759765625 593.919921875 c 4
  302.759765625 658.428299842 390.26309268 697.16015625 566.080078125 697.16015625 c 4
  730.800130208 697.16015625 844.480143229 664.680013021 907.120117188 599.719726562 c 4
- 925.680013021 580.386393229 934.959960938 565.693033854 934.959960938 555.639648438 c 4
-625.240234375 446.599609375 m 4
+ 925.680013021 580.386393229 934.959960938 565.693033854 934.959960938 555.639648438 c 4x1f80
+625.240234375 446.599609375 m 4x2f80
  675.911523917 446.599609375 777.200195312 453.304978426 777.200195312 506.919921875 c 4
  777.200195312 533.673367417 749.979873026 571.284012073 685.559570312 597.400390625 c 260
  625.700164516 621.66694428 492.806998627 654.240234375 460.520019531 654.240234375 c 4
  430.360188802 654.240234375 415.280273438 646.120117187 415.280273438 629.879882812 c 4
- 415.280273438 610.519053103 426.013466278 604.791001072 493.580078125 595.66015625 c 132
+ 415.280273438 610.519053103 426.013466278 604.791001072 493.580078125 595.66015625 c 4
  588.65151097 582.812353517 622.919921875 558.018880438 622.919921875 506.919921875 c 4
- 622.919921875 481.043727657 590.498167856 495.937210971 567.240234375 481.400390625 c 132
+ 622.919921875 481.043727657 590.498167856 495.937210971 567.240234375 481.400390625 c 4
  561.053385417 477.533203125 557.959960938 473.279622396 557.959960938 468.639648438 c 4
- 557.959960938 453.946289063 580.38671875 446.599609375 625.240234375 446.599609375 c 4
-531.280273438 220.400390625 m 4
- 534.679384045 220.400390625 706.648768042 225.040039062 871.159667969 225.040039062 c 132
+ 557.959960938 453.946289063 580.38671875 446.599609375 625.240234375 446.599609375 c 4x2f80
+531.280273438 220.400390625 m 4x8f80
+ 534.679384045 220.400390625 706.648768042 225.040039062 871.159667969 225.040039062 c 4
  1038.09353425 225.040039062 1155.359375 225.040039062 1265.55957031 187.33984375 c 4
  1282.20079018 181.646775445 1302.27680494 171.6796875 1302.6796875 171.6796875 c 4
  1312.73307291 171.6796875 1317.75976562 179.799804687 1317.75976562 196.040039062 c 260
  1317.75976562 213.052897187 1311.57324218 226.199707083 1299.20019531 235.48046875 c 4
  1218.77311198 301.213541667 1129.83984375 341.426757813 1032.40039062 356.120117188 c 4
- 1014.61328125 359.213216146 983.679850259 360.759765625 939.600097656 360.759765625 c 132
- 836.588669652 360.759765625 728.194910297 352.639648438 473.859863281 352.639648438 c 132
+ 1014.61328125 359.213216146 983.679850259 360.759765625 939.600097656 360.759765625 c 4x4f80
+ 836.588669652 360.759765625 728.194910297 352.639648438 473.859863281 352.639648438 c 4
  388.40641276 352.639648438 332.919921875 354.186523438 307.400390625 357.280273438 c 4
  204.546875 370.426757813 139.200195313 384.733398437 111.360351562 400.200195312 c 4
- 107.493164062 402.519856771 103.239583333 403.6796875 98.599609375 403.6796875 c 132
+ 107.493164062 402.519856771 103.239583333 403.6796875 98.599609375 403.6796875 c 4
  73.9284888718 403.6796875 34.9204369002 293.293821595 303.919921875 240.120117188 c 4
- 378.93359375 226.973632813 454.720377605 220.400390625 531.280273438 220.400390625 c 4
+ 378.93359375 226.973632813 454.720377605 220.400390625 531.280273438 220.400390625 c 4x8f80
 EndSplineSet
 EndChar
 
@@ -12648,9 +12648,9 @@ StartChar: petastiDoubleYpsili
 Encoding: 57416 57416 101
 Width: 1459
 VWidth: 1392
-Flags: HW
-HStem: 133.5 38<669.719 900.868> 469.5 28.5<314.502 354.671 857.611 962.738> 682 22<213.017 290.739 814.011 890.218> 1195 30<610.898 646.934 1211.01 1247.93>
-VStem: 1011.5 149.5<261.308 407.941>
+Flags: W
+HStem: 143.84 54.5205<575.815 1008.82>
+VStem: 1124.04 198.36<258.349 339.014>
 AnchorPoint: "yfenAbove" 792 1299 basechar 0
 AnchorPoint: "yfenBelow" 729 -40 basechar 0
 AnchorPoint: "koronis" 867 1283 basechar 0
@@ -12658,7 +12658,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 853 basechar 0
+AnchorPoint: "measureNumber" 82 853 basechar 0
 AnchorPoint: "isonIndicator" 664 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -12772,14 +12772,14 @@ EndSplineSet
 Fore
 SplineSet
 582.3203125 1115.33984375 m 0
- 582.3203125 1189.67557422 519.446321952 1191.3203125 513.879882812 1191.3203125 c 128
+ 582.3203125 1189.67557422 519.446321952 1191.3203125 513.879882812 1191.3203125 c 0
  498.413085937 1191.3203125 479.659667969 1185.52018229 457.619628906 1173.91992188 c 0
  410.952334521 1149.35768012 382.532575406 1072.41106554 372.360351562 943.080078125 c 0
  358.167166739 779.077170334 325.789483148 693.548909618 184.440429688 638.580078125 c 0
  163.560221355 630.460286458 146.16015625 625.240234375 132.240234375 622.919921875 c 2
  81.2001953125 614.799804688 l 1
  295.799804688 511.559570312 l 2
- 344.519856771 489.133138021 377.966634114 477.919921875 396.140136719 477.919921875 c 128
+ 344.519856771 489.133138021 377.966634114 477.919921875 396.140136719 477.919921875 c 0
  472.353153117 477.919921875 363.666482835 544.23729865 284.200195312 567.240234375 c 2
  234.3203125 582.3203125 l 1
  273.759765625 590.440429688 l 2
@@ -12787,14 +12787,14 @@ SplineSet
  523.249493296 836.320581455 492.632426318 1042.93523854 568.400390625 1085.75976562 c 0
  577.680338542 1091.94661458 582.3203125 1101.80664062 582.3203125 1115.33984375 c 0
 1424.48046875 1115.33984375 m 0
- 1424.48046875 1189.67557422 1361.6064782 1191.3203125 1356.04003906 1191.3203125 c 128
+ 1424.48046875 1189.67557422 1361.6064782 1191.3203125 1356.04003906 1191.3203125 c 0
  1340.57324219 1191.3203125 1321.81982422 1185.52018229 1299.77978515 1173.91992188 c 0
  1253.11181162 1149.35732266 1224.69172698 1072.41070808 1214.51953125 943.080078125 c 0
  1200.3273729 779.073690786 1167.94711211 693.546592658 1026.59960938 638.580078125 c 0
  1005.72005209 630.460286458 988.3203125 625.240234375 974.400390625 622.919921875 c 2
  923.360351562 614.799804688 l 1
  1137.95996094 511.559570312 l 2
- 1186.68001302 489.133138021 1220.1266276 477.919921875 1238.29980469 477.919921875 c 128
+ 1186.68001302 489.133138021 1220.1266276 477.919921875 1238.29980469 477.919921875 c 0
  1314.51368438 477.919921875 1205.82610289 544.237453863 1126.36035156 567.240234375 c 2
  1076.48046875 582.3203125 l 1
  1115.91992188 590.440429688 l 2
@@ -12803,18 +12803,18 @@ SplineSet
  1419.84016927 1091.94661458 1424.48046875 1101.80664062 1424.48046875 1115.33984375 c 0
 81.2001953125 371.200195312 m 0
  81.2001953125 225.461493917 419.566992088 143.83984375 781.83984375 143.83984375 c 0
- 1105.45428988 143.83984375 1297.5159154 217.146421724 1314.86035156 259.840332031 c 128
+ 1105.45428988 143.83984375 1297.5159154 217.146421724 1314.86035156 259.840332031 c 0
  1319.88704427 272.213704427 1322.40039062 283.427083333 1322.40039062 293.48046875 c 0
  1322.40039062 349.794765964 1252.75347105 391.768755987 1062.55957031 424.559570312 c 0
- 1019.25292969 432.293294271 990.639648437 436.16015625 976.719726562 436.16015625 c 128
- 942.431536065 436.16015625 941.919921875 409.889159573 941.919921875 408.3203125 c 128
+ 1019.25292969 432.293294271 990.639648437 436.16015625 976.719726562 436.16015625 c 0
+ 942.431536065 436.16015625 941.919921875 409.889159573 941.919921875 408.3203125 c 0
  941.919921875 382.875741547 1124.04003906 372.766213615 1124.04003906 301.599609375 c 0
  1124.04003906 268.931843524 1090.71992797 198.360351562 802.719726562 198.360351562 c 0
- 693.979755534 198.360351562 494.949689675 199.387206268 369.459960938 283.620117188 c 128
+ 693.979755534 198.360351562 494.949689675 199.387206268 369.459960938 283.620117188 c 0
  341.233398438 302.566731771 327.120117188 320.16015625 327.120117188 336.400390625 c 0
  327.120117188 381.150428659 428.507708176 377.467669113 447.759765625 396.719726562 c 0
- 468.395286788 419.934959306 339.565549863 436.16015625 237.220214844 436.16015625 c 128
- 235.739175458 436.16015625 127.798891072 435.960903886 92.2197265625 406 c 128
+ 468.395286788 419.934959306 339.565549863 436.16015625 237.220214844 436.16015625 c 0
+ 235.739175458 436.16015625 127.798891072 435.960903886 92.2197265625 406 c 0
  84.8733723958 399.813151041 81.2001953125 388.213216145 81.2001953125 371.200195312 c 0
 EndSplineSet
 EndChar
@@ -12830,7 +12830,7 @@ AnchorPoint: "yfenAbove" 930 1031 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1041 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 513 basechar 0
+AnchorPoint: "measureNumber" 82 1200 basechar 0
 AnchorPoint: "isonIndicator" 82 1120 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -12979,7 +12979,7 @@ AnchorPoint: "koronis" 763 1421 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1483 basechar 0
+AnchorPoint: "measureNumber" 82 1540 basechar 0
 AnchorPoint: "isonIndicator" 82 1560 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -13202,7 +13202,7 @@ AnchorPoint: "koronis" 763 1421 basechar 0
 AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 172 1483 basechar 0
+AnchorPoint: "measureNumber" 82 1540 basechar 0
 AnchorPoint: "isonIndicator" 82 1560 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
@@ -13455,7 +13455,7 @@ AnchorPoint: "koronis" 763 1291 basechar 0
 AnchorPoint: "endofonon" 772 -277 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -49 basechar 0
 AnchorPoint: "psifiston" 784 1 basechar 0
-AnchorPoint: "measureNumber" 172 1333 basechar 0
+AnchorPoint: "measureNumber" 82 1333 basechar 0
 AnchorPoint: "isonIndicator" 82 1370 basechar 0
 AnchorPoint: "apli" 765 -250 basechar 0
 AnchorPoint: "antikenoma" 713 -68 basechar 0
@@ -13682,7 +13682,7 @@ AnchorPoint: "koronis" 763 1291 basechar 0
 AnchorPoint: "endofonon" 772 -287 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 781 2 basechar 0
-AnchorPoint: "measureNumber" 172 1333 basechar 0
+AnchorPoint: "measureNumber" 82 1540 basechar 0
 AnchorPoint: "isonIndicator" 82 1530 basechar 0
 AnchorPoint: "apli" 765 -250 basechar 0
 AnchorPoint: "antikenoma" 713 -68 basechar 0
@@ -14465,7 +14465,7 @@ AnchorPoint: "yfenAbove" 930 641 basechar 0
 AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 801 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "isonIndicator" 82 913 basechar 0
 AnchorPoint: "heteronConnecting" 1970 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
@@ -14653,7 +14653,7 @@ AnchorPoint: "yfenAbove" 630 1321 basechar 0
 AnchorPoint: "yfenBelow" 659 -40 basechar 0
 AnchorPoint: "koronis" 670 1330 basechar 0
 AnchorPoint: "endofonon" 632 -37 basechar 0
-AnchorPoint: "measureNumber" 172 1363 basechar 0
+AnchorPoint: "measureNumber" 82 1540 basechar 0
 AnchorPoint: "isonIndicator" 82 1470 basechar 0
 AnchorPoint: "heteronConnecting" 1284 -19 basechar 0
 AnchorPoint: "omalonConnecting" 1001 89 basechar 0
@@ -16936,7 +16936,7 @@ Flags: W
 HStem: -25.5195 206.479<721.52 852.02 955.738 996.704> -25.5195 31.3198<865.281 893.039> 220.4 132.239<298.563 816.797> 225.04 135.72<585.503 1107.84>
 AnchorPoint: "barline" 277 590 basechar 0
 AnchorPoint: "koronis" 686 801 basechar 0
-AnchorPoint: "measureNumber" 172 753 basechar 0
+AnchorPoint: "measureNumber" 82 753 basechar 0
 AnchorPoint: "fthoraBottom" 384 160 basechar 0
 AnchorPoint: "diesis" 400 133 basechar 0
 AnchorPoint: "gorgonTop" 763 505 basechar 0
@@ -17248,7 +17248,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1213 613 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
-AnchorPoint: "measureNumber" 173 1240 basechar 0
+AnchorPoint: "measureNumber" 82 1240 basechar 0
 AnchorPoint: "isonIndicator" 82 1389 basechar 0
 AnchorPoint: "fthoraTop" 1224 1296 basechar 0
 AnchorPoint: "noteTop" 132 1272 basechar 0
@@ -25638,9 +25638,9 @@ EndChar
 StartChar: measureNumber3
 Encoding: 57889 57889 251
 Width: 0
-Flags: HW
-HStem: 644 32<19.5475 101.341> 802 28<39.125 89.0145> 931 32<20.5251 95.3219>
-VStem: -39.875 38<693.68 732.921 880.833 913.05> 109.125 40<843.158 919.241> 123.125 41<694.326 785.589>
+Flags: W
+HStem: 618.45 29.3994<2.32485 75.6256> 721 18.9004<31.1504 49.3496> 805 26.9502<25.0991 76.4>
+VStem: 78.75 36.0498<756.894 803.983> 88.9004 35.3496<658.775 714.11>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25679,11 +25679,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-24.849609375 618.450195312 m 0xb4
+24.849609375 618.450195312 m 0xe8
  7.349609375 618.450195312 0.7001953125 626.849609375 0 648.549804688 c 1
  2.7998046875 651.700195312 l 1
  12.25 649.25 22.0498046875 647.849609375 31.849609375 647.849609375 c 0
- 64.400390625 647.849609375 88.900390625 665.349609375 88.900390625 688.799804688 c 0xb4
+ 64.400390625 647.849609375 88.900390625 665.349609375 88.900390625 688.799804688 c 0xe8
  88.900390625 710.5 70.7001953125 720.650390625 31.150390625 721 c 1
  28.7001953125 723.450195312 l 1
  26.599609375 739.900390625 l 1
@@ -25694,20 +25694,20 @@ SplineSet
  13.650390625 787.5 12.25 787.150390625 10.849609375 787.150390625 c 1
  5.9501953125 806.400390625 l 1
  9.7998046875 809.549804688 41.650390625 831.950195312 66.849609375 831.950195312 c 0
- 95.5498046875 831.950195312 114.799804688 816.200195312 114.799804688 792.049804688 c 0x78
+ 95.5498046875 831.950195312 114.799804688 816.200195312 114.799804688 792.049804688 c 0xf0
  114.799804688 773.150390625 99.75 754.25 76.2998046875 743.049804688 c 1
  76.2998046875 740.950195312 l 1
  108.150390625 733.25 124.25 717.849609375 124.25 696.5 c 0
- 124.25 659.400390625 72.099609375 618.450195312 24.849609375 618.450195312 c 0xb4
+ 124.25 659.400390625 72.099609375 618.450195312 24.849609375 618.450195312 c 0xe8
 EndSplineSet
 EndChar
 
 StartChar: measureNumber4
 Encoding: 57890 57890 252
 Width: 0
-Flags: HW
-HStem: 721 37<3.25 103.25 143.25 186.25>
-VStem: 103.25 40<644 721 758 903>
+Flags: W
+HStem: 681.8 24.8506<31.1504 85.4004 117.25 147.35>
+VStem: 85.4004 31.5<625.471 681.1 706.65 778.05>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25731,26 +25731,26 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-85.75 618.450195312 m 1xb0
+85.75 618.450195312 m 1
  83.2998046875 621.950195312 l 1
  83.2998046875 621.950195312 85.0498046875 655.549804688 85.400390625 681.799804688 c 1
  58.4501953125 682.5 26.599609375 683.200195312 0 683.200195312 c 1
- 1.400390625 700.700195312 l 1x70
+ 1.400390625 700.700195312 l 1
  96.25 831.599609375 l 1
  98 831.950195312 l 1
  116.900390625 828.450195312 l 1
  116.900390625 706.650390625 l 1
  148.049804688 706.650390625 l 1
  150.5 703.5 l 1
- 147.349609375 680.049804688 l 1xa8
+ 147.349609375 680.049804688 l 1
  117.25 681.099609375 l 1
  117.599609375 653.799804688 119.349609375 625.450195312 119.349609375 625.450195312 c 1
  117.25 622.650390625 l 1
- 85.75 618.450195312 l 1xb0
+ 85.75 618.450195312 l 1
 31.150390625 706.650390625 m 1
  85.400390625 706.650390625 l 1
  85.400390625 778.049804688 l 1
- 82.25 778.049804688 l 1x68
+ 82.25 778.049804688 l 1
  31.150390625 706.650390625 l 1
 EndSplineSet
 EndChar
@@ -25758,9 +25758,9 @@ EndChar
 StartChar: measureNumber5
 Encoding: 57891 57891 253
 Width: 0
-Flags: HW
-HStem: 643 32<23.1126 104.808> 821 33<18.0491 107.339> 918 36<30.7998 153.8>
-VStem: -37.2002 40<690.871 730.525> 128.8 40<695.617 802.076>
+Flags: W
+HStem: 618.45 29.3994<2.53612 76.9217> 796.95 30.7998<46.2002 116.718>
+VStem: 92.0498 35<659.805 714.322>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25815,9 +25815,9 @@ EndChar
 StartChar: measureNumber6
 Encoding: 57892 57892 254
 Width: 0
-Flags: HW
-HStem: 643 32<33.7066 111.028> 817 34<29.3965 112.584> 930 32<36.7747 113.274>
-VStem: -34.2246 44<693.116 908.902> 131.775 40<693.351 799.041 883.523 913.654>
+Flags: W
+HStem: 650.3 21.7002<47.6617 96.118> 752.5 24.8496<48.2069 93.3975>
+VStem: 0 34.3008<678.831 764.006> 104.65 32.9004<675.988 745.292>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25877,9 +25877,9 @@ EndChar
 StartChar: measureNumber7
 Encoding: 57893 57893 255
 Width: 0
-Flags: HW
-HStem: 925 38<-36.75 122.25>
-VStem: 8.25 41<643 748.233>
+Flags: W
+HStem: 795.9 31.8496<20.9166 103.25>
+VStem: 0 136.5
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25899,7 +25899,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-48.650390625 618.450195312 m 1x60
+48.650390625 618.450195312 m 1
  23.099609375 626.150390625 l 1
  19.599609375 634.200195312 l 1
  103.25 798.700195312 l 1
@@ -25907,22 +25907,22 @@ SplineSet
  25.2001953125 794.849609375 21.349609375 788.549804688 16.7998046875 764.049804688 c 1
  0 761.950195312 l 1
  0 761.950195312 4.900390625 798.700195312 6.650390625 827.400390625 c 1
- 8.75 829.150390625 l 1x60
+ 8.75 829.150390625 l 1
  8.75 829.150390625 29.75 827.75 51.4501953125 827.75 c 2
  126.349609375 827.75 l 1
- 136.5 814.799804688 l 1xa0
+ 136.5 814.799804688 l 1
  99.0498046875 738.150390625 77.7001953125 688.450195312 62.2998046875 652.75 c 1
  52.849609375 618.450195312 l 1
- 48.650390625 618.450195312 l 1x60
+ 48.650390625 618.450195312 l 1
 EndSplineSet
 EndChar
 
 StartChar: measureNumber8
 Encoding: 57894 57894 256
 Width: 0
-Flags: HWO
-HStem: 652 30<27.269 109.243> 805 31<32.6638 102.301> 931 31<31.8288 102.505>
-VStem: -31.7754 38<699.015 787.729> -19.7754 38<847.713 919.113> 116.225 39<847.22 919.541> 129.225 38<699.123 787.438>
+Flags: W
+HStem: 650.3 19.6006<44.0326 93.5015> 842.8 21<43.4305 89.2832>
+VStem: 0 31.1494<677.461 735.507 795.26 835.576> 97.2998 31.5<779.509 838.866> 104.3 31.1494<675.571 728.715>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -25966,25 +25966,25 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-62.2998046875 650.299804688 m 0xe4
- 28.69921875 650.299804688 0 668.150390625 0 698.950195312 c 0xe4
+62.2998046875 650.299804688 m 0xe8
+ 28.69921875 650.299804688 0 668.150390625 0 698.950195312 c 0
  0 730.099609375 26.94921875 746.900390625 42.69921875 753.900390625 c 1
  22.75 765.450195312 5.599609375 779.799804688 5.599609375 805.700195312 c 0
  5.599609375 836.5 33.25 863.799804688 71.75 863.799804688 c 0
- 100.799804688 863.799804688 128.799804688 847 128.799804688 816.200195312 c 0xd8
+ 100.799804688 863.799804688 128.799804688 847 128.799804688 816.200195312 c 0xf0
  128.799804688 789.950195312 109.899414062 774.200195312 95.5498046875 766.849609375 c 1
  116.549804688 755.299804688 135.44921875 740.599609375 135.44921875 714 c 0
- 135.44921875 678.650390625 103.94921875 650.299804688 62.2998046875 650.299804688 c 0xe4
-79.44921875 774.900390625 m 1xd8
+ 135.44921875 678.650390625 103.94921875 650.299804688 62.2998046875 650.299804688 c 0xe8
+79.44921875 774.900390625 m 1
  87.5 780.5 97.2998046875 790.299804688 97.2998046875 808.5 c 0
  97.2998046875 830.549804688 84 842.799804688 66.5 842.799804688 c 0
  48.2998046875 842.799804688 37.099609375 829.849609375 37.099609375 815.5 c 0
- 37.099609375 795.900390625 57.3994140625 786.099609375 79.44921875 774.900390625 c 1xd8
-69.6494140625 669.900390625 m 0xe4
- 88.5498046875 669.900390625 104.299804688 683.900390625 104.299804688 702.799804688 c 0
+ 37.099609375 795.900390625 57.3994140625 786.099609375 79.44921875 774.900390625 c 1
+69.6494140625 669.900390625 m 0
+ 88.5498046875 669.900390625 104.299804688 683.900390625 104.299804688 702.799804688 c 0xe8
  104.299804688 724.150390625 81.19921875 734.299804688 57.75 745.849609375 c 1
  47.94921875 740.950195312 31.1494140625 730.099609375 31.1494140625 707.700195312 c 0
- 31.1494140625 687.75 47.25 669.900390625 69.6494140625 669.900390625 c 0xe4
+ 31.1494140625 687.75 47.25 669.900390625 69.6494140625 669.900390625 c 0
 EndSplineSet
 EndChar
 
@@ -25992,9 +25992,9 @@ StartChar: measureNumber2
 Encoding: 57888 57888 257
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 653 36<27.1504 179.15> 932 32<38.149 122.694>
-VStem: 139.15 39<830.152 917.359>
+Flags: W
+HStem: 654.5 26.25<52.1504 127.404> 802.55 29.4004<30.1328 80.252>
+VStem: 81.9004 39.5498<744.59 802.206>
 AnchorPoint: "measureNumber" 0 656 mark 0
 LayerCount: 2
 Back
@@ -33768,7 +33768,7 @@ AnchorPoint: "yfenAbove" 1030 1061 basechar 0
 AnchorPoint: "yfenBelow" 1059 -40 basechar 0
 AnchorPoint: "endofonon" 872 -37 basechar 0
 AnchorPoint: "heteronConnecting" 1610 -19 basechar 0
-AnchorPoint: "measureNumber" 172 993 basechar 0
+AnchorPoint: "measureNumber" 82 993 basechar 0
 AnchorPoint: "isonIndicator" 82 1010 basechar 0
 AnchorPoint: "antikenoma" 860 173 basechar 0
 AnchorPoint: "noteTop" 372 991 basechar 0
