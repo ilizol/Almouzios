@@ -10127,71 +10127,71 @@
     },
     "measureNumber3": {
       "bBoxNE": [
-        0.062,
+        0.124,
         0.832
       ],
       "bBoxSW": [
-        -0.062,
+        0.0,
         0.618
       ]
     },
     "measureNumber4": {
       "bBoxNE": [
-        0.075,
+        0.15,
         0.832
       ],
       "bBoxSW": [
-        -0.075,
+        0.0,
         0.618
       ]
     },
     "measureNumber5": {
       "bBoxNE": [
-        0.066,
+        0.132,
         0.843
       ],
       "bBoxSW": [
-        -0.066,
+        0.0,
         0.618
       ]
     },
     "measureNumber6": {
       "bBoxNE": [
-        0.069,
+        0.138,
         0.864
       ],
       "bBoxSW": [
-        -0.069,
+        0.0,
         0.65
       ]
     },
     "measureNumber7": {
       "bBoxNE": [
-        0.068,
+        0.137,
         0.829
       ],
       "bBoxSW": [
-        -0.068,
+        0.0,
         0.618
       ]
     },
     "measureNumber8": {
       "bBoxNE": [
-        0.068,
+        0.135,
         0.864
       ],
       "bBoxSW": [
-        -0.068,
+        0.0,
         0.65
       ]
     },
     "measureNumber2": {
       "bBoxNE": [
-        0.077,
+        0.153,
         0.832
       ],
       "bBoxSW": [
-        -0.077,
+        0.0,
         0.651
       ]
     },
