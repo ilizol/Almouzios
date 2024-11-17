@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1731852065
+ModificationTime: 1731852369
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9598,7 +9598,7 @@ AnchorPoint: "endofonon" 772 -127 basechar 0
 AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
 AnchorPoint: "measureNumber" 82 1320 basechar 0
-AnchorPoint: "isonIndicator" 550 1133 basechar 0
+AnchorPoint: "isonIndicator" 82 1330 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
 AnchorPoint: "fthoraBottom" 352 162 basechar 0
@@ -12094,7 +12094,7 @@ AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1441 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
 AnchorPoint: "measureNumber" 82 1213 basechar 0
-AnchorPoint: "isonIndicator" 792 1443 basechar 0
+AnchorPoint: "isonIndicator" 82 1443 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
 AnchorPoint: "omalon" 1031 133 basechar 0
@@ -12281,7 +12281,7 @@ AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1281 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
 AnchorPoint: "measureNumber" 82 1213 basechar 0
-AnchorPoint: "isonIndicator" 792 1283 basechar 0
+AnchorPoint: "isonIndicator" 82 1283 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
 AnchorPoint: "omalon" 1031 133 basechar 0
@@ -12485,7 +12485,7 @@ AnchorPoint: "yfenBelow" 929 -40 basechar 0
 AnchorPoint: "koronis" 783 1041 basechar 0
 AnchorPoint: "endofonon" 802 -62 basechar 0
 AnchorPoint: "measureNumber" 82 943 basechar 0
-AnchorPoint: "isonIndicator" 792 1093 basechar 0
+AnchorPoint: "isonIndicator" 82 1093 basechar 0
 AnchorPoint: "heteronConnecting" 1692 -19 basechar 0
 AnchorPoint: "heteron" 1087 227 basechar 0
 AnchorPoint: "omalon" 1031 133 basechar 0
@@ -12659,7 +12659,7 @@ AnchorPoint: "heteronConnecting" 1316 -19 basechar 0
 AnchorPoint: "yfesis" 1113 691 basechar 0
 AnchorPoint: "psifiston" 795 140 basechar 0
 AnchorPoint: "measureNumber" 82 853 basechar 0
-AnchorPoint: "isonIndicator" 664 1299 basechar 0
+AnchorPoint: "isonIndicator" 82 1299 basechar 0
 AnchorPoint: "apli" 765 -80 basechar 0
 AnchorPoint: "antikenoma" 713 62 basechar 0
 AnchorPoint: "fthoraBottom" 352 162 basechar 0
