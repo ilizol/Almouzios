@@ -1151,48 +1151,48 @@
 	leftSB: 25.0
 	rightSB: 25.56
 0xE211 barlineDouble
-	width: 235
-	leftSB: 75.4
-	rightSB: 30.16
+	width: 189
+	leftSB: 30.0
+	rightSB: 29.56
 0xE212 barlineTheseos
-	width: 145
-	leftSB: -112.0
+	width: 97
+	leftSB: -160.0
 	rightSB: -160.0
 0xE213 barlineShortSingle
-	width: 125
-	leftSB: 56.52
-	rightSB: 29.04
+	width: 97
+	leftSB: 29.0
+	rightSB: 28.56
 0xE214 barlineShortDouble
-	width: 215
-	leftSB: 63.52
-	rightSB: 29.04
+	width: 180
+	leftSB: 29.0
+	rightSB: 28.56
 0xE215 barlineShortTheseos
-	width: 125
-	leftSB: -118.0
+	width: 69
+	leftSB: -174.0
 	rightSB: -174.0
 0xE216 barlineSingleAbove
-	width: 145
-	leftSB: 75.4
-	rightSB: 30.16
+	width: 99
+	leftSB: 30.0
+	rightSB: 29.56
 0xE217 barlineDoubleAbove
-	width: 235
-	leftSB: 75.4
-	rightSB: 30.16
+	width: 189
+	leftSB: 30.0
+	rightSB: 29.56
 0xE218 barlineTheseosAbove
-	width: 145
-	leftSB: -112.0
+	width: 97
+	leftSB: -160.0
 	rightSB: -160.0
 0xE219 barlineShortSingleAbove
-	width: 125
-	leftSB: 56.52
-	rightSB: 29.04
+	width: 97
+	leftSB: 29.0
+	rightSB: 28.56
 0xE21A barlineShortDoubleAbove
-	width: 215
-	leftSB: 63.52
-	rightSB: 29.04
+	width: 180
+	leftSB: 29.0
+	rightSB: 28.56
 0xE21B barlineShortTheseosAbove
-	width: 125
-	leftSB: -118.0
+	width: 69
+	leftSB: -174.0
 	rightSB: -174.0
 0xE220 measureNumber2
 	width: 0

@@ -7422,37 +7422,37 @@
     },
     "barlineShortSingleAbove": {
       "barline": [
-        0.075,
+        0.047,
         0.59
       ]
     },
     "barlineSingleAbove": {
       "barline": [
-        0.096,
+        0.051,
         0.13
       ]
     },
     "barlineDoubleAbove": {
       "barline": [
-        0.141,
+        0.096,
         0.13
       ]
     },
     "barlineTheseosAbove": {
       "barline": [
-        0.096,
+        0.048,
         0.13
       ]
     },
     "barlineShortDoubleAbove": {
       "barline": [
-        0.125,
+        0.09,
         0.59
       ]
     },
     "barlineShortTheseosAbove": {
       "barline": [
-        0.087,
+        0.031,
         0.589
       ]
     },
@@ -7818,11 +7818,11 @@
     "gorthmikon": 0.612,
     "pelastikon": 0.62,
     "barlineSingle": 0.09,
-    "barlineDouble": 0.235,
-    "barlineTheseos": 0.145,
-    "barlineShortSingle": 0.125,
-    "barlineShortDouble": 0.215,
-    "barlineShortTheseos": 0.125,
+    "barlineDouble": 0.189,
+    "barlineTheseos": 0.097,
+    "barlineShortSingle": 0.097,
+    "barlineShortDouble": 0.18,
+    "barlineShortTheseos": 0.069,
     "breath": 0.241,
     "koronis": 0.0,
     "leimmaDot": 0.299,
@@ -7899,12 +7899,12 @@
     "digorgonDottedLeftSecondary": 0.0,
     "trigorgonDottedLeftSecondary": 0.0,
     "psifiston.alt01": 0.0,
-    "barlineShortSingleAbove": 0.125,
-    "barlineSingleAbove": 0.145,
-    "barlineDoubleAbove": 0.235,
-    "barlineTheseosAbove": 0.145,
-    "barlineShortDoubleAbove": 0.215,
-    "barlineShortTheseosAbove": 0.125,
+    "barlineShortSingleAbove": 0.097,
+    "barlineSingleAbove": 0.099,
+    "barlineDoubleAbove": 0.189,
+    "barlineTheseosAbove": 0.097,
+    "barlineShortDoubleAbove": 0.18,
+    "barlineShortTheseosAbove": 0.069,
     "diesis2Secondary": 0.0,
     "diesis4Secondary": 0.0,
     "diesis6Secondary": 0.0,
@@ -10667,51 +10667,51 @@
     },
     "barlineDouble": {
       "bBoxNE": [
-        0.205,
+        0.159,
         0.449
       ],
       "bBoxSW": [
-        0.075,
+        0.03,
         0.13
       ]
     },
     "barlineTheseos": {
       "bBoxNE": [
-        0.305,
+        0.257,
         0.581
       ],
       "bBoxSW": [
-        -0.112,
+        -0.16,
         0.13
       ]
     },
     "barlineShortSingle": {
       "bBoxNE": [
-        0.096,
+        0.068,
         0.853
       ],
       "bBoxSW": [
-        0.057,
+        0.029,
         0.59
       ]
     },
     "barlineShortDouble": {
       "bBoxNE": [
-        0.186,
+        0.151,
         0.853
       ],
       "bBoxSW": [
-        0.064,
+        0.029,
         0.59
       ]
     },
     "barlineShortTheseos": {
       "bBoxNE": [
-        0.299,
+        0.243,
         0.991
       ],
       "bBoxSW": [
-        -0.118,
+        -0.174,
         0.59
       ]
     },
@@ -11477,61 +11477,61 @@
     },
     "barlineShortSingleAbove": {
       "bBoxNE": [
-        0.096,
+        0.068,
         0.853
       ],
       "bBoxSW": [
-        0.057,
+        0.029,
         0.59
       ]
     },
     "barlineSingleAbove": {
       "bBoxNE": [
-        0.115,
+        0.069,
         0.449
       ],
       "bBoxSW": [
-        0.075,
+        0.03,
         0.13
       ]
     },
     "barlineDoubleAbove": {
       "bBoxNE": [
-        0.205,
+        0.159,
         0.449
       ],
       "bBoxSW": [
-        0.075,
+        0.03,
         0.13
       ]
     },
     "barlineTheseosAbove": {
       "bBoxNE": [
-        0.305,
+        0.257,
         0.581
       ],
       "bBoxSW": [
-        -0.112,
+        -0.16,
         0.13
       ]
     },
     "barlineShortDoubleAbove": {
       "bBoxNE": [
-        0.186,
+        0.151,
         0.853
       ],
       "bBoxSW": [
-        0.064,
+        0.029,
         0.59
       ]
     },
     "barlineShortTheseosAbove": {
       "bBoxNE": [
-        0.299,
+        0.243,
         0.991
       ],
       "bBoxSW": [
-        -0.118,
+        -0.174,
         0.59
       ]
     },
