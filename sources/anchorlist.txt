@@ -1600,7 +1600,7 @@
 0xE0D5 tetrapli
 	('apli', 'mark', 0.0, 0.0)
 0xE0E0 leimma1
-	('gorgonTop', 'base', 825.0, 423.0)
+	('gorgonTop', 'base', 773.8, 423.0)
 0xE0E1 leimma2
 0xE0E2 leimma3
 0xE0E3 leimma4

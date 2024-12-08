@@ -391,21 +391,21 @@
 	leftSB: -450.4
 	rightSB: -445.87
 0xE0E0 leimma1
-	width: 909
-	leftSB: 81.2
-	rightSB: 34.36
+	width: 857
+	leftSB: 30.0
+	rightSB: 33.56
 0xE0E1 leimma2
-	width: 1024
-	leftSB: 81.2
-	rightSB: 16.86
+	width: 988
+	leftSB: 30.0
+	rightSB: 32.06
 0xE0E2 leimma3
-	width: 1238
-	leftSB: 81.2
-	rightSB: 33.66
+	width: 1186
+	leftSB: 30.0
+	rightSB: 32.86
 0xE0E3 leimma4
-	width: 1436
-	leftSB: 81.2
-	rightSB: 34.46
+	width: 1384
+	leftSB: 30.0
+	rightSB: 33.66
 0xE0E4 leimmaDot
 	width: 299
 	leftSB: 40.16

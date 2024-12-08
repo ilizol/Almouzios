@@ -6126,7 +6126,7 @@
     },
     "leimma1": {
       "gorgonTop": [
-        0.825,
+        0.774,
         0.423
       ]
     },
@@ -7677,10 +7677,10 @@
     "dipli": 0.0,
     "tripli": 0.0,
     "tetrapli": 0.0,
-    "leimma1": 0.909,
-    "leimma2": 1.024,
-    "leimma3": 1.238,
-    "leimma4": 1.436,
+    "leimma1": 0.857,
+    "leimma2": 0.988,
+    "leimma3": 1.186,
+    "leimma4": 1.384,
     "digorgonDottedRight": 0.0,
     "trigorgon": 0.0,
     "trigorgonDottedLeftBelow": 0.0,
@@ -9257,41 +9257,41 @@
     },
     "leimma1": {
       "bBoxNE": [
-        0.875,
+        0.823,
         0.531
       ],
       "bBoxSW": [
-        0.081,
+        0.03,
         -0.093
       ]
     },
     "leimma2": {
       "bBoxNE": [
-        1.007,
+        0.956,
         0.531
       ],
       "bBoxSW": [
-        0.081,
+        0.03,
         -0.093
       ]
     },
     "leimma3": {
       "bBoxNE": [
-        1.204,
+        1.153,
         0.531
       ],
       "bBoxSW": [
-        0.081,
+        0.03,
         -0.093
       ]
     },
     "leimma4": {
       "bBoxNE": [
-        1.402,
+        1.35,
         0.531
       ],
       "bBoxSW": [
-        0.081,
+        0.03,
         -0.093
       ]
     },
