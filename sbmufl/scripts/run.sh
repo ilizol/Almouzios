@@ -8,6 +8,7 @@ mv *.metadata.json ../..
 ./generate-anchorlist.py > ../../sources/anchorlist.txt
 ./generate-glyph-table.py > html/glyphs.html
 ./generate-images.py
+./generate-metricslist.py > ../../sources/metricslist.txt
 ./generate-namelist.py > ../../sources/namelist.txt
 #######################################################
 

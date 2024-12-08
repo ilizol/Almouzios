@@ -1,0 +1,1472 @@
+0xE000 ison
+	width: 1324
+	leftSB: 81.2
+	rightSB: 35.24
+0xE001 oligon
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE002 oligonKentimaMiddle
+	width: 1647
+	leftSB: 82.2
+	rightSB: 34.16
+0xE003 oligonKentimaBelow
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE004 oligonKentimaAbove
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE005 oligonYpsiliRight
+	width: 1371
+	leftSB: 82.2
+	rightSB: 34.68
+0xE006 oligonYpsiliLeft
+	width: 1353
+	leftSB: 81.2
+	rightSB: 34.08
+0xE007 oligonKentimaYpsiliRight
+	width: 1371
+	leftSB: 82.2
+	rightSB: 34.68
+0xE008 oligonKentimaYpsiliMiddle
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE009 oligonDoubleYpsili
+	width: 1371
+	leftSB: 81.2
+	rightSB: 34.68
+0xE00A oligonKentimataDoubleYpsili
+	width: 1533
+	leftSB: 81.99
+	rightSB: 34.28
+0xE00B oligonKentimaDoubleYpsiliRight
+	width: 1371
+	leftSB: 82.2
+	rightSB: 34.68
+0xE00C oligonKentimaDoubleYpsiliLeft
+	width: 1503
+	leftSB: 81.2
+	rightSB: 34.44
+0xE00D oligonTripleYpsili
+	width: 1626
+	leftSB: 81.2
+	rightSB: 34.48
+0xE00E oligonKentimataTripleYpsili
+	width: 1533
+	leftSB: 81.2
+	rightSB: 34.28
+0xE00F oligonKentimaTripleYpsili
+	width: 1503
+	leftSB: 81.2
+	rightSB: 34.44
+0xE010 oligonIson
+	width: 1353
+	leftSB: 81.2
+	rightSB: 34.08
+0xE011 oligonApostrofos
+	width: 1352
+	leftSB: 81.07
+	rightSB: 34.24
+0xE012 oligonYporroi
+	width: 1352
+	leftSB: 81.07
+	rightSB: 34.24
+0xE013 oligonElafron
+	width: 1352
+	leftSB: 81.07
+	rightSB: 34.24
+0xE014 oligonElafronApostrofos
+	width: 1352
+	leftSB: 81.07
+	rightSB: 34.24
+0xE015 oligonChamili
+	width: 1503
+	leftSB: 81.2
+	rightSB: 34.44
+0xE020 isonApostrofos
+	width: 1648
+	leftSB: 81.2
+	rightSB: 34.44
+0xE021 apostrofos
+	width: 789
+	leftSB: 81.2
+	rightSB: 33.84
+0xE022 apostrofosSyndesmos
+	width: 1671
+	leftSB: 81.2
+	rightSB: 34.24
+0xE023 yporroi
+	width: 496
+	leftSB: 93.35
+	rightSB: 92.32
+0xE024 elafron
+	width: 1352
+	leftSB: 81.2
+	rightSB: 33.42
+0xE025 runningElafron
+	width: 2060
+	leftSB: 81.2
+	rightSB: 33.81
+0xE026 elafronApostrofos
+	width: 1352
+	leftSB: 81.2
+	rightSB: 33.42
+0xE027 chamili
+	width: 1397
+	leftSB: 82.36
+	rightSB: 34.0
+0xE028 chamiliApostrofos
+	width: 1397
+	leftSB: 81.2
+	rightSB: 34.0
+0xE029 chamiliElafron
+	width: 1455
+	leftSB: 82.36
+	rightSB: 33.78
+0xE02A chamiliElafronApostrofos
+	width: 1455
+	leftSB: 82.36
+	rightSB: 33.18
+0xE02B doubleChamili
+	width: 1490
+	leftSB: 82.36
+	rightSB: 34.2
+0xE02C doubleChamiliApostrofos
+	width: 1396
+	leftSB: 82.36
+	rightSB: -59.8
+0xE02D doubleChamiliElafron
+	width: 1502
+	leftSB: 82.36
+	rightSB: 46.2
+0xE02E doubleChamiliElafronApostrofos
+	width: 1502
+	leftSB: 82.36
+	rightSB: 46.2
+0xE02F tripleChamili
+	width: 1490
+	leftSB: 82.36
+	rightSB: -63.0
+0xE040 petastiIson
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE041 petasti
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE042 petastiOligon
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE043 petastiKentima
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE044 petastiYpsiliRight
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE045 petastiYpsiliLeft
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE046 petastiKentimaYpsiliRight
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE047 petastiKentimaYpsiliMiddle
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE048 petastiDoubleYpsili
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE049 petastiKentimataDoubleYpsili
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE04A petastiKentimaDoubleYpsiliRight
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE04B petastiKentimaDoubleYpsiliLeft
+	width: 1357
+	leftSB: 41.2
+	rightSB: 34.6
+0xE04C petastiTripleYpsili
+	width: 1459
+	leftSB: 81.2
+	rightSB: 34.52
+0xE04D petastiKentimataTripleYpsili
+	width: 1459
+	leftSB: 41.2
+	rightSB: 34.52
+0xE04E petastiKentimaTripleYpsili
+	width: 1459
+	leftSB: 41.2
+	rightSB: 34.52
+0xE060 petastiApostrofos
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE061 petastiYporroi
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE062 petastiElafron
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE063 petastiRunningElafron
+	width: 2030
+	leftSB: 81.2
+	rightSB: 34.8
+0xE064 petastiElafronApostrofos
+	width: 1357
+	leftSB: 81.2
+	rightSB: 34.6
+0xE065 petastiChamili
+	width: 1357
+	leftSB: -56.84
+	rightSB: 34.6
+0xE066 petastiChamiliApostrofos
+	width: 1357
+	leftSB: 81.2
+	rightSB: -6.0
+0xE067 petastiChamiliElafron
+	width: 1357
+	leftSB: 81.2
+	rightSB: -6.0
+0xE068 petastiChamiliElafronApostrofos
+	width: 1357
+	leftSB: 81.2
+	rightSB: -6.0
+0xE069 petastiDoubleChamili
+	width: 1357
+	leftSB: -56.84
+	rightSB: 34.6
+0xE06A petastiDoubleChamiliApostrofos
+	width: 1357
+	leftSB: 81.2
+	rightSB: -98.8
+0xE080 kentima
+	width: 294
+	leftSB: -10.44
+	rightSB: 34.16
+0xE081 kentimata
+	width: 619
+	leftSB: 82.36
+	rightSB: 34.36
+0xE082 oligonKentimataBelow
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE083 oligonKentimataAbove
+	width: 1353
+	leftSB: 82.2
+	rightSB: 34.08
+0xE084 oligonIsonKentimata
+	width: 1503
+	leftSB: 81.99
+	rightSB: 34.44
+0xE085 oligonKentimaMiddleKentimata
+	width: 1647
+	leftSB: 82.2
+	rightSB: 34.16
+0xE086 oligonYpsiliRightKentimata
+	width: 1533
+	leftSB: 81.99
+	rightSB: 34.28
+0xE087 oligonYpsiliLeftKentimata
+	width: 1538
+	leftSB: 81.2
+	rightSB: 34.65
+0xE088 oligonApostrofosKentimata
+	width: 1503
+	leftSB: 81.2
+	rightSB: 34.44
+0xE089 oligonYporroiKentimata
+	width: 1503
+	leftSB: 81.99
+	rightSB: 34.44
+0xE08A oligonElafronKentimata
+	width: 1505
+	leftSB: 82.36
+	rightSB: 34.12
+0xE08B oligonRunningElafronKentimata
+	width: 1965
+	leftSB: 80.04
+	rightSB: 33.6
+0xE08C oligonElafronApostrofosKentimata
+	width: 1503
+	leftSB: 81.99
+	rightSB: 34.44
+0xE08D oligonChamiliKentimata
+	width: 1626
+	leftSB: 81.2
+	rightSB: 34.48
+0xE0A0 vareia
+	width: 584
+	leftSB: 81.2
+	rightSB: -290.64
+0xE0A1 psifiston
+	width: 0
+	leftSB: -510.24
+	rightSB: -719.77
+0xE0A2 antikenoma
+	width: 0
+	leftSB: -582.0
+	rightSB: -627.88
+0xE0A3 omalon
+	width: 0
+	leftSB: -506.92
+	rightSB: -607.84
+0xE0A4 omalonConnecting
+	width: 0
+	leftSB: -506.92
+	rightSB: -607.84
+0xE0A5 heteron
+	width: 0
+	leftSB: -727.28
+	rightSB: -1019.68
+0xE0A6 heteronConnecting
+	width: 0
+	leftSB: -727.28
+	rightSB: -1019.68
+0xE0A7 endofonon
+	width: 0
+	leftSB: -817.28
+	rightSB: -929.68
+0xE0B0 yfenAbove
+	width: 0
+	leftSB: -633.68
+	rightSB: -636.52
+0xE0B1 yfenBelow
+	width: 0
+	leftSB: -636.52
+	rightSB: -633.68
+0xE0C0 stavros
+	width: 457
+	leftSB: 93.8
+	rightSB: 14.04
+0xE0C1 breath
+	width: 241
+	leftSB: 22.2
+	rightSB: 44.8
+0xE0C8 stavrosAbove
+	width: 457
+	leftSB: 93.8
+	rightSB: 14.04
+0xE0D0 klasmaAbove
+	width: 0
+	leftSB: -199.52
+	rightSB: -250.56
+0xE0D1 klasmaBelow
+	width: 0
+	leftSB: -199.52
+	rightSB: -250.56
+0xE0D2 apli
+	width: 0
+	leftSB: -97.72
+	rightSB: -102.06
+0xE0D3 dipli
+	width: 0
+	leftSB: -190.44
+	rightSB: -199.58
+0xE0D4 tripli
+	width: 0
+	leftSB: -290.44
+	rightSB: -301.42
+0xE0D5 tetrapli
+	width: 0
+	leftSB: -386.36
+	rightSB: -398.06
+0xE0D6 koronis
+	width: 0
+	leftSB: -450.4
+	rightSB: -445.87
+0xE0E0 leimma1
+	width: 909
+	leftSB: 81.2
+	rightSB: 34.36
+0xE0E1 leimma2
+	width: 1024
+	leftSB: 81.2
+	rightSB: 16.86
+0xE0E2 leimma3
+	width: 1238
+	leftSB: 81.2
+	rightSB: 33.66
+0xE0E3 leimma4
+	width: 1436
+	leftSB: 81.2
+	rightSB: 34.46
+0xE0E4 leimmaDot
+	width: 299
+	leftSB: 40.16
+	rightSB: 59.06
+0xE0F0 gorgonAbove
+	width: 0
+	leftSB: -255.68
+	rightSB: -148.21
+0xE0F1 gorgonBelow
+	width: 0
+	leftSB: -225.68
+	rightSB: -178.21
+0xE0F2 gorgonDottedLeft
+	width: 0
+	leftSB: -419.24
+	rightSB: -147.05
+0xE0F3 gorgonDottedRight
+	width: 0
+	leftSB: -257.8
+	rightSB: -310.61
+0xE0F4 digorgon
+	width: 0
+	leftSB: -276.36
+	rightSB: -231.91
+0xE0F5 digorgonDottedLeftBelow
+	width: 0
+	leftSB: -420.2
+	rightSB: -231.91
+0xE0F6 digorgonDottedLeftAbove
+	width: 0
+	leftSB: -276.36
+	rightSB: -231.91
+0xE0F7 digorgonDottedRight
+	width: 0
+	leftSB: -276.36
+	rightSB: -386.02
+0xE0F8 trigorgon
+	width: 0
+	leftSB: -326.36
+	rightSB: -320.92
+0xE0F9 trigorgonDottedLeftBelow
+	width: 0
+	leftSB: -481.8
+	rightSB: -320.92
+0xE0FA trigorgonDottedLeftAbove
+	width: 0
+	leftSB: -326.36
+	rightSB: -320.92
+0xE0FB trigorgonDottedRight
+	width: 0
+	leftSB: -326.36
+	rightSB: -481.02
+0xE0FC argon
+	width: 0
+	leftSB: -154.76
+	rightSB: -225.72
+0xE0FD diargon
+	width: 0
+	leftSB: -157.28
+	rightSB: -225.52
+0xE0FE triargon
+	width: 0
+	leftSB: -255.68
+	rightSB: -252.52
+0xE100 gorgonSecondary
+	width: 0
+	leftSB: -255.68
+	rightSB: -148.21
+0xE101 gorgonDottedLeftSecondary
+	width: 0
+	leftSB: -419.24
+	rightSB: -147.05
+0xE102 gorgonDottedRightSecondary
+	width: 0
+	leftSB: -257.8
+	rightSB: -310.61
+0xE103 digorgonSecondary
+	width: 0
+	leftSB: -276.36
+	rightSB: -231.91
+0xE104 digorgonDottedLeftBelowSecondary
+	width: 0
+	leftSB: -420.2
+	rightSB: -231.91
+0xE105 digorgonDottedRightSecondary
+	width: 0
+	leftSB: -276.36
+	rightSB: -386.02
+0xE106 trigorgonSecondary
+	width: 0
+	leftSB: -326.36
+	rightSB: -320.92
+0xE107 trigorgonDottedLeftBelowSecondary
+	width: 0
+	leftSB: -481.8
+	rightSB: -320.92
+0xE108 trigorgonDottedRightSecondary
+	width: 0
+	leftSB: -326.36
+	rightSB: -481.02
+0xE109 digorgonDottedLeftSecondary
+	width: 0
+	leftSB: -276.36
+	rightSB: -231.91
+0xE10A trigorgonDottedLeftSecondary
+	width: 0
+	leftSB: -326.36
+	rightSB: -320.92
+0xE120 agogiPoliArgi
+	width: 659
+	leftSB: -154.4
+	rightSB: 38.52
+0xE121 agogiArgoteri
+	width: 659
+	leftSB: 211.6
+	rightSB: 38.52
+0xE122 agogiArgi
+	width: 659
+	leftSB: 41.11
+	rightSB: 38.56
+0xE123 agogiMetria
+	width: 497
+	leftSB: 56.76
+	rightSB: 31.92
+0xE124 agogiMesi
+	width: 698
+	leftSB: -36.4
+	rightSB: 82.48
+0xE125 agogiGorgi
+	width: 564
+	leftSB: 170.44
+	rightSB: 29.16
+0xE126 agogiGorgoteri
+	width: 761
+	leftSB: 170.44
+	rightSB: 46.0
+0xE127 agogiPoliGorgi
+	width: 967
+	leftSB: 170.44
+	rightSB: 55.16
+0xE128 agogiPoliArgiAbove
+	width: 659
+	leftSB: -192.4
+	rightSB: 76.52
+0xE129 agogiArgoteriAbove
+	width: 659
+	leftSB: 215.6
+	rightSB: 34.52
+0xE12A agogiArgiAbove
+	width: 659
+	leftSB: 41.11
+	rightSB: 38.56
+0xE12B agogiMetriaAbove
+	width: 497
+	leftSB: 56.76
+	rightSB: 31.92
+0xE12C agogiMesiAbove
+	width: 698
+	leftSB: -16.4
+	rightSB: 62.48
+0xE12D agogiGorgiAbove
+	width: 583
+	leftSB: 190.44
+	rightSB: 28.16
+0xE12E agogiGorgoteriAbove
+	width: 811
+	leftSB: 220.44
+	rightSB: 46.0
+0xE12F agogiPoliGorgiAbove
+	width: 1033
+	leftSB: 240.44
+	rightSB: 51.16
+0xE130 martyriaNoteZoLow
+	width: 783
+	leftSB: 343.56
+	rightSB: 62.44
+0xE131 martyriaNoteNiLow
+	width: 731
+	leftSB: 302.4
+	rightSB: 38.84
+0xE132 martyriaNotePaLow
+	width: 737
+	leftSB: 302.4
+	rightSB: 21.36
+0xE133 martyriaNoteVouLow
+	width: 701
+	leftSB: 342.4
+	rightSB: 63.96
+0xE134 martyriaNoteGaLow
+	width: 692
+	leftSB: 302.4
+	rightSB: 20.72
+0xE135 martyriaNoteDiLow
+	width: 738
+	leftSB: 343.56
+	rightSB: 62.68
+0xE136 martyriaNoteKeLow
+	width: 784
+	leftSB: 413.56
+	rightSB: 39.84
+0xE137 martyriaNoteZo
+	width: 783
+	leftSB: 343.56
+	rightSB: 62.44
+0xE138 martyriaNoteNi
+	width: 731
+	leftSB: 302.4
+	rightSB: 38.84
+0xE139 martyriaNotePa
+	width: 737
+	leftSB: 302.4
+	rightSB: 21.36
+0xE13A martyriaNoteVou
+	width: 701
+	leftSB: 342.4
+	rightSB: 63.96
+0xE13B martyriaNoteGa
+	width: 692
+	leftSB: 302.4
+	rightSB: 20.72
+0xE13C martyriaNoteDi
+	width: 738
+	leftSB: 343.56
+	rightSB: 62.68
+0xE13D martyriaNoteKe
+	width: 784
+	leftSB: 363.56
+	rightSB: 89.84
+0xE13E martyriaNoteZoHigh
+	width: 931
+	leftSB: 343.56
+	rightSB: 15.64
+0xE13F martyriaNoteNiHigh
+	width: 879
+	leftSB: 302.4
+	rightSB: 15.64
+0xE140 martyriaNotePaHigh
+	width: 885
+	leftSB: 302.4
+	rightSB: 15.64
+0xE141 martyriaNoteVouHigh
+	width: 849
+	leftSB: 342.4
+	rightSB: 15.64
+0xE142 martyriaNoteGaHigh
+	width: 840
+	leftSB: 302.4
+	rightSB: 15.64
+0xE143 martyriaNoteDiHigh
+	width: 886
+	leftSB: 343.56
+	rightSB: 15.64
+0xE144 martyriaNoteKeHigh
+	width: 894
+	leftSB: 363.56
+	rightSB: 15.64
+0xE145 martyriaTick
+	width: 165
+	leftSB: 21.0
+	rightSB: 32.64
+0xE150 martyriaZoBelow
+	width: 0
+	leftSB: -337.36
+	rightSB: -307.6
+0xE151 martyriaDeltaBelow
+	width: 0
+	leftSB: -267.2
+	rightSB: -235.08
+0xE152 martyriaAlphaBelow
+	width: 0
+	leftSB: -152.8
+	rightSB: -240.44
+0xE153 martyriaLegetosBelow
+	width: 0
+	leftSB: -200.48
+	rightSB: -234.52
+0xE154 martyriaNanaBelow
+	width: 0
+	leftSB: -300.4
+	rightSB: -303.96
+0xE155 martyriaDeltaDottedBelow
+	width: 0
+	leftSB: -267.2
+	rightSB: -235.08
+0xE156 martyriaAlphaDottedBelow
+	width: 0
+	leftSB: -191.08
+	rightSB: -240.44
+0xE157 martyriaHardChromaticPaBelow
+	width: 0
+	leftSB: -265.0
+	rightSB: -257.0
+0xE158 martyriaHardChromaticDiBelow
+	width: 0
+	leftSB: -341.0
+	rightSB: -342.24
+0xE159 martyriaSoftChromaticDiBelow
+	width: 0
+	leftSB: -265.0
+	rightSB: -257.0
+0xE15A martyriaSoftChromaticKeBelow
+	width: 0
+	leftSB: -207.2
+	rightSB: -195.32
+0xE15B martyriaZygosBelow
+	width: 0
+	leftSB: -218.36
+	rightSB: -206.28
+0xE170 martyriaZoAbove
+	width: 0
+	leftSB: -337.36
+	rightSB: -307.6
+0xE171 martyriaDeltaAbove
+	width: 0
+	leftSB: -267.2
+	rightSB: -235.08
+0xE172 martyriaAlphaAbove
+	width: 0
+	leftSB: -152.8
+	rightSB: -240.44
+0xE173 martyriaLegetosAbove
+	width: 0
+	leftSB: -200.48
+	rightSB: -234.52
+0xE174 martyriaNanaAbove
+	width: 0
+	leftSB: -300.4
+	rightSB: -303.96
+0xE175 martyriaDeltaDottedAbove
+	width: 0
+	leftSB: -267.2
+	rightSB: -235.08
+0xE176 martyriaAlphaDottedAbove
+	width: 0
+	leftSB: -191.08
+	rightSB: -240.44
+0xE177 martyriaHardChromaticPaAbove
+	width: 0
+	leftSB: -265.0
+	rightSB: -257.0
+0xE178 martyriaHardChromaticDiAbove
+	width: 0
+	leftSB: -341.0
+	rightSB: -342.24
+0xE179 martyriaSoftChromaticDiAbove
+	width: 0
+	leftSB: -265.0
+	rightSB: -257.0
+0xE17A martyriaSoftChromaticKeAbove
+	width: 0
+	leftSB: -207.2
+	rightSB: -195.32
+0xE17B martyriaZygosAbove
+	width: 0
+	leftSB: -218.36
+	rightSB: -206.28
+0xE190 fthoraDiatonicNiLowAbove
+	width: 0
+	leftSB: -138.0
+	rightSB: -160.12
+0xE191 fthoraDiatonicPaAbove
+	width: 0
+	leftSB: -100.25
+	rightSB: -101.64
+0xE192 fthoraDiatonicVouAbove
+	width: 0
+	leftSB: -134.48
+	rightSB: -113.76
+0xE193 fthoraDiatonicGaAbove
+	width: 0
+	leftSB: -108.12
+	rightSB: -108.8
+0xE194 fthoraDiatonicDiAbove
+	width: 0
+	leftSB: -340.97
+	rightSB: -341.32
+0xE195 fthoraDiatonicKeAbove
+	width: 0
+	leftSB: -119.24
+	rightSB: -120.88
+0xE196 fthoraDiatonicZoAbove
+	width: 0
+	leftSB: -125.62
+	rightSB: -130.0
+0xE197 fthoraDiatonicNiHighAbove
+	width: 0
+	leftSB: -137.0
+	rightSB: -161.12
+0xE198 fthoraHardChromaticPaAbove
+	width: 0
+	leftSB: -333.93
+	rightSB: -332.32
+0xE199 fthoraHardChromaticDiAbove
+	width: 0
+	leftSB: -332.8
+	rightSB: -349.49
+0xE19A fthoraSoftChromaticDiAbove
+	width: 0
+	leftSB: -429.53
+	rightSB: -396.52
+0xE19B fthoraSoftChromaticKeAbove
+	width: 0
+	leftSB: -307.72
+	rightSB: -302.28
+0xE19C fthoraEnharmonicAbove
+	width: 0
+	leftSB: -158.32
+	rightSB: -169.96
+0xE19D chroaZygosAbove
+	width: 0
+	leftSB: -286.28
+	rightSB: -347.29
+0xE19E chroaKlitonAbove
+	width: 0
+	leftSB: -189.52
+	rightSB: -210.68
+0xE19F chroaSpathiAbove
+	width: 0
+	leftSB: -430.58
+	rightSB: -395.44
+0xE1A0 fthoraDiatonicNiLowSecondary
+	width: 0
+	leftSB: -138.0
+	rightSB: -160.12
+0xE1A1 fthoraDiatonicPaSecondary
+	width: 0
+	leftSB: -100.25
+	rightSB: -101.64
+0xE1A2 fthoraDiatonicVouSecondary
+	width: 0
+	leftSB: -134.48
+	rightSB: -113.76
+0xE1A3 fthoraDiatonicGaSecondary
+	width: 0
+	leftSB: -108.12
+	rightSB: -108.8
+0xE1A4 fthoraDiatonicDiSecondary
+	width: 0
+	leftSB: -340.97
+	rightSB: -341.32
+0xE1A5 fthoraDiatonicKeSecondary
+	width: 0
+	leftSB: -119.24
+	rightSB: -120.88
+0xE1A6 fthoraDiatonicZoSecondary
+	width: 0
+	leftSB: -125.62
+	rightSB: -130.0
+0xE1A7 fthoraDiatonicNiHighSecondary
+	width: 0
+	leftSB: -137.0
+	rightSB: -161.12
+0xE1A8 fthoraHardChromaticPaSecondary
+	width: 0
+	leftSB: -333.93
+	rightSB: -332.32
+0xE1A9 fthoraHardChromaticDiSecondary
+	width: 0
+	leftSB: -332.8
+	rightSB: -349.49
+0xE1AA fthoraSoftChromaticDiSecondary
+	width: 0
+	leftSB: -429.53
+	rightSB: -396.52
+0xE1AB fthoraSoftChromaticKeSecondary
+	width: 0
+	leftSB: -307.72
+	rightSB: -302.28
+0xE1AC fthoraEnharmonicSecondary
+	width: 0
+	leftSB: -158.32
+	rightSB: -169.96
+0xE1AD chroaZygosSecondary
+	width: 0
+	leftSB: -286.28
+	rightSB: -347.29
+0xE1AE chroaKlitonSecondary
+	width: 0
+	leftSB: -189.52
+	rightSB: -210.68
+0xE1AF chroaSpathiSecondary
+	width: 0
+	leftSB: -430.58
+	rightSB: -395.44
+0xE1B0 fthoraDiatonicNiLowTertiary
+	width: 0
+	leftSB: -138.0
+	rightSB: -160.12
+0xE1B1 fthoraDiatonicPaTertiary
+	width: 0
+	leftSB: -100.25
+	rightSB: -101.64
+0xE1B2 fthoraDiatonicVouTertiary
+	width: 0
+	leftSB: -134.48
+	rightSB: -113.76
+0xE1B3 fthoraDiatonicGaTertiary
+	width: 0
+	leftSB: -108.12
+	rightSB: -108.8
+0xE1B4 fthoraDiatonicDiTertiary
+	width: 0
+	leftSB: -340.97
+	rightSB: -341.32
+0xE1B5 fthoraDiatonicKeTertiary
+	width: 0
+	leftSB: -119.24
+	rightSB: -120.88
+0xE1B6 fthoraDiatonicZoTertiary
+	width: 0
+	leftSB: -125.62
+	rightSB: -130.0
+0xE1B7 fthoraDiatonicNiHighTertiary
+	width: 0
+	leftSB: -137.0
+	rightSB: -161.12
+0xE1B8 fthoraHardChromaticPaTertiary
+	width: 0
+	leftSB: -333.93
+	rightSB: -332.32
+0xE1B9 fthoraHardChromaticDiTertiary
+	width: 0
+	leftSB: -332.8
+	rightSB: -349.49
+0xE1BA fthoraSoftChromaticDiTertiary
+	width: 0
+	leftSB: -429.53
+	rightSB: -396.52
+0xE1BB fthoraSoftChromaticKeTertiary
+	width: 0
+	leftSB: -307.72
+	rightSB: -302.28
+0xE1BC fthoraEnharmonicTertiary
+	width: 0
+	leftSB: -158.32
+	rightSB: -169.96
+0xE1BD chroaZygosTertiary
+	width: 0
+	leftSB: -286.28
+	rightSB: -347.29
+0xE1BE chroaKlitonTertiary
+	width: 0
+	leftSB: -189.52
+	rightSB: -210.68
+0xE1BF chroaSpathiTertiary
+	width: 0
+	leftSB: -430.58
+	rightSB: -395.44
+0xE1C0 fthoraDiatonicNiLowBelow
+	width: 0
+	leftSB: -138.0
+	rightSB: -160.12
+0xE1C1 fthoraDiatonicPaBelow
+	width: 0
+	leftSB: -100.25
+	rightSB: -101.64
+0xE1C2 fthoraDiatonicVouBelow
+	width: 0
+	leftSB: -134.48
+	rightSB: -113.76
+0xE1C3 fthoraDiatonicGaBelow
+	width: 0
+	leftSB: -108.12
+	rightSB: -108.8
+0xE1C4 fthoraDiatonicDiBelow
+	width: 0
+	leftSB: -340.97
+	rightSB: -341.32
+0xE1C5 fthoraDiatonicKeBelow
+	width: 0
+	leftSB: -119.24
+	rightSB: -120.88
+0xE1C6 fthoraDiatonicZoBelow
+	width: 0
+	leftSB: -125.62
+	rightSB: -130.0
+0xE1C7 fthoraDiatonicNiHighBelow
+	width: 0
+	leftSB: -137.0
+	rightSB: -161.12
+0xE1C8 fthoraHardChromaticPaBelow
+	width: 0
+	leftSB: -333.93
+	rightSB: -332.32
+0xE1C9 fthoraHardChromaticDiBelow
+	width: 0
+	leftSB: -332.8
+	rightSB: -349.49
+0xE1CA fthoraSoftChromaticDiBelow
+	width: 0
+	leftSB: -429.53
+	rightSB: -396.52
+0xE1CB fthoraSoftChromaticKeBelow
+	width: 0
+	leftSB: -307.72
+	rightSB: -302.28
+0xE1CC fthoraEnharmonicBelow
+	width: 0
+	leftSB: -158.32
+	rightSB: -169.96
+0xE1CD chroaZygosBelow
+	width: 0
+	leftSB: -286.28
+	rightSB: -347.29
+0xE1CE chroaKlitonBelow
+	width: 0
+	leftSB: -189.52
+	rightSB: -210.68
+0xE1CF chroaSpathiBelow
+	width: 0
+	leftSB: -430.58
+	rightSB: -395.44
+0xE1F0 diesis2
+	width: 0
+	leftSB: -186.08
+	rightSB: -190.92
+0xE1F1 diesis4
+	width: 0
+	leftSB: -199.6
+	rightSB: -177.4
+0xE1F2 diesis6
+	width: 0
+	leftSB: -282.32
+	rightSB: -149.2
+0xE1F3 diesis8
+	width: 0
+	leftSB: -470.32
+	rightSB: -13.2
+0xE1F4 diesisGenikiAbove
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE1F5 diesisGenikiBelow
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE1F6 diesis2Secondary
+	width: 0
+	leftSB: -186.08
+	rightSB: -190.92
+0xE1F7 diesis4Secondary
+	width: 0
+	leftSB: -199.6
+	rightSB: -177.4
+0xE1F8 diesis6Secondary
+	width: 0
+	leftSB: -282.32
+	rightSB: -149.2
+0xE1F9 diesis8Secondary
+	width: 0
+	leftSB: -470.32
+	rightSB: -13.2
+0xE1FA diesis2Tertiary
+	width: 0
+	leftSB: -186.08
+	rightSB: -190.92
+0xE1FB diesis4Tertiary
+	width: 0
+	leftSB: -199.6
+	rightSB: -177.4
+0xE1FC diesis6Tertiary
+	width: 0
+	leftSB: -282.32
+	rightSB: -149.2
+0xE1FD diesis8Tertiary
+	width: 0
+	leftSB: -470.32
+	rightSB: -13.2
+0xE1FE diesisGenikiSecondary
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE1FF diesisGenikiTertiary
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE200 yfesis2
+	width: 0
+	leftSB: -211.12
+	rightSB: -165.88
+0xE201 yfesis4
+	width: 0
+	leftSB: -132.6
+	rightSB: -244.4
+0xE202 yfesis6
+	width: 0
+	leftSB: -156.32
+	rightSB: -275.2
+0xE203 yfesis8
+	width: 0
+	leftSB: -161.32
+	rightSB: -322.2
+0xE204 yfesisGenikiAbove
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE205 yfesisGenikiBelow
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE206 yfesis2Secondary
+	width: 0
+	leftSB: -211.12
+	rightSB: -165.88
+0xE207 yfesis4Secondary
+	width: 0
+	leftSB: -132.6
+	rightSB: -244.4
+0xE208 yfesis6Secondary
+	width: 0
+	leftSB: -156.32
+	rightSB: -275.2
+0xE209 yfesis8Secondary
+	width: 0
+	leftSB: -161.32
+	rightSB: -322.2
+0xE20A yfesis2Tertiary
+	width: 0
+	leftSB: -211.12
+	rightSB: -165.88
+0xE20B yfesis4Tertiary
+	width: 0
+	leftSB: -132.6
+	rightSB: -244.4
+0xE20C yfesis6Tertiary
+	width: 0
+	leftSB: -156.32
+	rightSB: -275.2
+0xE20D yfesis8Tertiary
+	width: 0
+	leftSB: -161.32
+	rightSB: -322.2
+0xE20E yfesisGenikiSecondary
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE20F yfesisGenikiTertiary
+	width: 0
+	leftSB: -99.25
+	rightSB: -102.64
+0xE210 barlineSingle
+	width: 145
+	leftSB: 75.4
+	rightSB: 30.16
+0xE211 barlineDouble
+	width: 235
+	leftSB: 75.4
+	rightSB: 30.16
+0xE212 barlineTheseos
+	width: 145
+	leftSB: -112.0
+	rightSB: -160.0
+0xE213 barlineShortSingle
+	width: 125
+	leftSB: 56.52
+	rightSB: 29.04
+0xE214 barlineShortDouble
+	width: 215
+	leftSB: 63.52
+	rightSB: 29.04
+0xE215 barlineShortTheseos
+	width: 125
+	leftSB: -118.0
+	rightSB: -174.0
+0xE216 barlineSingleAbove
+	width: 145
+	leftSB: 75.4
+	rightSB: 30.16
+0xE217 barlineDoubleAbove
+	width: 235
+	leftSB: 75.4
+	rightSB: 30.16
+0xE218 barlineTheseosAbove
+	width: 145
+	leftSB: -112.0
+	rightSB: -160.0
+0xE219 barlineShortSingleAbove
+	width: 125
+	leftSB: 56.52
+	rightSB: 29.04
+0xE21A barlineShortDoubleAbove
+	width: 215
+	leftSB: 63.52
+	rightSB: 29.04
+0xE21B barlineShortTheseosAbove
+	width: 125
+	leftSB: -118.0
+	rightSB: -174.0
+0xE220 measureNumber2
+	width: 0
+	leftSB: 0.0
+	rightSB: -153.3
+0xE221 measureNumber3
+	width: 0
+	leftSB: 0.0
+	rightSB: -124.25
+0xE222 measureNumber4
+	width: 0
+	leftSB: 0.0
+	rightSB: -150.5
+0xE223 measureNumber5
+	width: 0
+	leftSB: 0.0
+	rightSB: -131.6
+0xE224 measureNumber6
+	width: 0
+	leftSB: 0.0
+	rightSB: -137.55
+0xE225 measureNumber7
+	width: 0
+	leftSB: 0.0
+	rightSB: -136.5
+0xE226 measureNumber8
+	width: 0
+	leftSB: 0.0
+	rightSB: -135.45
+0xE250 noteIndicatorNi
+	width: 0
+	leftSB: -100.64
+	rightSB: -90.76
+0xE251 noteIndicatorPa
+	width: 0
+	leftSB: -143.56
+	rightSB: -121.62
+0xE252 noteIndicatorVou
+	width: 0
+	leftSB: -82.24
+	rightSB: -69.72
+0xE253 noteIndicatorGa
+	width: 0
+	leftSB: -81.2
+	rightSB: -88.55
+0xE254 noteIndicatorDi
+	width: 0
+	leftSB: -119.08
+	rightSB: -95.52
+0xE255 noteIndicatorKe
+	width: 0
+	leftSB: -103.08
+	rightSB: -109.2
+0xE256 noteIndicatorZo
+	width: 0
+	leftSB: -129.53
+	rightSB: -113.28
+0xE260 isonIndicatorUnison
+	width: 0
+	leftSB: 0.0
+	rightSB: -602.14
+0xE261 isonIndicatorDiLow
+	width: 0
+	leftSB: 0.0
+	rightSB: -443.44
+0xE262 isonIndicatorKeLow
+	width: 0
+	leftSB: 0.0
+	rightSB: -455.4
+0xE263 isonIndicatorZo
+	width: 0
+	leftSB: 0.0
+	rightSB: -396.52
+0xE264 isonIndicatorNi
+	width: 0
+	leftSB: 0.0
+	rightSB: -550.16
+0xE265 isonIndicatorPa
+	width: 0
+	leftSB: 0.0
+	rightSB: -547.86
+0xE266 isonIndicatorVou
+	width: 0
+	leftSB: 0.0
+	rightSB: -503.7
+0xE267 isonIndicatorGa
+	width: 0
+	leftSB: 0.0
+	rightSB: -455.86
+0xE268 isonIndicatorDi
+	width: 0
+	leftSB: 0.0
+	rightSB: -492.66
+0xE269 isonIndicatorKe
+	width: 0
+	leftSB: 0.0
+	rightSB: -517.5
+0xE26A isonIndicatorZoHigh
+	width: 0
+	leftSB: 0.0
+	rightSB: -482.08
+0xE280 gorthmikon
+	width: 612
+	leftSB: 58.2
+	rightSB: 27.3
+0xE281 pelastikon
+	width: 620
+	leftSB: 52.1
+	rightSB: 46.8
+0xE2A0 modeFirst
+	width: 980
+	leftSB: 442.4
+	rightSB: 63.16
+0xE2A8 modeSecond
+	width: 1542
+	leftSB: 320.4
+	rightSB: 66.24
+0xE2B0 modeThird
+	width: 2071
+	leftSB: 481.24
+	rightSB: 365.96
+0xE2B1 modeThirdNana
+	width: 1020
+	leftSB: 362.4
+	rightSB: 53.24
+0xE2B8 modeFourth
+	width: 980
+	leftSB: 332.4
+	rightSB: 145.32
+0xE2BA modeLegetos
+	width: 1609
+	leftSB: 254.0
+	rightSB: 83.3
+0xE2C0 modePlagalFirst
+	width: 945
+	leftSB: 398.64
+	rightSB: 71.92
+0xE2C8 modePlagalSecond
+	width: 1134
+	leftSB: 440.84
+	rightSB: 62.12
+0xE2D0 modeVarys
+	width: 1442
+	leftSB: 336.23
+	rightSB: 71.52
+0xE2D1 modeVarys2
+	width: 923
+	leftSB: 162.4
+	rightSB: 115.64
+0xE2D8 modePlagalFourth
+	width: 930
+	leftSB: 322.4
+	rightSB: 105.32
+0xE2E0 modeNi
+	width: 1113
+	leftSB: 307.0
+	rightSB: 107.88
+0xE2E1 modePa
+	width: 1216
+	leftSB: 329.0
+	rightSB: 156.02
+0xE2E2 modeVou
+	width: 1309
+	leftSB: 309.0
+	rightSB: 92.94
+0xE2E3 modeGa
+	width: 1005
+	leftSB: 329.0
+	rightSB: 75.22
+0xE2E4 modeDi
+	width: 1039
+	leftSB: 333.0
+	rightSB: 196.98
+0xE2E5 modeKe
+	width: 1073
+	leftSB: 333.0
+	rightSB: 131.78
+0xE2E6 modeZo
+	width: 1142
+	leftSB: 333.0
+	rightSB: 95.38
+0xE2E7 modeOligonKentimaAbove
+	width: 0
+	leftSB: -607.8
+	rightSB: -628.92
+0xE2E8 modeOligonYpsili
+	width: 0
+	leftSB: -607.8
+	rightSB: -646.32
+0xE2E9 modeElafron
+	width: 0
+	leftSB: -598.8
+	rightSB: -638.58
+0xE2EA modeRunningElafron
+	width: 0
+	leftSB: -938.8
+	rightSB: -1006.18
+0xE2F0 modePlagal
+	width: 775
+	leftSB: 360.4
+	rightSB: 32.96
+0xE2F1 modeWordEchos
+	width: 1506
+	leftSB: 8.06
+	rightSB: 83.1
+0xE2F2 modeWordVarys
+	width: 1892
+	leftSB: 331.0
+	rightSB: 157.32
+0xE2F3 modeAlpha
+	width: 1046
+	leftSB: 296.0
+	rightSB: 63.66
+0xE2F4 modeBeta
+	width: 1058
+	leftSB: 344.0
+	rightSB: 58.66
+0xE2F5 modeGamma
+	width: 1068
+	leftSB: 344.0
+	rightSB: 60.6
+0xE2F6 modeDelta
+	width: 1074
+	leftSB: 344.0
+	rightSB: 59.78
+0xE2F7 modeAlphaCapital
+	width: 1114
+	leftSB: 294.0
+	rightSB: 59.26
+0xE2F8 modeBetaCapital
+	width: 1080
+	leftSB: 294.0
+	rightSB: 58.74
+0xE2F9 modeGammaCapital
+	width: 1068
+	leftSB: 346.0
+	rightSB: 59.22
+0xE2FA modeDeltaCapital
+	width: 1078
+	leftSB: 292.0
+	rightSB: 59.98
+0xF000 oligonKentimataBelow.alt01
+	width: 1352
+	leftSB: 81.07
+	rightSB: 34.24
+0xF001 oligonKentimataAbove.alt01
+	width: 1465
+	leftSB: 82.22
+	rightSB: 89.96
+0xF002 antikenoma.alt01
+	width: 0
+	leftSB: -550.68
+	rightSB: -532.76
+0xF003 modeFirst.salt01
+	width: 980
+	leftSB: 442.4
+	rightSB: 63.16
+0xF004 modeFourth.salt01
+	width: 980
+	leftSB: 332.4
+	rightSB: 145.32
+0xF005 oligonKentimataBelow.alt02
+	width: 1750
+	leftSB: 360.22
+	rightSB: 86.95
+0xF006 psifiston.salt01
+	width: 0
+	leftSB: -759.88
+	rightSB: -759.88
+0xF007 heteronConnecting.salt01
+	width: 0
+	leftSB: -664.45
+	rightSB: -688.45
+0xF008 psifiston.alt01
+	width: 0
+	leftSB: -390.24
+	rightSB: -839.77
