@@ -1,19 +1,19 @@
 0xE000 ison
-	width: 1324
-	leftSB: 81.2
-	rightSB: 35.24
+	width: 1268
+	leftSB: 30.0
+	rightSB: 30.44
 0xE001 oligon
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE002 oligonKentimaMiddle
-	width: 1647
-	leftSB: 82.2
+	width: 1592
+	leftSB: 31.0
 	rightSB: 34.16
 0xE003 oligonKentimaBelow
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE004 oligonKentimaAbove
 	width: 1353
 	leftSB: 82.2
@@ -91,21 +91,21 @@
 	leftSB: 81.2
 	rightSB: 34.44
 0xE021 apostrofos
-	width: 789
-	leftSB: 81.2
-	rightSB: 33.84
+	width: 734
+	leftSB: 30.0
+	rightSB: 30.04
 0xE022 apostrofosSyndesmos
-	width: 1671
-	leftSB: 81.2
-	rightSB: 34.24
+	width: 1616
+	leftSB: 30.0
+	rightSB: 30.44
 0xE023 yporroi
 	width: 496
 	leftSB: 93.35
 	rightSB: 92.32
 0xE024 elafron
-	width: 1352
-	leftSB: 81.2
-	rightSB: 33.42
+	width: 1297
+	leftSB: 30.0
+	rightSB: 29.62
 0xE025 runningElafron
 	width: 2060
 	leftSB: 81.2
@@ -151,13 +151,13 @@
 	leftSB: 82.36
 	rightSB: -63.0
 0xE040 petastiIson
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE041 petasti
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE042 petastiOligon
 	width: 1357
 	leftSB: 81.2
@@ -263,17 +263,17 @@
 	leftSB: 82.36
 	rightSB: 34.36
 0xE082 oligonKentimataBelow
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE083 oligonKentimataAbove
 	width: 1353
 	leftSB: 82.2
 	rightSB: 34.08
 0xE084 oligonIsonKentimata
-	width: 1503
-	leftSB: 81.99
-	rightSB: 34.44
+	width: 1444
+	leftSB: 30.0
+	rightSB: 27.43
 0xE085 oligonKentimaMiddleKentimata
 	width: 1647
 	leftSB: 82.2
@@ -311,9 +311,9 @@
 	leftSB: 81.2
 	rightSB: 34.48
 0xE0A0 vareia
-	width: 584
-	leftSB: 81.2
-	rightSB: -290.64
+	width: 532
+	leftSB: 30.0
+	rightSB: -291.44
 0xE0A1 psifiston
 	width: 0
 	leftSB: -510.24
@@ -591,17 +591,17 @@
 	leftSB: 302.4
 	rightSB: 21.36
 0xE133 martyriaNoteVouLow
-	width: 701
-	leftSB: 342.4
-	rightSB: 63.96
+	width: 422
+	leftSB: 64.0
+	rightSB: 63.36
 0xE134 martyriaNoteGaLow
 	width: 692
 	leftSB: 302.4
 	rightSB: 20.72
 0xE135 martyriaNoteDiLow
-	width: 738
-	leftSB: 343.56
-	rightSB: 62.68
+	width: 456
+	leftSB: 62.0
+	rightSB: 62.24
 0xE136 martyriaNoteKeLow
 	width: 784
 	leftSB: 413.56
@@ -619,17 +619,17 @@
 	leftSB: 302.4
 	rightSB: 21.36
 0xE13A martyriaNoteVou
-	width: 701
-	leftSB: 342.4
-	rightSB: 63.96
+	width: 422
+	leftSB: 64.0
+	rightSB: 63.36
 0xE13B martyriaNoteGa
 	width: 692
 	leftSB: 302.4
 	rightSB: 20.72
 0xE13C martyriaNoteDi
-	width: 738
-	leftSB: 343.56
-	rightSB: 62.68
+	width: 456
+	leftSB: 62.0
+	rightSB: 62.24
 0xE13D martyriaNoteKe
 	width: 784
 	leftSB: 363.56
@@ -647,17 +647,17 @@
 	leftSB: 302.4
 	rightSB: 15.64
 0xE141 martyriaNoteVouHigh
-	width: 849
-	leftSB: 342.4
-	rightSB: 15.64
+	width: 587
+	leftSB: 64.0
+	rightSB: 32.64
 0xE142 martyriaNoteGaHigh
 	width: 840
 	leftSB: 302.4
 	rightSB: 15.64
 0xE143 martyriaNoteDiHigh
-	width: 886
-	leftSB: 343.56
-	rightSB: 15.64
+	width: 621
+	leftSB: 62.0
+	rightSB: 32.64
 0xE144 martyriaNoteKeHigh
 	width: 894
 	leftSB: 363.56
@@ -1147,9 +1147,9 @@
 	leftSB: -99.25
 	rightSB: -102.64
 0xE210 barlineSingle
-	width: 145
-	leftSB: 75.4
-	rightSB: 30.16
+	width: 90
+	leftSB: 25.0
+	rightSB: 25.56
 0xE211 barlineDouble
 	width: 235
 	leftSB: 75.4

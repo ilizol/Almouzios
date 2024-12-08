@@ -2391,7 +2391,7 @@ StartChar: i
 Encoding: 105 105 33
 Width: 609
 GlyphClass: 1
-Flags: WO
+Flags: W
 LayerCount: 2
 Back
 SplineSet

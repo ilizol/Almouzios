@@ -84,7 +84,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 6
+WinInfo: 28 14 6
 BeginChars: 65542 110
 
 StartChar: .notdef
