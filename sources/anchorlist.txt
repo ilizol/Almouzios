@@ -1859,8 +1859,8 @@
 	('fthoraTop', 'base', 713.62, 940.0)
 	('modeTop', 'base', 696.62, 981.0)
 0xE2E4 modeDi
-	('fthoraTop', 'base', 680.529, 850.0)
-	('modeTop', 'base', 663.529, 891.0)
+	('fthoraTop', 'base', 497.529, 850.0)
+	('modeTop', 'base', 480.529, 891.0)
 0xE2E5 modeKe
 	('fthoraTop', 'base', 733.24, 940.0)
 	('modeTop', 'base', 716.24, 981.0)

@@ -6848,11 +6848,11 @@
     },
     "modeDi": {
       "fthoraTop": [
-        0.681,
+        0.498,
         0.85
       ],
       "modeTop": [
-        0.664,
+        0.481,
         0.891
       ]
     },
@@ -7804,12 +7804,12 @@
     "modeGamma": 1.068,
     "modeDelta": 1.074,
     "modeFirst": 0.98,
-    "modeSecond": 1.542,
+    "modeSecond": 1.455,
     "modeLegetos": 1.609,
     "modeVarys2": 0.923,
     "modeVou": 1.309,
     "modeGa": 1.005,
-    "modeDi": 1.039,
+    "modeDi": 0.809,
     "modeKe": 1.073,
     "modeZo": 1.142,
     "modeOligonKentimaAbove": 0.0,
@@ -10527,11 +10527,11 @@
     },
     "modeSecond": {
       "bBoxNE": [
-        1.476,
+        1.305,
         0.917
       ],
       "bBoxSW": [
-        0.32,
+        0.15,
         0.452
       ]
     },
@@ -10577,11 +10577,11 @@
     },
     "modeDi": {
       "bBoxNE": [
-        0.842,
+        0.659,
         0.776
       ],
       "bBoxSW": [
-        0.333,
+        0.15,
         0.366
       ]
     },

@@ -1307,9 +1307,9 @@
 	leftSB: 442.4
 	rightSB: 63.16
 0xE2A8 modeSecond
-	width: 1542
-	leftSB: 320.4
-	rightSB: 66.24
+	width: 1455
+	leftSB: 150.0
+	rightSB: 149.64
 0xE2B0 modeThird
 	width: 2071
 	leftSB: 481.24
@@ -1363,9 +1363,9 @@
 	leftSB: 329.0
 	rightSB: 75.22
 0xE2E4 modeDi
-	width: 1039
-	leftSB: 333.0
-	rightSB: 196.98
+	width: 809
+	leftSB: 150.0
+	rightSB: 149.98
 0xE2E5 modeKe
 	width: 1073
 	leftSB: 333.0
