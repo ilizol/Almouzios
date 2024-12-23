@@ -7,89 +7,89 @@
 	leftSB: 31.0
 	rightSB: 30.28
 0xE002 oligonKentimaMiddle
-	width: 1592
+	width: 1583
 	leftSB: 31.0
-	rightSB: 34.16
+	rightSB: 29.72
 0xE003 oligonKentimaBelow
 	width: 1298
 	leftSB: 31.0
 	rightSB: 30.28
 0xE004 oligonKentimaAbove
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE005 oligonYpsiliRight
-	width: 1371
-	leftSB: 82.2
-	rightSB: 34.68
+	width: 1316
+	leftSB: 31.0
+	rightSB: 30.88
 0xE006 oligonYpsiliLeft
-	width: 1353
-	leftSB: 81.2
-	rightSB: 34.08
+	width: 1299
+	leftSB: 31.0
+	rightSB: 30.28
 0xE007 oligonKentimaYpsiliRight
-	width: 1371
-	leftSB: 82.2
-	rightSB: 34.68
+	width: 1316
+	leftSB: 31.0
+	rightSB: 30.88
 0xE008 oligonKentimaYpsiliMiddle
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE009 oligonDoubleYpsili
-	width: 1371
-	leftSB: 81.2
-	rightSB: 34.68
+	width: 1317
+	leftSB: 31.0
+	rightSB: 30.88
 0xE00A oligonKentimataDoubleYpsili
-	width: 1533
-	leftSB: 81.99
-	rightSB: 34.28
+	width: 1478
+	leftSB: 31.0
+	rightSB: 30.27
 0xE00B oligonKentimaDoubleYpsiliRight
-	width: 1371
-	leftSB: 82.2
-	rightSB: 34.68
+	width: 1316
+	leftSB: 31.0
+	rightSB: 30.88
 0xE00C oligonKentimaDoubleYpsiliLeft
-	width: 1503
-	leftSB: 81.2
-	rightSB: 34.44
+	width: 1449
+	leftSB: 31.0
+	rightSB: 30.64
 0xE00D oligonTripleYpsili
-	width: 1626
-	leftSB: 81.2
-	rightSB: 34.48
+	width: 1571
+	leftSB: 31.0
+	rightSB: 29.68
 0xE00E oligonKentimataTripleYpsili
-	width: 1533
-	leftSB: 81.2
-	rightSB: 34.28
+	width: 1479
+	leftSB: 31.0
+	rightSB: 30.48
 0xE00F oligonKentimaTripleYpsili
-	width: 1503
-	leftSB: 81.2
-	rightSB: 34.44
+	width: 1449
+	leftSB: 31.0
+	rightSB: 30.64
 0xE010 oligonIson
-	width: 1353
-	leftSB: 81.2
-	rightSB: 34.08
+	width: 1299
+	leftSB: 31.0
+	rightSB: 30.28
 0xE011 oligonApostrofos
-	width: 1352
-	leftSB: 81.07
-	rightSB: 34.24
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.31
 0xE012 oligonYporroi
-	width: 1352
-	leftSB: 81.07
-	rightSB: 34.24
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.31
 0xE013 oligonElafron
-	width: 1352
-	leftSB: 81.07
-	rightSB: 34.24
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.31
 0xE014 oligonElafronApostrofos
-	width: 1352
-	leftSB: 81.07
-	rightSB: 34.24
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.31
 0xE015 oligonChamili
-	width: 1503
-	leftSB: 81.2
-	rightSB: 34.44
+	width: 1449
+	leftSB: 31.0
+	rightSB: 30.64
 0xE020 isonApostrofos
-	width: 1648
-	leftSB: 81.2
-	rightSB: 34.44
+	width: 1592
+	leftSB: 30.0
+	rightSB: 29.64
 0xE021 apostrofos
 	width: 734
 	leftSB: 30.0
@@ -99,57 +99,57 @@
 	leftSB: 30.0
 	rightSB: 30.44
 0xE023 yporroi
-	width: 496
-	leftSB: 93.35
-	rightSB: 92.32
+	width: 370
+	leftSB: 30.0
+	rightSB: 29.67
 0xE024 elafron
 	width: 1297
 	leftSB: 30.0
 	rightSB: 29.62
 0xE025 runningElafron
-	width: 2060
-	leftSB: 81.2
-	rightSB: 33.81
+	width: 2004
+	leftSB: 30.0
+	rightSB: 29.02
 0xE026 elafronApostrofos
-	width: 1352
-	leftSB: 81.2
-	rightSB: 33.42
+	width: 1297
+	leftSB: 30.0
+	rightSB: 29.62
 0xE027 chamili
-	width: 1397
-	leftSB: 82.36
-	rightSB: 34.0
+	width: 1342
+	leftSB: 31.0
+	rightSB: 30.36
 0xE028 chamiliApostrofos
-	width: 1397
-	leftSB: 81.2
-	rightSB: 34.0
+	width: 1343
+	leftSB: 31.0
+	rightSB: 30.2
 0xE029 chamiliElafron
-	width: 1455
-	leftSB: 82.36
-	rightSB: 33.78
+	width: 1400
+	leftSB: 31.0
+	rightSB: 30.14
 0xE02A chamiliElafronApostrofos
-	width: 1455
-	leftSB: 82.36
-	rightSB: 33.18
+	width: 1401
+	leftSB: 31.0
+	rightSB: 30.53
 0xE02B doubleChamili
-	width: 1490
-	leftSB: 82.36
-	rightSB: 34.2
+	width: 1435
+	leftSB: 31.0
+	rightSB: 30.56
 0xE02C doubleChamiliApostrofos
-	width: 1396
-	leftSB: 82.36
-	rightSB: -59.8
+	width: 1344
+	leftSB: 31.0
+	rightSB: -60.44
 0xE02D doubleChamiliElafron
-	width: 1502
-	leftSB: 82.36
-	rightSB: 46.2
+	width: 1435
+	leftSB: 31.0
+	rightSB: 30.56
 0xE02E doubleChamiliElafronApostrofos
-	width: 1502
-	leftSB: 82.36
-	rightSB: 46.2
+	width: 1435
+	leftSB: 31.0
+	rightSB: 30.56
 0xE02F tripleChamili
-	width: 1490
-	leftSB: 82.36
-	rightSB: -63.0
+	width: 1441
+	leftSB: 31.0
+	rightSB: -60.64
 0xE040 petastiIson
 	width: 1301
 	leftSB: 30.0
@@ -159,157 +159,157 @@
 	leftSB: 30.0
 	rightSB: 29.8
 0xE042 petastiOligon
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE043 petastiKentima
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE044 petastiYpsiliRight
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE045 petastiYpsiliLeft
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE046 petastiKentimaYpsiliRight
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE047 petastiKentimaYpsiliMiddle
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE048 petastiDoubleYpsili
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE049 petastiKentimataDoubleYpsili
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE04A petastiKentimaDoubleYpsiliRight
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE04B petastiKentimaDoubleYpsiliLeft
-	width: 1357
-	leftSB: 41.2
-	rightSB: 34.6
+	width: 1341
+	leftSB: 30.0
+	rightSB: 29.8
 0xE04C petastiTripleYpsili
-	width: 1459
-	leftSB: 81.2
-	rightSB: 34.52
+	width: 1403
+	leftSB: 30.0
+	rightSB: 29.72
 0xE04D petastiKentimataTripleYpsili
-	width: 1459
-	leftSB: 41.2
-	rightSB: 34.52
+	width: 1443
+	leftSB: 30.0
+	rightSB: 29.72
 0xE04E petastiKentimaTripleYpsili
-	width: 1459
-	leftSB: 41.2
-	rightSB: 34.52
+	width: 1443
+	leftSB: 30.0
+	rightSB: 29.72
 0xE060 petastiApostrofos
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE061 petastiYporroi
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE062 petastiElafron
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE063 petastiRunningElafron
-	width: 2030
-	leftSB: 81.2
-	rightSB: 34.8
+	width: 1974
+	leftSB: 30.0
+	rightSB: 30.0
 0xE064 petastiElafronApostrofos
-	width: 1357
-	leftSB: 81.2
-	rightSB: 34.6
+	width: 1301
+	leftSB: 30.0
+	rightSB: 29.8
 0xE065 petastiChamili
-	width: 1357
-	leftSB: -56.84
-	rightSB: 34.6
+	width: 1349
+	leftSB: -60.0
+	rightSB: 29.76
 0xE066 petastiChamiliApostrofos
-	width: 1357
-	leftSB: 81.2
-	rightSB: -6.0
+	width: 1301
+	leftSB: 30.0
+	rightSB: -10.8
 0xE067 petastiChamiliElafron
-	width: 1357
-	leftSB: 81.2
-	rightSB: -6.0
+	width: 1301
+	leftSB: 30.0
+	rightSB: -10.8
 0xE068 petastiChamiliElafronApostrofos
-	width: 1357
-	leftSB: 81.2
-	rightSB: -6.0
+	width: 1301
+	leftSB: 30.0
+	rightSB: -10.8
 0xE069 petastiDoubleChamili
-	width: 1357
-	leftSB: -56.84
-	rightSB: 34.6
+	width: 1349
+	leftSB: -60.0
+	rightSB: 29.76
 0xE06A petastiDoubleChamiliApostrofos
-	width: 1357
-	leftSB: 81.2
-	rightSB: -98.8
+	width: 1304
+	leftSB: 30.0
+	rightSB: -100.6
 0xE080 kentima
-	width: 294
-	leftSB: -10.44
-	rightSB: 34.16
+	width: 285
+	leftSB: -15.0
+	rightSB: 29.72
 0xE081 kentimata
-	width: 619
-	leftSB: 82.36
-	rightSB: 34.36
+	width: 564
+	leftSB: 31.0
+	rightSB: 30.72
 0xE082 oligonKentimataBelow
 	width: 1298
 	leftSB: 31.0
 	rightSB: 30.28
 0xE083 oligonKentimataAbove
-	width: 1353
-	leftSB: 82.2
-	rightSB: 34.08
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xE084 oligonIsonKentimata
-	width: 1444
-	leftSB: 30.0
-	rightSB: 27.43
+	width: 1448
+	leftSB: 31.0
+	rightSB: 30.43
 0xE085 oligonKentimaMiddleKentimata
-	width: 1647
-	leftSB: 82.2
-	rightSB: 34.16
+	width: 1582
+	leftSB: 31.0
+	rightSB: 28.72
 0xE086 oligonYpsiliRightKentimata
-	width: 1533
-	leftSB: 81.99
-	rightSB: 34.28
+	width: 1478
+	leftSB: 31.0
+	rightSB: 30.27
 0xE087 oligonYpsiliLeftKentimata
-	width: 1538
-	leftSB: 81.2
-	rightSB: 34.65
+	width: 1484
+	leftSB: 31.0
+	rightSB: 30.84
 0xE088 oligonApostrofosKentimata
-	width: 1503
-	leftSB: 81.2
-	rightSB: 34.44
+	width: 1449
+	leftSB: 31.0
+	rightSB: 30.64
 0xE089 oligonYporroiKentimata
-	width: 1503
-	leftSB: 81.99
-	rightSB: 34.44
+	width: 1448
+	leftSB: 31.0
+	rightSB: 30.43
 0xE08A oligonElafronKentimata
-	width: 1505
-	leftSB: 82.36
-	rightSB: 34.12
+	width: 1450
+	leftSB: 31.0
+	rightSB: 30.48
 0xE08B oligonRunningElafronKentimata
-	width: 1965
-	leftSB: 80.04
-	rightSB: 33.6
+	width: 1913
+	leftSB: 31.0
+	rightSB: 30.64
 0xE08C oligonElafronApostrofosKentimata
-	width: 1503
-	leftSB: 81.99
-	rightSB: 34.44
+	width: 1448
+	leftSB: 31.0
+	rightSB: 30.43
 0xE08D oligonChamiliKentimata
-	width: 1626
-	leftSB: 81.2
-	rightSB: 34.48
+	width: 1572
+	leftSB: 31.0
+	rightSB: 30.68
 0xE0A0 vareia
 	width: 532
 	leftSB: 30.0
