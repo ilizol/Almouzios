@@ -1303,77 +1303,77 @@
 	leftSB: 52.1
 	rightSB: 46.8
 0xE2A0 modeFirst
-	width: 980
-	leftSB: 442.4
-	rightSB: 63.16
+	width: 774
+	leftSB: 150.0
+	rightSB: 149.56
 0xE2A8 modeSecond
 	width: 1455
 	leftSB: 150.0
 	rightSB: 149.64
 0xE2B0 modeThird
-	width: 2071
-	leftSB: 481.24
-	rightSB: 365.96
+	width: 1523
+	leftSB: 150.0
+	rightSB: 149.2
 0xE2B1 modeThirdNana
-	width: 1020
-	leftSB: 362.4
-	rightSB: 53.24
+	width: 904
+	leftSB: 150.0
+	rightSB: 149.64
 0xE2B8 modeFourth
-	width: 980
-	leftSB: 332.4
-	rightSB: 145.32
+	width: 802
+	leftSB: 150.0
+	rightSB: 149.72
 0xE2BA modeLegetos
-	width: 1609
-	leftSB: 254.0
-	rightSB: 83.3
+	width: 1571
+	leftSB: 150.0
+	rightSB: 149.3
 0xE2C0 modePlagalFirst
-	width: 945
-	leftSB: 398.64
-	rightSB: 71.92
+	width: 774
+	leftSB: 150.0
+	rightSB: 149.56
 0xE2C8 modePlagalSecond
-	width: 1134
-	leftSB: 440.84
-	rightSB: 62.12
+	width: 931
+	leftSB: 150.0
+	rightSB: 149.96
 0xE2D0 modeVarys
-	width: 1442
-	leftSB: 336.23
-	rightSB: 71.52
+	width: 1334
+	leftSB: 150.0
+	rightSB: 149.75
 0xE2D1 modeVarys2
-	width: 923
-	leftSB: 162.4
-	rightSB: 115.64
+	width: 944
+	leftSB: 150.0
+	rightSB: 149.04
 0xE2D8 modePlagalFourth
-	width: 930
-	leftSB: 322.4
-	rightSB: 105.32
+	width: 802
+	leftSB: 150.0
+	rightSB: 149.72
 0xE2E0 modeNi
-	width: 1113
-	leftSB: 307.0
-	rightSB: 107.88
+	width: 998
+	leftSB: 150.0
+	rightSB: 149.88
 0xE2E1 modePa
-	width: 1216
-	leftSB: 329.0
-	rightSB: 156.02
+	width: 1030
+	leftSB: 150.0
+	rightSB: 149.02
 0xE2E2 modeVou
-	width: 1309
-	leftSB: 309.0
-	rightSB: 92.94
+	width: 1207
+	leftSB: 150.0
+	rightSB: 149.94
 0xE2E3 modeGa
-	width: 1005
-	leftSB: 329.0
-	rightSB: 75.22
+	width: 900
+	leftSB: 150.0
+	rightSB: 149.22
 0xE2E4 modeDi
 	width: 809
 	leftSB: 150.0
 	rightSB: 149.98
 0xE2E5 modeKe
-	width: 1073
-	leftSB: 333.0
-	rightSB: 131.78
+	width: 908
+	leftSB: 150.0
+	rightSB: 149.78
 0xE2E6 modeZo
-	width: 1142
-	leftSB: 333.0
-	rightSB: 95.38
+	width: 1013
+	leftSB: 150.0
+	rightSB: 149.38
 0xE2E7 modeOligonKentimaAbove
 	width: 0
 	leftSB: -607.8
@@ -1391,49 +1391,49 @@
 	leftSB: -938.8
 	rightSB: -1006.18
 0xE2F0 modePlagal
-	width: 775
-	leftSB: 360.4
-	rightSB: 32.96
+	width: 681
+	leftSB: 150.0
+	rightSB: 149.36
 0xE2F1 modeWordEchos
 	width: 1506
 	leftSB: 8.06
 	rightSB: 83.1
 0xE2F2 modeWordVarys
-	width: 1892
-	leftSB: 331.0
-	rightSB: 157.32
+	width: 1703
+	leftSB: 150.0
+	rightSB: 149.32
 0xE2F3 modeAlpha
-	width: 1046
-	leftSB: 296.0
-	rightSB: 63.66
+	width: 986
+	leftSB: 150.0
+	rightSB: 149.66
 0xE2F4 modeBeta
-	width: 1058
-	leftSB: 344.0
-	rightSB: 58.66
+	width: 955
+	leftSB: 150.0
+	rightSB: 149.66
 0xE2F5 modeGamma
-	width: 1068
-	leftSB: 344.0
-	rightSB: 60.6
+	width: 963
+	leftSB: 150.0
+	rightSB: 149.6
 0xE2F6 modeDelta
-	width: 1074
-	leftSB: 344.0
-	rightSB: 59.78
+	width: 970
+	leftSB: 150.0
+	rightSB: 149.78
 0xE2F7 modeAlphaCapital
-	width: 1114
-	leftSB: 294.0
-	rightSB: 59.26
+	width: 1060
+	leftSB: 150.0
+	rightSB: 149.26
 0xE2F8 modeBetaCapital
-	width: 1080
-	leftSB: 294.0
-	rightSB: 58.74
+	width: 1027
+	leftSB: 150.0
+	rightSB: 149.74
 0xE2F9 modeGammaCapital
-	width: 1068
-	leftSB: 346.0
-	rightSB: 59.22
+	width: 962
+	leftSB: 150.0
+	rightSB: 149.22
 0xE2FA modeDeltaCapital
-	width: 1078
-	leftSB: 292.0
-	rightSB: 59.98
+	width: 1026
+	leftSB: 150.0
+	rightSB: 149.98
 0xF000 oligonKentimataBelow.alt01
 	width: 1352
 	leftSB: 81.07
@@ -1447,13 +1447,13 @@
 	leftSB: -550.68
 	rightSB: -532.76
 0xF003 modeFirst.salt01
-	width: 980
-	leftSB: 442.4
-	rightSB: 63.16
+	width: 774
+	leftSB: 150.0
+	rightSB: 149.56
 0xF004 modeFourth.salt01
-	width: 980
-	leftSB: 332.4
-	rightSB: 145.32
+	width: 802
+	leftSB: 150.0
+	rightSB: 149.72
 0xF005 oligonKentimataBelow.alt02
 	width: 1750
 	leftSB: 360.22
