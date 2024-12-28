@@ -1540,18 +1540,18 @@
 	('martyriaBottom', 'base', 283.44, -257.0)
 0xE145 martyriaTick
 0xF000 oligonKentimataBelow.alt01
-	('barline', 'base', 277.0, 590.0)
-	('koronis', 'base', 686.0, 801.0)
-	('measureNumber', 'base', 82.0, 753.0)
-	('fthoraBottom', 'base', 384.0, 160.0)
-	('diesis', 'base', 400.0, 133.0)
-	('gorgonTop', 'base', 763.0, 505.0)
-	('klasmaTop', 'base', 793.0, 487.0)
-	('yfesis', 'base', 1316.0, 619.0)
-	('fthoraTop', 'base', 743.0, 515.0)
-	('noteTop', 'base', 262.0, 561.0)
-	('isonIndicator', 'base', 82.0, 877.0)
-	('psifiston', 'base', 840.0, 113.0)
+	('barline', 'base', 277.0, 360.0)
+	('koronis', 'base', 686.0, 571.0)
+	('measureNumber', 'base', 82.0, 523.0)
+	('fthoraBottom', 'base', 384.0, -70.0)
+	('diesis', 'base', 400.0, -97.0)
+	('gorgonTop', 'base', 763.0, 275.0)
+	('klasmaTop', 'base', 793.0, 257.0)
+	('yfesis', 'base', 1316.0, 389.0)
+	('fthoraTop', 'base', 743.0, 285.0)
+	('noteTop', 'base', 262.0, 331.0)
+	('isonIndicator', 'base', 82.0, 647.0)
+	('psifiston', 'base', 840.0, -117.0)
 0xF001 oligonKentimataAbove.alt01
 	('psifiston', 'base', 840.0, 113.0)
 0xF002 antikenoma.alt01
@@ -1831,11 +1831,11 @@
 0xE2C8 modePlagalSecond
 0xE2D8 modePlagalFourth
 0xE2E0 modeNi
-	('fthoraTop', 'base', 636.48, 940.0)
-	('modeTop', 'base', 619.48, 981.0)
+	('fthoraTop', 'base', 636.48, 710.0)
+	('modeTop', 'base', 619.48, 751.0)
 0xE2E1 modePa
-	('fthoraTop', 'base', 633.19, 850.0)
-	('modeTop', 'base', 616.19, 891.0)
+	('fthoraTop', 'base', 633.19, 620.0)
+	('modeTop', 'base', 616.19, 661.0)
 0xE2F7 modeAlphaCapital
 0xE2F8 modeBetaCapital
 0xE2F9 modeGammaCapital
@@ -1853,20 +1853,20 @@
 0xE2BA modeLegetos
 0xE2D1 modeVarys2
 0xE2E2 modeVou
-	('fthoraTop', 'base', 684.62, 940.0)
-	('modeTop', 'base', 667.62, 981.0)
+	('fthoraTop', 'base', 684.62, 710.0)
+	('modeTop', 'base', 667.62, 751.0)
 0xE2E3 modeGa
-	('fthoraTop', 'base', 534.62, 940.0)
-	('modeTop', 'base', 517.62, 981.0)
+	('fthoraTop', 'base', 534.62, 710.0)
+	('modeTop', 'base', 517.62, 751.0)
 0xE2E4 modeDi
-	('fthoraTop', 'base', 497.529, 850.0)
-	('modeTop', 'base', 480.529, 891.0)
+	('fthoraTop', 'base', 497.529, 620.0)
+	('modeTop', 'base', 480.529, 661.0)
 0xE2E5 modeKe
-	('fthoraTop', 'base', 550.24, 940.0)
-	('modeTop', 'base', 533.24, 981.0)
+	('fthoraTop', 'base', 550.24, 710.0)
+	('modeTop', 'base', 533.24, 751.0)
 0xE2E6 modeZo
-	('fthoraTop', 'base', 570.64, 940.0)
-	('modeTop', 'base', 553.64, 981.0)
+	('fthoraTop', 'base', 570.64, 710.0)
+	('modeTop', 'base', 553.64, 751.0)
 0xE2E7 modeOligonKentimaAbove
 	('modeTop', 'mark', 0.0, 800.0)
 0xE2E9 modeElafron

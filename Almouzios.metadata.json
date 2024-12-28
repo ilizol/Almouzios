@@ -5927,51 +5927,51 @@
     "oligonKentimataBelow.alt01": {
       "barline": [
         0.277,
-        0.59
+        0.36
       ],
       "koronis": [
         0.686,
-        0.801
+        0.571
       ],
       "measureNumber": [
         0.082,
-        0.753
+        0.523
       ],
       "fthoraBottom": [
         0.384,
-        0.16
+        -0.07
       ],
       "diesis": [
         0.4,
-        0.133
+        -0.097
       ],
       "gorgonTop": [
         0.763,
-        0.505
+        0.275
       ],
       "klasmaTop": [
         0.793,
-        0.487
+        0.257
       ],
       "yfesis": [
         1.316,
-        0.619
+        0.389
       ],
       "fthoraTop": [
         0.743,
-        0.515
+        0.285
       ],
       "noteTop": [
         0.262,
-        0.561
+        0.331
       ],
       "isonIndicator": [
         0.082,
-        0.877
+        0.647
       ],
       "psifiston": [
         0.84,
-        0.113
+        -0.117
       ]
     },
     "oligonKentimataAbove.alt01": {
@@ -6809,71 +6809,71 @@
     "modeNi": {
       "fthoraTop": [
         0.636,
-        0.94
+        0.71
       ],
       "modeTop": [
         0.619,
-        0.981
+        0.751
       ]
     },
     "modePa": {
       "fthoraTop": [
         0.633,
-        0.85
+        0.62
       ],
       "modeTop": [
         0.616,
-        0.891
+        0.661
       ]
     },
     "modeVou": {
       "fthoraTop": [
         0.685,
-        0.94
+        0.71
       ],
       "modeTop": [
         0.668,
-        0.981
+        0.751
       ]
     },
     "modeGa": {
       "fthoraTop": [
         0.535,
-        0.94
+        0.71
       ],
       "modeTop": [
         0.518,
-        0.981
+        0.751
       ]
     },
     "modeDi": {
       "fthoraTop": [
         0.498,
-        0.85
+        0.62
       ],
       "modeTop": [
         0.481,
-        0.891
+        0.661
       ]
     },
     "modeKe": {
       "fthoraTop": [
         0.55,
-        0.94
+        0.71
       ],
       "modeTop": [
         0.533,
-        0.981
+        0.751
       ]
     },
     "modeZo": {
       "fthoraTop": [
         0.571,
-        0.94
+        0.71
       ],
       "modeTop": [
         0.554,
-        0.981
+        0.751
       ]
     },
     "modeOligonKentimaAbove": {
@@ -9078,11 +9078,11 @@
     "oligonKentimataBelow.alt01": {
       "bBoxNE": [
         1.318,
-        0.404
+        0.174
       ],
       "bBoxSW": [
         0.081,
-        -0.026
+        -0.256
       ]
     },
     "oligonKentimataAbove.alt01": {
@@ -10308,41 +10308,41 @@
     "modeThirdNana": {
       "bBoxNE": [
         0.754,
-        0.679
+        0.449
       ],
       "bBoxSW": [
         0.15,
-        0.149
+        -0.081
       ]
     },
     "modeThird": {
       "bBoxNE": [
         1.374,
-        0.713
+        0.483
       ],
       "bBoxSW": [
         0.15,
-        0.049
+        -0.181
       ]
     },
     "modePlagalFirst": {
       "bBoxNE": [
         0.624,
-        0.806
+        0.576
       ],
       "bBoxSW": [
         0.15,
-        -0.023
+        -0.253
       ]
     },
     "modeFourth": {
       "bBoxNE": [
         0.652,
-        1.056
+        0.826
       ],
       "bBoxSW": [
         0.15,
-        -0.164
+        -0.394
       ]
     },
     "modeOligonYpsili": {
@@ -10358,251 +10358,251 @@
     "modePlagalSecond": {
       "bBoxNE": [
         0.781,
-        0.747
+        0.517
       ],
       "bBoxSW": [
         0.15,
-        0.398
+        0.168
       ]
     },
     "modePlagalFourth": {
       "bBoxNE": [
         0.652,
-        0.785
+        0.555
       ],
       "bBoxSW": [
         0.15,
-        0.066
+        -0.164
       ]
     },
     "modeNi": {
       "bBoxNE": [
         0.848,
-        0.773
+        0.543
       ],
       "bBoxSW": [
         0.15,
-        0.226
+        -0.004
       ]
     },
     "modePa": {
       "bBoxNE": [
         0.881,
-        0.773
+        0.543
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeAlphaCapital": {
       "bBoxNE": [
         0.911,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeBetaCapital": {
       "bBoxNE": [
         0.877,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeGammaCapital": {
       "bBoxNE": [
         0.813,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeDeltaCapital": {
       "bBoxNE": [
         0.876,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeVarys": {
       "bBoxNE": [
         1.184,
-        0.563
+        0.333
       ],
       "bBoxSW": [
         0.15,
-        0.041
+        -0.189
       ]
     },
     "modePlagal": {
       "bBoxNE": [
         0.532,
-        0.969
+        0.739
       ],
       "bBoxSW": [
         0.15,
-        0.093
+        -0.137
       ]
     },
     "modeWordVarys": {
       "bBoxNE": [
         1.554,
-        0.83
+        0.6
       ],
       "bBoxSW": [
         0.15,
-        0.225
+        -0.005
       ]
     },
     "modeAlpha": {
       "bBoxNE": [
         0.836,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeBeta": {
       "bBoxNE": [
         0.805,
-        0.83
+        0.6
       ],
       "bBoxSW": [
         0.15,
-        0.225
+        -0.005
       ]
     },
     "modeWordEchos": {
       "bBoxNE": [
         1.423,
-        0.841
+        0.611
       ],
       "bBoxSW": [
         0.008,
-        0.223
+        -0.007
       ]
     },
     "modeGamma": {
       "bBoxNE": [
         0.813,
-        0.822
+        0.592
       ],
       "bBoxSW": [
         0.15,
-        0.225
+        -0.005
       ]
     },
     "modeDelta": {
       "bBoxNE": [
         0.82,
-        0.833
+        0.603
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeFirst": {
       "bBoxNE": [
         0.624,
-        1.114
+        0.884
       ],
       "bBoxSW": [
         0.15,
-        -0.213
+        -0.443
       ]
     },
     "modeSecond": {
       "bBoxNE": [
         1.305,
-        0.917
+        0.687
       ],
       "bBoxSW": [
         0.15,
-        0.452
+        0.222
       ]
     },
     "modeLegetos": {
       "bBoxNE": [
         1.422,
-        0.753
+        0.523
       ],
       "bBoxSW": [
         0.15,
-        0.297
+        0.067
       ]
     },
     "modeVarys2": {
       "bBoxNE": [
         0.795,
-        0.413
+        0.183
       ],
       "bBoxSW": [
         0.15,
-        -0.389
+        -0.619
       ]
     },
     "modeVou": {
       "bBoxNE": [
         1.057,
-        0.771
+        0.541
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeGa": {
       "bBoxNE": [
         0.751,
-        0.776
+        0.546
       ],
       "bBoxSW": [
         0.15,
-        0.365
+        0.135
       ]
     },
     "modeDi": {
       "bBoxNE": [
         0.659,
-        0.776
+        0.546
       ],
       "bBoxSW": [
         0.15,
-        0.366
+        0.136
       ]
     },
     "modeKe": {
       "bBoxNE": [
         0.758,
-        0.773
+        0.543
       ],
       "bBoxSW": [
         0.15,
-        0.363
+        0.133
       ]
     },
     "modeZo": {
       "bBoxNE": [
         0.864,
-        0.776
+        0.546
       ],
       "bBoxSW": [
         0.15,
-        0.366
+        0.136
       ]
     },
     "modeOligonKentimaAbove": {
@@ -10788,21 +10788,21 @@
     "modeFirst.salt01": {
       "bBoxNE": [
         0.624,
-        1.114
+        0.884
       ],
       "bBoxSW": [
         0.15,
-        -0.213
+        -0.443
       ]
     },
     "modeFourth.salt01": {
       "bBoxNE": [
         0.652,
-        1.056
+        0.826
       ],
       "bBoxSW": [
         0.15,
-        -0.164
+        -0.394
       ]
     },
     "oligonKentimataBelow.alt02": {
