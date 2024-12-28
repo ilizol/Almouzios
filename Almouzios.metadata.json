@@ -10658,61 +10658,61 @@
     "barlineSingle": {
       "bBoxNE": [
         0.064,
-        0.449
+        0.219
       ],
       "bBoxSW": [
         0.025,
-        0.13
+        -0.1
       ]
     },
     "barlineDouble": {
       "bBoxNE": [
         0.159,
-        0.449
+        0.219
       ],
       "bBoxSW": [
         0.03,
-        0.13
+        -0.1
       ]
     },
     "barlineTheseos": {
       "bBoxNE": [
         0.257,
-        0.581
+        0.351
       ],
       "bBoxSW": [
         -0.16,
-        0.13
+        -0.1
       ]
     },
     "barlineShortSingle": {
       "bBoxNE": [
         0.068,
-        0.853
+        0.623
       ],
       "bBoxSW": [
         0.029,
-        0.59
+        0.36
       ]
     },
     "barlineShortDouble": {
       "bBoxNE": [
         0.151,
-        0.853
+        0.623
       ],
       "bBoxSW": [
         0.029,
-        0.59
+        0.36
       ]
     },
     "barlineShortTheseos": {
       "bBoxNE": [
         0.243,
-        0.991
+        0.761
       ],
       "bBoxSW": [
         -0.174,
-        0.59
+        0.36
       ]
     },
     "breath": {
