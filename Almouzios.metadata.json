@@ -2,8 +2,8 @@
   "fontName": "Almouzios",
   "fontVersion": "1.000",
   "metrics": {
-    "winAscent": 1.0,
-    "winDescent": 0.2
+    "winAscent": 0.8,
+    "winDescent": 0.4
   },
   "glyphsWithAnchors": {
     "ison": {
