@@ -1831,11 +1831,11 @@
 0xE2C8 modePlagalSecond
 0xE2D8 modePlagalFourth
 0xE2E0 modeNi
-	('fthoraTop', 'base', 636.48, 708.0)
-	('modeTop', 'base', 619.48, 749.0)
+	('fthoraTop', 'base', 636.48, 568.0)
+	('modeTop', 'base', 619.48, 609.0)
 0xE2E1 modePa
-	('fthoraTop', 'base', 633.19, 618.0)
-	('modeTop', 'base', 616.19, 659.0)
+	('fthoraTop', 'base', 633.19, 478.0)
+	('modeTop', 'base', 616.19, 519.0)
 0xE2F7 modeAlphaCapital
 0xE2F8 modeBetaCapital
 0xE2F9 modeGammaCapital
@@ -1853,20 +1853,20 @@
 0xE2BA modeLegetos
 0xE2D1 modeVarys2
 0xE2E2 modeVou
-	('fthoraTop', 'base', 684.62, 708.0)
-	('modeTop', 'base', 667.62, 749.0)
+	('fthoraTop', 'base', 684.62, 568.0)
+	('modeTop', 'base', 667.62, 609.0)
 0xE2E3 modeGa
-	('fthoraTop', 'base', 534.62, 708.0)
-	('modeTop', 'base', 517.62, 749.0)
+	('fthoraTop', 'base', 534.62, 568.0)
+	('modeTop', 'base', 517.62, 609.0)
 0xE2E4 modeDi
-	('fthoraTop', 'base', 497.529, 618.0)
-	('modeTop', 'base', 480.529, 659.0)
+	('fthoraTop', 'base', 497.529, 478.0)
+	('modeTop', 'base', 480.529, 519.0)
 0xE2E5 modeKe
-	('fthoraTop', 'base', 550.24, 708.0)
-	('modeTop', 'base', 533.24, 749.0)
+	('fthoraTop', 'base', 550.24, 568.0)
+	('modeTop', 'base', 533.24, 609.0)
 0xE2E6 modeZo
-	('fthoraTop', 'base', 570.64, 708.0)
-	('modeTop', 'base', 553.64, 749.0)
+	('fthoraTop', 'base', 570.64, 568.0)
+	('modeTop', 'base', 553.64, 609.0)
 0xE2E7 modeOligonKentimaAbove
 	('modeTop', 'mark', 0.0, 800.0)
 0xE2E9 modeElafron

@@ -6809,71 +6809,71 @@
     "modeNi": {
       "fthoraTop": [
         0.636,
-        0.708
+        0.568
       ],
       "modeTop": [
         0.619,
-        0.749
+        0.609
       ]
     },
     "modePa": {
       "fthoraTop": [
         0.633,
-        0.618
+        0.478
       ],
       "modeTop": [
         0.616,
-        0.659
+        0.519
       ]
     },
     "modeVou": {
       "fthoraTop": [
         0.685,
-        0.708
+        0.568
       ],
       "modeTop": [
         0.668,
-        0.749
+        0.609
       ]
     },
     "modeGa": {
       "fthoraTop": [
         0.535,
-        0.708
+        0.568
       ],
       "modeTop": [
         0.518,
-        0.749
+        0.609
       ]
     },
     "modeDi": {
       "fthoraTop": [
         0.498,
-        0.618
+        0.478
       ],
       "modeTop": [
         0.481,
-        0.659
+        0.519
       ]
     },
     "modeKe": {
       "fthoraTop": [
         0.55,
-        0.708
+        0.568
       ],
       "modeTop": [
         0.533,
-        0.749
+        0.609
       ]
     },
     "modeZo": {
       "fthoraTop": [
         0.571,
-        0.708
+        0.568
       ],
       "modeTop": [
         0.554,
-        0.749
+        0.609
       ]
     },
     "modeOligonKentimaAbove": {
@@ -10378,61 +10378,61 @@
     "modeNi": {
       "bBoxNE": [
         0.848,
-        0.541
+        0.401
       ],
       "bBoxSW": [
         0.15,
-        -0.006
+        -0.146
       ]
     },
     "modePa": {
       "bBoxNE": [
         0.881,
-        0.541
+        0.401
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeAlphaCapital": {
       "bBoxNE": [
         0.911,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeBetaCapital": {
       "bBoxNE": [
         0.877,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeGammaCapital": {
       "bBoxNE": [
         0.813,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeDeltaCapital": {
       "bBoxNE": [
         0.876,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeVarys": {
@@ -10458,61 +10458,61 @@
     "modeWordVarys": {
       "bBoxNE": [
         1.554,
-        0.598
+        0.458
       ],
       "bBoxSW": [
         0.15,
-        -0.007
+        -0.147
       ]
     },
     "modeAlpha": {
       "bBoxNE": [
         0.836,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeBeta": {
       "bBoxNE": [
         0.805,
-        0.598
+        0.458
       ],
       "bBoxSW": [
         0.15,
-        -0.007
+        -0.147
       ]
     },
     "modeWordEchos": {
       "bBoxNE": [
         1.423,
-        0.609
+        0.469
       ],
       "bBoxSW": [
         0.008,
-        -0.009
+        -0.149
       ]
     },
     "modeGamma": {
       "bBoxNE": [
         0.813,
-        0.59
+        0.45
       ],
       "bBoxSW": [
         0.15,
-        -0.007
+        -0.147
       ]
     },
     "modeDelta": {
       "bBoxNE": [
         0.82,
-        0.601
+        0.461
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeFirst": {
@@ -10558,51 +10558,51 @@
     "modeVou": {
       "bBoxNE": [
         1.057,
-        0.539
+        0.399
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeGa": {
       "bBoxNE": [
         0.751,
-        0.544
+        0.404
       ],
       "bBoxSW": [
         0.15,
-        0.133
+        -0.007
       ]
     },
     "modeDi": {
       "bBoxNE": [
         0.659,
-        0.544
+        0.404
       ],
       "bBoxSW": [
         0.15,
-        0.134
+        -0.006
       ]
     },
     "modeKe": {
       "bBoxNE": [
         0.758,
-        0.541
+        0.401
       ],
       "bBoxSW": [
         0.15,
-        0.131
+        -0.009
       ]
     },
     "modeZo": {
       "bBoxNE": [
         0.864,
-        0.544
+        0.404
       ],
       "bBoxSW": [
         0.15,
-        0.134
+        -0.006
       ]
     },
     "modeOligonKentimaAbove": {
