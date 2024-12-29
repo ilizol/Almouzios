@@ -1435,9 +1435,9 @@
 	leftSB: 150.0
 	rightSB: 149.98
 0xF000 oligonKentimataBelow.alt01
-	width: 1352
-	leftSB: 81.07
-	rightSB: 34.24
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.31
 0xF001 oligonKentimataAbove.alt01
 	width: 1465
 	leftSB: 82.22

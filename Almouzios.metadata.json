@@ -5926,51 +5926,51 @@
     },
     "oligonKentimataBelow.alt01": {
       "barline": [
-        0.277,
+        0.227,
         0.358
       ],
       "koronis": [
-        0.686,
+        0.636,
         0.569
       ],
       "measureNumber": [
-        0.082,
+        0.032,
         0.521
       ],
       "fthoraBottom": [
-        0.384,
+        0.334,
         -0.072
       ],
       "diesis": [
-        0.4,
+        0.35,
         -0.099
       ],
       "gorgonTop": [
-        0.763,
+        0.713,
         0.273
       ],
       "klasmaTop": [
-        0.793,
+        0.743,
         0.255
       ],
       "yfesis": [
-        1.316,
+        1.266,
         0.387
       ],
       "fthoraTop": [
-        0.743,
+        0.693,
         0.283
       ],
       "noteTop": [
-        0.262,
+        0.212,
         0.329
       ],
       "isonIndicator": [
-        0.082,
+        0.032,
         0.645
       ],
       "psifiston": [
-        0.84,
+        0.79,
         -0.119
       ]
     },
@@ -7659,7 +7659,7 @@
     "martyriaNoteDiHigh": 0.651,
     "martyriaNoteKeHigh": 0.61,
     "martyriaTick": 0.0,
-    "oligonKentimataBelow.alt01": 1.352,
+    "oligonKentimataBelow.alt01": 1.298,
     "oligonKentimataAbove.alt01": 1.465,
     "antikenoma.alt01": 0.0,
     "petastiKentimaTripleYpsili": 1.443,
@@ -9077,11 +9077,11 @@
     },
     "oligonKentimataBelow.alt01": {
       "bBoxNE": [
-        1.318,
+        1.268,
         0.172
       ],
       "bBoxSW": [
-        0.081,
+        0.031,
         -0.258
       ]
     },
