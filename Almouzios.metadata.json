@@ -10328,11 +10328,11 @@
     "modePlagalFirst": {
       "bBoxNE": [
         0.624,
-        0.574
+        0.342
       ],
       "bBoxSW": [
         0.15,
-        -0.255
+        -0.487
       ]
     },
     "modeFourth": {
@@ -10358,21 +10358,21 @@
     "modePlagalSecond": {
       "bBoxNE": [
         0.781,
-        0.515
+        0.283
       ],
       "bBoxSW": [
         0.15,
-        0.166
+        -0.066
       ]
     },
     "modePlagalFourth": {
       "bBoxNE": [
         0.652,
-        0.553
+        0.321
       ],
       "bBoxSW": [
         0.15,
-        -0.166
+        -0.398
       ]
     },
     "modeNi": {
@@ -10528,21 +10528,21 @@
     "modeSecond": {
       "bBoxNE": [
         1.305,
-        0.685
+        0.453
       ],
       "bBoxSW": [
         0.15,
-        0.22
+        -0.012
       ]
     },
     "modeLegetos": {
       "bBoxNE": [
         1.422,
-        0.521
+        0.289
       ],
       "bBoxSW": [
         0.15,
-        0.065
+        -0.167
       ]
     },
     "modeVarys2": {
