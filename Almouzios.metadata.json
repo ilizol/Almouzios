@@ -7789,8 +7789,8 @@
     "modeOligonYpsili": 0.0,
     "modePlagalSecond": 0.931,
     "modePlagalFourth": 0.802,
-    "modeNi": 0.998,
-    "modePa": 1.03,
+    "modeNi": 1.048,
+    "modePa": 1.08,
     "modeAlphaCapital": 1.06,
     "modeBetaCapital": 1.027,
     "modeGammaCapital": 0.962,
@@ -7800,18 +7800,18 @@
     "modeWordVarys": 1.703,
     "modeAlpha": 0.986,
     "modeBeta": 0.955,
-    "modeWordEchos": 1.506,
+    "modeWordEchos": 1.544,
     "modeGamma": 0.963,
     "modeDelta": 0.97,
     "modeFirst": 0.774,
     "modeSecond": 1.455,
     "modeLegetos": 1.571,
     "modeVarys2": 0.944,
-    "modeVou": 1.207,
-    "modeGa": 0.9,
-    "modeDi": 0.809,
-    "modeKe": 0.908,
-    "modeZo": 1.013,
+    "modeVou": 1.257,
+    "modeGa": 0.95,
+    "modeDi": 0.859,
+    "modeKe": 0.958,
+    "modeZo": 1.063,
     "modeOligonKentimaAbove": 0.0,
     "modeElafron": 0.0,
     "modeRunningElafron": 0.0,
@@ -10318,11 +10318,11 @@
     "modeThird": {
       "bBoxNE": [
         1.374,
-        0.341
+        0.381
       ],
       "bBoxSW": [
         0.15,
-        -0.323
+        -0.283
       ]
     },
     "modePlagalFirst": {
@@ -10487,11 +10487,11 @@
     },
     "modeWordEchos": {
       "bBoxNE": [
-        1.423,
+        1.395,
         0.469
       ],
       "bBoxSW": [
-        0.008,
+        -0.02,
         -0.149
       ]
     },
@@ -10528,11 +10528,11 @@
     "modeSecond": {
       "bBoxNE": [
         1.305,
-        0.313
+        0.353
       ],
       "bBoxSW": [
         0.15,
-        -0.152
+        -0.112
       ]
     },
     "modeLegetos": {

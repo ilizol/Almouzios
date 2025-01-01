@@ -1347,33 +1347,33 @@
 	leftSB: 150.0
 	rightSB: 149.72
 0xE2E0 modeNi
-	width: 998
+	width: 1048
 	leftSB: 150.0
-	rightSB: 149.88
+	rightSB: 199.88
 0xE2E1 modePa
-	width: 1030
+	width: 1080
 	leftSB: 150.0
-	rightSB: 149.02
+	rightSB: 199.02
 0xE2E2 modeVou
-	width: 1207
+	width: 1257
 	leftSB: 150.0
-	rightSB: 149.94
+	rightSB: 199.94
 0xE2E3 modeGa
-	width: 900
+	width: 950
 	leftSB: 150.0
-	rightSB: 149.22
+	rightSB: 199.22
 0xE2E4 modeDi
-	width: 809
+	width: 859
 	leftSB: 150.0
-	rightSB: 149.98
+	rightSB: 199.98
 0xE2E5 modeKe
-	width: 908
+	width: 958
 	leftSB: 150.0
-	rightSB: 149.78
+	rightSB: 199.78
 0xE2E6 modeZo
-	width: 1013
+	width: 1063
 	leftSB: 150.0
-	rightSB: 149.38
+	rightSB: 199.38
 0xE2E7 modeOligonKentimaAbove
 	width: 0
 	leftSB: -607.8
@@ -1395,9 +1395,9 @@
 	leftSB: 150.0
 	rightSB: 149.36
 0xE2F1 modeWordEchos
-	width: 1506
-	leftSB: 8.06
-	rightSB: 83.1
+	width: 1544
+	leftSB: -20.0
+	rightSB: 149.16
 0xE2F2 modeWordVarys
 	width: 1703
 	leftSB: 150.0
