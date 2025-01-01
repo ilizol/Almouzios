@@ -7557,7 +7557,7 @@
     "oligonDoubleYpsili": 1.317,
     "oligonKentimataDoubleYpsili": 1.478,
     "isonApostrofos": 1.592,
-    "apostrofosSyndesmos": 1.616,
+    "apostrofosSyndesmos": 1.615,
     "yporroi": 0.37,
     "runningElafron": 2.004,
     "elafron": 1.297,
@@ -7600,7 +7600,7 @@
     "oligonKentimaMiddleKentimata": 1.583,
     "oligonYpsiliRightKentimata": 1.478,
     "petastiChamiliApostrofos": 1.301,
-    "apostrofos": 0.734,
+    "apostrofos": 0.733,
     "oligonKentimataTripleYpsili": 1.479,
     "doubleChamiliElafronApostrofos": 1.435,
     "doubleChamiliElafron": 1.435,
@@ -7663,7 +7663,7 @@
     "oligonKentimataAbove.alt01": 1.465,
     "antikenoma.alt01": 0.0,
     "petastiKentimaTripleYpsili": 1.443,
-    "vareia": 0.532,
+    "vareia": 0.423,
     "psifiston": 0.0,
     "antikenoma": 0.0,
     "omalon": 0.0,
@@ -9117,11 +9117,11 @@
     },
     "vareia": {
       "bBoxNE": [
-        0.823,
+        0.693,
         0.299
       ],
       "bBoxSW": [
-        0.03,
+        -0.1,
         -0.325
       ]
     },
