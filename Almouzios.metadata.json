@@ -1,6 +1,6 @@
 {
   "fontName": "Almouzios",
-  "fontVersion": "1.000",
+  "fontVersion": "1.0.0",
   "metrics": {
     "winAscent": 0.88,
     "winDescent": 0.44
@@ -7060,82 +7060,82 @@
     },
     "agogiPoliArgiAbove": {
       "agogiAboveFthora": [
-        0.434,
-        -0.203
+        0.0,
+        -0.2
       ],
       "agogi": [
-        0.433,
-        -0.203
+        0.0,
+        -0.2
       ]
     },
     "agogiArgoteriAbove": {
       "agogi": [
-        0.468,
-        -0.203
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.466,
-        -0.208
+        0.0,
+        -0.2
       ]
     },
     "agogiArgiAbove": {
       "agogi": [
-        0.46,
-        -0.229
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.458,
-        -0.227
+        0.0,
+        -0.2
       ]
     },
     "agogiMetriaAbove": {
       "agogi": [
-        0.334,
-        -0.226
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.333,
-        -0.227
+        0.0,
+        -0.2
       ]
     },
     "agogiMesiAbove": {
       "agogi": [
-        0.335,
-        -0.226
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.333,
-        -0.227
+        0.0,
+        -0.2
       ]
     },
     "agogiGorgiAbove": {
       "agogi": [
-        0.332,
-        -0.226
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.334,
-        -0.227
+        0.0,
+        -0.2
       ]
     },
     "agogiGorgoteriAbove": {
       "agogi": [
-        0.359,
-        -0.214
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.36,
-        -0.215
+        0.0,
+        -0.2
       ]
     },
     "agogiPoliGorgiAbove": {
       "agogi": [
-        0.39,
-        -0.208
+        0.0,
+        -0.2
       ],
       "agogiAboveFthora": [
-        0.389,
-        -0.208
+        0.0,
+        -0.2
       ]
     },
     "fthoraDiatonicNiLowSecondary": {
@@ -7422,38 +7422,38 @@
     },
     "barlineShortSingleAbove": {
       "barline": [
-        0.047,
+        0.0,
         0.59
       ]
     },
     "barlineSingleAbove": {
       "barline": [
-        0.051,
+        0.0,
         0.13
       ]
     },
     "barlineDoubleAbove": {
       "barline": [
-        0.096,
+        0.0,
         0.13
       ]
     },
     "barlineTheseosAbove": {
       "barline": [
-        0.048,
+        0.0,
         0.13
       ]
     },
     "barlineShortDoubleAbove": {
       "barline": [
-        0.09,
+        0.0,
         0.59
       ]
     },
     "barlineShortTheseosAbove": {
       "barline": [
-        0.031,
-        0.589
+        0.0,
+        0.59
       ]
     },
     "diesis2Secondary": {
@@ -7506,7 +7506,7 @@
     },
     "stavrosAbove": {
       "stavros": [
-        0.261,
+        0.0,
         0.124
       ]
     }
@@ -7844,14 +7844,14 @@
     "oligonChamiliKentimata": 1.572,
     "psifiston.salt01": 0.0,
     "heteronConnecting.salt01": 0.0,
-    "agogiPoliArgiAbove": 0.659,
-    "agogiArgoteriAbove": 0.659,
-    "agogiArgiAbove": 0.659,
-    "agogiMetriaAbove": 0.497,
-    "agogiMesiAbove": 0.698,
-    "agogiGorgiAbove": 0.583,
-    "agogiGorgoteriAbove": 0.811,
-    "agogiPoliGorgiAbove": 1.033,
+    "agogiPoliArgiAbove": 0.0,
+    "agogiArgoteriAbove": 0.0,
+    "agogiArgiAbove": 0.0,
+    "agogiMetriaAbove": 0.0,
+    "agogiMesiAbove": 0.0,
+    "agogiGorgiAbove": 0.0,
+    "agogiGorgoteriAbove": 0.0,
+    "agogiPoliGorgiAbove": 0.0,
     "fthoraDiatonicNiLowSecondary": 0.0,
     "fthoraDiatonicPaSecondary": 0.0,
     "fthoraDiatonicVouSecondary": 0.0,
@@ -7899,12 +7899,12 @@
     "digorgonDottedLeftSecondary": 0.0,
     "trigorgonDottedLeftSecondary": 0.0,
     "psifiston.alt01": 0.0,
-    "barlineShortSingleAbove": 0.097,
-    "barlineSingleAbove": 0.099,
-    "barlineDoubleAbove": 0.189,
-    "barlineTheseosAbove": 0.097,
-    "barlineShortDoubleAbove": 0.18,
-    "barlineShortTheseosAbove": 0.069,
+    "barlineShortSingleAbove": 0.0,
+    "barlineSingleAbove": 0.0,
+    "barlineDoubleAbove": 0.0,
+    "barlineTheseosAbove": 0.0,
+    "barlineShortDoubleAbove": 0.0,
+    "barlineShortTheseosAbove": 0.0,
     "diesis2Secondary": 0.0,
     "diesis4Secondary": 0.0,
     "diesis6Secondary": 0.0,
@@ -7913,7 +7913,7 @@
     "diesis4Tertiary": 0.0,
     "diesis6Tertiary": 0.0,
     "diesis8Tertiary": 0.0,
-    "stavrosAbove": 0.457
+    "stavrosAbove": 0.0
   },
   "optionalGlyphs": {
     "oligonKentimataBelow.alt01": {
@@ -10927,81 +10927,81 @@
     },
     "agogiPoliArgiAbove": {
       "bBoxNE": [
-        0.582,
+        0.15,
         0.896
       ],
       "bBoxSW": [
-        -0.192,
+        -0.625,
         -0.197
       ]
     },
     "agogiArgoteriAbove": {
       "bBoxNE": [
-        0.624,
+        0.15,
         0.745
       ],
       "bBoxSW": [
-        0.216,
+        -0.259,
         -0.197
       ]
     },
     "agogiArgiAbove": {
       "bBoxNE": [
-        0.62,
+        0.149,
         0.733
       ],
       "bBoxSW": [
-        0.041,
+        -0.43,
         -0.197
       ]
     },
     "agogiMetriaAbove": {
       "bBoxNE": [
-        0.465,
+        0.149,
         0.583
       ],
       "bBoxSW": [
-        0.057,
+        -0.259,
         -0.197
       ]
     },
     "agogiMesiAbove": {
       "bBoxNE": [
-        0.636,
+        0.3,
         0.583
       ],
       "bBoxSW": [
-        -0.016,
+        -0.352,
         -0.197
       ]
     },
     "agogiGorgiAbove": {
       "bBoxNE": [
-        0.555,
+        0.219,
         0.583
       ],
       "bBoxSW": [
-        0.19,
+        -0.145,
         -0.197
       ]
     },
     "agogiGorgoteriAbove": {
       "bBoxNE": [
-        0.765,
+        0.4,
         0.733
       ],
       "bBoxSW": [
-        0.22,
+        -0.145,
         -0.197
       ]
     },
     "agogiPoliGorgiAbove": {
       "bBoxNE": [
-        0.982,
+        0.596,
         0.896
       ],
       "bBoxSW": [
-        0.24,
+        -0.145,
         -0.197
       ]
     },
@@ -11477,61 +11477,61 @@
     },
     "barlineShortSingleAbove": {
       "bBoxNE": [
-        0.068,
+        0.019,
         0.853
       ],
       "bBoxSW": [
-        0.029,
+        -0.02,
         0.59
       ]
     },
     "barlineSingleAbove": {
       "bBoxNE": [
-        0.069,
+        0.019,
         0.449
       ],
       "bBoxSW": [
-        0.03,
+        -0.02,
         0.13
       ]
     },
     "barlineDoubleAbove": {
       "bBoxNE": [
-        0.159,
+        0.064,
         0.449
       ],
       "bBoxSW": [
-        0.03,
+        -0.065,
         0.13
       ]
     },
     "barlineTheseosAbove": {
       "bBoxNE": [
-        0.257,
+        0.209,
         0.581
       ],
       "bBoxSW": [
-        -0.16,
+        -0.208,
         0.13
       ]
     },
     "barlineShortDoubleAbove": {
       "bBoxNE": [
-        0.151,
+        0.061,
         0.853
       ],
       "bBoxSW": [
-        0.029,
+        -0.061,
         0.59
       ]
     },
     "barlineShortTheseosAbove": {
       "bBoxNE": [
-        0.243,
+        0.21,
         0.991
       ],
       "bBoxSW": [
-        -0.174,
+        -0.207,
         0.59
       ]
     },
@@ -11617,11 +11617,11 @@
     },
     "stavrosAbove": {
       "bBoxNE": [
-        0.443,
+        0.182,
         0.454
       ],
       "bBoxSW": [
-        0.094,
+        -0.167,
         0.125
       ]
     }

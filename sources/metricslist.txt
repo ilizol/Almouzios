@@ -359,9 +359,9 @@
 	leftSB: 22.2
 	rightSB: 44.8
 0xE0C8 stavrosAbove
-	width: 457
-	leftSB: 93.8
-	rightSB: 14.04
+	width: 0
+	leftSB: -167.0
+	rightSB: -182.16
 0xE0D0 klasmaAbove
 	width: 0
 	leftSB: -199.52
@@ -547,37 +547,37 @@
 	leftSB: 170.44
 	rightSB: 55.16
 0xE128 agogiPoliArgiAbove
-	width: 659
-	leftSB: -192.4
-	rightSB: 76.52
+	width: 0
+	leftSB: -625.0
+	rightSB: -149.88
 0xE129 agogiArgoteriAbove
-	width: 659
-	leftSB: 215.6
-	rightSB: 34.52
+	width: 0
+	leftSB: -259.0
+	rightSB: -149.88
 0xE12A agogiArgiAbove
-	width: 659
-	leftSB: 41.11
-	rightSB: 38.56
+	width: 0
+	leftSB: -430.0
+	rightSB: -149.33
 0xE12B agogiMetriaAbove
-	width: 497
-	leftSB: 56.76
-	rightSB: 31.92
+	width: 0
+	leftSB: -259.0
+	rightSB: -149.32
 0xE12C agogiMesiAbove
-	width: 698
-	leftSB: -16.4
-	rightSB: 62.48
+	width: 0
+	leftSB: -352.0
+	rightSB: -299.92
 0xE12D agogiGorgiAbove
-	width: 583
-	leftSB: 190.44
-	rightSB: 28.16
+	width: 0
+	leftSB: -145.0
+	rightSB: -219.4
 0xE12E agogiGorgoteriAbove
-	width: 811
-	leftSB: 220.44
-	rightSB: 46.0
+	width: 0
+	leftSB: -145.0
+	rightSB: -399.56
 0xE12F agogiPoliGorgiAbove
-	width: 1033
-	leftSB: 240.44
-	rightSB: 51.16
+	width: 0
+	leftSB: -145.0
+	rightSB: -596.4
 0xE130 martyriaNoteZoLow
 	width: 697
 	leftSB: 160.0
@@ -1171,29 +1171,29 @@
 	leftSB: -174.0
 	rightSB: -174.0
 0xE216 barlineSingleAbove
-	width: 99
-	leftSB: 30.0
-	rightSB: 29.56
+	width: 0
+	leftSB: -20.0
+	rightSB: -19.44
 0xE217 barlineDoubleAbove
-	width: 189
-	leftSB: 30.0
-	rightSB: 29.56
+	width: 0
+	leftSB: -65.0
+	rightSB: -64.44
 0xE218 barlineTheseosAbove
-	width: 97
-	leftSB: -160.0
-	rightSB: -160.0
+	width: 0
+	leftSB: -208.0
+	rightSB: -209.0
 0xE219 barlineShortSingleAbove
-	width: 97
-	leftSB: 29.0
-	rightSB: 28.56
+	width: 0
+	leftSB: -20.0
+	rightSB: -19.44
 0xE21A barlineShortDoubleAbove
-	width: 180
-	leftSB: 29.0
-	rightSB: 28.56
+	width: 0
+	leftSB: -61.5
+	rightSB: -60.94
 0xE21B barlineShortTheseosAbove
-	width: 69
-	leftSB: -174.0
-	rightSB: -174.0
+	width: 0
+	leftSB: -207.0
+	rightSB: -210.0
 0xE220 measureNumber2
 	width: 0
 	leftSB: 0.0
