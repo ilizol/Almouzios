@@ -351,13 +351,13 @@
 	leftSB: -636.52
 	rightSB: -633.68
 0xE0C0 stavros
-	width: 457
-	leftSB: 93.8
-	rightSB: 14.04
+	width: 410
+	leftSB: 30.0
+	rightSB: 30.84
 0xE0C1 breath
-	width: 241
-	leftSB: 22.2
-	rightSB: 44.8
+	width: 234
+	leftSB: 30.0
+	rightSB: 30.0
 0xE0C8 stavrosAbove
 	width: 0
 	leftSB: -167.0
@@ -391,25 +391,25 @@
 	leftSB: -450.4
 	rightSB: -445.87
 0xE0E0 leimma1
-	width: 857
+	width: 854
 	leftSB: 30.0
-	rightSB: 33.56
+	rightSB: 30.56
 0xE0E1 leimma2
-	width: 988
+	width: 986
 	leftSB: 30.0
-	rightSB: 32.06
+	rightSB: 30.06
 0xE0E2 leimma3
-	width: 1186
+	width: 1184
 	leftSB: 30.0
-	rightSB: 32.86
+	rightSB: 30.86
 0xE0E3 leimma4
-	width: 1384
+	width: 1381
 	leftSB: 30.0
-	rightSB: 33.66
+	rightSB: 30.66
 0xE0E4 leimmaDot
-	width: 299
-	leftSB: 40.16
-	rightSB: 59.06
+	width: 260
+	leftSB: 30.0
+	rightSB: 30.22
 0xE0F0 gorgonAbove
 	width: 0
 	leftSB: -255.68
@@ -515,37 +515,37 @@
 	leftSB: -326.36
 	rightSB: -320.92
 0xE120 agogiPoliArgi
-	width: 659
-	leftSB: -154.4
-	rightSB: 38.52
+	width: 355
+	leftSB: -450.0
+	rightSB: 30.12
 0xE121 agogiArgoteri
-	width: 659
-	leftSB: 211.6
-	rightSB: 38.52
+	width: 355
+	leftSB: -84.0
+	rightSB: 30.12
 0xE122 agogiArgi
-	width: 659
-	leftSB: 41.11
-	rightSB: 38.56
+	width: 355
+	leftSB: -255.0
+	rightSB: 30.67
 0xE123 agogiMetria
-	width: 497
-	leftSB: 56.76
-	rightSB: 31.92
+	width: 355
+	leftSB: -84.0
+	rightSB: 30.68
 0xE124 agogiMesi
-	width: 698
-	leftSB: -36.4
-	rightSB: 82.48
+	width: 355
+	leftSB: -177.0
+	rightSB: -119.92
 0xE125 agogiGorgi
-	width: 564
-	leftSB: 170.44
-	rightSB: 29.16
+	width: 355
+	leftSB: 30.0
+	rightSB: -39.4
 0xE126 agogiGorgoteri
-	width: 761
-	leftSB: 170.44
-	rightSB: 46.0
+	width: 355
+	leftSB: 30.0
+	rightSB: -219.56
 0xE127 agogiPoliGorgi
-	width: 967
-	leftSB: 170.44
-	rightSB: 55.16
+	width: 355
+	leftSB: 30.0
+	rightSB: -416.4
 0xE128 agogiPoliArgiAbove
 	width: 0
 	leftSB: -625.0

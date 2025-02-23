@@ -7624,18 +7624,18 @@
     "gorgonBelow": 0.0,
     "gorgonDottedLeft": 0.0,
     "digorgon": 0.0,
-    "agogiPoliArgi": 0.659,
-    "agogiMesi": 0.698,
+    "agogiPoliArgi": 0.355,
+    "agogiMesi": 0.355,
     "oligonKentimaMiddle": 1.583,
     "gorgonDottedRight": 0.0,
     "digorgonDottedLeftBelow": 0.0,
     "tripleChamili": 1.441,
-    "agogiArgoteri": 0.659,
-    "agogiGorgi": 0.564,
-    "agogiArgi": 0.659,
-    "agogiGorgoteri": 0.761,
-    "agogiPoliGorgi": 0.967,
-    "agogiMetria": 0.497,
+    "agogiArgoteri": 0.355,
+    "agogiGorgi": 0.355,
+    "agogiArgi": 0.355,
+    "agogiGorgoteri": 0.355,
+    "agogiPoliGorgi": 0.355,
+    "agogiMetria": 0.355,
     "digorgonDottedLeftAbove": 0.0,
     "martyriaNoteZoLow": 0.697,
     "martyriaNoteNiLow": 0.669,
@@ -7670,17 +7670,17 @@
     "omalonConnecting": 0.0,
     "heteron": 0.0,
     "heteronConnecting": 0.0,
-    "stavros": 0.457,
+    "stavros": 0.41,
     "klasmaAbove": 0.0,
     "klasmaBelow": 0.0,
     "apli": 0.0,
     "dipli": 0.0,
     "tripli": 0.0,
     "tetrapli": 0.0,
-    "leimma1": 0.857,
-    "leimma2": 0.988,
-    "leimma3": 1.186,
-    "leimma4": 1.384,
+    "leimma1": 0.854,
+    "leimma2": 0.986,
+    "leimma3": 1.184,
+    "leimma4": 1.381,
     "digorgonDottedRight": 0.0,
     "trigorgon": 0.0,
     "trigorgonDottedLeftBelow": 0.0,
@@ -7823,9 +7823,9 @@
     "barlineShortSingle": 0.097,
     "barlineShortDouble": 0.18,
     "barlineShortTheseos": 0.069,
-    "breath": 0.241,
+    "breath": 0.234,
     "koronis": 0.0,
-    "leimmaDot": 0.299,
+    "leimmaDot": 0.26,
     "gorgonSecondary": 0.0,
     "endofonon": 0.0,
     "yfenAbove": 0.0,
@@ -8727,21 +8727,21 @@
     },
     "agogiPoliArgi": {
       "bBoxNE": [
-        0.62,
+        0.325,
         0.574
       ],
       "bBoxSW": [
-        -0.154,
+        -0.45,
         -0.519
       ]
     },
     "agogiMesi": {
       "bBoxNE": [
-        0.616,
+        0.475,
         0.261
       ],
       "bBoxSW": [
-        -0.036,
+        -0.177,
         -0.519
       ]
     },
@@ -8787,61 +8787,61 @@
     },
     "agogiArgoteri": {
       "bBoxNE": [
-        0.62,
+        0.325,
         0.423
       ],
       "bBoxSW": [
-        0.212,
+        -0.084,
         -0.519
       ]
     },
     "agogiGorgi": {
       "bBoxNE": [
-        0.535,
+        0.394,
         0.261
       ],
       "bBoxSW": [
-        0.17,
+        0.03,
         -0.519
       ]
     },
     "agogiArgi": {
       "bBoxNE": [
-        0.62,
+        0.324,
         0.411
       ],
       "bBoxSW": [
-        0.041,
+        -0.255,
         -0.519
       ]
     },
     "agogiGorgoteri": {
       "bBoxNE": [
-        0.715,
+        0.575,
         0.411
       ],
       "bBoxSW": [
-        0.17,
+        0.03,
         -0.519
       ]
     },
     "agogiPoliGorgi": {
       "bBoxNE": [
-        0.912,
+        0.771,
         0.574
       ],
       "bBoxSW": [
-        0.17,
+        0.03,
         -0.519
       ]
     },
     "agogiMetria": {
       "bBoxNE": [
-        0.465,
+        0.324,
         0.261
       ],
       "bBoxSW": [
-        0.057,
+        -0.084,
         -0.519
       ]
     },
@@ -9187,11 +9187,11 @@
     },
     "stavros": {
       "bBoxNE": [
-        0.443,
+        0.379,
         0.454
       ],
       "bBoxSW": [
-        0.094,
+        0.03,
         0.125
       ]
     },
@@ -10717,11 +10717,11 @@
     },
     "breath": {
       "bBoxNE": [
-        0.196,
+        0.204,
         1.204
       ],
       "bBoxSW": [
-        0.022,
+        0.03,
         0.849
       ]
     },
@@ -10737,11 +10737,11 @@
     },
     "leimmaDot": {
       "bBoxNE": [
-        0.24,
+        0.23,
         0.238
       ],
       "bBoxSW": [
-        0.04,
+        0.03,
         0.134
       ]
     },
