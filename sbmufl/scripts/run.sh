@@ -13,9 +13,9 @@ mv *.metadata.json ../..
 #######################################################
 
 # neanes
-cp -f ../../Almouzios.metadata.json ../../../neanes/src/assets/fonts/Almouzios.metadata.json
+cp -f ../../almouzios.metadata.json ../../../neanes/src/assets/fonts/almouzios.metadata.json
 cp -f ../../Almouzios.otf ../../../neanes/src/assets/fonts/Almouzios.otf
 
 # poc-neanes-pdfgen
-cp -f ../../Almouzios.metadata.json ../../../poc-neanes-pdfgen/src/support/neanes/assets/Almouzios.metadata.json
+cp -f ../../almouzios.metadata.json ../../../poc-neanes-pdfgen/src/support/neanes/assets/almouzios.metadata.json
 cp -f ../../Almouzios.otf ../../../poc-neanes-pdfgen/src/support/neanes/assets/Almouzios.otf
