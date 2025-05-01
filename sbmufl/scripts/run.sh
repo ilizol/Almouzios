@@ -16,6 +16,10 @@ mv *.metadata.json ../..
 cp -f ../../almouzios.metadata.json ../../../neanes/src/assets/fonts/almouzios.metadata.json
 cp -f ../../Almouzios.otf ../../../neanes/src/assets/fonts/Almouzios.otf
 
+# neanestex
+cp -f ../../almouzios.metadata.json ../../../neanestex/examples/almouzios.metadata.json
+cp -f ../../Almouzios.otf ../../../neanestex/examples/Almouzios.otf
+
 # poc-neanes-pdfgen
 cp -f ../../almouzios.metadata.json ../../../poc-neanes-pdfgen/src/support/neanes/assets/almouzios.metadata.json
 cp -f ../../Almouzios.otf ../../../poc-neanes-pdfgen/src/support/neanes/assets/Almouzios.otf
