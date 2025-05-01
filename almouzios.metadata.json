@@ -5675,73 +5675,73 @@
     "martyriaNoteZo": {
       "barline": [
         0.333,
-        0.358
+        0.158
       ],
       "agogi": [
         0.333,
-        0.309
+        0.109
       ],
       "martyriaBottom": [
         0.343,
-        -0.265
+        -0.465
       ],
       "fthoraTop": [
         0.333,
-        0.308
+        0.108
       ]
     },
     "martyriaNotePa": {
       "barline": [
         0.335,
-        0.358
+        0.21
       ],
       "agogi": [
         0.335,
-        0.216
+        0.068
       ],
       "martyriaBottom": [
         0.338,
-        -0.279
+        -0.427
       ],
       "fthoraTop": [
         0.335,
-        0.218
+        0.07
       ]
     },
     "martyriaNoteNi": {
       "barline": [
         0.355,
-        0.358
+        0.153
       ],
       "agogi": [
         0.355,
-        0.185
+        -0.02
       ],
       "martyriaBottom": [
         0.325,
-        -0.262
+        -0.467
       ],
       "fthoraTop": [
         0.355,
-        0.184
+        -0.021
       ]
     },
     "martyriaNoteVou": {
       "barline": [
         0.335,
-        0.358
+        0.121
       ],
       "agogi": [
         0.335,
-        0.291
+        0.054
       ],
       "martyriaBottom": [
         0.271,
-        -0.272
+        -0.509
       ],
       "fthoraTop": [
         0.335,
-        0.293
+        0.056
       ]
     },
     "martyriaNoteNiHigh": {
@@ -5765,55 +5765,55 @@
     "martyriaNoteGa": {
       "barline": [
         0.335,
-        0.358
+        0.178
       ],
       "agogi": [
         0.335,
-        0.297
+        0.117
       ],
       "martyriaBottom": [
         0.311,
-        -0.259
+        -0.439
       ],
       "fthoraTop": [
         0.335,
-        0.298
+        0.118
       ]
     },
     "martyriaNoteDi": {
       "barline": [
         0.356,
-        0.358
+        0.189
       ],
       "agogi": [
         0.356,
-        0.316
+        0.147
       ],
       "martyriaBottom": [
         0.349,
-        -0.259
+        -0.428
       ],
       "fthoraTop": [
         0.356,
-        0.318
+        0.149
       ]
     },
     "martyriaNoteKe": {
       "barline": [
         0.293,
-        0.358
+        0.179
       ],
       "agogi": [
         0.293,
-        0.217
+        0.038
       ],
       "fthoraTop": [
         0.293,
-        0.218
+        0.039
       ],
       "martyriaBottom": [
         0.283,
-        -0.259
+        -0.438
       ]
     },
     "martyriaNoteZoHigh": {
@@ -8928,151 +8928,151 @@
     "martyriaNoteZo": {
       "bBoxNE": [
         0.537,
-        0.171
+        -0.029
       ],
       "bBoxSW": [
         0.16,
-        -0.163
+        -0.363
       ]
     },
     "martyriaNotePa": {
       "bBoxNE": [
         0.533,
-        0.077
+        -0.071
       ],
       "bBoxSW": [
         0.12,
-        -0.171
+        -0.319
       ]
     },
     "martyriaNoteNi": {
       "bBoxNE": [
         0.53,
-        0.144
+        -0.061
       ],
       "bBoxSW": [
         0.14,
-        -0.169
+        -0.374
       ]
     },
     "martyriaNoteVou": {
       "bBoxNE": [
         0.455,
-        0.236
+        -0.001
       ],
       "bBoxSW": [
         0.16,
-        -0.176
+        -0.413
       ]
     },
     "martyriaNoteNiHigh": {
       "bBoxNE": [
         0.68,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.14,
-        -0.169
+        -0.374
       ]
     },
     "martyriaNoteGa": {
       "bBoxNE": [
         0.489,
-        0.183
+        0.003
       ],
       "bBoxSW": [
         0.12,
-        -0.16
+        -0.34
       ]
     },
     "martyriaNoteDi": {
       "bBoxNE": [
         0.492,
-        0.168
+        -0.001
       ],
       "bBoxSW": [
         0.16,
-        -0.161
+        -0.33
       ]
     },
     "martyriaNoteKe": {
       "bBoxNE": [
         0.471,
-        0.176
+        -0.003
       ],
       "bBoxSW": [
         0.14,
-        -0.16
+        -0.339
       ]
     },
     "martyriaNoteZoHigh": {
       "bBoxNE": [
         0.708,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.16,
-        -0.163
+        -0.363
       ]
     },
     "martyriaNotePaHigh": {
       "bBoxNE": [
         0.664,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.12,
-        -0.171
+        -0.319
       ]
     },
     "martyriaNoteVouHigh": {
       "bBoxNE": [
         0.625,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.16,
-        -0.176
+        -0.413
       ]
     },
     "martyriaNoteGaHigh": {
       "bBoxNE": [
         0.619,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.12,
-        -0.16
+        -0.34
       ]
     },
     "martyriaNoteDiHigh": {
       "bBoxNE": [
         0.662,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.16,
-        -0.161
+        -0.33
       ]
     },
     "martyriaNoteKeHigh": {
       "bBoxNE": [
         0.621,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         0.14,
-        -0.16
+        -0.339
       ]
     },
     "martyriaTick": {
       "bBoxNE": [
         0.011,
-        0.257
+        0.067
       ],
       "bBoxSW": [
         -0.1,
-        0.115
+        -0.075
       ]
     },
     "oligonKentimataBelow.alt01": {
