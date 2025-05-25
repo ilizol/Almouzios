@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1748183841
+ModificationTime: 1748185759
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -16253,7 +16253,7 @@ HStem: -164 49.5<444.461 519.292> -67 61<490.942 530.44>
 VStem: 530.44 33<-108.406 -71.413>
 AnchorPoint: "barline" 333.44 158 basechar 0
 AnchorPoint: "agogi" 333.44 109 basechar 0
-AnchorPoint: "martyriaBottom" 343.44 -465 basechar 0
+AnchorPoint: "martyriaBottom" 343.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 333.44 108 basechar 0
 LayerCount: 2
 Back
@@ -16340,7 +16340,7 @@ HStem: 47 86<325.475 378.6 395.825 484.172> 55 83<212.916 378.6>
 VStem: 366.6 25<-76.586 31.283>
 AnchorPoint: "barline" 334.6 210 basechar 0
 AnchorPoint: "agogi" 334.6 68 basechar 0
-AnchorPoint: "martyriaBottom" 337.6 -427 basechar 0
+AnchorPoint: "martyriaBottom" 337.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 70 basechar 0
 LayerCount: 2
 Back
@@ -16422,7 +16422,7 @@ HStem: -171 304
 VStem: 232.6 59<61.463 116.81> 422.6 38<21.562 117.008>
 AnchorPoint: "barline" 354.6 153 basechar 0
 AnchorPoint: "agogi" 354.6 -20 basechar 0
-AnchorPoint: "martyriaBottom" 324.6 -467 basechar 0
+AnchorPoint: "martyriaBottom" 324.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 354.6 -21 basechar 0
 LayerCount: 2
 Back
@@ -16482,7 +16482,7 @@ HStem: 90 30<309.161 353.079>
 VStem: 177.6 39<-10 66.086>
 AnchorPoint: "barline" 334.6 121 basechar 0
 AnchorPoint: "agogi" 334.6 54 basechar 0
-AnchorPoint: "martyriaBottom" 270.6 -509 basechar 0
+AnchorPoint: "martyriaBottom" 270.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 56 basechar 0
 LayerCount: 2
 Back
@@ -16553,7 +16553,7 @@ HStem: 59 304 342 206
 VStem: 395 59<291.463 346.81> 585 38<251.562 347.008> 779 77<465.087 540.068>
 AnchorPoint: "barline" 354.6 153 basechar 0
 AnchorPoint: "agogi" 354.6 -20 basechar 0
-AnchorPoint: "martyriaBottom" 324.6 -467 basechar 0
+AnchorPoint: "martyriaBottom" 324.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 354.6 -21 basechar 0
 LayerCount: 2
 Back
@@ -16574,7 +16574,7 @@ Flags: HW
 VStem: 177.6 70<-164 74.678> 403.6 73<119 189.933>
 AnchorPoint: "barline" 334.6 178 basechar 0
 AnchorPoint: "agogi" 334.6 117 basechar 0
-AnchorPoint: "martyriaBottom" 310.6 -439 basechar 0
+AnchorPoint: "martyriaBottom" 310.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 118 basechar 0
 LayerCount: 2
 Back
@@ -16620,7 +16620,7 @@ Flags: HW
 HStem: -164 45<230.44 442.44>
 AnchorPoint: "barline" 356.44 189 basechar 0
 AnchorPoint: "agogi" 356.44 147 basechar 0
-AnchorPoint: "martyriaBottom" 349.44 -428 basechar 0
+AnchorPoint: "martyriaBottom" 349.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 356.44 149 basechar 0
 LayerCount: 2
 Back
@@ -16666,7 +16666,7 @@ VStem: 241.44 21<-6.158 80.75>
 AnchorPoint: "barline" 293.44 179 basechar 0
 AnchorPoint: "agogi" 293.44 38 basechar 0
 AnchorPoint: "fthoraTop" 293.44 39 basechar 0
-AnchorPoint: "martyriaBottom" 283.44 -438 basechar 0
+AnchorPoint: "martyriaBottom" 283.44 -500 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -16747,7 +16747,7 @@ HStem: 66 49.5<628.021 702.852> 163 61<674.502 714> 342 206
 VStem: 714 33<121.594 158.587> 831 77<465.087 540.068>
 AnchorPoint: "barline" 333.44 158 basechar 0
 AnchorPoint: "agogi" 333.44 109 basechar 0
-AnchorPoint: "martyriaBottom" 343.44 -465 basechar 0
+AnchorPoint: "martyriaBottom" 343.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 333.44 108 basechar 0
 LayerCount: 2
 Back
@@ -16769,7 +16769,7 @@ HStem: 277 86<507.875 561 578.225 666.572> 285 83<395.316 561> 342 206
 VStem: 549 25<153.414 261.283> 785 77<465.087 540.068>
 AnchorPoint: "barline" 334.6 210 basechar 0
 AnchorPoint: "agogi" 334.6 68 basechar 0
-AnchorPoint: "martyriaBottom" 337.6 -427 basechar 0
+AnchorPoint: "martyriaBottom" 337.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 70 basechar 0
 LayerCount: 2
 Back
@@ -16791,7 +16791,7 @@ HStem: 320 30<491.561 535.479> 342 206
 VStem: 360 39<220 296.086> 749 77<465.087 540.068>
 AnchorPoint: "barline" 334.6 121 basechar 0
 AnchorPoint: "agogi" 334.6 54 basechar 0
-AnchorPoint: "martyriaBottom" 270.6 -509 basechar 0
+AnchorPoint: "martyriaBottom" 270.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 56 basechar 0
 LayerCount: 2
 Back
@@ -16813,7 +16813,7 @@ HStem: 342 206
 VStem: 360 70<66 304.678> 586 73<349 419.933> 740 77<465.087 540.068>
 AnchorPoint: "barline" 334.6 178 basechar 0
 AnchorPoint: "agogi" 334.6 117 basechar 0
-AnchorPoint: "martyriaBottom" 310.6 -439 basechar 0
+AnchorPoint: "martyriaBottom" 310.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 118 basechar 0
 LayerCount: 2
 Back
@@ -16835,7 +16835,7 @@ HStem: 66 45<414 626> 342 206
 VStem: 786 77<465.087 540.068>
 AnchorPoint: "barline" 356.44 189 basechar 0
 AnchorPoint: "agogi" 356.44 147 basechar 0
-AnchorPoint: "martyriaBottom" 349.44 -428 basechar 0
+AnchorPoint: "martyriaBottom" 349.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 356.44 149 basechar 0
 LayerCount: 2
 Back
@@ -16858,7 +16858,7 @@ VStem: 465 21<223.842 310.75> 794 77<465.087 540.068>
 AnchorPoint: "barline" 293.44 179 basechar 0
 AnchorPoint: "agogi" 293.44 38 basechar 0
 AnchorPoint: "fthoraTop" 293.44 39 basechar 0
-AnchorPoint: "martyriaBottom" 283.44 -438 basechar 0
+AnchorPoint: "martyriaBottom" 283.44 -500 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 746 0 2
@@ -16894,11 +16894,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
--13 67.3203125 m 4
- -43.5263671875 67.3203125 -100 -56.69140625 -100 -70.7197265625 c 4
- -100 -82.3203125 -79.1201171875 -67.240234375 -37.3603515625 -25.4794921875 c 4
- -4.8798828125 5.5234375 11.3603515625 27.94921875 11.3603515625 41.7998046875 c 4
- 11.3603515625 57.9384765625 -5.77734375 67.3203125 -13 67.3203125 c 4
+-13 67.3203125 m 0
+ -43.5263671875 67.3203125 -100 -56.69140625 -100 -70.7197265625 c 0
+ -100 -82.3203125 -79.1201171875 -67.240234375 -37.3603515625 -25.4794921875 c 0
+ -4.8798828125 5.5234375 11.3603515625 27.94921875 11.3603515625 41.7998046875 c 0
+ 11.3603515625 57.9384765625 -5.77734375 67.3203125 -13 67.3203125 c 0
 EndSplineSet
 EndChar
 

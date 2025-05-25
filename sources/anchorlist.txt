@@ -1471,73 +1471,73 @@
 0xE137 martyriaNoteZo
 	('barline', 'base', 333.44, 158.0)
 	('agogi', 'base', 333.44, 109.0)
-	('martyriaBottom', 'base', 343.44, -465.0)
+	('martyriaBottom', 'base', 343.44, -500.0)
 	('fthoraTop', 'base', 333.44, 108.0)
 0xE139 martyriaNotePa
 	('barline', 'base', 334.6, 210.0)
 	('agogi', 'base', 334.6, 68.0)
-	('martyriaBottom', 'base', 337.6, -427.0)
+	('martyriaBottom', 'base', 337.6, -500.0)
 	('fthoraTop', 'base', 334.6, 70.0)
 0xE138 martyriaNoteNi
 	('barline', 'base', 354.6, 153.0)
 	('agogi', 'base', 354.6, -20.0)
-	('martyriaBottom', 'base', 324.6, -467.0)
+	('martyriaBottom', 'base', 324.6, -500.0)
 	('fthoraTop', 'base', 354.6, -21.0)
 0xE13A martyriaNoteVou
 	('barline', 'base', 334.6, 121.0)
 	('agogi', 'base', 334.6, 54.0)
-	('martyriaBottom', 'base', 270.6, -509.0)
+	('martyriaBottom', 'base', 270.6, -500.0)
 	('fthoraTop', 'base', 334.6, 56.0)
 0xE13F martyriaNoteNiHigh
 	('barline', 'base', 354.6, 153.0)
 	('agogi', 'base', 354.6, -20.0)
-	('martyriaBottom', 'base', 324.6, -467.0)
+	('martyriaBottom', 'base', 324.6, -500.0)
 	('fthoraTop', 'base', 354.6, -21.0)
 0xE13B martyriaNoteGa
 	('barline', 'base', 334.6, 178.0)
 	('agogi', 'base', 334.6, 117.0)
-	('martyriaBottom', 'base', 310.6, -439.0)
+	('martyriaBottom', 'base', 310.6, -500.0)
 	('fthoraTop', 'base', 334.6, 118.0)
 0xE13C martyriaNoteDi
 	('barline', 'base', 356.44, 189.0)
 	('agogi', 'base', 356.44, 147.0)
-	('martyriaBottom', 'base', 349.44, -428.0)
+	('martyriaBottom', 'base', 349.44, -500.0)
 	('fthoraTop', 'base', 356.44, 149.0)
 0xE13D martyriaNoteKe
 	('barline', 'base', 293.44, 179.0)
 	('agogi', 'base', 293.44, 38.0)
 	('fthoraTop', 'base', 293.44, 39.0)
-	('martyriaBottom', 'base', 283.44, -438.0)
+	('martyriaBottom', 'base', 283.44, -500.0)
 0xE13E martyriaNoteZoHigh
 	('barline', 'base', 333.44, 158.0)
 	('agogi', 'base', 333.44, 109.0)
-	('martyriaBottom', 'base', 343.44, -465.0)
+	('martyriaBottom', 'base', 343.44, -500.0)
 	('fthoraTop', 'base', 333.44, 108.0)
 0xE140 martyriaNotePaHigh
 	('barline', 'base', 334.6, 210.0)
 	('agogi', 'base', 334.6, 68.0)
-	('martyriaBottom', 'base', 337.6, -427.0)
+	('martyriaBottom', 'base', 337.6, -500.0)
 	('fthoraTop', 'base', 334.6, 70.0)
 0xE141 martyriaNoteVouHigh
 	('barline', 'base', 334.6, 121.0)
 	('agogi', 'base', 334.6, 54.0)
-	('martyriaBottom', 'base', 270.6, -509.0)
+	('martyriaBottom', 'base', 270.6, -500.0)
 	('fthoraTop', 'base', 334.6, 56.0)
 0xE142 martyriaNoteGaHigh
 	('barline', 'base', 334.6, 178.0)
 	('agogi', 'base', 334.6, 117.0)
-	('martyriaBottom', 'base', 310.6, -439.0)
+	('martyriaBottom', 'base', 310.6, -500.0)
 	('fthoraTop', 'base', 334.6, 118.0)
 0xE143 martyriaNoteDiHigh
 	('barline', 'base', 356.44, 189.0)
 	('agogi', 'base', 356.44, 147.0)
-	('martyriaBottom', 'base', 349.44, -428.0)
+	('martyriaBottom', 'base', 349.44, -500.0)
 	('fthoraTop', 'base', 356.44, 149.0)
 0xE144 martyriaNoteKeHigh
 	('barline', 'base', 293.44, 179.0)
 	('agogi', 'base', 293.44, 38.0)
 	('fthoraTop', 'base', 293.44, 39.0)
-	('martyriaBottom', 'base', 283.44, -438.0)
+	('martyriaBottom', 'base', 283.44, -500.0)
 0xE145 martyriaTick
 0xF000 oligonKentimataBelow.alt01
 	('barline', 'base', 226.932, 358.0)
