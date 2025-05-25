@@ -1635,11 +1635,11 @@
 0xE156 martyriaAlphaDottedBelow
 	('martyriaBottom', 'mark', 1.0, 427.0)
 0xE157 martyriaHardChromaticPaBelow
-	('martyriaBottom', 'mark', 2.0, 138.0)
+	('martyriaBottom', 'mark', 0.0, 150.0)
 0xE158 martyriaHardChromaticDiBelow
 	('martyriaBottom', 'mark', 2.0, 298.0)
 0xE159 martyriaSoftChromaticDiBelow
-	('martyriaBottom', 'mark', 2.0, 138.0)
+	('martyriaBottom', 'mark', 0.0, 150.0)
 0xE15A martyriaSoftChromaticKeBelow
 	('martyriaBottom', 'mark', 2.0, 263.0)
 0xE15B martyriaZygosBelow

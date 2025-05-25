@@ -579,88 +579,88 @@
 	leftSB: -145.0
 	rightSB: -596.4
 0xE130 martyriaNoteZoLow
-	width: 697
-	leftSB: 160.0
-	rightSB: 160.0
+	width: 700
+	leftSB: 161.5
+	rightSB: 161.5
 0xE131 martyriaNoteNiLow
-	width: 669
-	leftSB: 140.0
-	rightSB: 139.24
+	width: 700
+	leftSB: 155.12
+	rightSB: 155.12
 0xE132 martyriaNotePaLow
-	width: 653
-	leftSB: 120.0
-	rightSB: 119.76
+	width: 700
+	leftSB: 143.38
+	rightSB: 143.38
 0xE133 martyriaNoteVouLow
-	width: 614
-	leftSB: 160.0
-	rightSB: 159.36
+	width: 700
+	leftSB: 222.68
+	rightSB: 182.68
 0xE134 martyriaNoteGaLow
-	width: 608
-	leftSB: 120.0
-	rightSB: 119.12
+	width: 700
+	leftSB: 165.56
+	rightSB: 165.56
 0xE135 martyriaNoteDiLow
-	width: 651
-	leftSB: 160.0
-	rightSB: 159.24
+	width: 700
+	leftSB: 154.12
+	rightSB: 214.12
 0xE136 martyriaNoteKeLow
-	width: 610
-	leftSB: 140.0
-	rightSB: 139.4
+	width: 700
+	leftSB: 184.7
+	rightSB: 184.7
 0xE137 martyriaNoteZo
-	width: 697
-	leftSB: 160.0
-	rightSB: 160.0
+	width: 700
+	leftSB: 161.5
+	rightSB: 161.5
 0xE138 martyriaNoteNi
-	width: 669
-	leftSB: 140.0
-	rightSB: 139.24
+	width: 700
+	leftSB: 155.12
+	rightSB: 155.12
 0xE139 martyriaNotePa
-	width: 653
-	leftSB: 120.0
-	rightSB: 119.76
+	width: 700
+	leftSB: 143.38
+	rightSB: 143.38
 0xE13A martyriaNoteVou
-	width: 614
-	leftSB: 160.0
-	rightSB: 159.36
+	width: 700
+	leftSB: 222.68
+	rightSB: 182.68
 0xE13B martyriaNoteGa
-	width: 608
-	leftSB: 120.0
-	rightSB: 119.12
+	width: 700
+	leftSB: 165.56
+	rightSB: 165.56
 0xE13C martyriaNoteDi
-	width: 651
-	leftSB: 160.0
-	rightSB: 159.24
+	width: 700
+	leftSB: 154.12
+	rightSB: 214.12
 0xE13D martyriaNoteKe
-	width: 610
-	leftSB: 140.0
-	rightSB: 139.4
+	width: 700
+	leftSB: 184.7
+	rightSB: 184.7
 0xE13E martyriaNoteZoHigh
-	width: 697
-	leftSB: 160.0
+	width: 700
+	leftSB: 161.5
 	rightSB: -11.36
 0xE13F martyriaNoteNiHigh
-	width: 669
-	leftSB: 140.0
+	width: 700
+	leftSB: 155.12
 	rightSB: -11.36
 0xE140 martyriaNotePaHigh
-	width: 653
-	leftSB: 120.0
+	width: 700
+	leftSB: 143.38
 	rightSB: -11.36
 0xE141 martyriaNoteVouHigh
-	width: 614
-	leftSB: 160.0
+	width: 700
+	leftSB: 222.68
 	rightSB: -11.36
 0xE142 martyriaNoteGaHigh
-	width: 608
-	leftSB: 120.0
+	width: 700
+	leftSB: 165.56
 	rightSB: -11.36
 0xE143 martyriaNoteDiHigh
-	width: 651
-	leftSB: 160.0
+	width: 700
+	leftSB: 154.12
 	rightSB: -11.36
 0xE144 martyriaNoteKeHigh
-	width: 610
-	leftSB: 140.0
+	width: 700
+	leftSB: 184.7
 	rightSB: -11.36
 0xE145 martyriaTick
 	width: 0
@@ -696,16 +696,16 @@
 	rightSB: -240.44
 0xE157 martyriaHardChromaticPaBelow
 	width: 0
-	leftSB: -265.0
-	rightSB: -257.0
+	leftSB: -281.0
+	rightSB: -241.0
 0xE158 martyriaHardChromaticDiBelow
 	width: 0
 	leftSB: -341.0
 	rightSB: -342.24
 0xE159 martyriaSoftChromaticDiBelow
 	width: 0
-	leftSB: -265.0
-	rightSB: -257.0
+	leftSB: -281.0
+	rightSB: -241.0
 0xE15A martyriaSoftChromaticKeBelow
 	width: 0
 	leftSB: -207.2
