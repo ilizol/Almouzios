@@ -1436,38 +1436,38 @@
 0xE130 martyriaNoteZoLow
 	('barline', 'base', 333.44, 200.0)
 	('agogi', 'base', 333.44, 10.0)
-	('martyriaTop', 'base', 363.44, -474.0)
+	('martyriaTop', 'base', 363.44, -450.0)
 	('fthoraTop', 'base', 333.44, 12.0)
 0xE131 martyriaNoteNiLow
 	('barline', 'base', 354.6, 200.0)
 	('agogi', 'base', 354.6, -60.0)
-	('martyriaTop', 'base', 352.6, -512.0)
+	('martyriaTop', 'base', 352.6, -450.0)
 	('fthoraTop', 'base', 354.6, -58.0)
 0xE132 martyriaNotePaLow
 	('barline', 'base', 334.6, 200.0)
 	('agogi', 'base', 334.6, 40.0)
-	('martyriaTop', 'base', 334.6, -478.0)
+	('martyriaTop', 'base', 334.6, -450.0)
 	('fthoraTop', 'base', 329.6, 40.0)
 0xE133 martyriaNoteVouLow
 	('barline', 'base', 334.6, 200.0)
 	('agogi', 'base', 334.6, 20.0)
-	('martyriaTop', 'base', 284.6, -474.0)
+	('martyriaTop', 'base', 284.6, -450.0)
 	('fthoraTop', 'base', 334.6, 22.0)
 0xE134 martyriaNoteGaLow
 	('barline', 'base', 334.6, 200.0)
 	('agogi', 'base', 334.6, 10.0)
 	('fthoraTop', 'base', 334.6, 12.0)
-	('martyriaTop', 'base', 284.6, -474.0)
+	('martyriaTop', 'base', 284.6, -450.0)
 0xE135 martyriaNoteDiLow
 	('barline', 'base', 333.44, 200.0)
 	('agogi', 'base', 333.44, 10.0)
 	('fthoraTop', 'base', 333.44, 12.0)
-	('martyriaTop', 'base', 349.44, -447.0)
+	('martyriaTop', 'base', 349.44, -450.0)
 0xE136 martyriaNoteKeLow
 	('barline', 'base', 243.44, 200.0)
 	('agogi', 'base', 243.44, 10.0)
 	('fthoraTop', 'base', 243.44, 12.0)
-	('martyriaTop', 'base', 286.44, -514.0)
+	('martyriaTop', 'base', 286.44, -450.0)
 0xE137 martyriaNoteZo
 	('barline', 'base', 333.44, 200.0)
 	('agogi', 'base', 333.44, 109.0)
