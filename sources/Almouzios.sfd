@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1748185759
+ModificationTime: 1748186454
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -120,7 +120,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 126 14 6
+WinInfo: 112 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -15779,7 +15779,7 @@ VWidth: 1392
 Flags: HW
 HStem: -468 49.5<444.461 519.292> -371 61<490.942 530.44>
 VStem: 530.44 33<-412.406 -375.413>
-AnchorPoint: "barline" 333.44 156 basechar 0
+AnchorPoint: "barline" 333.44 200 basechar 0
 AnchorPoint: "agogi" 333.44 10 basechar 0
 AnchorPoint: "martyriaTop" 363.44 -474 basechar 0
 AnchorPoint: "fthoraTop" 333.44 12 basechar 0
@@ -15832,30 +15832,30 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-308.48046875 -592.16015625 m 4
- 258.662109375 -592.16015625 265.03515625 -560.83984375 251.640625 -560.83984375 c 260
- 228.78125 -560.83984375 220.922851562 -596.05078125 199.440429688 -599.120117188 c 4
- 170.2734375 -608.495117188 160 -612.9921875 160 -620 c 4
- 160 -637.596679688 208.333007812 -650.357421875 305 -658.280273438 c 5
- 323.560546875 -659.440429688 l 5
- 305 -681.48046875 l 6
- 240.040039062 -759.586914062 207.560546875 -815.653320312 207.560546875 -849.6796875 c 4
- 207.560546875 -869.208007812 229.154296875 -894.919921875 233.080078125 -894.919921875 c 5
- 286.440429688 -877.51953125 l 6
- 318.919921875 -865.919921875 339.799804688 -860.120117188 349.080078125 -860.120117188 c 132
- 365.340820312 -860.120117188 372.590820312 -862.612304688 403.600585938 -879.83984375 c 6
- 423.3203125 -890.280273438 l 5
- 455.80078125 -892.599609375 l 5
- 501.040039062 -894.919921875 l 5
- 526.020507812 -894.919921875 537 -883.698242188 537 -883.3203125 c 4
- 533.698242188 -875.0625 521.659179688 -859.271484375 500.883789062 -835.946289062 c 4
- 473.220703125 -804.888671875 441.1796875 -789.360351562 404.760742188 -789.360351562 c 4
- 350.627929688 -789.360351562 329.360351562 -815.359375 329.360351562 -807.919921875 c 4
- 329.360351562 -798.56640625 380.764648438 -747.907226562 422.16015625 -716.860351562 c 132
- 423.267578125 -716.030273438 514.959960938 -646.462890625 514.959960938 -614.200195312 c 260
- 514.959960938 -610.333984375 511.8671875 -604.533203125 505.680664062 -596.799804688 c 4
- 494.190429688 -586.74609375 469.858398438 -581.719726562 432.68359375 -581.719726562 c 132
- 341.201171875 -581.719726562 353.123046875 -592.16015625 308.48046875 -592.16015625 c 4
+308.48046875 -592.16015625 m 0
+ 258.662109375 -592.16015625 265.03515625 -560.83984375 251.640625 -560.83984375 c 256
+ 228.78125 -560.83984375 220.922851562 -596.05078125 199.440429688 -599.120117188 c 0
+ 170.2734375 -608.495117188 160 -612.9921875 160 -620 c 0
+ 160 -637.596679688 208.333007812 -650.357421875 305 -658.280273438 c 1
+ 323.560546875 -659.440429688 l 1
+ 305 -681.48046875 l 2
+ 240.040039062 -759.586914062 207.560546875 -815.653320312 207.560546875 -849.6796875 c 0
+ 207.560546875 -869.208007812 229.154296875 -894.919921875 233.080078125 -894.919921875 c 1
+ 286.440429688 -877.51953125 l 2
+ 318.919921875 -865.919921875 339.799804688 -860.120117188 349.080078125 -860.120117188 c 128
+ 365.340820312 -860.120117188 372.590820312 -862.612304688 403.600585938 -879.83984375 c 2
+ 423.3203125 -890.280273438 l 1
+ 455.80078125 -892.599609375 l 1
+ 501.040039062 -894.919921875 l 1
+ 526.020507812 -894.919921875 537 -883.698242188 537 -883.3203125 c 0
+ 533.698242188 -875.0625 521.659179688 -859.271484375 500.883789062 -835.946289062 c 0
+ 473.220703125 -804.888671875 441.1796875 -789.360351562 404.760742188 -789.360351562 c 0
+ 350.627929688 -789.360351562 329.360351562 -815.359375 329.360351562 -807.919921875 c 0
+ 329.360351562 -798.56640625 380.764648438 -747.907226562 422.16015625 -716.860351562 c 128
+ 423.267578125 -716.030273438 514.959960938 -646.462890625 514.959960938 -614.200195312 c 256
+ 514.959960938 -610.333984375 511.8671875 -604.533203125 505.680664062 -596.799804688 c 0
+ 494.190429688 -586.74609375 469.858398438 -581.719726562 432.68359375 -581.719726562 c 128
+ 341.201171875 -581.719726562 353.123046875 -592.16015625 308.48046875 -592.16015625 c 0
 EndSplineSet
 EndChar
 
@@ -15866,7 +15866,7 @@ VWidth: 1392
 Flags: HW
 HStem: -461 304
 VStem: 232.6 59<-228.537 -173.19> 422.6 38<-268.438 -172.992>
-AnchorPoint: "barline" 354.6 156 basechar 0
+AnchorPoint: "barline" 354.6 200 basechar 0
 AnchorPoint: "agogi" 354.6 -60 basechar 0
 AnchorPoint: "martyriaTop" 352.6 -512 basechar 0
 AnchorPoint: "fthoraTop" 354.6 -58 basechar 0
@@ -15926,7 +15926,7 @@ VWidth: 1392
 Flags: HW
 HStem: -253 86<325.475 378.6 395.825 484.172> -245 83<212.916 378.6>
 VStem: 366.6 25<-376.586 -268.717>
-AnchorPoint: "barline" 334.6 156 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 40 basechar 0
 AnchorPoint: "martyriaTop" 334.6 -478 basechar 0
 AnchorPoint: "fthoraTop" 329.6 40 basechar 0
@@ -16008,7 +16008,7 @@ VWidth: 1392
 Flags: HW
 HStem: -200 30<309.161 353.078>
 VStem: 177.6 39<-300 -223.914>
-AnchorPoint: "barline" 334.6 156 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 20 basechar 0
 AnchorPoint: "martyriaTop" 284.6 -474 basechar 0
 AnchorPoint: "fthoraTop" 334.6 22 basechar 0
@@ -16078,7 +16078,7 @@ Width: 608
 VWidth: 1392
 Flags: HW
 VStem: 177.6 70<-462 -222.322> 403.6 73<-178 -107.606>
-AnchorPoint: "barline" 334.6 156 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 10 basechar 0
 AnchorPoint: "fthoraTop" 334.6 12 basechar 0
 AnchorPoint: "martyriaTop" 284.6 -474 basechar 0
@@ -16124,7 +16124,7 @@ Width: 651
 VWidth: 1392
 Flags: HW
 HStem: -462 45<230.44 442.44>
-AnchorPoint: "barline" 333.44 156 basechar 0
+AnchorPoint: "barline" 333.44 200 basechar 0
 AnchorPoint: "agogi" 333.44 10 basechar 0
 AnchorPoint: "fthoraTop" 333.44 12 basechar 0
 AnchorPoint: "martyriaTop" 349.44 -447 basechar 0
@@ -16169,7 +16169,7 @@ VWidth: 1392
 Flags: HW
 HStem: -229 53<176.907 237.937>
 VStem: 243.44 17<-322.158 -243.756>
-AnchorPoint: "barline" 243.44 156 basechar 0
+AnchorPoint: "barline" 243.44 200 basechar 0
 AnchorPoint: "agogi" 243.44 10 basechar 0
 AnchorPoint: "fthoraTop" 243.44 12 basechar 0
 AnchorPoint: "martyriaTop" 286.44 -514 basechar 0
@@ -16251,7 +16251,7 @@ VWidth: 1392
 Flags: HW
 HStem: -164 49.5<444.461 519.292> -67 61<490.942 530.44>
 VStem: 530.44 33<-108.406 -71.413>
-AnchorPoint: "barline" 333.44 158 basechar 0
+AnchorPoint: "barline" 333.44 200 basechar 0
 AnchorPoint: "agogi" 333.44 109 basechar 0
 AnchorPoint: "martyriaBottom" 343.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 333.44 108 basechar 0
@@ -16338,7 +16338,7 @@ VWidth: 1392
 Flags: HW
 HStem: 47 86<325.475 378.6 395.825 484.172> 55 83<212.916 378.6>
 VStem: 366.6 25<-76.586 31.283>
-AnchorPoint: "barline" 334.6 210 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 68 basechar 0
 AnchorPoint: "martyriaBottom" 337.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 70 basechar 0
@@ -16420,7 +16420,7 @@ VWidth: 1392
 Flags: HW
 HStem: -171 304
 VStem: 232.6 59<61.463 116.81> 422.6 38<21.562 117.008>
-AnchorPoint: "barline" 354.6 153 basechar 0
+AnchorPoint: "barline" 354.6 200 basechar 0
 AnchorPoint: "agogi" 354.6 -20 basechar 0
 AnchorPoint: "martyriaBottom" 324.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 354.6 -21 basechar 0
@@ -16480,7 +16480,7 @@ VWidth: 1392
 Flags: HW
 HStem: 90 30<309.161 353.079>
 VStem: 177.6 39<-10 66.086>
-AnchorPoint: "barline" 334.6 121 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 54 basechar 0
 AnchorPoint: "martyriaBottom" 270.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 56 basechar 0
@@ -16551,7 +16551,7 @@ VWidth: 345
 Flags: HW
 HStem: 59 304 342 206
 VStem: 395 59<291.463 346.81> 585 38<251.562 347.008> 779 77<465.087 540.068>
-AnchorPoint: "barline" 354.6 153 basechar 0
+AnchorPoint: "barline" 354.6 200 basechar 0
 AnchorPoint: "agogi" 354.6 -20 basechar 0
 AnchorPoint: "martyriaBottom" 324.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 354.6 -21 basechar 0
@@ -16572,7 +16572,7 @@ Width: 608
 VWidth: 1392
 Flags: HW
 VStem: 177.6 70<-164 74.678> 403.6 73<119 189.933>
-AnchorPoint: "barline" 334.6 178 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 117 basechar 0
 AnchorPoint: "martyriaBottom" 310.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 118 basechar 0
@@ -16618,7 +16618,7 @@ Width: 651
 VWidth: 1392
 Flags: HW
 HStem: -164 45<230.44 442.44>
-AnchorPoint: "barline" 356.44 189 basechar 0
+AnchorPoint: "barline" 356.44 200 basechar 0
 AnchorPoint: "agogi" 356.44 147 basechar 0
 AnchorPoint: "martyriaBottom" 349.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 356.44 149 basechar 0
@@ -16663,7 +16663,7 @@ VWidth: 1392
 Flags: HW
 HStem: 87 53<177.938 239.937>
 VStem: 241.44 21<-6.158 80.75>
-AnchorPoint: "barline" 293.44 179 basechar 0
+AnchorPoint: "barline" 293.44 200 basechar 0
 AnchorPoint: "agogi" 293.44 38 basechar 0
 AnchorPoint: "fthoraTop" 293.44 39 basechar 0
 AnchorPoint: "martyriaBottom" 283.44 -500 basechar 0
@@ -16745,7 +16745,7 @@ VWidth: 345
 Flags: HW
 HStem: 66 49.5<628.021 702.852> 163 61<674.502 714> 342 206
 VStem: 714 33<121.594 158.587> 831 77<465.087 540.068>
-AnchorPoint: "barline" 333.44 158 basechar 0
+AnchorPoint: "barline" 333.44 200 basechar 0
 AnchorPoint: "agogi" 333.44 109 basechar 0
 AnchorPoint: "martyriaBottom" 343.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 333.44 108 basechar 0
@@ -16767,7 +16767,7 @@ VWidth: 345
 Flags: HW
 HStem: 277 86<507.875 561 578.225 666.572> 285 83<395.316 561> 342 206
 VStem: 549 25<153.414 261.283> 785 77<465.087 540.068>
-AnchorPoint: "barline" 334.6 210 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 68 basechar 0
 AnchorPoint: "martyriaBottom" 337.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 70 basechar 0
@@ -16789,7 +16789,7 @@ VWidth: 345
 Flags: HW
 HStem: 320 30<491.561 535.479> 342 206
 VStem: 360 39<220 296.086> 749 77<465.087 540.068>
-AnchorPoint: "barline" 334.6 121 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 54 basechar 0
 AnchorPoint: "martyriaBottom" 270.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 56 basechar 0
@@ -16811,7 +16811,7 @@ VWidth: 345
 Flags: HW
 HStem: 342 206
 VStem: 360 70<66 304.678> 586 73<349 419.933> 740 77<465.087 540.068>
-AnchorPoint: "barline" 334.6 178 basechar 0
+AnchorPoint: "barline" 334.6 200 basechar 0
 AnchorPoint: "agogi" 334.6 117 basechar 0
 AnchorPoint: "martyriaBottom" 310.6 -500 basechar 0
 AnchorPoint: "fthoraTop" 334.6 118 basechar 0
@@ -16833,7 +16833,7 @@ VWidth: 345
 Flags: HW
 HStem: 66 45<414 626> 342 206
 VStem: 786 77<465.087 540.068>
-AnchorPoint: "barline" 356.44 189 basechar 0
+AnchorPoint: "barline" 356.44 200 basechar 0
 AnchorPoint: "agogi" 356.44 147 basechar 0
 AnchorPoint: "martyriaBottom" 349.44 -500 basechar 0
 AnchorPoint: "fthoraTop" 356.44 149 basechar 0
@@ -16855,7 +16855,7 @@ VWidth: 345
 Flags: HW
 HStem: 317 53<401.498 463.497> 342 206
 VStem: 465 21<223.842 310.75> 794 77<465.087 540.068>
-AnchorPoint: "barline" 293.44 179 basechar 0
+AnchorPoint: "barline" 293.44 200 basechar 0
 AnchorPoint: "agogi" 293.44 38 basechar 0
 AnchorPoint: "fthoraTop" 293.44 39 basechar 0
 AnchorPoint: "martyriaBottom" 283.44 -500 basechar 0

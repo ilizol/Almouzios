@@ -5549,7 +5549,7 @@
     "martyriaNoteZoLow": {
       "barline": [
         0.333,
-        0.156
+        0.2
       ],
       "agogi": [
         0.333,
@@ -5567,7 +5567,7 @@
     "martyriaNoteNiLow": {
       "barline": [
         0.355,
-        0.156
+        0.2
       ],
       "agogi": [
         0.355,
@@ -5585,7 +5585,7 @@
     "martyriaNotePaLow": {
       "barline": [
         0.335,
-        0.156
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5603,7 +5603,7 @@
     "martyriaNoteVouLow": {
       "barline": [
         0.335,
-        0.156
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5621,7 +5621,7 @@
     "martyriaNoteGaLow": {
       "barline": [
         0.335,
-        0.156
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5639,7 +5639,7 @@
     "martyriaNoteDiLow": {
       "barline": [
         0.333,
-        0.156
+        0.2
       ],
       "agogi": [
         0.333,
@@ -5657,7 +5657,7 @@
     "martyriaNoteKeLow": {
       "barline": [
         0.243,
-        0.156
+        0.2
       ],
       "agogi": [
         0.243,
@@ -5675,7 +5675,7 @@
     "martyriaNoteZo": {
       "barline": [
         0.333,
-        0.158
+        0.2
       ],
       "agogi": [
         0.333,
@@ -5693,7 +5693,7 @@
     "martyriaNotePa": {
       "barline": [
         0.335,
-        0.21
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5711,7 +5711,7 @@
     "martyriaNoteNi": {
       "barline": [
         0.355,
-        0.153
+        0.2
       ],
       "agogi": [
         0.355,
@@ -5729,7 +5729,7 @@
     "martyriaNoteVou": {
       "barline": [
         0.335,
-        0.121
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5747,7 +5747,7 @@
     "martyriaNoteNiHigh": {
       "barline": [
         0.355,
-        0.153
+        0.2
       ],
       "agogi": [
         0.355,
@@ -5765,7 +5765,7 @@
     "martyriaNoteGa": {
       "barline": [
         0.335,
-        0.178
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5783,7 +5783,7 @@
     "martyriaNoteDi": {
       "barline": [
         0.356,
-        0.189
+        0.2
       ],
       "agogi": [
         0.356,
@@ -5801,7 +5801,7 @@
     "martyriaNoteKe": {
       "barline": [
         0.293,
-        0.179
+        0.2
       ],
       "agogi": [
         0.293,
@@ -5819,7 +5819,7 @@
     "martyriaNoteZoHigh": {
       "barline": [
         0.333,
-        0.158
+        0.2
       ],
       "agogi": [
         0.333,
@@ -5837,7 +5837,7 @@
     "martyriaNotePaHigh": {
       "barline": [
         0.335,
-        0.21
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5855,7 +5855,7 @@
     "martyriaNoteVouHigh": {
       "barline": [
         0.335,
-        0.121
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5873,7 +5873,7 @@
     "martyriaNoteGaHigh": {
       "barline": [
         0.335,
-        0.178
+        0.2
       ],
       "agogi": [
         0.335,
@@ -5891,7 +5891,7 @@
     "martyriaNoteDiHigh": {
       "barline": [
         0.356,
-        0.189
+        0.2
       ],
       "agogi": [
         0.356,
@@ -5909,7 +5909,7 @@
     "martyriaNoteKeHigh": {
       "barline": [
         0.293,
-        0.179
+        0.2
       ],
       "agogi": [
         0.293,
