@@ -166,7 +166,7 @@ class SbmuflFont(object):
     @property
     def oligon_midpoint(self):
         # U+E001 (oligon)
-        # Glyphs index key is differect with compact encoding
+        # Glyphs index key is different with compact encoding
         # Encoding > Compact (hide unused glyphs)
         # 0xE001 -> 0x02
         return find_midpoint(self.font[0x02]) 

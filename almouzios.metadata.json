@@ -7915,22 +7915,22 @@
     "diesis6Tertiary": 0.0,
     "diesis8Tertiary": 0.0,
     "stavrosAbove": 0.0,
-    "fthoraDiatonicNiLow": 0.488,
-    "fthoraDiatonicPa": 0.364,
-    "fthoraDiatonicVou": 0.492,
-    "fthoraDiatonicGa": 0.392,
-    "fthoraDiatonicDi": 0.464,
-    "fthoraDiatonicKe": 0.368,
-    "fthoraDiatonicZo": 0.56,
-    "fthoraDiatonicNiHigh": 0.448,
-    "fthoraHardChromaticPa": 0.812,
-    "fthoraHardChromaticDi": 0.496,
-    "fthoraSoftChromaticDi": 0.96,
-    "fthoraSoftChromaticKe": 0.592,
-    "fthoraEnharmonic": 0.528,
-    "chroaZygos": 0.582,
-    "chroaKliton": 0.63,
-    "chroaSpathi": 0.954
+    "fthoraDiatonicNiLow": 0.9,
+    "fthoraDiatonicPa": 0.9,
+    "fthoraDiatonicVou": 0.9,
+    "fthoraDiatonicGa": 0.9,
+    "fthoraDiatonicDi": 0.9,
+    "fthoraDiatonicKe": 0.9,
+    "fthoraDiatonicZo": 0.9,
+    "fthoraDiatonicNiHigh": 0.9,
+    "fthoraHardChromaticPa": 0.9,
+    "fthoraHardChromaticDi": 0.9,
+    "fthoraSoftChromaticDi": 0.9,
+    "fthoraSoftChromaticKe": 0.9,
+    "fthoraEnharmonic": 0.9,
+    "chroaZygos": 0.9,
+    "chroaKliton": 0.9,
+    "chroaSpathi": 0.9
   },
   "optionalGlyphs": {
     "oligonKentimataBelow.alt01": {
@@ -11644,162 +11644,162 @@
     },
     "fthoraDiatonicNiLow": {
       "bBoxNE": [
-        0.407,
-        1.103
+        0.599,
+        1.052
       ],
       "bBoxSW": [
-        0.081,
-        0.743
+        0.301,
+        0.792
       ]
     },
     "fthoraDiatonicPa": {
       "bBoxNE": [
-        0.3,
-        1.04
+        0.551,
+        1.047
       ],
       "bBoxSW": [
-        0.064,
-        0.653
+        0.349,
+        0.643
       ]
     },
     "fthoraDiatonicVou": {
       "bBoxNE": [
-        0.438,
-        1.263
+        0.574,
+        1.162
       ],
       "bBoxSW": [
-        0.058,
-        0.635
+        0.326,
+        0.733
       ]
     },
     "fthoraDiatonicGa": {
       "bBoxNE": [
-        0.316,
-        1.166
+        0.558,
+        1.285
       ],
       "bBoxSW": [
-        0.076,
-        0.687
+        0.342,
+        0.594
       ]
     },
     "fthoraDiatonicDi": {
       "bBoxNE": [
-        0.414,
-        1.114
+        0.791,
+        1.127
       ],
       "bBoxSW": [
-        0.05,
-        0.75
+        0.109,
+        0.731
       ]
     },
     "fthoraDiatonicKe": {
       "bBoxNE": [
-        0.301,
-        1.186
+        0.57,
+        1.16
       ],
       "bBoxSW": [
-        0.067,
-        0.802
+        0.33,
+        0.815
       ]
     },
     "fthoraDiatonicZo": {
       "bBoxNE": [
-        0.47,
-        1.306
+        0.578,
+        1.176
       ],
       "bBoxSW": [
-        0.09,
-        0.631
+        0.322,
+        0.749
       ]
     },
     "fthoraDiatonicNiHigh": {
       "bBoxNE": [
-        0.377,
-        1.196
+        0.599,
+        1.14
       ],
       "bBoxSW": [
-        0.071,
-        0.753
+        0.301,
+        0.793
       ]
     },
     "fthoraHardChromaticPa": {
       "bBoxNE": [
-        0.779,
-        1.084
+        0.783,
+        1.044
       ],
       "bBoxSW": [
-        0.033,
-        0.813
+        0.117,
+        0.845
       ]
     },
     "fthoraHardChromaticDi": {
       "bBoxNE": [
-        0.429,
-        1.107
+        0.791,
+        1.119
       ],
       "bBoxSW": [
-        0.067,
-        0.745
+        0.109,
+        0.724
       ]
     },
     "fthoraSoftChromaticDi": {
       "bBoxNE": [
-        0.898,
-        1.104
+        0.863,
+        1.065
       ],
       "bBoxSW": [
-        0.062,
-        0.8
+        0.037,
+        0.84
       ]
     },
     "fthoraSoftChromaticKe": {
       "bBoxNE": [
-        0.511,
-        1.139
+        0.755,
+        1.094
       ],
       "bBoxSW": [
-        0.081,
-        0.715
+        0.145,
+        0.732
       ]
     },
     "fthoraEnharmonic": {
       "bBoxNE": [
-        0.476,
-        1.099
+        0.614,
+        1.044
       ],
       "bBoxSW": [
-        0.052,
-        0.739
+        0.286,
+        0.778
       ]
     },
     "chroaZygos": {
       "bBoxNE": [
-        0.509,
-        1.134
+        0.767,
+        1.12
       ],
       "bBoxSW": [
-        0.075,
-        0.709
+        0.133,
+        0.742
       ]
     },
     "chroaKliton": {
       "bBoxNE": [
-        0.559,
-        1.2
+        0.65,
+        1.113
       ],
       "bBoxSW": [
-        0.073,
-        0.734
+        0.25,
+        0.78
       ]
     },
     "chroaSpathi": {
       "bBoxNE": [
-        0.894,
-        1.101
+        0.863,
+        1.065
       ],
       "bBoxSW": [
-        0.058,
-        0.798
+        0.037,
+        0.84
       ]
     }
   },
