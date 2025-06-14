@@ -1018,6 +1018,70 @@
 	width: 0
 	leftSB: -430.58
 	rightSB: -395.44
+0xE1D0 fthoraDiatonicNiLow
+	width: 488
+	leftSB: 80.69
+	rightSB: 80.69
+0xE1D1 fthoraDiatonicPa
+	width: 364
+	leftSB: 64.0
+	rightSB: 64.0
+0xE1D2 fthoraDiatonicVou
+	width: 492
+	leftSB: 57.6
+	rightSB: 53.6
+0xE1D3 fthoraDiatonicGa
+	width: 392
+	leftSB: 76.5
+	rightSB: 76.5
+0xE1D4 fthoraDiatonicDi
+	width: 464
+	leftSB: 50.42
+	rightSB: 50.42
+0xE1D5 fthoraDiatonicKe
+	width: 368
+	leftSB: 66.5
+	rightSB: 66.5
+0xE1D6 fthoraDiatonicZo
+	width: 560
+	leftSB: 89.72
+	rightSB: 89.72
+0xE1D7 fthoraDiatonicNiHigh
+	width: 448
+	leftSB: 71.13
+	rightSB: 71.13
+0xE1D8 fthoraHardChromaticPa
+	width: 812
+	leftSB: 32.77
+	rightSB: 32.77
+0xE1D9 fthoraHardChromaticDi
+	width: 496
+	leftSB: 67.35
+	rightSB: 67.35
+0xE1DA fthoraSoftChromaticDi
+	width: 960
+	leftSB: 62.14
+	rightSB: 62.14
+0xE1DB fthoraSoftChromaticKe
+	width: 592
+	leftSB: 80.8
+	rightSB: 80.81
+0xE1DC fthoraEnharmonic
+	width: 528
+	leftSB: 52.11
+	rightSB: 52.11
+0xE1DD chroaZygos
+	width: 582
+	leftSB: 75.37
+	rightSB: 73.37
+0xE1DE chroaKliton
+	width: 630
+	leftSB: 72.98
+	rightSB: 70.98
+0xE1DF chroaSpathi
+	width: 954
+	leftSB: 57.64
+	rightSB: 59.64
 0xE1F0 diesis2
 	width: 0
 	leftSB: -186.08
