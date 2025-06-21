@@ -6,7 +6,6 @@ import json
 def find_midpoint(glyph):
     min_y = float("inf")
     max_y = float("-inf")
-    # return 0.1
 
     for contour in glyph.foreground:
         for point in contour:
@@ -19,7 +18,6 @@ def find_midpoint(glyph):
     if min_y == float("inf") or max_y == float("-inf"):
         return None
 
-    # return 0.1
     return (min_y + max_y) / 2
 
 
