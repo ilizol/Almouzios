@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1750612857
+ModificationTime: 1750614174
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2444,7 +2444,7 @@ AnchorPoint: "fthoraTop" 736.8 275 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
-AnchorPoint: "klasmaTop" 821.8 255 basechar 0
+AnchorPoint: "klasmaTop" 750 250 basechar 0
 AnchorPoint: "gorgonTop" 734.8 273 basechar 0
 LayerCount: 2
 Back
@@ -2637,7 +2637,7 @@ AnchorPoint: "fthoraTop" 736.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 741.8 255 basechar 0
+AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 AnchorPoint: "gorgonTop" 728.8 268 basechar 0
 LayerCount: 2
@@ -4096,7 +4096,7 @@ AnchorPoint: "fthoraBottom" 557.8 -162 basechar 0
 AnchorPoint: "gorgonTop" 575.8 348 basechar 0
 AnchorPoint: "diesis" 375.8 -212 basechar 0
 AnchorPoint: "yfesis" 928.8 304 basechar 0
-AnchorPoint: "klasmaTop" 508.8 388 basechar 0
+AnchorPoint: "klasmaTop" 650 340 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -18048,7 +18048,7 @@ StartChar: klasmaAbove
 Encoding: 57552 57552 158
 Width: 0
 VWidth: 345
-Flags: HWO
+Flags: HW
 HStem: 606.44 63.7998<-92.3221 113.155>
 AnchorPoint: "klasmaTop" 0 600 mark 0
 LayerCount: 2
