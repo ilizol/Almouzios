@@ -584,8 +584,8 @@
 	rightSB: 161.5
 0xE131 martyriaNoteNiLow
 	width: 700
-	leftSB: 155.12
-	rightSB: 155.12
+	leftSB: 135.12
+	rightSB: 175.12
 0xE132 martyriaNotePaLow
 	width: 700
 	leftSB: 123.38
@@ -612,8 +612,8 @@
 	rightSB: 161.5
 0xE138 martyriaNoteNi
 	width: 700
-	leftSB: 155.12
-	rightSB: 155.12
+	leftSB: 135.12
+	rightSB: 175.12
 0xE139 martyriaNotePa
 	width: 700
 	leftSB: 123.38
@@ -640,7 +640,7 @@
 	rightSB: -11.36
 0xE13F martyriaNoteNiHigh
 	width: 700
-	leftSB: 155.12
+	leftSB: 135.12
 	rightSB: -11.36
 0xE140 martyriaNotePaHigh
 	width: 700
