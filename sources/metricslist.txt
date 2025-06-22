@@ -364,12 +364,12 @@
 	rightSB: -182.16
 0xE0D0 klasmaAbove
 	width: 0
-	leftSB: -199.52
-	rightSB: -250.56
+	leftSB: -225.04
+	rightSB: -225.04
 0xE0D1 klasmaBelow
 	width: 0
-	leftSB: -199.52
-	rightSB: -250.56
+	leftSB: -225.04
+	rightSB: -225.04
 0xE0D2 apli
 	width: 0
 	leftSB: -97.72
