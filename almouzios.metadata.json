@@ -7625,18 +7625,18 @@
     "gorgonBelow": 0.0,
     "gorgonDottedLeft": 0.0,
     "digorgon": 0.0,
-    "agogiPoliArgi": 0.355,
-    "agogiMesi": 0.355,
+    "agogiPoliArgi": 0.8,
+    "agogiMesi": 0.8,
     "oligonKentimaMiddle": 1.583,
     "gorgonDottedRight": 0.0,
     "digorgonDottedLeftBelow": 0.0,
     "tripleChamili": 1.441,
-    "agogiArgoteri": 0.355,
-    "agogiGorgi": 0.355,
-    "agogiArgi": 0.355,
-    "agogiGorgoteri": 0.355,
-    "agogiPoliGorgi": 0.355,
-    "agogiMetria": 0.355,
+    "agogiArgoteri": 0.8,
+    "agogiGorgi": 0.8,
+    "agogiArgi": 0.8,
+    "agogiGorgoteri": 0.8,
+    "agogiPoliGorgi": 0.8,
+    "agogiMetria": 0.8,
     "digorgonDottedLeftAbove": 0.0,
     "martyriaNoteZoLow": 0.7,
     "martyriaNoteNiLow": 0.7,
@@ -8744,21 +8744,21 @@
     },
     "agogiPoliArgi": {
       "bBoxNE": [
-        0.325,
+        0.787,
         0.574
       ],
       "bBoxSW": [
-        -0.45,
+        0.013,
         -0.519
       ]
     },
     "agogiMesi": {
       "bBoxNE": [
-        0.475,
+        0.726,
         0.261
       ],
       "bBoxSW": [
-        -0.177,
+        0.074,
         -0.519
       ]
     },
@@ -8804,41 +8804,41 @@
     },
     "agogiArgoteri": {
       "bBoxNE": [
-        0.325,
+        0.604,
         0.423
       ],
       "bBoxSW": [
-        -0.084,
+        0.196,
         -0.519
       ]
     },
     "agogiGorgi": {
       "bBoxNE": [
-        0.394,
+        0.582,
         0.261
       ],
       "bBoxSW": [
-        0.03,
+        0.218,
         -0.519
       ]
     },
     "agogiArgi": {
       "bBoxNE": [
-        0.324,
+        0.69,
         0.411
       ],
       "bBoxSW": [
-        -0.255,
+        0.11,
         -0.519
       ]
     },
     "agogiGorgoteri": {
       "bBoxNE": [
-        0.575,
+        0.672,
         0.411
       ],
       "bBoxSW": [
-        0.03,
+        0.128,
         -0.519
       ]
     },
@@ -8848,17 +8848,17 @@
         0.574
       ],
       "bBoxSW": [
-        0.03,
+        0.029,
         -0.519
       ]
     },
     "agogiMetria": {
       "bBoxNE": [
-        0.324,
+        0.604,
         0.261
       ],
       "bBoxSW": [
-        -0.084,
+        0.196,
         -0.519
       ]
     },

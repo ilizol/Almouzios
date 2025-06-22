@@ -515,37 +515,37 @@
 	leftSB: -326.36
 	rightSB: -320.92
 0xE120 agogiPoliArgi
-	width: 355
-	leftSB: -450.0
-	rightSB: 30.12
+	width: 800
+	leftSB: 12.56
+	rightSB: 12.56
 0xE121 agogiArgoteri
-	width: 355
-	leftSB: -84.0
-	rightSB: 30.12
+	width: 800
+	leftSB: 195.56
+	rightSB: 195.56
 0xE122 agogiArgi
-	width: 355
-	leftSB: -255.0
-	rightSB: 30.67
+	width: 800
+	leftSB: 110.33
+	rightSB: 110.33
 0xE123 agogiMetria
-	width: 355
-	leftSB: -84.0
-	rightSB: 30.68
+	width: 800
+	leftSB: 195.84
+	rightSB: 195.84
 0xE124 agogiMesi
-	width: 355
-	leftSB: -177.0
-	rightSB: -119.92
+	width: 800
+	leftSB: 74.04
+	rightSB: 74.04
 0xE125 agogiGorgi
-	width: 355
-	leftSB: 30.0
-	rightSB: -39.4
+	width: 800
+	leftSB: 217.8
+	rightSB: 217.8
 0xE126 agogiGorgoteri
-	width: 355
-	leftSB: 30.0
-	rightSB: -219.56
+	width: 800
+	leftSB: 127.72
+	rightSB: 127.72
 0xE127 agogiPoliGorgi
-	width: 355
-	leftSB: 30.0
-	rightSB: -416.4
+	width: 800
+	leftSB: 29.3
+	rightSB: 29.3
 0xE128 agogiPoliArgiAbove
 	width: 0
 	leftSB: -625.0
