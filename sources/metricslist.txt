@@ -588,8 +588,8 @@
 	rightSB: 155.12
 0xE132 martyriaNotePaLow
 	width: 700
-	leftSB: 143.38
-	rightSB: 143.38
+	leftSB: 123.38
+	rightSB: 163.38
 0xE133 martyriaNoteVouLow
 	width: 700
 	leftSB: 222.68
@@ -616,8 +616,8 @@
 	rightSB: 155.12
 0xE139 martyriaNotePa
 	width: 700
-	leftSB: 143.38
-	rightSB: 143.38
+	leftSB: 123.38
+	rightSB: 163.38
 0xE13A martyriaNoteVou
 	width: 700
 	leftSB: 222.68
@@ -644,7 +644,7 @@
 	rightSB: -11.36
 0xE140 martyriaNotePaHigh
 	width: 700
-	leftSB: 143.38
+	leftSB: 123.38
 	rightSB: -11.36
 0xE141 martyriaNoteVouHigh
 	width: 700
