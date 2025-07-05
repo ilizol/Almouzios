@@ -416,8 +416,8 @@
 	rightSB: -148.21
 0xE0F1 gorgonBelow
 	width: 0
-	leftSB: -225.68
-	rightSB: -178.21
+	leftSB: -201.95
+	rightSB: -201.95
 0xE0F2 gorgonDottedLeft
 	width: 0
 	leftSB: -419.24
