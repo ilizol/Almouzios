@@ -412,20 +412,20 @@
 	rightSB: 30.22
 0xE0F0 gorgonAbove
 	width: 0
-	leftSB: -255.68
-	rightSB: -148.21
+	leftSB: -201.95
+	rightSB: -201.95
 0xE0F1 gorgonBelow
 	width: 0
 	leftSB: -201.95
 	rightSB: -201.95
 0xE0F2 gorgonDottedLeft
 	width: 0
-	leftSB: -419.24
-	rightSB: -147.05
+	leftSB: -365.0
+	rightSB: -201.29
 0xE0F3 gorgonDottedRight
 	width: 0
-	leftSB: -257.8
-	rightSB: -310.61
+	leftSB: -202.0
+	rightSB: -366.4
 0xE0F4 digorgon
 	width: 0
 	leftSB: -276.36
@@ -460,8 +460,8 @@
 	rightSB: -481.02
 0xE0FC argon
 	width: 0
-	leftSB: -154.76
-	rightSB: -225.72
+	leftSB: -190.24
+	rightSB: -190.24
 0xE0FD diargon
 	width: 0
 	leftSB: -157.28
@@ -472,16 +472,16 @@
 	rightSB: -252.52
 0xE100 gorgonSecondary
 	width: 0
-	leftSB: -255.68
-	rightSB: -148.21
+	leftSB: -201.95
+	rightSB: -201.95
 0xE101 gorgonDottedLeftSecondary
 	width: 0
-	leftSB: -419.24
-	rightSB: -147.05
+	leftSB: -365.0
+	rightSB: -201.29
 0xE102 gorgonDottedRightSecondary
 	width: 0
-	leftSB: -257.8
-	rightSB: -310.61
+	leftSB: -202.0
+	rightSB: -366.4
 0xE103 digorgonSecondary
 	width: 0
 	leftSB: -276.36

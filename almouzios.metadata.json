@@ -8704,11 +8704,11 @@
     },
     "gorgonAbove": {
       "bBoxNE": [
-        0.148,
+        0.202,
         0.971
       ],
       "bBoxSW": [
-        -0.256,
+        -0.202,
         0.818
       ]
     },
@@ -8724,11 +8724,11 @@
     },
     "gorgonDottedLeft": {
       "bBoxNE": [
-        0.147,
+        0.201,
         0.972
       ],
       "bBoxSW": [
-        -0.419,
+        -0.365,
         0.818
       ]
     },
@@ -8774,11 +8774,11 @@
     },
     "gorgonDottedRight": {
       "bBoxNE": [
-        0.311,
+        0.366,
         0.984
       ],
       "bBoxSW": [
-        -0.258,
+        -0.202,
         0.818
       ]
     },
@@ -9315,11 +9315,11 @@
     "digorgonDottedRight": {
       "bBoxNE": [
         0.386,
-        1.114
+        1.113
       ],
       "bBoxSW": [
         -0.276,
-        0.821
+        0.82
       ]
     },
     "trigorgon": {
@@ -9364,11 +9364,11 @@
     },
     "argon": {
       "bBoxNE": [
-        0.226,
+        0.19,
         0.955
       ],
       "bBoxSW": [
-        -0.155,
+        -0.19,
         0.802
       ]
     },
@@ -10764,11 +10764,11 @@
     },
     "gorgonSecondary": {
       "bBoxNE": [
-        0.148,
+        0.202,
         0.971
       ],
       "bBoxSW": [
-        -0.256,
+        -0.202,
         0.818
       ]
     },
@@ -10834,21 +10834,21 @@
     },
     "gorgonDottedLeftSecondary": {
       "bBoxNE": [
-        0.147,
+        0.201,
         0.972
       ],
       "bBoxSW": [
-        -0.419,
+        -0.365,
         0.818
       ]
     },
     "gorgonDottedRightSecondary": {
       "bBoxNE": [
-        0.311,
+        0.366,
         0.984
       ],
       "bBoxSW": [
-        -0.258,
+        -0.202,
         0.818
       ]
     },
@@ -10875,11 +10875,11 @@
     "digorgonDottedRightSecondary": {
       "bBoxNE": [
         0.386,
-        1.114
+        1.113
       ],
       "bBoxSW": [
         -0.276,
-        0.821
+        0.82
       ]
     },
     "trigorgonSecondary": {
