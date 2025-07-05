@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1750614174
+ModificationTime: 1751701975
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -9864,7 +9864,7 @@ AnchorPoint: "fthoraBottom" 288.8 -133 basechar 0
 AnchorPoint: "gorgonTop" 348.8 348 basechar 0
 AnchorPoint: "diesis" 181.8 -132 basechar 0
 AnchorPoint: "yfesis" 596.8 325 basechar 0
-AnchorPoint: "klasmaTop" 356.8 335 basechar 0
+AnchorPoint: "klasmaTop" 350 320 basechar 0
 LayerCount: 2
 Back
 Refer: 10 118865 N 1 0 0 1 -51.2002 -2 2

@@ -1020,7 +1020,7 @@
 	('gorgonTop', 'base', 348.8, 348.0)
 	('diesis', 'base', 181.8, -132.0)
 	('yfesis', 'base', 596.8, 325.0)
-	('klasmaTop', 'base', 356.8, 335.0)
+	('klasmaTop', 'base', 350.0, 320.0)
 0xE00E oligonKentimataTripleYpsili
 	('gorgonBottom', 'base', 616.8, -107.0)
 	('yfenAbove', 'base', 879.8, 1229.0)
