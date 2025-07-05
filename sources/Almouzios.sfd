@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751702855
+ModificationTime: 1751703152
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2714,7 +2714,7 @@ AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
-AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 1086.8 268 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
@@ -18095,8 +18095,8 @@ StartChar: klasmaBelow
 Encoding: 57553 57553 159
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 26.4404 63.7998<-92.3221 113.155>
+Flags: W
+HStem: 26.4404 63.7998<-66.8016 138.676>
 AnchorPoint: "klasmaBottom" 0 200 mark 0
 LayerCount: 2
 Back

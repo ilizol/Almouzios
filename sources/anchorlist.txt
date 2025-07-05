@@ -84,7 +84,7 @@
 	('diesis', 'base', 348.8, -99.0)
 	('yfesis', 'base', 1264.8, 387.0)
 	('klasmaTop', 'base', 230.0, 250.0)
-	('klasmaBottom', 'base', 733.8, -72.0)
+	('klasmaBottom', 'base', 680.0, -70.0)
 	('gorgonTop', 'base', 1086.8, 268.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE005 oligonYpsiliRight
