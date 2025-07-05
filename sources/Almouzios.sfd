@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751704224
+ModificationTime: 1751704797
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2817,7 +2817,7 @@ AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 500 250 basechar 0
-AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 656.8 268 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
@@ -2936,7 +2936,7 @@ AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "klasmaTop" 800 250 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 1051.8 268 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
@@ -3055,7 +3055,7 @@ AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
-AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 656.8 607 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
@@ -3199,7 +3199,7 @@ AnchorPoint: "fthoraTop" 1175.8 215 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 1086.8 268 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
@@ -3342,7 +3342,7 @@ AnchorPoint: "fthoraTop" 627.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "gorgonTop" 706.8 268 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
@@ -3502,7 +3502,7 @@ AnchorPoint: "fthoraTop" 263.007 839 basechar 0
 AnchorPoint: "fthoraBottom" 738.007 -23 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1317.01 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.007 -72 basechar 0
+AnchorPoint: "klasmaBottom" 730 -70 basechar 0
 AnchorPoint: "psifiston" 789.007 -119 basechar 0
 LayerCount: 2
 Back
@@ -8016,7 +8016,7 @@ AnchorPoint: "fthoraTop" 1289.8 1061 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1327.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 730 -70 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -8244,7 +8244,7 @@ AnchorPoint: "apli" 752.8 -202 basechar 0
 AnchorPoint: "noteTop" 287.8 646 basechar 0
 AnchorPoint: "fthoraTop" 737.8 485 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
@@ -8378,7 +8378,7 @@ AnchorPoint: "fthoraTop" 551.933 803 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
 AnchorPoint: "diesis" 349.933 -99 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.933 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "psifiston" 789.933 -119 basechar 0
 LayerCount: 2
 Back
@@ -8456,36 +8456,36 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-252.692382812 350.3203125 m 4x38
- 252.692382812 438.078125 412.021484375 452.400390625 516.012695312 452.400390625 c 4
- 683.051757812 452.400390625 796.732421875 419.919921875 857.052734375 354.959960938 c 4
- 883.166992188 328.84375 887.57421875 319.28515625 884.892578125 308.559570312 c 4
- 882.946289062 261.874023438 780.4921875 283.53515625 780.4921875 254.040039062 c 4
- 780.4921875 219.448242188 1033.08300781 193.474609375 1068.17285156 243.599609375 c 4
- 1073.5859375 251.333007812 1076.29296875 264.8671875 1076.29296875 284.200195312 c 4
- 1076.29296875 324.1875 1065.92089844 346.770507812 1038.01269531 374.6796875 c 4
- 985.42578125 427.266601562 884.892578125 463.2265625 736.413085938 482.559570312 c 4
- 628.918945312 497.252929688 548.10546875 504.599609375 493.97265625 504.599609375 c 4
- 276.502929688 504.599609375 137.302734375 431.672851562 125.092773438 422.8203125 c 4
- 112.959960938 414.024414062 90.29296875 397.58984375 90.29296875 349.16015625 c 4
- 90.29296875 256.204101562 300.279296875 226.198242188 377.392578125 215.1796875 c 4
- 394.82421875 212.688476562 400.012695312 238.383789062 400.012695312 244.759765625 c 4
- 400.012695312 275.567382812 335.5625 257.948242188 282.272460938 298.700195312 c 4
- 262.551757812 313.780273438 252.692382812 330.987304688 252.692382812 350.3203125 c 4x38
-481.212890625 -11.599609375 m 4xb8
- 484.611328125 -11.599609375 656.581054688 -6.9599609375 821.091796875 -6.9599609375 c 4
- 988.025390625 -6.9599609375 1105.29199219 -6.9599609375 1215.4921875 -44.66015625 c 4
- 1232.1328125 -50.353515625 1252.20898438 -60.3203125 1252.61230469 -60.3203125 c 4
- 1262.66503906 -60.3203125 1267.69238281 -52.2001953125 1267.69238281 -35.9599609375 c 260
- 1267.69238281 -18.947265625 1261.50585938 -5.7998046875 1249.1328125 3.48046875 c 4
- 1168.70507812 69.2138671875 1079.77246094 109.426757812 982.333007812 124.120117188 c 4
- 964.545898438 127.212890625 933.612304688 128.759765625 889.532226562 128.759765625 c 4x78
- 786.520507812 128.759765625 678.126953125 120.639648438 423.791992188 120.639648438 c 4
- 338.338867188 120.639648438 282.852539062 122.186523438 257.333007812 125.280273438 c 4
- 154.479492188 138.426757812 89.1328125 152.733398438 61.29296875 168.200195312 c 4
- 57.42578125 170.51953125 53.171875 171.6796875 48.5322265625 171.6796875 c 4
- 23.8603515625 171.6796875 -15.1474609375 61.2939453125 253.852539062 8.1201171875 c 4
- 328.866210938 -5.0263671875 404.65234375 -11.599609375 481.212890625 -11.599609375 c 4xb8
+252.692382812 350.3203125 m 0x38
+ 252.692382812 438.078125 412.021484375 452.400390625 516.012695312 452.400390625 c 0
+ 683.051757812 452.400390625 796.732421875 419.919921875 857.052734375 354.959960938 c 0
+ 883.166992188 328.84375 887.57421875 319.28515625 884.892578125 308.559570312 c 0
+ 882.946289062 261.874023438 780.4921875 283.53515625 780.4921875 254.040039062 c 0
+ 780.4921875 219.448242188 1033.08300781 193.474609375 1068.17285156 243.599609375 c 0
+ 1073.5859375 251.333007812 1076.29296875 264.8671875 1076.29296875 284.200195312 c 0
+ 1076.29296875 324.1875 1065.92089844 346.770507812 1038.01269531 374.6796875 c 0
+ 985.42578125 427.266601562 884.892578125 463.2265625 736.413085938 482.559570312 c 0
+ 628.918945312 497.252929688 548.10546875 504.599609375 493.97265625 504.599609375 c 0
+ 276.502929688 504.599609375 137.302734375 431.672851562 125.092773438 422.8203125 c 0
+ 112.959960938 414.024414062 90.29296875 397.58984375 90.29296875 349.16015625 c 0
+ 90.29296875 256.204101562 300.279296875 226.198242188 377.392578125 215.1796875 c 0
+ 394.82421875 212.688476562 400.012695312 238.383789062 400.012695312 244.759765625 c 0
+ 400.012695312 275.567382812 335.5625 257.948242188 282.272460938 298.700195312 c 0
+ 262.551757812 313.780273438 252.692382812 330.987304688 252.692382812 350.3203125 c 0x38
+481.212890625 -11.599609375 m 0xb8
+ 484.611328125 -11.599609375 656.581054688 -6.9599609375 821.091796875 -6.9599609375 c 0
+ 988.025390625 -6.9599609375 1105.29199219 -6.9599609375 1215.4921875 -44.66015625 c 0
+ 1232.1328125 -50.353515625 1252.20898438 -60.3203125 1252.61230469 -60.3203125 c 0
+ 1262.66503906 -60.3203125 1267.69238281 -52.2001953125 1267.69238281 -35.9599609375 c 256
+ 1267.69238281 -18.947265625 1261.50585938 -5.7998046875 1249.1328125 3.48046875 c 0
+ 1168.70507812 69.2138671875 1079.77246094 109.426757812 982.333007812 124.120117188 c 0
+ 964.545898438 127.212890625 933.612304688 128.759765625 889.532226562 128.759765625 c 0x78
+ 786.520507812 128.759765625 678.126953125 120.639648438 423.791992188 120.639648438 c 0
+ 338.338867188 120.639648438 282.852539062 122.186523438 257.333007812 125.280273438 c 0
+ 154.479492188 138.426757812 89.1328125 152.733398438 61.29296875 168.200195312 c 0
+ 57.42578125 170.51953125 53.171875 171.6796875 48.5322265625 171.6796875 c 0
+ 23.8603515625 171.6796875 -15.1474609375 61.2939453125 253.852539062 8.1201171875 c 0
+ 328.866210938 -5.0263671875 404.65234375 -11.599609375 481.212890625 -11.599609375 c 0xb8
 EndSplineSet
 EndChar
 
@@ -8701,7 +8701,7 @@ AnchorPoint: "fthoraTop" 695.933 650 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
 AnchorPoint: "diesis" 349.933 -99 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.933 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "psifiston" 789.933 -119 basechar 0
 LayerCount: 2
 Back
@@ -8812,7 +8812,7 @@ AnchorPoint: "fthoraTop" 938.933 692 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
 AnchorPoint: "diesis" 349.933 -99 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.933 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "psifiston" 789.933 -119 basechar 0
 LayerCount: 2
 Back
@@ -9906,7 +9906,7 @@ AnchorPoint: "fthoraTop" 1229.8 1097 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1326.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 730 -70 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -11986,7 +11986,7 @@ AnchorPoint: "fthoraTop" 193.8 824 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1316.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -12171,7 +12171,7 @@ AnchorPoint: "fthoraTop" 1211.8 629 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 730 -70 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -12358,7 +12358,7 @@ AnchorPoint: "fthoraTop" 812.8 1007 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1317.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 730 -70 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -12562,7 +12562,7 @@ AnchorPoint: "fthoraTop" 551.933 803 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
 AnchorPoint: "diesis" 349.933 -99 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.933 -72 basechar 0
+AnchorPoint: "klasmaBottom" 680 -70 basechar 0
 AnchorPoint: "psifiston" 789.933 -119 basechar 0
 LayerCount: 2
 Back
@@ -12908,7 +12908,7 @@ AnchorPoint: "fthoraTop" 707.8 695 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
-AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
+AnchorPoint: "klasmaBottom" 800 -70 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
