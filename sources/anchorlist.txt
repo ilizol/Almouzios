@@ -286,7 +286,7 @@
 	('gorgonTop', 'base', 1095.8, 348.0)
 	('diesis', 'base', 885.8, -212.0)
 	('yfesis', 'base', 1438.8, 304.0)
-	('klasmaTop', 'base', 1008.8, 388.0)
+	('klasmaTop', 'base', 1350.0, 340.0)
 0xE024 elafron
 	('yfenAbove', 'base', 598.8, 669.0)
 	('yfenBelow', 'base', 607.8, -272.0)
@@ -324,7 +324,7 @@
 	('gorgonTop', 'base', 575.8, 348.0)
 	('diesis', 'base', 375.8, -212.0)
 	('yfesis', 'base', 928.8, 304.0)
-	('klasmaTop', 'base', 508.8, 388.0)
+	('klasmaTop', 'base', 650.0, 340.0)
 0xE028 chamiliApostrofos
 	('yfenAbove', 'base', 579.8, 689.0)
 	('yfenBelow', 'base', 608.8, -532.0)
@@ -342,7 +342,7 @@
 	('gorgonTop', 'base', 768.8, 448.0)
 	('diesis', 'base', 277.8, -216.0)
 	('yfesis', 'base', 902.8, 515.0)
-	('klasmaTop', 'base', 696.8, 281.0)
+	('klasmaTop', 'base', 950.0, 310.0)
 0xE027 chamili
 	('yfenAbove', 'base', 578.64, 689.0)
 	('yfenBelow', 'base', 607.64, -272.0)
@@ -361,7 +361,7 @@
 	('gorgonTop', 'base', 767.64, 448.0)
 	('diesis', 'base', 341.64, -31.0)
 	('yfesis', 'base', 901.64, 515.0)
-	('klasmaTop', 'base', 695.64, 281.0)
+	('klasmaTop', 'base', 950.0, 260.0)
 0xE029 chamiliElafron
 	('yfenAbove', 'base', 578.64, 1069.0)
 	('yfenBelow', 'base', 607.64, -272.0)
@@ -379,7 +379,7 @@
 	('gorgonTop', 'base', 767.64, 778.0)
 	('diesis', 'base', 406.64, -216.0)
 	('yfesis', 'base', 953.64, 819.0)
-	('klasmaTop', 'base', 755.64, 588.0)
+	('klasmaTop', 'base', 950.0, 630.0)
 0xE02A chamiliElafronApostrofos
 	('yfenAbove', 'base', 578.64, 1019.0)
 	('yfenBelow', 'base', 607.64, -462.0)
@@ -397,7 +397,7 @@
 	('gorgonTop', 'base', 767.64, 778.0)
 	('diesis', 'base', 406.64, -216.0)
 	('yfesis', 'base', 953.64, 819.0)
-	('klasmaTop', 'base', 755.64, 588.0)
+	('klasmaTop', 'base', 950.0, 630.0)
 0xE02B doubleChamili
 	('yfenAbove', 'base', 578.64, 1009.0)
 	('yfenBelow', 'base', 607.64, -272.0)
@@ -415,7 +415,7 @@
 	('gorgonTop', 'base', 767.64, 795.0)
 	('diesis', 'base', 412.64, -71.0)
 	('yfesis', 'base', 913.64, 865.0)
-	('klasmaTop', 'base', 655.64, 701.0)
+	('klasmaTop', 'base', 1050.0, 630.0)
 0xE040 petastiIson
 	('yfenAbove', 'base', 740.8, 817.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -1059,7 +1059,7 @@
 	('gorgonTop', 'base', 767.64, 815.0)
 	('diesis', 'base', 410.64, -423.0)
 	('yfesis', 'base', 913.64, 865.0)
-	('klasmaTop', 'base', 655.64, 701.0)
+	('klasmaTop', 'base', 1050.0, 700.0)
 0xE02D doubleChamiliElafron
 	('yfenAbove', 'base', 578.64, 999.0)
 	('yfenBelow', 'base', 607.64, -542.0)
@@ -1077,7 +1077,7 @@
 	('gorgonTop', 'base', 767.64, 815.0)
 	('diesis', 'base', 410.64, -423.0)
 	('yfesis', 'base', 913.64, 865.0)
-	('klasmaTop', 'base', 655.64, 701.0)
+	('klasmaTop', 'base', 1050.0, 700.0)
 0xE02C doubleChamiliApostrofos
 	('yfenAbove', 'base', 578.64, 999.0)
 	('yfenBelow', 'base', 607.64, -542.0)
@@ -1095,7 +1095,7 @@
 	('gorgonTop', 'base', 767.64, 815.0)
 	('diesis', 'base', 406.64, -216.0)
 	('yfesis', 'base', 913.64, 865.0)
-	('klasmaTop', 'base', 655.64, 701.0)
+	('klasmaTop', 'base', 1050.0, 700.0)
 0xE049 petastiKentimataDoubleYpsili
 	('yfenAbove', 'base', 740.8, 1187.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -1424,7 +1424,7 @@
 	('gorgonTop', 'base', 727.64, 965.0)
 	('diesis', 'base', 412.64, -65.0)
 	('yfesis', 'base', 841.64, 995.0)
-	('klasmaTop', 'base', 635.64, 875.0)
+	('klasmaTop', 'base', 1150.0, 950.0)
 0xE121 agogiArgoteri
 0xE125 agogiGorgi
 0xE122 agogiArgi
