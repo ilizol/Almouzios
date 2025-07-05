@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751701975
+ModificationTime: 1751702855
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2537,7 +2537,7 @@ AnchorPoint: "fthoraTop" 736.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 368.8 -125 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 741.8 255 basechar 0
+AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "gorgonTop" 728.8 268 basechar 0
 AnchorPoint: "psifiston" 838.8 -149 basechar 0
 LayerCount: 2
@@ -2713,7 +2713,7 @@ AnchorPoint: "fthoraTop" 1201.8 208 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 331.8 255 basechar 0
+AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
 AnchorPoint: "gorgonTop" 1086.8 268 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
@@ -2816,7 +2816,7 @@ AnchorPoint: "fthoraTop" 505.8 257 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 546.8 255 basechar 0
+AnchorPoint: "klasmaTop" 500 250 basechar 0
 AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
 AnchorPoint: "gorgonTop" 656.8 268 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
@@ -2935,7 +2935,7 @@ AnchorPoint: "fthoraTop" 838.8 269 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
-AnchorPoint: "klasmaTop" 929.8 255 basechar 0
+AnchorPoint: "klasmaTop" 800 250 basechar 0
 AnchorPoint: "klasmaBottom" 734.8 -72 basechar 0
 AnchorPoint: "gorgonTop" 1051.8 268 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
@@ -3054,7 +3054,7 @@ AnchorPoint: "fthoraTop" 306.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 301.8 255 basechar 0
+AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 733.8 -72 basechar 0
 AnchorPoint: "gorgonTop" 656.8 607 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
@@ -3185,7 +3185,7 @@ AnchorPoint: "gorgonBottom" 615.8 -107 basechar 0
 AnchorPoint: "yfenAbove" 878.8 1171 basechar 0
 AnchorPoint: "yfenBelow" 877.8 -272 basechar 0
 AnchorPoint: "koronis" 223.8 603 basechar 0
-AnchorPoint: "klasmaTop" 301.8 255 basechar 0
+AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "measureNumber" 30.7998 521 basechar 0
 AnchorPoint: "isonIndicator" 30.7998 1171 basechar 0
 AnchorPoint: "heteronConnecting" 1640.8 -251 basechar 0
@@ -7887,7 +7887,7 @@ AnchorPoint: "noteTop" 210.8 329 basechar 0
 AnchorPoint: "fthoraBottom" 332.8 -72 basechar 0
 AnchorPoint: "fthoraTop" 691.8 283 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
-AnchorPoint: "klasmaTop" 741.8 255 basechar 0
+AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "gorgonTop" 711.8 273 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
@@ -14518,7 +14518,7 @@ EndChar
 StartChar: oligonKentimaMiddle
 Encoding: 57346 57346 113
 Width: 1583
-Flags: HW
+Flags: W
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 VStem: 1283 270.28
 AnchorPoint: "gorgonBottom" 667 -107 basechar 0
@@ -14539,7 +14539,7 @@ AnchorPoint: "fthoraTop" 788 275 basechar 0
 AnchorPoint: "fthoraBottom" 789 -23 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
-AnchorPoint: "klasmaTop" 793 255 basechar 0
+AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "gorgonTop" 708 227 basechar 0
 AnchorPoint: "psifiston" 840 -119 basechar 0
 LayerCount: 2
@@ -16973,7 +16973,7 @@ AnchorPoint: "measureNumber" 31.9316 521 basechar 0
 AnchorPoint: "fthoraBottom" 333.932 -72 basechar 0
 AnchorPoint: "diesis" 349.932 -99 basechar 0
 AnchorPoint: "gorgonTop" 712.932 273 basechar 0
-AnchorPoint: "klasmaTop" 742.932 255 basechar 0
+AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
 AnchorPoint: "fthoraTop" 692.932 283 basechar 0
 AnchorPoint: "noteTop" 211.932 329 basechar 0
@@ -18048,8 +18048,8 @@ StartChar: klasmaAbove
 Encoding: 57552 57552 158
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 606.44 63.7998<-92.3221 113.155>
+Flags: W
+HStem: 606.44 63.7998<-66.8016 138.676>
 AnchorPoint: "klasmaTop" 0 600 mark 0
 LayerCount: 2
 Back
