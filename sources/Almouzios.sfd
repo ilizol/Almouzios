@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751704797
+ModificationTime: 1751705624
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -5089,7 +5089,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 246.8 808 basechar 0
 AnchorPoint: "fthoraTop" 682.8 614 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5237,7 +5237,7 @@ AnchorPoint: "noteTop" 162.8 404 basechar 0
 AnchorPoint: "fthoraTop" 604.8 368 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "psifiston" 743.8 -92 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5327,7 +5327,7 @@ AnchorPoint: "antikenoma" 661.8 -170 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 162.8 684 basechar 0
 AnchorPoint: "fthoraTop" 682.8 614 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 LayerCount: 2
 Back
@@ -5459,7 +5459,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 106.8 438 basechar 0
 AnchorPoint: "fthoraTop" 1039.8 428 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5576,7 +5576,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 162.8 444 basechar 0
 AnchorPoint: "fthoraTop" 542.8 636 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5709,7 +5709,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 142.8 724 basechar 0
 AnchorPoint: "fthoraTop" 906.8 416 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5842,7 +5842,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 162.8 444 basechar 0
 AnchorPoint: "fthoraTop" 430.8 658 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6001,7 +6001,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 162.8 444 basechar 0
 AnchorPoint: "fthoraTop" 968.8 448 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6160,7 +6160,7 @@ AnchorPoint: "fthoraTop" 437.8 679 basechar 0
 AnchorPoint: "noteTop" 150.8 710 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 750.8 647 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6284,7 +6284,7 @@ AnchorPoint: "fthoraTop" 437.8 819 basechar 0
 AnchorPoint: "noteTop" 150.8 870 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6438,7 +6438,7 @@ AnchorPoint: "fthoraTop" 437.8 799 basechar 0
 AnchorPoint: "noteTop" 150.8 810 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6624,7 +6624,7 @@ AnchorPoint: "fthoraTop" 645.84 739 basechar 0
 AnchorPoint: "noteTop" 198.84 1010 basechar 0
 AnchorPoint: "diesis" 460.84 -85 basechar 0
 AnchorPoint: "yfesis" 1024.84 793 basechar 0
-AnchorPoint: "klasmaBottom" 796.84 -149 basechar 0
+AnchorPoint: "klasmaBottom" 750 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8515,7 +8515,7 @@ AnchorPoint: "noteTop" 450.8 740 basechar 0
 AnchorPoint: "diesis" 702.8 -85 basechar 0
 AnchorPoint: "yfesis" 1170.8 679 basechar 0
 AnchorPoint: "psifiston" 1020.8 -103 basechar 0
-AnchorPoint: "klasmaBottom" 1019.8 -179 basechar 0
+AnchorPoint: "klasmaBottom" 1380 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8915,7 +8915,7 @@ AnchorPoint: "fthoraTop" 637.8 549 basechar 0
 AnchorPoint: "noteTop" 150.8 710 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 884.8 625 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9671,7 +9671,7 @@ AnchorPoint: "fthoraTop" 597.8 739 basechar 0
 AnchorPoint: "noteTop" 150.8 1010 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10867,7 +10867,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 175.8 695 basechar 0
 AnchorPoint: "fthoraTop" 140.8 518 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11095,7 +11095,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 155.8 681 basechar 0
 AnchorPoint: "fthoraTop" 140.8 518 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11296,7 +11296,7 @@ AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
 AnchorPoint: "noteTop" 120.8 910 basechar 0
 AnchorPoint: "fthoraTop" 1074.8 416 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 788.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 740 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11497,7 +11497,7 @@ AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
 AnchorPoint: "noteTop" 120.8 1040 basechar 0
 AnchorPoint: "fthoraTop" 1212.8 1064 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 788.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 740 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11767,7 +11767,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 80.7998 910 basechar 0
 AnchorPoint: "fthoraTop" 782.8 1050 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 740 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -12731,7 +12731,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 161.8 728 basechar 0
 AnchorPoint: "fthoraTop" 152.8 610 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 740 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13053,7 +13053,7 @@ AnchorPoint: "fthoraTop" 597.8 989 basechar 0
 AnchorPoint: "noteTop" 150.8 1250 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13276,7 +13276,7 @@ AnchorPoint: "fthoraTop" 597.8 1029 basechar 0
 AnchorPoint: "noteTop" 150.8 1250 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 700 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13529,7 +13529,7 @@ AnchorPoint: "fthoraTop" 645.84 869 basechar 0
 AnchorPoint: "noteTop" 198.84 1100 basechar 0
 AnchorPoint: "diesis" 460.84 -228 basechar 0
 AnchorPoint: "yfesis" 964.84 1105 basechar 0
-AnchorPoint: "klasmaBottom" 796.84 -295 basechar 0
+AnchorPoint: "klasmaBottom" 750 -300 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13756,7 +13756,7 @@ AnchorPoint: "fthoraTop" 597.8 869 basechar 0
 AnchorPoint: "noteTop" 150.8 1100 basechar 0
 AnchorPoint: "diesis" 412.8 -228 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 748.8 -297 basechar 0
+AnchorPoint: "klasmaBottom" 750 -300 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -17288,7 +17288,7 @@ AnchorPoint: "fthoraTop" 1212.8 1064 basechar 0
 AnchorPoint: "noteTop" 120.8 1040 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
 AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
-AnchorPoint: "klasmaBottom" 788.8 -149 basechar 0
+AnchorPoint: "klasmaBottom" 780 -150 basechar 0
 AnchorPoint: "antikenoma" 701.8 -170 basechar 0
 AnchorPoint: "apli" 753.8 -312 basechar 0
 LayerCount: 2

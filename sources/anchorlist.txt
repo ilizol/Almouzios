@@ -432,7 +432,7 @@
 	('noteTop', 'base', 246.8, 808.0)
 	('fthoraTop', 'base', 682.8, 614.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE041 petasti
 	('yfenAbove', 'base', 740.8, 817.0)
 	('yfenBelow', 'base', 717.8, -272.0)
@@ -449,7 +449,7 @@
 	('fthoraTop', 'base', 604.8, 368.0)
 	('diesis', 'base', 412.8, -85.0)
 	('psifiston', 'base', 743.8, -92.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE042 petastiOligon
 	('yfenAbove', 'base', 740.8, 817.0)
 	('yfenBelow', 'base', 737.8, -272.0)
@@ -465,7 +465,7 @@
 	('fthoraBottom', 'base', 300.8, -70.0)
 	('noteTop', 'base', 162.8, 684.0)
 	('fthoraTop', 'base', 682.8, 614.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 	('diesis', 'base', 412.8, -85.0)
 0xE043 petastiKentima
 	('yfenAbove', 'base', 740.8, 817.0)
@@ -483,7 +483,7 @@
 	('noteTop', 'base', 106.8, 438.0)
 	('fthoraTop', 'base', 1039.8, 428.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE044 petastiYpsiliRight
 	('yfenAbove', 'base', 740.8, 1077.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -500,7 +500,7 @@
 	('noteTop', 'base', 162.8, 444.0)
 	('fthoraTop', 'base', 542.8, 636.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE045 petastiYpsiliLeft
 	('yfenAbove', 'base', 740.8, 1067.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -517,7 +517,7 @@
 	('noteTop', 'base', 142.8, 724.0)
 	('fthoraTop', 'base', 906.8, 416.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE046 petastiKentimaYpsiliRight
 	('yfenAbove', 'base', 740.8, 1067.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -534,7 +534,7 @@
 	('noteTop', 'base', 162.8, 444.0)
 	('fthoraTop', 'base', 430.8, 658.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE047 petastiKentimaYpsiliMiddle
 	('yfenAbove', 'base', 740.8, 1067.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -551,7 +551,7 @@
 	('noteTop', 'base', 162.8, 444.0)
 	('fthoraTop', 'base', 968.8, 448.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE060 petastiApostrofos
 	('yfenAbove', 'base', 740.8, 817.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -568,7 +568,7 @@
 	('noteTop', 'base', 150.8, 710.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 750.8, 647.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE062 petastiElafron
 	('yfenAbove', 'base', 660.8, 877.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -585,7 +585,7 @@
 	('noteTop', 'base', 150.8, 870.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 976.8, 793.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE064 petastiElafronApostrofos
 	('yfenAbove', 'base', 650.8, 857.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -602,7 +602,7 @@
 	('noteTop', 'base', 150.8, 810.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 976.8, 793.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE065 petastiChamili
 	('yfenAbove', 'base', 778.84, 997.0)
 	('yfenBelow', 'base', 725.84, -272.0)
@@ -619,7 +619,7 @@
 	('noteTop', 'base', 198.84, 1010.0)
 	('diesis', 'base', 460.84, -85.0)
 	('yfesis', 'base', 1024.84, 793.0)
-	('klasmaBottom', 'base', 796.84, -149.0)
+	('klasmaBottom', 'base', 750.0, -150.0)
 0xE080 kentima
 0xE081 kentimata
 	('heteronConnecting', 'base', 754.64, -198.0)
@@ -851,7 +851,7 @@
 	('diesis', 'base', 702.8, -85.0)
 	('yfesis', 'base', 1170.8, 679.0)
 	('psifiston', 'base', 1020.8, -103.0)
-	('klasmaBottom', 'base', 1019.8, -179.0)
+	('klasmaBottom', 'base', 1380.0, -150.0)
 0xE011 oligonApostrofos
 	('gorgonBottom', 'base', 616.933, -107.0)
 	('yfenAbove', 'base', 879.933, 679.0)
@@ -913,7 +913,7 @@
 	('noteTop', 'base', 150.8, 710.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 884.8, 625.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE08B oligonRunningElafronKentimata
 	('diesisTertiary', 'base', 651.96, 951.0)
 	('diesisSecondary', 'base', 1345.96, 901.0)
@@ -1002,7 +1002,7 @@
 	('noteTop', 'base', 150.8, 1010.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 976.8, 793.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE021 apostrofos
 	('yfenAbove', 'base', 418.8, 659.0)
 	('yfenBelow', 'base', 457.8, -272.0)
@@ -1112,7 +1112,7 @@
 	('noteTop', 'base', 175.8, 695.0)
 	('fthoraTop', 'base', 140.8, 518.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE04A petastiKentimaDoubleYpsiliRight
 	('yfenAbove', 'base', 740.8, 1217.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -1129,7 +1129,7 @@
 	('noteTop', 'base', 155.8, 681.0)
 	('fthoraTop', 'base', 140.8, 518.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE04B petastiKentimaDoubleYpsiliLeft
 	('yfenAbove', 'base', 780.8, 1217.0)
 	('yfenBelow', 'base', 717.8, -272.0)
@@ -1146,7 +1146,7 @@
 	('noteTop', 'base', 120.8, 910.0)
 	('fthoraTop', 'base', 1074.8, 416.0)
 	('diesis', 'base', 452.8, -85.0)
-	('klasmaBottom', 'base', 788.8, -149.0)
+	('klasmaBottom', 'base', 740.0, -150.0)
 0xE04D petastiKentimataTripleYpsili
 	('yfenAbove', 'base', 780.8, 1207.0)
 	('yfenBelow', 'base', 717.8, -272.0)
@@ -1163,7 +1163,7 @@
 	('noteTop', 'base', 120.8, 1040.0)
 	('fthoraTop', 'base', 1212.8, 1064.0)
 	('diesis', 'base', 452.8, -85.0)
-	('klasmaBottom', 'base', 788.8, -149.0)
+	('klasmaBottom', 'base', 740.0, -150.0)
 0xE04C petastiTripleYpsili
 	('yfenAbove', 'base', 740.8, 1147.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -1180,7 +1180,7 @@
 	('noteTop', 'base', 80.7998, 910.0)
 	('fthoraTop', 'base', 782.8, 1050.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 740.0, -150.0)
 0xE00B oligonKentimaDoubleYpsiliRight
 	('gorgonBottom', 'base', 615.8, -107.0)
 	('yfenAbove', 'base', 878.8, 1209.0)
@@ -1281,7 +1281,7 @@
 	('noteTop', 'base', 161.8, 728.0)
 	('fthoraTop', 'base', 152.8, 610.0)
 	('diesis', 'base', 412.8, -85.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 740.0, -150.0)
 0xE015 oligonChamili
 	('gorgonBottom', 'base', 616.8, -107.0)
 	('yfenAbove', 'base', 879.8, 799.0)
@@ -1319,7 +1319,7 @@
 	('noteTop', 'base', 150.8, 1250.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 916.8, 1105.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE068 petastiChamiliElafronApostrofos
 	('yfenAbove', 'base', 730.8, 1197.0)
 	('yfenBelow', 'base', 677.8, -272.0)
@@ -1336,7 +1336,7 @@
 	('noteTop', 'base', 150.8, 1250.0)
 	('diesis', 'base', 412.8, -85.0)
 	('yfesis', 'base', 916.8, 1105.0)
-	('klasmaBottom', 'base', 748.8, -149.0)
+	('klasmaBottom', 'base', 700.0, -150.0)
 0xE069 petastiDoubleChamili
 	('yfenAbove', 'base', 778.84, 1057.0)
 	('yfenBelow', 'base', 725.84, -442.0)
@@ -1353,7 +1353,7 @@
 	('noteTop', 'base', 198.84, 1100.0)
 	('diesis', 'base', 460.84, -228.0)
 	('yfesis', 'base', 964.84, 1105.0)
-	('klasmaBottom', 'base', 796.84, -295.0)
+	('klasmaBottom', 'base', 750.0, -300.0)
 0xE06A petastiDoubleChamiliApostrofos
 	('yfenAbove', 'base', 730.8, 1057.0)
 	('yfenBelow', 'base', 677.8, -442.0)
@@ -1370,7 +1370,7 @@
 	('noteTop', 'base', 150.8, 1100.0)
 	('diesis', 'base', 412.8, -228.0)
 	('yfesis', 'base', 916.8, 1105.0)
-	('klasmaBottom', 'base', 748.8, -297.0)
+	('klasmaBottom', 'base', 750.0, -300.0)
 0xE0F0 gorgonAbove
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE0F1 gorgonBelow
@@ -1570,7 +1570,7 @@
 	('noteTop', 'base', 120.8, 1040.0)
 	('diesis', 'base', 452.8, -85.0)
 	('fthoraBottom', 'base', 340.8, -70.0)
-	('klasmaBottom', 'base', 788.8, -149.0)
+	('klasmaBottom', 'base', 780.0, -150.0)
 	('antikenoma', 'base', 701.8, -170.0)
 	('apli', 'base', 753.8, -312.0)
 0xE0A0 vareia

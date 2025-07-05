@@ -1699,8 +1699,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petasti": {
@@ -1765,8 +1765,8 @@
         -0.092
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiOligon": {
@@ -1827,8 +1827,8 @@
         0.614
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ],
       "diesis": [
         0.413,
@@ -1897,8 +1897,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiYpsiliRight": {
@@ -1963,8 +1963,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiYpsiliLeft": {
@@ -2029,8 +2029,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiKentimaYpsiliRight": {
@@ -2095,8 +2095,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiKentimaYpsiliMiddle": {
@@ -2161,8 +2161,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiApostrofos": {
@@ -2227,8 +2227,8 @@
         0.647
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiElafron": {
@@ -2293,8 +2293,8 @@
         0.793
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiElafronApostrofos": {
@@ -2359,8 +2359,8 @@
         0.793
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiChamili": {
@@ -2425,8 +2425,8 @@
         0.793
       ],
       "klasmaBottom": [
-        0.797,
-        -0.149
+        0.75,
+        -0.15
       ]
     },
     "kentimata": {
@@ -3325,8 +3325,8 @@
         -0.103
       ],
       "klasmaBottom": [
-        1.02,
-        -0.179
+        1.38,
+        -0.15
       ]
     },
     "oligonApostrofos": {
@@ -3567,8 +3567,8 @@
         0.625
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "oligonRunningElafronKentimata": {
@@ -3913,8 +3913,8 @@
         0.793
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "apostrofos": {
@@ -4341,8 +4341,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiKentimaDoubleYpsiliRight": {
@@ -4407,8 +4407,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiKentimaDoubleYpsiliLeft": {
@@ -4473,8 +4473,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.789,
-        -0.149
+        0.74,
+        -0.15
       ]
     },
     "petastiKentimataTripleYpsili": {
@@ -4539,8 +4539,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.789,
-        -0.149
+        0.74,
+        -0.15
       ]
     },
     "petastiTripleYpsili": {
@@ -4605,8 +4605,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.74,
+        -0.15
       ]
     },
     "oligonKentimaDoubleYpsiliRight": {
@@ -4999,8 +4999,8 @@
         -0.085
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.74,
+        -0.15
       ]
     },
     "oligonChamili": {
@@ -5147,8 +5147,8 @@
         1.105
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiChamiliElafronApostrofos": {
@@ -5213,8 +5213,8 @@
         1.105
       ],
       "klasmaBottom": [
-        0.749,
-        -0.149
+        0.7,
+        -0.15
       ]
     },
     "petastiDoubleChamili": {
@@ -5279,8 +5279,8 @@
         1.105
       ],
       "klasmaBottom": [
-        0.797,
-        -0.295
+        0.75,
+        -0.3
       ]
     },
     "petastiDoubleChamiliApostrofos": {
@@ -5345,8 +5345,8 @@
         1.105
       ],
       "klasmaBottom": [
-        0.749,
-        -0.297
+        0.75,
+        -0.3
       ]
     },
     "gorgonAbove": {
@@ -6041,8 +6041,8 @@
         -0.07
       ],
       "klasmaBottom": [
-        0.789,
-        -0.149
+        0.78,
+        -0.15
       ],
       "antikenoma": [
         0.702,
