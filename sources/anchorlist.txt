@@ -242,7 +242,7 @@
 	('noteTop', 'base', 142.8, 467.0)
 	('fthoraTop', 'base', 535.8, 410.0)
 	('fthoraBottom', 'base', 321.8, -139.0)
-	('gorgonTop', 'base', 1342.8, 153.0)
+	('gorgonTop', 'base', 1300.0, 100.0)
 	('diesis', 'base', 281.8, -105.0)
 0xE023 yporroi
 	('diesisSecondary', 'base', 523.648, 655.0)
@@ -263,7 +263,7 @@
 	('fthoraTop', 'base', 244.648, 377.0)
 	('fthoraBottom', 'base', 84.6484, -131.0)
 	('diesis', 'base', 203.648, -172.0)
-	('gorgonTop', 'base', 336.648, 295.0)
+	('gorgonTop', 'base', 250.0, 290.0)
 0xE025 runningElafron
 	('stavros', 'base', 495.8, 255.0)
 	('diesisSecondary', 'base', 661.8, 663.0)
@@ -283,7 +283,7 @@
 	('noteTop', 'base', 690.8, 471.0)
 	('fthoraTop', 'base', 1046.8, 428.0)
 	('fthoraBottom', 'base', 1087.8, -162.0)
-	('gorgonTop', 'base', 1095.8, 348.0)
+	('gorgonTop', 'base', 1350.0, 320.0)
 	('diesis', 'base', 885.8, -212.0)
 	('yfesis', 'base', 1438.8, 304.0)
 	('klasmaTop', 'base', 1350.0, 340.0)
@@ -302,7 +302,7 @@
 	('noteTop', 'base', 190.8, 471.0)
 	('fthoraTop', 'base', 466.8, 428.0)
 	('fthoraBottom', 'base', 557.8, -162.0)
-	('gorgonTop', 'base', 575.8, 348.0)
+	('gorgonTop', 'base', 650.0, 320.0)
 	('diesis', 'base', 375.8, -212.0)
 	('yfesis', 'base', 928.8, 304.0)
 	('klasmaTop', 'base', 650.0, 340.0)
@@ -321,7 +321,7 @@
 	('noteTop', 'base', 180.8, 471.0)
 	('fthoraTop', 'base', 466.8, 428.0)
 	('fthoraBottom', 'base', 557.8, -262.0)
-	('gorgonTop', 'base', 575.8, 348.0)
+	('gorgonTop', 'base', 650.0, 320.0)
 	('diesis', 'base', 375.8, -212.0)
 	('yfesis', 'base', 928.8, 304.0)
 	('klasmaTop', 'base', 650.0, 340.0)
@@ -651,7 +651,7 @@
 	('diesis', 'base', 348.8, -99.0)
 	('yfesis', 'base', 1264.8, 387.0)
 	('psifiston', 'base', 788.8, -119.0)
-	('gorgonTop', 'base', 650.8, 535.0)
+	('gorgonTop', 'base', 580.0, 510.0)
 0xE084 oligonIsonKentimata
 	('diesisSecondary', 'base', 824.007, 869.0)
 	('yfesisSecondary', 'base', 819.007, 544.0)
@@ -670,7 +670,7 @@
 	('diesis', 'base', 349.007, -99.0)
 	('yfesis', 'base', 1388.01, 588.0)
 	('psifiston', 'base', 1079.01, -119.0)
-	('gorgonTop', 'base', 1129.01, 528.0)
+	('gorgonTop', 'base', 1050.0, 520.0)
 0xE087 oligonYpsiliLeftKentimata
 	('yfenAbove', 'base', 879.8, 969.0)
 	('yfenBelow', 'base', 878.8, -272.0)
@@ -685,7 +685,7 @@
 	('diesis', 'base', 349.8, -99.0)
 	('yfesis', 'base', 1265.8, 387.0)
 	('psifiston', 'base', 789.8, -119.0)
-	('gorgonTop', 'base', 789.8, 555.0)
+	('gorgonTop', 'base', 750.0, 510.0)
 0xE088 oligonApostrofosKentimata
 	('diesisSecondary', 'base', 914.8, 922.0)
 	('yfesisSecondary', 'base', 589.8, 596.0)
@@ -704,7 +704,7 @@
 	('diesis', 'base', 349.8, -99.0)
 	('yfesis', 'base', 1386.8, 528.0)
 	('psifiston', 'base', 844.8, -119.0)
-	('gorgonTop', 'base', 1132.8, 508.0)
+	('gorgonTop', 'base', 1060.0, 520.0)
 0xE08A oligonElafronKentimata
 	('diesisSecondary', 'base', 853.64, 931.0)
 	('yfesisSecondary', 'base', 658.64, 606.0)
@@ -714,7 +714,7 @@
 	('yfenBelow', 'base', 937.64, -272.0)
 	('endofonon', 'base', 730.64, -269.0)
 	('heteronConnecting', 'base', 1418.64, -251.0)
-	('gorgonTop', 'base', 1175.64, 501.0)
+	('gorgonTop', 'base', 1120.0, 500.0)
 	('measureNumber', 'base', 30.6396, 811.0)
 	('isonIndicator', 'base', 30.6396, 825.0)
 	('antikenoma', 'base', 681.64, -79.0)
@@ -743,7 +743,7 @@
 	('yfesis', 'base', 1382.01, 487.0)
 	('psifiston', 'base', 819.007, -119.0)
 	('gorgonSecondary', 'base', 559.007, 561.0)
-	('gorgonTop', 'base', 1076.01, 501.0)
+	('gorgonTop', 'base', 1020.0, 520.0)
 0xE082 oligonKentimataBelow
 	('diesisSecondary', 'base', 1544.8, 665.0)
 	('yfesisSecondary', 'base', 373.8, -377.0)
@@ -766,7 +766,7 @@
 	('fthoraTop', 'base', 691.8, 283.0)
 	('yfesis', 'base', 1264.8, 387.0)
 	('klasmaTop', 'base', 650.0, 250.0)
-	('gorgonTop', 'base', 711.8, 273.0)
+	('gorgonTop', 'base', 680.0, 200.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE00F oligonKentimaTripleYpsili
 	('gorgonBottom', 'base', 780.0, -80.0)
@@ -936,7 +936,7 @@
 	('diesis', 'base', 350.96, -99.0)
 	('yfesis', 'base', 1833.96, 597.0)
 	('psifiston', 'base', 1170.96, -119.0)
-	('gorgonTop', 'base', 1610.96, 508.0)
+	('gorgonTop', 'base', 1550.0, 500.0)
 0xE08C oligonElafronApostrofosKentimata
 	('diesisSecondary', 'base', 866.007, 905.0)
 	('yfesisSecondary', 'base', 711.007, 580.0)
@@ -955,7 +955,7 @@
 	('diesis', 'base', 349.007, -99.0)
 	('yfesis', 'base', 1407.01, 534.0)
 	('psifiston', 'base', 819.007, -119.0)
-	('gorgonTop', 'base', 1186.01, 501.0)
+	('gorgonTop', 'base', 1120.0, 500.0)
 0xE085 oligonKentimaMiddleKentimata
 	('yfenAbove', 'base', 930.0, 869.0)
 	('yfenBelow', 'base', 1109.0, -272.0)
@@ -970,7 +970,7 @@
 	('diesis', 'base', 400.0, -99.0)
 	('yfesis', 'base', 1316.0, 387.0)
 	('psifiston', 'base', 840.0, -119.0)
-	('gorgonTop', 'base', 702.0, 535.0)
+	('gorgonTop', 'base', 580.0, 510.0)
 0xE086 oligonYpsiliRightKentimata
 	('yfenAbove', 'base', 879.007, 1019.0)
 	('yfenBelow', 'base', 878.007, -272.0)
@@ -985,7 +985,7 @@
 	('diesis', 'base', 349.007, -99.0)
 	('yfesis', 'base', 1464.01, 707.0)
 	('psifiston', 'base', 789.007, -119.0)
-	('gorgonTop', 'base', 742.007, 521.0)
+	('gorgonTop', 'base', 670.0, 510.0)
 0xE066 petastiChamiliApostrofos
 	('yfenAbove', 'base', 730.8, 997.0)
 	('yfenBelow', 'base', 677.8, -312.0)
@@ -1017,7 +1017,7 @@
 	('noteTop', 'base', 118.8, 411.0)
 	('fthoraTop', 'base', 334.8, 410.0)
 	('fthoraBottom', 'base', 288.8, -133.0)
-	('gorgonTop', 'base', 348.8, 348.0)
+	('gorgonTop', 'base', 370.0, 300.0)
 	('diesis', 'base', 181.8, -132.0)
 	('yfesis', 'base', 596.8, 325.0)
 	('klasmaTop', 'base', 350.0, 320.0)
@@ -1401,7 +1401,7 @@
 	('diesis', 'base', 400.0, -99.0)
 	('yfesis', 'base', 1316.0, 387.0)
 	('klasmaTop', 'base', 650.0, 250.0)
-	('gorgonTop', 'base', 708.0, 227.0)
+	('gorgonTop', 'base', 680.0, 200.0)
 	('psifiston', 'base', 840.0, -119.0)
 0xE0F3 gorgonDottedRight
 	('gorgonTop', 'mark', 0.0, 800.0)
@@ -1545,7 +1545,7 @@
 	('measureNumber', 'base', 31.9316, 521.0)
 	('fthoraBottom', 'base', 333.932, -72.0)
 	('diesis', 'base', 349.932, -99.0)
-	('gorgonTop', 'base', 712.932, 273.0)
+	('gorgonTop', 'base', 680.0, 200.0)
 	('klasmaTop', 'base', 650.0, 250.0)
 	('yfesis', 'base', 1265.93, 387.0)
 	('fthoraTop', 'base', 692.932, 283.0)
@@ -1600,7 +1600,7 @@
 0xE0D5 tetrapli
 	('apli', 'mark', 0.0, 0.0)
 0xE0E0 leimma1
-	('gorgonTop', 'base', 773.8, 191.0)
+	('gorgonTop', 'base', 700.0, 190.0)
 0xE0E1 leimma2
 0xE0E2 leimma3
 0xE0E3 leimma4
@@ -1930,7 +1930,7 @@
 	('diesis', 'base', 349.8, -99.0)
 	('yfesis', 'base', 1547.8, 504.0)
 	('psifiston', 'base', 839.8, -119.0)
-	('gorgonTop', 'base', 1299.8, 508.0)
+	('gorgonTop', 'base', 1250.0, 500.0)
 0xF006 psifiston.salt01
 	('psifiston', 'mark', -1.0, 569.0)
 0xF007 heteronConnecting.salt01

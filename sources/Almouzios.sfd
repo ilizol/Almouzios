@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751711833
+ModificationTime: 1751713471
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -185,7 +185,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 98 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -3821,7 +3821,7 @@ AnchorPoint: "isonIndicator" 30.7998 663 basechar 0
 AnchorPoint: "noteTop" 142.8 467 basechar 0
 AnchorPoint: "fthoraTop" 535.8 410 basechar 0
 AnchorPoint: "fthoraBottom" 321.8 -139 basechar 0
-AnchorPoint: "gorgonTop" 1342.8 153 basechar 0
+AnchorPoint: "gorgonTop" 1300 100 basechar 0
 AnchorPoint: "diesis" 281.8 -105 basechar 0
 LayerCount: 2
 Back
@@ -3921,7 +3921,7 @@ AnchorPoint: "noteTop" 92.6484 443 basechar 0
 AnchorPoint: "fthoraTop" 244.648 377 basechar 0
 AnchorPoint: "fthoraBottom" 84.6484 -131 basechar 0
 AnchorPoint: "diesis" 203.648 -172 basechar 0
-AnchorPoint: "gorgonTop" 336.648 295 basechar 0
+AnchorPoint: "gorgonTop" 250 290 basechar 0
 LayerCount: 2
 Back
 Refer: 11 118867 N 1 0 0 1 -63.3519 -2 2
@@ -3968,7 +3968,7 @@ AnchorPoint: "antikenoma" 1139.8 -131 basechar 0
 AnchorPoint: "noteTop" 690.8 471 basechar 0
 AnchorPoint: "fthoraTop" 1046.8 428 basechar 0
 AnchorPoint: "fthoraBottom" 1087.8 -162 basechar 0
-AnchorPoint: "gorgonTop" 1095.8 348 basechar 0
+AnchorPoint: "gorgonTop" 1350 320 basechar 0
 AnchorPoint: "diesis" 885.8 -212 basechar 0
 AnchorPoint: "yfesis" 1438.8 304 basechar 0
 AnchorPoint: "klasmaTop" 1350 340 basechar 0
@@ -4093,7 +4093,7 @@ AnchorPoint: "antikenoma" 514.8 -162 basechar 0
 AnchorPoint: "noteTop" 190.8 471 basechar 0
 AnchorPoint: "fthoraTop" 466.8 428 basechar 0
 AnchorPoint: "fthoraBottom" 557.8 -162 basechar 0
-AnchorPoint: "gorgonTop" 575.8 348 basechar 0
+AnchorPoint: "gorgonTop" 650 320 basechar 0
 AnchorPoint: "diesis" 375.8 -212 basechar 0
 AnchorPoint: "yfesis" 928.8 304 basechar 0
 AnchorPoint: "klasmaTop" 650 340 basechar 0
@@ -4187,7 +4187,7 @@ AnchorPoint: "antikenoma" 529.8 -261 basechar 0
 AnchorPoint: "noteTop" 180.8 471 basechar 0
 AnchorPoint: "fthoraTop" 466.8 428 basechar 0
 AnchorPoint: "fthoraBottom" 557.8 -262 basechar 0
-AnchorPoint: "gorgonTop" 575.8 348 basechar 0
+AnchorPoint: "gorgonTop" 650 320 basechar 0
 AnchorPoint: "diesis" 375.8 -212 basechar 0
 AnchorPoint: "yfesis" 928.8 304 basechar 0
 AnchorPoint: "klasmaTop" 650 340 basechar 0
@@ -6907,7 +6907,7 @@ AnchorPoint: "fthoraTop" 575.8 559 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 650.8 535 basechar 0
+AnchorPoint: "gorgonTop" 580 510 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7033,7 +7033,7 @@ AnchorPoint: "fthoraTop" 1022.01 669 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1388.01 588 basechar 0
 AnchorPoint: "psifiston" 1079.01 -119 basechar 0
-AnchorPoint: "gorgonTop" 1129.01 528 basechar 0
+AnchorPoint: "gorgonTop" 1050 520 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7210,7 +7210,7 @@ AnchorPoint: "fthoraTop" 642.8 657 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 789.8 555 basechar 0
+AnchorPoint: "gorgonTop" 750 510 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7379,7 +7379,7 @@ AnchorPoint: "fthoraTop" 1006.8 557 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1386.8 528 basechar 0
 AnchorPoint: "psifiston" 844.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 1132.8 508 basechar 0
+AnchorPoint: "gorgonTop" 1060 520 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7531,7 +7531,7 @@ AnchorPoint: "yfenAbove" 808.64 829 basechar 0
 AnchorPoint: "yfenBelow" 937.64 -272 basechar 0
 AnchorPoint: "endofonon" 730.64 -269 basechar 0
 AnchorPoint: "heteronConnecting" 1418.64 -251 basechar 0
-AnchorPoint: "gorgonTop" 1175.64 501 basechar 0
+AnchorPoint: "gorgonTop" 1120 500 basechar 0
 AnchorPoint: "measureNumber" 30.6396 811 basechar 0
 AnchorPoint: "isonIndicator" 30.6396 825 basechar 0
 AnchorPoint: "antikenoma" 681.64 -79 basechar 0
@@ -7728,7 +7728,7 @@ AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1382.01 487 basechar 0
 AnchorPoint: "psifiston" 819.007 -119 basechar 0
 AnchorPoint: "gorgonSecondary" 559.007 561 basechar 0
-AnchorPoint: "gorgonTop" 1076.01 501 basechar 0
+AnchorPoint: "gorgonTop" 1020 520 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7888,7 +7888,7 @@ AnchorPoint: "fthoraBottom" 332.8 -72 basechar 0
 AnchorPoint: "fthoraTop" 691.8 283 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 711.8 273 basechar 0
+AnchorPoint: "gorgonTop" 680 200 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -9040,7 +9040,7 @@ AnchorPoint: "fthoraTop" 1485.96 511 basechar 0
 AnchorPoint: "diesis" 350.96 -99 basechar 0
 AnchorPoint: "yfesis" 1833.96 597 basechar 0
 AnchorPoint: "psifiston" 1170.96 -119 basechar 0
-AnchorPoint: "gorgonTop" 1610.96 508 basechar 0
+AnchorPoint: "gorgonTop" 1550 500 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9255,7 +9255,7 @@ AnchorPoint: "fthoraTop" 1066.01 513 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1407.01 534 basechar 0
 AnchorPoint: "psifiston" 819.007 -119 basechar 0
-AnchorPoint: "gorgonTop" 1186.01 501 basechar 0
+AnchorPoint: "gorgonTop" 1120 500 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9472,7 +9472,7 @@ AnchorPoint: "fthoraTop" 627 559 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
 AnchorPoint: "psifiston" 840 -119 basechar 0
-AnchorPoint: "gorgonTop" 702 535 basechar 0
+AnchorPoint: "gorgonTop" 580 510 basechar 0
 LayerCount: 2
 Back
 Refer: 66 57472 N 1 0 0 1 1465 0 2
@@ -9503,7 +9503,7 @@ AnchorPoint: "fthoraTop" 602.007 623 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1464.01 707 basechar 0
 AnchorPoint: "psifiston" 789.007 -119 basechar 0
-AnchorPoint: "gorgonTop" 742.007 521 basechar 0
+AnchorPoint: "gorgonTop" 670 510 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -9861,7 +9861,7 @@ AnchorPoint: "antikenoma" 409.8 -131 basechar 0
 AnchorPoint: "noteTop" 118.8 411 basechar 0
 AnchorPoint: "fthoraTop" 334.8 410 basechar 0
 AnchorPoint: "fthoraBottom" 288.8 -133 basechar 0
-AnchorPoint: "gorgonTop" 348.8 348 basechar 0
+AnchorPoint: "gorgonTop" 370 300 basechar 0
 AnchorPoint: "diesis" 181.8 -132 basechar 0
 AnchorPoint: "yfesis" 596.8 325 basechar 0
 AnchorPoint: "klasmaTop" 350 320 basechar 0
@@ -14144,8 +14144,8 @@ StartChar: digorgon
 Encoding: 57588 57588 110
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.08 153.12<-207.464 -137.309> 1071.8 40.5996<-6.46181 183.569>
+Flags: W
+HStem: 820.08 153.12<-143.687 -73.5322> 1071.8 40.5996<57.3145 247.346>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -14540,7 +14540,7 @@ AnchorPoint: "fthoraBottom" 789 -23 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 708 227 basechar 0
+AnchorPoint: "gorgonTop" 680 200 basechar 0
 AnchorPoint: "psifiston" 840 -119 basechar 0
 LayerCount: 2
 Back
@@ -14623,9 +14623,9 @@ StartChar: digorgonDottedLeftBelow
 Encoding: 57589 57589 115
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.08 153.12<-49.5672 20.5879> 883.88 71.9199<-286.371 -219.855> 1071.8 40.5996<151.435 341.466>
-VStem: -303.856 84.1006<885.013 952.224>
+Flags: W
+HStem: 820.08 153.12<-143.711 -73.5557> 883.88 71.9199<-380.515 -313.999> 1071.8 40.5996<57.291 247.322>
+VStem: -398 84.1006<885.013 952.224>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -15752,9 +15752,9 @@ StartChar: digorgonDottedLeftAbove
 Encoding: 57590 57590 123
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.08 153.12<-121.464 -51.3086> 1053.88 71.9199<-208.268 -141.752> 1071.8 40.5996<79.5381 269.569>
-VStem: -225.753 84.1006<1055.01 1122.22>
+Flags: W
+HStem: 820.08 153.12<-143.687 -73.5322> 1053.88 71.9199<-230.491 -163.976> 1071.8 40.5996<57.3145 247.346>
+VStem: -247.977 84.1006<1055.01 1122.22>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -16972,7 +16972,7 @@ AnchorPoint: "koronis" 635.932 569 basechar 0
 AnchorPoint: "measureNumber" 31.9316 521 basechar 0
 AnchorPoint: "fthoraBottom" 333.932 -72 basechar 0
 AnchorPoint: "diesis" 349.932 -99 basechar 0
-AnchorPoint: "gorgonTop" 712.932 273 basechar 0
+AnchorPoint: "gorgonTop" 680 200 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
 AnchorPoint: "fthoraTop" 692.932 283 basechar 0
@@ -18438,7 +18438,7 @@ Width: 854
 VWidth: 1392
 Flags: W
 HStem: -324.8 58<696.961 779.688> 29 103.82<611.227 705.96> 220.4 78.8799<43.4809 170.634>
-AnchorPoint: "gorgonTop" 773.8 191 basechar 0
+AnchorPoint: "gorgonTop" 700 190 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -18855,9 +18855,9 @@ StartChar: digorgonDottedRight
 Encoding: 57591 57591 168
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.28 153.12<-198.381 -128.226> 1034.88 71.9199<266.615 333.13> 1072 40.5996<2.62072 192.652>
-VStem: 249.13 84.1006<1036.01 1103.22>
+Flags: W
+HStem: 820.28 153.12<-143.551 -73.3955> 1034.88 71.9199<321.445 387.961> 1072 40.5996<57.4512 247.482>
+VStem: 303.96 84.1006<1036.01 1103.22>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -18940,8 +18940,8 @@ StartChar: trigorgon
 Encoding: 57592 57592 169
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-210.471 -140.316> 1053.4 40.5996<-33.8031 72.3203> 1175.2 34.7998<119.158 325.251>
+Flags: W
+HStem: 813.28 153.12<-213.191 -143.036> 1053.4 40.5996<-36.5238 69.5996> 1175.2 34.7998<116.438 322.531>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19019,9 +19019,9 @@ StartChar: trigorgonDottedLeftBelow
 Encoding: 57593 57593 170
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-132.671 -62.5158> 884.04 71.9199<-381.075 -314.56> 1053.4 40.5996<43.9967 150.12> 1175.2 34.7998<196.958 403.051>
-VStem: -398.56 84.0996<885.173 952.385>
+Flags: W
+HStem: 813.28 153.12<-213.11 -142.955> 884.04 71.9199<-461.514 -394.999> 1053.4 40.5996<-36.4427 69.6807> 1175.2 34.7998<116.519 322.612>
+VStem: -479 84.1006<885.173 952.385>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19122,9 +19122,9 @@ StartChar: trigorgonDottedLeftAbove
 Encoding: 57594 57594 171
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-210.471 -140.316> 1053.4 40.5996<-33.8031 72.3203> 1154.04 71.9199<-168.875 -102.36> 1175.2 34.7998<119.158 325.251>
-VStem: -186.36 84.0996<1155.17 1222.38>
+Flags: W
+HStem: 813.28 153.12<-213.191 -143.036> 1053.4 40.5996<-36.5238 69.5996> 1154.04 71.9199<-171.595 -105.079> 1175.2 34.7998<116.438 322.531>
+VStem: -189.08 84.1006<1155.17 1222.38>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19225,9 +19225,9 @@ StartChar: trigorgonDottedRight
 Encoding: 57595 57595 172
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-290.881 -220.726> 1053.4 40.5996<-114.214 -8.09035> 1127.64 71.9199<319.115 385.63> 1175.2 34.7998<38.7477 244.841>
-VStem: 301.63 84.1006<1128.77 1195.98>
+Flags: W
+HStem: 813.28 153.12<-213.551 -143.396> 1053.4 40.5996<-36.8832 69.2402> 1127.64 71.9199<396.445 462.961> 1175.2 34.7998<116.079 322.171>
+VStem: 378.96 84.1006<1128.77 1195.98>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19372,8 +19372,8 @@ StartChar: diargon
 Encoding: 57597 57597 174
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 802.28 153.12<-23.3272 46.8307>
+Flags: W
+HStem: 802.28 153.12<10.793 80.9511>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19432,8 +19432,8 @@ StartChar: triargon
 Encoding: 57598 57598 175
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 803.28 153.12<75.0751 145.233> 1055 40.5996<-236.213 -54.0372>
+Flags: W
+HStem: 803.28 153.12<73.4932 143.651> 1055 40.5996<-237.795 -55.6191>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33813,7 +33813,7 @@ AnchorPoint: "fthoraTop" 1178.8 519 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1547.8 504 basechar 0
 AnchorPoint: "psifiston" 839.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 1299.8 508 basechar 0
+AnchorPoint: "gorgonTop" 1250 500 basechar 0
 LayerCount: 2
 Back
 SplineSet
