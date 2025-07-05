@@ -5,7 +5,7 @@
 	('endofonon', 'base', 750.8, -294.0)
 	('measureNumber', 'base', 30.7998, 521.0)
 	('isonIndicator', 'base', 30.7998, 681.0)
-	('gorgonBottom', 'base', 661.8, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('heteronConnecting', 'base', 1648.8, -251.0)
 	('heteron', 'base', 975.8, -25.0)
 	('omalonConnecting', 'base', 1419.8, -99.0)
@@ -22,7 +22,7 @@
 	('gorgonTop', 'base', 734.8, 273.0)
 0xE003 oligonKentimaBelow
 	('apli', 'base', 711.8, -412.0)
-	('gorgonBottom', 'base', 398.8, -107.0)
+	('gorgonBottom', 'base', 500.0, -80.0)
 	('yfenAbove', 'base', 878.8, 409.0)
 	('yfenBelow', 'base', 877.8, -432.0)
 	('koronis', 'base', 731.8, 569.0)
@@ -49,7 +49,7 @@
 	('endofonon', 'base', 750.8, -294.0)
 	('measureNumber', 'base', 30.7998, 521.0)
 	('isonIndicator', 'base', 30.7998, 681.0)
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('heteronConnecting', 'base', 1640.8, -251.0)
 	('heteron', 'base', 1035.8, -5.0)
 	('omalon', 'base', 979.8, -99.0)
@@ -65,7 +65,7 @@
 	('psifiston', 'base', 788.8, -119.0)
 	('gorgonTop', 'base', 728.8, 268.0)
 0xE004 oligonKentimaAbove
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 878.8, 679.0)
 	('yfenBelow', 'base', 877.8, -272.0)
 	('koronis', 'base', 731.8, 659.0)
@@ -88,7 +88,7 @@
 	('gorgonTop', 'base', 1086.8, 268.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE005 oligonYpsiliRight
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 878.8, 971.0)
 	('yfenBelow', 'base', 877.8, -272.0)
 	('koronis', 'base', 731.8, 569.0)
@@ -111,7 +111,7 @@
 	('gorgonTop', 'base', 656.8, 268.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE006 oligonYpsiliLeft
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1053.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 900.8, 623.0)
@@ -134,7 +134,7 @@
 	('gorgonTop', 'base', 1051.8, 268.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE007 oligonKentimaYpsiliRight
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 878.8, 970.0)
 	('yfenBelow', 'base', 877.8, -272.0)
 	('koronis', 'base', 731.8, 679.0)
@@ -157,7 +157,7 @@
 	('gorgonTop', 'base', 656.8, 607.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE008 oligonKentimaYpsiliMiddle
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 878.8, 1171.0)
 	('yfenBelow', 'base', 877.8, -272.0)
 	('koronis', 'base', 223.8, 603.0)
@@ -179,7 +179,7 @@
 	('gorgonTop', 'base', 1086.8, 268.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE009 oligonDoubleYpsili
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1039.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 1029.0)
@@ -201,7 +201,7 @@
 	('gorgonTop', 'base', 706.8, 268.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE00A oligonKentimataDoubleYpsili
-	('gorgonBottom', 'base', 616.007, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('yfenAbove', 'base', 879.007, 1139.0)
 	('yfenBelow', 'base', 878.007, -272.0)
 	('koronis', 'base', 732.007, 1139.0)
@@ -294,7 +294,7 @@
 	('endofonon', 'base', 580.8, -269.0)
 	('measureNumber', 'base', 30.7998, 381.0)
 	('isonIndicator', 'base', 30.7998, 665.0)
-	('gorgonBottom', 'base', 435.8, -250.0)
+	('gorgonBottom', 'base', 750.0, -150.0)
 	('heteronConnecting', 'base', 1368.8, -251.0)
 	('omalonConnecting', 'base', 1189.8, -143.0)
 	('apli', 'base', 536.8, -233.0)
@@ -307,7 +307,7 @@
 	('yfesis', 'base', 928.8, 304.0)
 	('klasmaTop', 'base', 650.0, 340.0)
 0xE026 elafronApostrofos
-	('gorgonBottom', 'base', 435.8, -325.0)
+	('gorgonBottom', 'base', 750.0, -150.0)
 	('yfenAbove', 'base', 578.8, 659.0)
 	('yfenBelow', 'base', 607.8, -442.0)
 	('koronis', 'base', 508.8, 514.0)
@@ -350,7 +350,7 @@
 	('endofonon', 'base', 580.64, -269.0)
 	('measureNumber', 'base', 30.6396, 711.0)
 	('isonIndicator', 'base', 30.6396, 665.0)
-	('gorgonBottom', 'base', 341.64, -107.0)
+	('gorgonBottom', 'base', 850.0, -100.0)
 	('heteronConnecting', 'base', 1232.64, -251.0)
 	('omalonConnecting', 'base', 1059.64, -143.0)
 	('apli', 'base', 588.64, -156.0)
@@ -627,7 +627,7 @@
 	('yfenBelow', 'base', 407.64, -272.0)
 	('endofonon', 'base', 400.64, -509.0)
 	('measureNumber', 'base', 30.6396, 521.0)
-	('gorgonBottom', 'base', 302.64, -250.0)
+	('gorgonBottom', 'base', 360.0, -140.0)
 	('isonIndicator', 'base', 30.6396, 645.0)
 	('noteTop', 'base', 73.6396, 275.0)
 	('fthoraBottom', 'base', 413.64, -135.0)
@@ -769,7 +769,7 @@
 	('gorgonTop', 'base', 711.8, 273.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE00F oligonKentimaTripleYpsili
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1229.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 1229.0)
@@ -790,7 +790,7 @@
 	('klasmaBottom', 'base', 730.0, -70.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE010 oligonIson
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.8, 679.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 679.0)
@@ -811,7 +811,7 @@
 	('yfesis', 'base', 1265.8, 387.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE013 oligonElafron
-	('gorgonBottom', 'base', 616.933, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.933, 859.0)
 	('yfenBelow', 'base', 878.933, -272.0)
 	('koronis', 'base', 732.933, 809.0)
@@ -853,7 +853,7 @@
 	('psifiston', 'base', 1020.8, -103.0)
 	('klasmaBottom', 'base', 1380.0, -150.0)
 0xE011 oligonApostrofos
-	('gorgonBottom', 'base', 616.933, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.933, 679.0)
 	('yfenBelow', 'base', 878.933, -272.0)
 	('koronis', 'base', 732.933, 679.0)
@@ -875,7 +875,7 @@
 	('psifiston', 'base', 789.933, -119.0)
 0xE012 oligonYporroi
 	('barline', 'base', 946.933, 646.0)
-	('gorgonBottom', 'base', 616.933, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.933, 739.0)
 	('yfenBelow', 'base', 878.933, -272.0)
 	('koronis', 'base', 732.933, 679.0)
@@ -1011,7 +1011,7 @@
 	('heteronConnecting', 'base', 827.8, -251.0)
 	('measureNumber', 'base', 30.7998, 551.0)
 	('isonIndicator', 'base', 30.7998, 653.0)
-	('gorgonBottom', 'base', 296.8, -250.0)
+	('gorgonBottom', 'base', 400.0, -140.0)
 	('apli', 'base', 448.8, -214.0)
 	('antikenoma', 'base', 409.8, -131.0)
 	('noteTop', 'base', 118.8, 411.0)
@@ -1022,7 +1022,7 @@
 	('yfesis', 'base', 596.8, 325.0)
 	('klasmaTop', 'base', 350.0, 320.0)
 0xE00E oligonKentimataTripleYpsili
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1229.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 1229.0)
@@ -1182,7 +1182,7 @@
 	('diesis', 'base', 412.8, -85.0)
 	('klasmaBottom', 'base', 740.0, -150.0)
 0xE00B oligonKentimaDoubleYpsiliRight
-	('gorgonBottom', 'base', 615.8, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 878.8, 1209.0)
 	('yfenBelow', 'base', 877.8, -272.0)
 	('koronis', 'base', 731.8, 1209.0)
@@ -1203,7 +1203,7 @@
 	('klasmaBottom', 'base', 680.0, -70.0)
 	('psifiston', 'base', 788.8, -119.0)
 0xE00C oligonKentimaDoubleYpsiliLeft
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1209.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 1209.0)
@@ -1224,7 +1224,7 @@
 	('klasmaBottom', 'base', 730.0, -70.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE00D oligonTripleYpsili
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 800.0, -80.0)
 	('yfenAbove', 'base', 879.8, 1049.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 1049.0)
@@ -1245,7 +1245,7 @@
 	('klasmaBottom', 'base', 730.0, -70.0)
 	('psifiston', 'base', 789.8, -119.0)
 0xE014 oligonElafronApostrofos
-	('gorgonBottom', 'base', 616.933, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 879.933, 859.0)
 	('yfenBelow', 'base', 878.933, -272.0)
 	('koronis', 'base', 732.933, 809.0)
@@ -1283,7 +1283,7 @@
 	('diesis', 'base', 412.8, -85.0)
 	('klasmaBottom', 'base', 740.0, -150.0)
 0xE015 oligonChamili
-	('gorgonBottom', 'base', 616.8, -107.0)
+	('gorgonBottom', 'base', 900.0, -80.0)
 	('yfenAbove', 'base', 879.8, 799.0)
 	('yfenBelow', 'base', 878.8, -272.0)
 	('koronis', 'base', 732.8, 809.0)
@@ -1382,7 +1382,7 @@
 0xE120 agogiPoliArgi
 0xE124 agogiMesi
 0xE002 oligonKentimaMiddle
-	('gorgonBottom', 'base', 667.0, -107.0)
+	('gorgonBottom', 'base', 750.0, -80.0)
 	('yfenAbove', 'base', 930.0, 409.0)
 	('yfenBelow', 'base', 929.0, -272.0)
 	('koronis', 'base', 783.0, 569.0)
