@@ -651,7 +651,7 @@
 	('diesis', 'base', 348.8, -99.0)
 	('yfesis', 'base', 1264.8, 387.0)
 	('psifiston', 'base', 788.8, -119.0)
-	('gorgonTop', 'base', 580.0, 510.0)
+	('gorgonTop', 'base', 580.0, 520.0)
 0xE084 oligonIsonKentimata
 	('diesisSecondary', 'base', 824.007, 869.0)
 	('yfesisSecondary', 'base', 819.007, 544.0)
@@ -670,7 +670,7 @@
 	('diesis', 'base', 349.007, -99.0)
 	('yfesis', 'base', 1388.01, 588.0)
 	('psifiston', 'base', 1079.01, -119.0)
-	('gorgonTop', 'base', 1050.0, 520.0)
+	('gorgonTop', 'base', 1080.0, 530.0)
 0xE087 oligonYpsiliLeftKentimata
 	('yfenAbove', 'base', 879.8, 969.0)
 	('yfenBelow', 'base', 878.8, -272.0)
@@ -685,7 +685,7 @@
 	('diesis', 'base', 349.8, -99.0)
 	('yfesis', 'base', 1265.8, 387.0)
 	('psifiston', 'base', 789.8, -119.0)
-	('gorgonTop', 'base', 750.0, 510.0)
+	('gorgonTop', 'base', 750.0, 520.0)
 0xE088 oligonApostrofosKentimata
 	('diesisSecondary', 'base', 914.8, 922.0)
 	('yfesisSecondary', 'base', 589.8, 596.0)
@@ -704,7 +704,7 @@
 	('diesis', 'base', 349.8, -99.0)
 	('yfesis', 'base', 1386.8, 528.0)
 	('psifiston', 'base', 844.8, -119.0)
-	('gorgonTop', 'base', 1060.0, 520.0)
+	('gorgonTop', 'base', 1065.0, 530.0)
 0xE08A oligonElafronKentimata
 	('diesisSecondary', 'base', 853.64, 931.0)
 	('yfesisSecondary', 'base', 658.64, 606.0)
@@ -743,7 +743,7 @@
 	('yfesis', 'base', 1382.01, 487.0)
 	('psifiston', 'base', 819.007, -119.0)
 	('gorgonSecondary', 'base', 500.0, 550.0)
-	('gorgonTop', 'base', 1020.0, 520.0)
+	('gorgonTop', 'base', 1020.0, 530.0)
 0xE082 oligonKentimataBelow
 	('diesisSecondary', 'base', 1544.8, 665.0)
 	('yfesisSecondary', 'base', 373.8, -377.0)
@@ -970,7 +970,7 @@
 	('diesis', 'base', 400.0, -99.0)
 	('yfesis', 'base', 1316.0, 387.0)
 	('psifiston', 'base', 840.0, -119.0)
-	('gorgonTop', 'base', 580.0, 510.0)
+	('gorgonTop', 'base', 580.0, 520.0)
 0xE086 oligonYpsiliRightKentimata
 	('yfenAbove', 'base', 879.007, 1019.0)
 	('yfenBelow', 'base', 878.007, -272.0)
@@ -985,7 +985,7 @@
 	('diesis', 'base', 349.007, -99.0)
 	('yfesis', 'base', 1464.01, 707.0)
 	('psifiston', 'base', 789.007, -119.0)
-	('gorgonTop', 'base', 670.0, 510.0)
+	('gorgonTop', 'base', 670.0, 520.0)
 0xE066 petastiChamiliApostrofos
 	('yfenAbove', 'base', 730.8, 997.0)
 	('yfenBelow', 'base', 677.8, -312.0)

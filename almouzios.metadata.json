@@ -2546,7 +2546,7 @@
       ],
       "gorgonTop": [
         0.58,
-        0.51
+        0.52
       ]
     },
     "oligonIsonKentimata": {
@@ -2619,8 +2619,8 @@
         -0.119
       ],
       "gorgonTop": [
-        1.05,
-        0.52
+        1.08,
+        0.53
       ]
     },
     "oligonYpsiliLeftKentimata": {
@@ -2678,7 +2678,7 @@
       ],
       "gorgonTop": [
         0.75,
-        0.51
+        0.52
       ]
     },
     "oligonApostrofosKentimata": {
@@ -2751,8 +2751,8 @@
         -0.119
       ],
       "gorgonTop": [
-        1.06,
-        0.52
+        1.065,
+        0.53
       ]
     },
     "oligonElafronKentimata": {
@@ -2904,7 +2904,7 @@
       ],
       "gorgonTop": [
         1.02,
-        0.52
+        0.53
       ]
     },
     "oligonKentimataBelow": {
@@ -3790,7 +3790,7 @@
       ],
       "gorgonTop": [
         0.58,
-        0.51
+        0.52
       ]
     },
     "oligonYpsiliRightKentimata": {
@@ -3848,7 +3848,7 @@
       ],
       "gorgonTop": [
         0.67,
-        0.51
+        0.52
       ]
     },
     "petastiChamiliApostrofos": {
