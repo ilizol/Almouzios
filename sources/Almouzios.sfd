@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751714311
+ModificationTime: 1751714800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -185,7 +185,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 6
+WinInfo: 42 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -7023,7 +7023,7 @@ AnchorPoint: "yfenAbove" 919.007 729 basechar 0
 AnchorPoint: "yfenBelow" 988.007 -272 basechar 0
 AnchorPoint: "endofonon" 701.007 -309 basechar 0
 AnchorPoint: "heteronConnecting" 1419.01 -251 basechar 0
-AnchorPoint: "gorgonSecondary" 574.007 471 basechar 0
+AnchorPoint: "gorgonSecondary" 600 470 basechar 0
 AnchorPoint: "measureNumber" 31.0068 729 basechar 0
 AnchorPoint: "isonIndicator" 31.0068 925 basechar 0
 AnchorPoint: "antikenoma" 1002.01 -119 basechar 0
@@ -7369,7 +7369,7 @@ AnchorPoint: "yfenAbove" 879.8 879 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "endofonon" 811.8 -269 basechar 0
 AnchorPoint: "heteronConnecting" 1543.8 -251 basechar 0
-AnchorPoint: "gorgonSecondary" 359.8 642 basechar 0
+AnchorPoint: "gorgonSecondary" 370 580 basechar 0
 AnchorPoint: "measureNumber" 31.7998 781 basechar 0
 AnchorPoint: "isonIndicator" 31.7998 875 basechar 0
 AnchorPoint: "antikenoma" 769.8 -67 basechar 0
@@ -7526,7 +7526,7 @@ VStem: 31 141.52<273.222 358.576> 721.199 165.881<253.96 317.812>
 AnchorPoint: "diesisSecondary" 853.64 931 basechar 0
 AnchorPoint: "yfesisSecondary" 658.64 606 basechar 0
 AnchorPoint: "fthoraTopSecondary" 270.64 680 basechar 0
-AnchorPoint: "gorgonSecondary" 416.64 707 basechar 0
+AnchorPoint: "gorgonSecondary" 450 510 basechar 0
 AnchorPoint: "yfenAbove" 808.64 829 basechar 0
 AnchorPoint: "yfenBelow" 937.64 -272 basechar 0
 AnchorPoint: "endofonon" 730.64 -269 basechar 0
@@ -7727,7 +7727,7 @@ AnchorPoint: "fthoraTop" 962.007 535 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1382.01 487 basechar 0
 AnchorPoint: "psifiston" 819.007 -119 basechar 0
-AnchorPoint: "gorgonSecondary" 559.007 561 basechar 0
+AnchorPoint: "gorgonSecondary" 500 550 basechar 0
 AnchorPoint: "gorgonTop" 1020 520 basechar 0
 LayerCount: 2
 Back
@@ -9026,7 +9026,7 @@ AnchorPoint: "yfesisTertiary" 326.96 626 basechar 0
 AnchorPoint: "yfesisSecondary" 1070.96 576 basechar 0
 AnchorPoint: "fthoraTopTertiary" 138.96 622 basechar 0
 AnchorPoint: "fthoraTopSecondary" 782.96 620 basechar 0
-AnchorPoint: "gorgonSecondary" 858.96 657 basechar 0
+AnchorPoint: "gorgonSecondary" 850 510 basechar 0
 AnchorPoint: "yfenAbove" 1120.96 829 basechar 0
 AnchorPoint: "yfenBelow" 1339.96 -272 basechar 0
 AnchorPoint: "endofonon" 1162.96 -269 basechar 0
@@ -9241,7 +9241,7 @@ VStem: 31.3672 141.52<273.222 358.576> 454.767 126.44<223.751 276.074> 721.566 1
 AnchorPoint: "diesisSecondary" 866.007 905 basechar 0
 AnchorPoint: "yfesisSecondary" 711.007 580 basechar 0
 AnchorPoint: "fthoraTopSecondary" 341.007 680 basechar 0
-AnchorPoint: "gorgonSecondary" 487.007 707 basechar 0
+AnchorPoint: "gorgonSecondary" 450 510 basechar 0
 AnchorPoint: "yfenAbove" 779.007 829 basechar 0
 AnchorPoint: "yfenBelow" 948.007 -272 basechar 0
 AnchorPoint: "endofonon" 801.007 -269 basechar 0
@@ -32531,8 +32531,8 @@ EndChar
 StartChar: gorgonSecondary
 Encoding: 57600 57600 313
 Width: 0
-Flags: HW
-HStem: 930.48 40.5996<1.28469 212.044>
+Flags: W
+HStem: 930.48 40.5996<-52.4496 158.31>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33147,8 +33147,8 @@ StartChar: gorgonDottedLeftSecondary
 Encoding: 57601 57601 321
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 900.32 71.9199<-401.949 -332.18> 930.48 40.5996<-107.344 103.416>
+Flags: W
+HStem: 900.32 71.9199<-347.708 -277.94> 930.48 40.5996<-53.1039 157.656>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33213,8 +33213,8 @@ StartChar: gorgonDottedRightSecondary
 Encoding: 57602 57602 322
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 912.24 71.9199<223.491 293.26> 930.8 40.6006<-108.303 102.454>
+Flags: W
+HStem: 912.24 71.9199<279.291 349.06> 930.8 40.6006<-52.5033 158.253>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33279,8 +33279,8 @@ StartChar: digorgonSecondary
 Encoding: 57603 57603 323
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.08 153.12<-143.651 -73.4955> 1071.8 40.5996<57.3512 247.382>
+Flags: W
+HStem: 820.08 153.12<-143.65 -73.4951> 1071.8 40.5996<57.3516 247.383>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33339,7 +33339,7 @@ StartChar: digorgonDottedLeftBelowSecondary
 Encoding: 57604 57604 324
 Width: 0
 VWidth: 345
-Flags: HW
+Flags: W
 HStem: 820.08 153.12<-143.711 -73.5557> 883.88 71.9199<-380.515 -313.999> 1071.8 40.5996<57.291 247.322>
 VStem: -398 84.1006<885.013 952.224>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
@@ -33423,9 +33423,9 @@ StartChar: digorgonDottedRightSecondary
 Encoding: 57605 57605 325
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 821.28 153.12<-143.551 -73.3955> 1035.88 71.9199<321.445 387.96> 1073 40.5996<57.4512 247.482>
-VStem: 303.96 84.1006<1037.01 1104.22>
+Flags: W
+HStem: 820.28 153.12<-143.551 -73.3955> 1034.88 71.9199<321.445 387.961> 1072 40.5996<57.4512 247.482>
+VStem: 303.96 84.1006<1036.01 1103.22>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33508,8 +33508,8 @@ StartChar: trigorgonSecondary
 Encoding: 57606 57606 326
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-213.151 -142.996> 1053.4 40.5996<-36.4831 69.6403> 1175.2 34.7998<116.478 322.571>
+Flags: W
+HStem: 813.28 153.12<-213.191 -143.036> 1053.4 40.5996<-36.5238 69.5996> 1175.2 34.7998<116.438 322.531>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33587,9 +33587,9 @@ StartChar: trigorgonDottedLeftBelowSecondary
 Encoding: 57607 57607 327
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-213.111 -142.956> 884.04 71.9199<-461.515 -395> 1053.4 40.5996<-36.4437 69.6797> 1175.2 34.7998<116.518 322.611>
-VStem: -479 84.0996<885.173 952.385>
+Flags: W
+HStem: 813.28 153.12<-213.11 -142.955> 884.04 71.9199<-461.514 -394.999> 1053.4 40.5996<-36.4427 69.6807> 1175.2 34.7998<116.519 322.612>
+VStem: -479 84.1006<885.173 952.385>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -33690,8 +33690,8 @@ StartChar: trigorgonDottedRightSecondary
 Encoding: 57608 57608 328
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-213.551 -143.396> 1053.4 40.5996<-36.8831 69.2403> 1127.64 71.9199<396.445 462.96> 1175.2 34.7998<116.078 322.171>
+Flags: W
+HStem: 813.28 153.12<-213.551 -143.396> 1053.4 40.5996<-36.8832 69.2402> 1127.64 71.9199<396.445 462.961> 1175.2 34.7998<116.079 322.171>
 VStem: 378.96 84.1006<1128.77 1195.98>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
@@ -33799,7 +33799,7 @@ VStem: 493.84 100.92<235.306 285.36> 504.28 90.4795<357.286 397.728>
 AnchorPoint: "diesisSecondary" 1046.8 905 basechar 0
 AnchorPoint: "yfesisSecondary" 811.8 580 basechar 0
 AnchorPoint: "fthoraTopSecondary" 603.8 670 basechar 0
-AnchorPoint: "gorgonSecondary" 604.8 678 basechar 0
+AnchorPoint: "gorgonSecondary" 800 480 basechar 0
 AnchorPoint: "yfenAbove" 979.8 829 basechar 0
 AnchorPoint: "yfenBelow" 1008.8 -272 basechar 0
 AnchorPoint: "endofonon" 821.8 -269 basechar 0
@@ -38971,9 +38971,9 @@ StartChar: digorgonDottedLeftSecondary
 Encoding: 57609 57609 384
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 820.08 153.12<-143.651 -73.4955> 1053.88 71.9199<-230.455 -163.939> 1071.8 40.5996<57.3512 247.382>
-VStem: -247.94 84.1006<1055.01 1122.22>
+Flags: W
+HStem: 820.08 153.12<-143.687 -73.5322> 1053.88 71.9199<-230.491 -163.976> 1071.8 40.5996<57.3145 247.346>
+VStem: -247.977 84.1006<1055.01 1122.22>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
@@ -39055,9 +39055,9 @@ StartChar: trigorgonDottedLeftSecondary
 Encoding: 57610 57610 385
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 813.28 153.12<-213.151 -142.996> 1053.4 40.5996<-36.4831 69.6403> 1154.04 71.9199<-171.555 -105.04> 1175.2 34.7998<116.478 322.571>
-VStem: -189.04 84.0996<1155.17 1222.38>
+Flags: W
+HStem: 813.28 153.12<-213.191 -143.036> 1053.4 40.5996<-36.5238 69.5996> 1154.04 71.9199<-171.595 -105.079> 1175.2 34.7998<116.438 322.531>
+VStem: -189.08 84.1006<1155.17 1222.38>
 AnchorPoint: "gorgonSecondary" 0 800 mark 0
 LayerCount: 2
 Back
