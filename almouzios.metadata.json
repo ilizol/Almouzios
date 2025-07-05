@@ -6169,7 +6169,7 @@
     },
     "diargon": {
       "gorgonTop": [
-        -0.001,
+        0.0,
         0.8
       ]
     },
@@ -8734,11 +8734,11 @@
     },
     "digorgon": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.112
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
@@ -8784,11 +8784,11 @@
     },
     "digorgonDottedLeftBelow": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.112
       ],
       "bBoxSW": [
-        -0.42,
+        -0.398,
         0.82
       ]
     },
@@ -8864,11 +8864,11 @@
     },
     "digorgonDottedLeftAbove": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.126
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
@@ -9314,51 +9314,51 @@
     },
     "digorgonDottedRight": {
       "bBoxNE": [
-        0.386,
+        0.408,
         1.113
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
     "trigorgon": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.21
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },
     "trigorgonDottedLeftBelow": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.21
       ],
       "bBoxSW": [
-        -0.482,
+        -0.479,
         0.813
       ]
     },
     "trigorgonDottedLeftAbove": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.226
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },
     "trigorgonDottedRight": {
       "bBoxNE": [
-        0.481,
+        0.483,
         1.21
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },
@@ -9374,21 +9374,21 @@
     },
     "diargon": {
       "bBoxNE": [
-        0.226,
+        0.191,
         1.095
       ],
       "bBoxSW": [
-        -0.157,
+        -0.191,
         0.802
       ]
     },
     "triargon": {
       "bBoxNE": [
-        0.253,
+        0.254,
         1.096
       ],
       "bBoxSW": [
-        -0.256,
+        -0.254,
         0.803
       ]
     },
@@ -10854,61 +10854,61 @@
     },
     "digorgonSecondary": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.112
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
     "digorgonDottedLeftBelowSecondary": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.112
       ],
       "bBoxSW": [
-        -0.42,
+        -0.398,
         0.82
       ]
     },
     "digorgonDottedRightSecondary": {
       "bBoxNE": [
-        0.386,
+        0.408,
         1.113
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
     "trigorgonSecondary": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.21
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },
     "trigorgonDottedLeftBelowSecondary": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.21
       ],
       "bBoxSW": [
-        -0.482,
+        -0.479,
         0.813
       ]
     },
     "trigorgonDottedRightSecondary": {
       "bBoxNE": [
-        0.481,
+        0.483,
         1.21
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },
@@ -11464,21 +11464,21 @@
     },
     "digorgonDottedLeftSecondary": {
       "bBoxNE": [
-        0.232,
+        0.254,
         1.126
       ],
       "bBoxSW": [
-        -0.276,
+        -0.254,
         0.82
       ]
     },
     "trigorgonDottedLeftSecondary": {
       "bBoxNE": [
-        0.321,
+        0.324,
         1.226
       ],
       "bBoxSW": [
-        -0.326,
+        -0.324,
         0.813
       ]
     },

@@ -428,48 +428,48 @@
 	rightSB: -366.4
 0xE0F4 digorgon
 	width: 0
-	leftSB: -276.36
-	rightSB: -231.91
+	leftSB: -254.14
+	rightSB: -254.14
 0xE0F5 digorgonDottedLeftBelow
 	width: 0
-	leftSB: -420.2
-	rightSB: -231.91
+	leftSB: -398.0
+	rightSB: -254.11
 0xE0F6 digorgonDottedLeftAbove
 	width: 0
-	leftSB: -276.36
-	rightSB: -231.91
+	leftSB: -254.14
+	rightSB: -254.14
 0xE0F7 digorgonDottedRight
 	width: 0
-	leftSB: -276.36
-	rightSB: -386.02
+	leftSB: -254.0
+	rightSB: -408.38
 0xE0F8 trigorgon
 	width: 0
-	leftSB: -326.36
-	rightSB: -320.92
+	leftSB: -323.64
+	rightSB: -323.64
 0xE0F9 trigorgonDottedLeftBelow
 	width: 0
-	leftSB: -481.8
-	rightSB: -320.92
+	leftSB: -479.0
+	rightSB: -323.72
 0xE0FA trigorgonDottedLeftAbove
 	width: 0
-	leftSB: -326.36
-	rightSB: -320.92
+	leftSB: -323.64
+	rightSB: -323.64
 0xE0FB trigorgonDottedRight
 	width: 0
-	leftSB: -326.36
-	rightSB: -481.02
+	leftSB: -324.0
+	rightSB: -483.38
 0xE0FC argon
 	width: 0
 	leftSB: -190.24
 	rightSB: -190.24
 0xE0FD diargon
 	width: 0
-	leftSB: -157.28
-	rightSB: -225.52
+	leftSB: -191.4
+	rightSB: -191.4
 0xE0FE triargon
 	width: 0
-	leftSB: -255.68
-	rightSB: -252.52
+	leftSB: -254.1
+	rightSB: -254.1
 0xE100 gorgonSecondary
 	width: 0
 	leftSB: -201.95
@@ -484,36 +484,36 @@
 	rightSB: -366.4
 0xE103 digorgonSecondary
 	width: 0
-	leftSB: -276.36
-	rightSB: -231.91
+	leftSB: -254.1
+	rightSB: -254.17
 0xE104 digorgonDottedLeftBelowSecondary
 	width: 0
-	leftSB: -420.2
-	rightSB: -231.91
+	leftSB: -398.0
+	rightSB: -254.11
 0xE105 digorgonDottedRightSecondary
 	width: 0
-	leftSB: -276.36
-	rightSB: -386.02
+	leftSB: -254.0
+	rightSB: -408.38
 0xE106 trigorgonSecondary
 	width: 0
-	leftSB: -326.36
-	rightSB: -320.92
+	leftSB: -323.64
+	rightSB: -323.64
 0xE107 trigorgonDottedLeftBelowSecondary
 	width: 0
-	leftSB: -481.8
-	rightSB: -320.92
+	leftSB: -479.0
+	rightSB: -323.72
 0xE108 trigorgonDottedRightSecondary
 	width: 0
-	leftSB: -326.36
-	rightSB: -481.02
+	leftSB: -324.0
+	rightSB: -483.38
 0xE109 digorgonDottedLeftSecondary
 	width: 0
-	leftSB: -276.36
-	rightSB: -231.91
+	leftSB: -254.14
+	rightSB: -254.14
 0xE10A trigorgonDottedLeftSecondary
 	width: 0
-	leftSB: -326.36
-	rightSB: -320.92
+	leftSB: -323.64
+	rightSB: -323.64
 0xE120 agogiPoliArgi
 	width: 800
 	leftSB: 12.56

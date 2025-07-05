@@ -1617,7 +1617,7 @@
 0xE0FC argon
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE0FD diargon
-	('gorgonTop', 'mark', -1.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 800.0)
 0xE0FE triargon
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE150 martyriaZoBelow
