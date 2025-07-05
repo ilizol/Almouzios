@@ -90,7 +90,7 @@
       ],
       "gorgonTop": [
         0.78,
-        0.2
+        0.22
       ]
     },
     "oligonKentimaBelow": {
@@ -172,7 +172,7 @@
       ],
       "gorgonTop": [
         0.65,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.839,
@@ -262,7 +262,7 @@
       ],
       "gorgonTop": [
         0.68,
-        0.2
+        0.22
       ]
     },
     "oligonKentimaAbove": {
@@ -348,7 +348,7 @@
       ],
       "gorgonTop": [
         1.09,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.789,
@@ -438,7 +438,7 @@
       ],
       "gorgonTop": [
         0.4,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.789,
@@ -528,7 +528,7 @@
       ],
       "gorgonTop": [
         0.8,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.79,
@@ -618,7 +618,7 @@
       ],
       "gorgonTop": [
         0.2,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.789,
@@ -704,7 +704,7 @@
       ],
       "gorgonTop": [
         1.09,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.789,
@@ -790,7 +790,7 @@
       ],
       "gorgonTop": [
         0.6,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.79,
@@ -2480,7 +2480,7 @@
       ],
       "gorgonTop": [
         0.25,
-        0.22
+        0.23
       ]
     },
     "oligonKentimataAbove": {
@@ -2546,7 +2546,7 @@
       ],
       "gorgonTop": [
         0.58,
-        0.52
+        0.53
       ]
     },
     "oligonIsonKentimata": {
@@ -2619,7 +2619,7 @@
         -0.119
       ],
       "gorgonTop": [
-        1.08,
+        1.07,
         0.53
       ]
     },
@@ -2678,7 +2678,7 @@
       ],
       "gorgonTop": [
         0.75,
-        0.52
+        0.53
       ]
     },
     "oligonApostrofosKentimata": {
@@ -2994,7 +2994,7 @@
       ],
       "gorgonTop": [
         0.68,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.789,
@@ -3790,7 +3790,7 @@
       ],
       "gorgonTop": [
         0.58,
-        0.52
+        0.53
       ]
     },
     "oligonYpsiliRightKentimata": {
@@ -3848,7 +3848,7 @@
       ],
       "gorgonTop": [
         0.67,
-        0.52
+        0.53
       ]
     },
     "petastiChamiliApostrofos": {
@@ -5452,7 +5452,7 @@
       ],
       "gorgonTop": [
         0.68,
-        0.2
+        0.22
       ],
       "psifiston": [
         0.84,
@@ -5948,7 +5948,7 @@
       ],
       "gorgonTop": [
         0.68,
-        0.2
+        0.22
       ],
       "klasmaTop": [
         0.65,

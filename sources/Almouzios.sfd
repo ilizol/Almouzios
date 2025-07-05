@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751715975
+ModificationTime: 1751718053
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -185,7 +185,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 14 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2445,7 +2445,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 AnchorPoint: "klasmaTop" 750 250 basechar 0
-AnchorPoint: "gorgonTop" 780 200 basechar 0
+AnchorPoint: "gorgonTop" 780 220 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2538,7 +2538,7 @@ AnchorPoint: "fthoraBottom" 368.8 -125 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 650 200 basechar 0
+AnchorPoint: "gorgonTop" 650 220 basechar 0
 AnchorPoint: "psifiston" 838.8 -149 basechar 0
 LayerCount: 2
 Back
@@ -2639,7 +2639,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 680 200 basechar 0
+AnchorPoint: "gorgonTop" 680 220 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2715,7 +2715,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 1090 200 basechar 0
+AnchorPoint: "gorgonTop" 1090 220 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -2818,7 +2818,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 500 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 400 200 basechar 0
+AnchorPoint: "gorgonTop" 400 220 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -2937,7 +2937,7 @@ AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "klasmaTop" 800 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 800 200 basechar 0
+AnchorPoint: "gorgonTop" 800 220 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3056,7 +3056,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 200 200 basechar 0
+AnchorPoint: "gorgonTop" 200 220 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3200,7 +3200,7 @@ AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 1090 200 basechar 0
+AnchorPoint: "gorgonTop" 1090 220 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3343,7 +3343,7 @@ AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 600 200 basechar 0
+AnchorPoint: "gorgonTop" 600 220 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -6824,7 +6824,7 @@ AnchorPoint: "fthoraBottom" 413.64 -135 basechar 0
 AnchorPoint: "fthoraTop" 175.64 527 basechar 0
 AnchorPoint: "diesis" 281.64 -139 basechar 0
 AnchorPoint: "yfesis" 572.64 319 basechar 0
-AnchorPoint: "gorgonTop" 250 220 basechar 0
+AnchorPoint: "gorgonTop" 250 230 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6907,7 +6907,7 @@ AnchorPoint: "fthoraTop" 575.8 559 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 580 520 basechar 0
+AnchorPoint: "gorgonTop" 580 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7033,7 +7033,7 @@ AnchorPoint: "fthoraTop" 1022.01 669 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1388.01 588 basechar 0
 AnchorPoint: "psifiston" 1079.01 -119 basechar 0
-AnchorPoint: "gorgonTop" 1080 530 basechar 0
+AnchorPoint: "gorgonTop" 1070 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7210,7 +7210,7 @@ AnchorPoint: "fthoraTop" 642.8 657 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 750 520 basechar 0
+AnchorPoint: "gorgonTop" 750 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -7888,7 +7888,7 @@ AnchorPoint: "fthoraBottom" 332.8 -72 basechar 0
 AnchorPoint: "fthoraTop" 691.8 283 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 680 200 basechar 0
+AnchorPoint: "gorgonTop" 680 220 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -9472,7 +9472,7 @@ AnchorPoint: "fthoraTop" 627 559 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
 AnchorPoint: "psifiston" 840 -119 basechar 0
-AnchorPoint: "gorgonTop" 580 520 basechar 0
+AnchorPoint: "gorgonTop" 580 530 basechar 0
 LayerCount: 2
 Back
 Refer: 66 57472 N 1 0 0 1 1465 0 2
@@ -9503,7 +9503,7 @@ AnchorPoint: "fthoraTop" 602.007 623 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1464.01 707 basechar 0
 AnchorPoint: "psifiston" 789.007 -119 basechar 0
-AnchorPoint: "gorgonTop" 670 520 basechar 0
+AnchorPoint: "gorgonTop" 670 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -14540,7 +14540,7 @@ AnchorPoint: "fthoraBottom" 789 -23 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 680 200 basechar 0
+AnchorPoint: "gorgonTop" 680 220 basechar 0
 AnchorPoint: "psifiston" 840 -119 basechar 0
 LayerCount: 2
 Back
@@ -16972,7 +16972,7 @@ AnchorPoint: "koronis" 635.932 569 basechar 0
 AnchorPoint: "measureNumber" 31.9316 521 basechar 0
 AnchorPoint: "fthoraBottom" 333.932 -72 basechar 0
 AnchorPoint: "diesis" 349.932 -99 basechar 0
-AnchorPoint: "gorgonTop" 680 200 basechar 0
+AnchorPoint: "gorgonTop" 680 220 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "yfesis" 1265.93 387 basechar 0
 AnchorPoint: "fthoraTop" 692.932 283 basechar 0
