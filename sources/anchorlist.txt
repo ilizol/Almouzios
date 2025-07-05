@@ -1374,7 +1374,7 @@
 0xE0F0 gorgonAbove
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE0F1 gorgonBelow
-	('gorgonBottom', 'mark', -121.0, 260.0)
+	('gorgonBottom', 'mark', 0.0, 260.0)
 0xE0F2 gorgonDottedLeft
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE0F4 digorgon

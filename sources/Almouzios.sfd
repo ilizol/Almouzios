@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751705624
+ModificationTime: 1751706555
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -14038,7 +14038,7 @@ Encoding: 57585 57585 108
 Width: 0
 Flags: W
 HStem: 177.48 40.5996<-76.1839 134.575>
-AnchorPoint: "gorgonBottom" -121 260 mark 0
+AnchorPoint: "gorgonBottom" 0 260 mark 0
 LayerCount: 2
 Back
 SplineSet
