@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751713471
+ModificationTime: 1751714311
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2715,7 +2715,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 1086.8 268 basechar 0
+AnchorPoint: "gorgonTop" 1090 200 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -2818,7 +2818,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 500 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 656.8 268 basechar 0
+AnchorPoint: "gorgonTop" 400 200 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -2937,7 +2937,7 @@ AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "klasmaTop" 800 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 1051.8 268 basechar 0
+AnchorPoint: "gorgonTop" 800 200 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3056,7 +3056,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 230 250 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 656.8 607 basechar 0
+AnchorPoint: "gorgonTop" 200 200 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3200,7 +3200,7 @@ AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 1086.8 268 basechar 0
+AnchorPoint: "gorgonTop" 1090 200 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -3343,7 +3343,7 @@ AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "klasmaBottom" 680 -70 basechar 0
-AnchorPoint: "gorgonTop" 706.8 268 basechar 0
+AnchorPoint: "gorgonTop" 600 200 basechar 0
 AnchorPoint: "psifiston" 789.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -4313,7 +4313,7 @@ AnchorPoint: "antikenoma" 528.8 -361 basechar 0
 AnchorPoint: "noteTop" 191.8 701 basechar 0
 AnchorPoint: "fthoraTop" 722.8 533 basechar 0
 AnchorPoint: "fthoraBottom" 558.8 -362 basechar 0
-AnchorPoint: "gorgonTop" 768.8 448 basechar 0
+AnchorPoint: "gorgonTop" 900 350 basechar 0
 AnchorPoint: "diesis" 277.8 -216 basechar 0
 AnchorPoint: "yfesis" 902.8 515 basechar 0
 AnchorPoint: "klasmaTop" 950 310 basechar 0
@@ -4445,7 +4445,7 @@ AnchorPoint: "antikenoma" 590.64 -63 basechar 0
 AnchorPoint: "noteTop" 190.64 691 basechar 0
 AnchorPoint: "fthoraTop" 721.64 533 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 8 basechar 0
-AnchorPoint: "gorgonTop" 767.64 448 basechar 0
+AnchorPoint: "gorgonTop" 900 300 basechar 0
 AnchorPoint: "diesis" 341.64 -31 basechar 0
 AnchorPoint: "yfesis" 901.64 515 basechar 0
 AnchorPoint: "klasmaTop" 950 260 basechar 0
@@ -4550,7 +4550,7 @@ AnchorPoint: "antikenoma" 517.64 -141 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 833 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -142 basechar 0
-AnchorPoint: "gorgonTop" 767.64 778 basechar 0
+AnchorPoint: "gorgonTop" 900 670 basechar 0
 AnchorPoint: "diesis" 406.64 -216 basechar 0
 AnchorPoint: "yfesis" 953.64 819 basechar 0
 AnchorPoint: "klasmaTop" 950 630 basechar 0
@@ -4715,7 +4715,7 @@ AnchorPoint: "antikenoma" 525.64 -250 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 853 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -252 basechar 0
-AnchorPoint: "gorgonTop" 767.64 778 basechar 0
+AnchorPoint: "gorgonTop" 900 670 basechar 0
 AnchorPoint: "diesis" 406.64 -216 basechar 0
 AnchorPoint: "yfesis" 953.64 819 basechar 0
 AnchorPoint: "klasmaTop" 950 630 basechar 0
@@ -4912,7 +4912,7 @@ AnchorPoint: "antikenoma" 542.64 -57 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 8 basechar 0
-AnchorPoint: "gorgonTop" 767.64 795 basechar 0
+AnchorPoint: "gorgonTop" 1000 650 basechar 0
 AnchorPoint: "diesis" 412.64 -71 basechar 0
 AnchorPoint: "yfesis" 913.64 865 basechar 0
 AnchorPoint: "klasmaTop" 1050 630 basechar 0
@@ -6824,7 +6824,7 @@ AnchorPoint: "fthoraBottom" 413.64 -135 basechar 0
 AnchorPoint: "fthoraTop" 175.64 527 basechar 0
 AnchorPoint: "diesis" 281.64 -139 basechar 0
 AnchorPoint: "yfesis" 572.64 319 basechar 0
-AnchorPoint: "gorgonTop" 401.64 315 basechar 0
+AnchorPoint: "gorgonTop" 250 220 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8899,7 +8899,7 @@ Flags: W
 HStem: -88.1602 54.5205<524.615 957.619> 70.7598 56.8398<516.375 596.719> 313.2 45.2402<746.935 815.739>
 VStem: 604.2 153.119<134.429 296.96> 604.2 145<149.498 259.84 288.84 311.603> 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "barline" 650.8 584 basechar 0
-AnchorPoint: "gorgonTop" 778.8 526 basechar 0
+AnchorPoint: "gorgonTop" 720 450 basechar 0
 AnchorPoint: "yfenAbove" 650.8 817 basechar 0
 AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 611.8 729 basechar 0
@@ -10157,7 +10157,7 @@ AnchorPoint: "antikenoma" 520.64 -464 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -462 basechar 0
-AnchorPoint: "gorgonTop" 767.64 815 basechar 0
+AnchorPoint: "gorgonTop" 1000 700 basechar 0
 AnchorPoint: "diesis" 410.64 -423 basechar 0
 AnchorPoint: "yfesis" 913.64 865 basechar 0
 AnchorPoint: "klasmaTop" 1050 700 basechar 0
@@ -10425,7 +10425,7 @@ AnchorPoint: "antikenoma" 592.64 -355 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -352 basechar 0
-AnchorPoint: "gorgonTop" 767.64 815 basechar 0
+AnchorPoint: "gorgonTop" 1000 700 basechar 0
 AnchorPoint: "diesis" 410.64 -423 basechar 0
 AnchorPoint: "yfesis" 913.64 865 basechar 0
 AnchorPoint: "klasmaTop" 1050 700 basechar 0
@@ -10659,7 +10659,7 @@ AnchorPoint: "antikenoma" 529.64 -352 basechar 0
 AnchorPoint: "noteTop" 190.64 991 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -352 basechar 0
-AnchorPoint: "gorgonTop" 767.64 815 basechar 0
+AnchorPoint: "gorgonTop" 1000 700 basechar 0
 AnchorPoint: "diesis" 406.64 -216 basechar 0
 AnchorPoint: "yfesis" 913.64 865 basechar 0
 AnchorPoint: "klasmaTop" 1050 700 basechar 0
@@ -14722,7 +14722,7 @@ AnchorPoint: "antikenoma" 519.64 -101 basechar 0
 AnchorPoint: "noteTop" 190.64 1131 basechar 0
 AnchorPoint: "fthoraTop" 721.64 1003 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -112 basechar 0
-AnchorPoint: "gorgonTop" 727.64 965 basechar 0
+AnchorPoint: "gorgonTop" 1080 960 basechar 0
 AnchorPoint: "diesis" 412.64 -65 basechar 0
 AnchorPoint: "yfesis" 841.64 995 basechar 0
 AnchorPoint: "klasmaTop" 1150 950 basechar 0
