@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751709587
+ModificationTime: 1751709931
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -185,7 +185,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 56 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2445,7 +2445,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 AnchorPoint: "klasmaTop" 750 250 basechar 0
-AnchorPoint: "gorgonTop" 734.8 273 basechar 0
+AnchorPoint: "gorgonTop" 780 200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -2538,7 +2538,7 @@ AnchorPoint: "fthoraBottom" 368.8 -125 basechar 0
 AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
-AnchorPoint: "gorgonTop" 728.8 268 basechar 0
+AnchorPoint: "gorgonTop" 650 200 basechar 0
 AnchorPoint: "psifiston" 838.8 -149 basechar 0
 LayerCount: 2
 Back
@@ -2639,7 +2639,7 @@ AnchorPoint: "diesis" 348.8 -99 basechar 0
 AnchorPoint: "yfesis" 1264.8 387 basechar 0
 AnchorPoint: "klasmaTop" 650 250 basechar 0
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
-AnchorPoint: "gorgonTop" 728.8 268 basechar 0
+AnchorPoint: "gorgonTop" 680 200 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13995,8 +13995,8 @@ EndChar
 StartChar: gorgonAbove
 Encoding: 57584 57584 107
 Width: 0
-Flags: HW
-HStem: 930.48 40.5996<47.5058 258.265>
+Flags: W
+HStem: 930.48 40.5996<-52.4496 158.31>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -14078,8 +14078,8 @@ StartChar: gorgonDottedLeft
 Encoding: 57586 57586 109
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 900.32 71.9199<-417.272 -347.503> 930.48 40.5996<-122.667 88.093>
+Flags: W
+HStem: 900.32 71.9199<-347.708 -277.94> 930.48 40.5996<-53.1039 157.656>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -14557,8 +14557,8 @@ StartChar: gorgonDottedRight
 Encoding: 57587 57587 114
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 912.24 71.9199<252.888 322.657> 930.8 40.6006<-78.9062 131.851>
+Flags: W
+HStem: 912.24 71.9199<279.291 349.06> 930.8 40.6006<-52.5033 158.253>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -18855,9 +18855,9 @@ StartChar: digorgonDottedRight
 Encoding: 57591 57591 168
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 821.28 153.12<-165.911 -95.7559> 1035.88 71.9199<299.085 365.6> 1073 40.5996<35.0908 225.122>
-VStem: 281.6 84.1006<1037.01 1104.22>
+Flags: W
+HStem: 820.28 153.12<-165.911 -95.7559> 1034.88 71.9199<299.085 365.6> 1072 40.5996<35.0908 225.122>
+VStem: 281.6 84.1006<1036.01 1103.22>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back
@@ -19328,8 +19328,8 @@ StartChar: argon
 Encoding: 57596 57596 173
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 920.6 34.8008<-224.034 3.85954>
+Flags: W
+HStem: 920.6 34.8008<-188.554 39.34>
 AnchorPoint: "gorgonTop" 0 800 mark 0
 LayerCount: 2
 Back

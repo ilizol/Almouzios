@@ -19,7 +19,7 @@
 	('yfesis', 'base', 1264.8, 387.0)
 	('psifiston', 'base', 788.8, -119.0)
 	('klasmaTop', 'base', 750.0, 250.0)
-	('gorgonTop', 'base', 734.8, 273.0)
+	('gorgonTop', 'base', 780.0, 200.0)
 0xE003 oligonKentimaBelow
 	('apli', 'base', 711.8, -412.0)
 	('gorgonBottom', 'base', 500.0, -80.0)
@@ -40,7 +40,7 @@
 	('diesis', 'base', 348.8, -99.0)
 	('yfesis', 'base', 1264.8, 387.0)
 	('klasmaTop', 'base', 650.0, 250.0)
-	('gorgonTop', 'base', 728.8, 268.0)
+	('gorgonTop', 'base', 650.0, 200.0)
 	('psifiston', 'base', 838.8, -149.0)
 0xE001 oligon
 	('yfenAbove', 'base', 878.8, 409.0)
@@ -63,7 +63,7 @@
 	('yfesis', 'base', 1264.8, 387.0)
 	('klasmaTop', 'base', 650.0, 250.0)
 	('psifiston', 'base', 788.8, -119.0)
-	('gorgonTop', 'base', 728.8, 268.0)
+	('gorgonTop', 'base', 680.0, 200.0)
 0xE004 oligonKentimaAbove
 	('gorgonBottom', 'base', 700.0, -80.0)
 	('yfenAbove', 'base', 878.8, 679.0)
