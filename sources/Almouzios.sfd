@@ -119,7 +119,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 182 14 6
+WinInfo: 252 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -39170,8 +39170,9 @@ StartChar: barlineShortSingleAbove
 Encoding: 57881 57881 387
 Width: 0
 VWidth: 345
-Flags: W
+Flags: HW
 VStem: -20 39.4404<591.753 844.886>
+AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
@@ -39205,6 +39206,7 @@ Width: 0
 VWidth: 1392
 Flags: W
 VStem: -20 39.4395<131.781 448.488>
+AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39238,8 +39240,9 @@ StartChar: barlineDoubleAbove
 Encoding: 57879 57879 389
 Width: 0
 VWidth: 1392
-Flags: W
+Flags: HW
 VStem: -65 39.4395<131.781 448.488> 25 39.4395<131.781 448.488>
+AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39290,8 +39293,9 @@ StartChar: barlineTheseosAbove
 Encoding: 57880 57880 390
 Width: 0
 VWidth: 345
-Flags: W
+Flags: HW
 VStem: -20.5996 39.4395<131.781 448.488>
+AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39343,8 +39347,9 @@ StartChar: barlineShortDoubleAbove
 Encoding: 57882 57882 391
 Width: 0
 VWidth: 345
-Flags: W
+Flags: HW
 VStem: -61.5 39.4404<591.753 844.886> 21.5 39.4404<591.753 844.886>
+AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
@@ -39393,8 +39398,9 @@ StartChar: barlineShortTheseosAbove
 Encoding: 57883 57883 392
 Width: 0
 VWidth: 345
-Flags: W
+Flags: HW
 VStem: -20.4805 39.4404<591.753 844.886>
+AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back

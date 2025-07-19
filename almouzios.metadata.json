@@ -7502,36 +7502,60 @@
       ]
     },
     "barlineShortSingleAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.56
+      ],
       "barline": [
         0.0,
         0.59
       ]
     },
     "barlineSingleAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.1
+      ],
       "barline": [
         0.0,
         0.13
       ]
     },
     "barlineDoubleAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.1
+      ],
       "barline": [
         0.0,
         0.13
       ]
     },
     "barlineTheseosAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.1
+      ],
       "barline": [
         0.0,
         0.13
       ]
     },
     "barlineShortDoubleAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.56
+      ],
       "barline": [
         0.0,
         0.59
       ]
     },
     "barlineShortTheseosAbove": {
+      "barlineAboveFthora": [
+        0.0,
+        0.56
+      ],
       "barline": [
         0.0,
         0.59
