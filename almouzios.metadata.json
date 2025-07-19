@@ -6326,7 +6326,7 @@
     "fthoraDiatonicNiLowAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6340,7 +6340,7 @@
     "fthoraDiatonicPaAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6354,7 +6354,7 @@
     "fthoraDiatonicVouAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.2
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6368,7 +6368,7 @@
     "fthoraDiatonicGaAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.5
+        1.3
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6382,7 +6382,7 @@
     "fthoraDiatonicDiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6396,7 +6396,7 @@
     "fthoraDiatonicKeAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.2
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6410,7 +6410,7 @@
     "fthoraDiatonicZoAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.2
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6424,7 +6424,7 @@
     "fthoraDiatonicNiHighAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.2
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6438,7 +6438,7 @@
     "fthoraHardChromaticPaAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6452,7 +6452,7 @@
     "fthoraHardChromaticDiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6466,7 +6466,7 @@
     "fthoraSoftChromaticDiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6480,7 +6480,7 @@
     "fthoraSoftChromaticKeAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6494,7 +6494,7 @@
     "fthoraEnharmonicAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6508,7 +6508,7 @@
     "chroaZygosAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.3
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6522,7 +6522,7 @@
     "chroaKlitonAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6674,7 +6674,7 @@
     "diesisGenikiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.43
+        1.2
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6688,7 +6688,7 @@
     "yfesisGenikiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.262
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,
@@ -6762,7 +6762,7 @@
     "chroaSpathiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        1.1
       ],
       "agogiAboveFthora": [
         0.0,

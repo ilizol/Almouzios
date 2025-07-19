@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1752915834
+ModificationTime: 1752916525
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -119,7 +119,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 252 14 6
+WinInfo: 154 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -21462,10 +21462,10 @@ EndChar
 StartChar: fthoraDiatonicNiLowAbove
 Encoding: 57744 57744 200
 Width: 0
-Flags: HW
+Flags: W
 HStem: 792.4 31.3193<58.9632 144.478>
 VStem: -138 62.6406<946.363 1013.92>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1086 basemark 0
 AnchorPoint: "fthoraTop" 0 784 mark 0
 LayerCount: 2
@@ -21547,9 +21547,9 @@ EndChar
 StartChar: fthoraDiatonicPaAbove
 Encoding: 57745 57745 201
 Width: 0
-Flags: HW
+Flags: W
 VStem: -20.1602 38.2803<683.564 807.872> 40.1602 61.4795<891.521 980.279>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1076 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
@@ -21602,10 +21602,10 @@ EndChar
 StartChar: fthoraDiatonicVouAbove
 Encoding: 57746 57746 202
 Width: 0
-Flags: HW
+Flags: W
 HStem: 800.96 34.7998<-68.6162 15.3491>
 VStem: -98.5195 69.5996<1055 1086.08> 20.96 78.8799<751.263 797.04>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1206 basemark 0
 AnchorPoint: "fthoraTop" 0 704 mark 0
 LayerCount: 2
@@ -21697,9 +21697,9 @@ EndChar
 StartChar: fthoraDiatonicGaAbove
 Encoding: 57747 57747 203
 Width: 0
-Flags: HW
+Flags: W
 VStem: -108.12 52.2002<877.693 959.281> -39.6797 64.96<600.47 736.833> -8.36035 56.8408<1063.99 1283.7> 41.5195 67.2803<903.959 991.833>
-AnchorPoint: "barlineAboveFthora" 0 1500 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1356 basemark 0
 AnchorPoint: "fthoraTop" 0 534 mark 0
 LayerCount: 2
@@ -21765,10 +21765,10 @@ EndChar
 StartChar: fthoraDiatonicDiAbove
 Encoding: 57748 57748 204
 Width: 0
-Flags: HW
+Flags: W
 HStem: 840.32 52.1992<-41.6656 81.9474> 981.84 38.2803<-48.4488 44.8882>
 VStem: -130.8 76.5596<909.47 975.522> 73.3604 61.4795<895.382 965.538>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1146 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
@@ -21833,10 +21833,10 @@ EndChar
 StartChar: fthoraDiatonicKeAbove
 Encoding: 57749 57749 205
 Width: 0
-Flags: HW
+Flags: W
 HStem: 814.8 52.2002<-47.7551 58.2019>
 VStem: -29.9199 46.4004<1016.78 1156.01> -21.7998 38.2803<1007.47 1115.12>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
@@ -21892,10 +21892,10 @@ EndChar
 StartChar: fthoraDiatonicZoAbove
 Encoding: 57750 57750 206
 Width: 0
-Flags: HW
+Flags: W
 HStem: 795.16 41.7598<-46.2611 8.32581> 806.76 38.2803<-59.2315 77.2178> 1026 35.3799<-35.9809 -2.24023>
 VStem: 27.9199 92.7998<760.803 798.389> 38.3604 82.3594<773.816 805.755>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 724 mark 0
 LayerCount: 2
@@ -22012,10 +22012,10 @@ EndChar
 StartChar: fthoraDiatonicNiHighAbove
 Encoding: 57751 57751 207
 Width: 0
-Flags: HW
+Flags: W
 HStem: 792.8 33.6406<57.07 145.103> 909.96 34.7998<-68.401 -53.554>
 VStem: -137 62.6406<947.156 1015.39> -55.7998 39.4404<1053.8 1061.92 1121.08 1128.79>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1166 basemark 0
 AnchorPoint: "fthoraTop" 0 784 mark 0
 LayerCount: 2
@@ -22114,10 +22114,10 @@ EndChar
 StartChar: fthoraHardChromaticPaAbove
 Encoding: 57752 57752 208
 Width: 0
-Flags: HW
+Flags: W
 HStem: 912.16 52.2002<302.16 328.989> 912.16 25.5195<101.675 231.651> 936.52 32.4805<-29.6006 14.3422> 960.88 25.5205<-239.324 -180.4 -125.88 -97.8807> 1004.96 39.4404<-25.3196 29.8351>
 VStem: -93.4004 54.5205<896.527 936.481> 33.04 55.6797<962.115 1003.58>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1085 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
@@ -22220,10 +22220,10 @@ EndChar
 StartChar: fthoraHardChromaticDiAbove
 Encoding: 57753 57753 209
 Width: 0
-Flags: HW
+Flags: W
 HStem: 832.721 52.1992<-73.3853 45.3632> 974.24 38.2803<-45.7428 56.9686>
 VStem: -126.32 61.4805<888.417 957.938> 62.7598 76.5596<901.758 967.923>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
@@ -22291,10 +22291,10 @@ EndChar
 StartChar: fthoraSoftChromaticDiAbove
 Encoding: 57754 57754 210
 Width: 0
-Flags: HW
+Flags: W
 HStem: 872 52.2002<-56.9105 51.1661> 941.6 49.8809<-341.889 -181.622 113.48 296.324> 948.56 44.0801<-331.593 -115.378 -59.3594 28.8008>
 VStem: 333.881 62.6396<884.437 911.951>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
@@ -22381,10 +22381,10 @@ EndChar
 StartChar: fthoraSoftChromaticKeAbove
 Encoding: 57755 57755 211
 Width: 0
-Flags: HW
+Flags: W
 HStem: 832.2 52.2002<-71.505 47.2425> 973.72 38.2803<-43.866 58.8487>
 VStem: -124.44 61.4805<887.897 957.418> 64.6396 76.5605<901.237 967.402>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1176 basemark 0
 AnchorPoint: "fthoraTop" 0 714 mark 0
 LayerCount: 2
@@ -22474,10 +22474,10 @@ EndChar
 StartChar: fthoraEnharmonicAbove
 Encoding: 57756 57756 212
 Width: 0
-Flags: HW
+Flags: W
 HStem: 777.88 58<-96.8877 -38.9327> 845.16 61.4795<41.9013 100.026> 979.72 63.7998<51.6633 104.817>
 VStem: -24.9199 66.1191<906.679 976.155> 105 64.96<884.812 975.699>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1106 basemark 0
 AnchorPoint: "fthoraTop" 0 754 mark 0
 LayerCount: 2
@@ -22549,10 +22549,10 @@ EndChar
 StartChar: chroaZygosAbove
 Encoding: 57757 57757 213
 Width: 0
-Flags: HW
+Flags: W
 HStem: 833.88 52.2002<-74.5073 43.1636> 975.4 38.2793<-47.9478 54.7691>
 VStem: -128.52 61.4795<889.577 959.098> 60.5605 76.5596<902.918 969.083>
-AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1196 basemark 0
 AnchorPoint: "fthoraTop" 0 734 mark 0
 LayerCount: 2
@@ -22643,10 +22643,10 @@ EndChar
 StartChar: chroaKlitonAbove
 Encoding: 57758 57758 214
 Width: 0
-Flags: HW
+Flags: W
 HStem: 780.08 59.1602<-128.223 -69.6545> 847.36 62.6396<9.83504 67.3611> 981.92 63.7998<17.2178 73.6297>
 VStem: -56.1201 64.96<910.048 978.301> 73.7998 64.96<887.827 981.861>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1125 basemark 0
 AnchorPoint: "fthoraTop" 0 754 mark 0
 LayerCount: 2
@@ -24666,10 +24666,10 @@ EndChar
 StartChar: diesisGenikiAbove
 Encoding: 57844 57844 238
 Width: 0
-Flags: HW
+Flags: W
 HStem: 807.64 64.96<-22.0637 34.9172> 1084.88 52.2002<-36.5596 -23.7998 24.9199 38.8398>
 VStem: -23.7998 51.04<1051.28 1084.88 1139.43 1210.93> 41.1602 61.4795<874.219 961.861>
-AnchorPoint: "barlineAboveFthora" 0 1430 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1306 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
@@ -24744,10 +24744,10 @@ EndChar
 StartChar: yfesisGenikiAbove
 Encoding: 57860 57860 239
 Width: 0
-Flags: HW
+Flags: W
 HStem: 714.88 52.2002<-36.5596 -23.7998 24.9199 38.8398> 979.36 64.96<-22.0637 34.9172>
 VStem: -23.7998 51.04<641.032 712.531 767.08 800.676> 41.1602 61.4795<890.099 977.741>
-AnchorPoint: "barlineAboveFthora" 0 1262 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1176 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
@@ -25514,10 +25514,10 @@ EndChar
 StartChar: chroaSpathiAbove
 Encoding: 57759 57759 250
 Width: 0
-Flags: HW
+Flags: W
 HStem: 872 52.2002<-68.1353 38.3613> 949.72 42.9199<-343.224 -128.059 -72.04 16.1201>
 VStem: 161.12 60.3203<901.903 939.171> 175.04 54.5205<990.539 1040.59> 332.8 62.6406<884.437 911.855>
-AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1100 basemark 0
 AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
@@ -39170,7 +39170,7 @@ StartChar: barlineShortSingleAbove
 Encoding: 57881 57881 387
 Width: 0
 VWidth: 345
-Flags: HW
+Flags: W
 VStem: -20 39.4404<591.753 844.886>
 AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
@@ -39240,7 +39240,7 @@ StartChar: barlineDoubleAbove
 Encoding: 57879 57879 389
 Width: 0
 VWidth: 1392
-Flags: HW
+Flags: W
 VStem: -65 39.4395<131.781 448.488> 25 39.4395<131.781 448.488>
 AnchorPoint: "barlineAboveFthora" 0 100 mark 0
 AnchorPoint: "barline" 0 130 mark 0
@@ -39293,7 +39293,7 @@ StartChar: barlineTheseosAbove
 Encoding: 57880 57880 390
 Width: 0
 VWidth: 345
-Flags: HW
+Flags: W
 VStem: -20.5996 39.4395<131.781 448.488>
 AnchorPoint: "barlineAboveFthora" 0 100 mark 0
 AnchorPoint: "barline" 0 130 mark 0
@@ -39347,7 +39347,7 @@ StartChar: barlineShortDoubleAbove
 Encoding: 57882 57882 391
 Width: 0
 VWidth: 345
-Flags: HW
+Flags: W
 VStem: -61.5 39.4404<591.753 844.886> 21.5 39.4404<591.753 844.886>
 AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
@@ -39398,7 +39398,7 @@ StartChar: barlineShortTheseosAbove
 Encoding: 57883 57883 392
 Width: 0
 VWidth: 345
-Flags: HW
+Flags: W
 VStem: -20.4805 39.4404<591.753 844.886>
 AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
