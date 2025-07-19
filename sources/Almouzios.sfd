@@ -5,7 +5,7 @@ FamilyName: Almouzios
 Weight: Regular
 Copyright: SIL OPEN FONT LICENSE Version 1.1
 UComments: "2022-3-8: Created with FontForge (http://fontforge.org)"
-Version: 1.0.1
+Version: 1.0.3
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1751718053
+ModificationTime: 1752912803
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,9 +46,6 @@ Lookup: 6 0 0 "'rclt' Required Contextual Alternates lookup 3" { "'rclt' Require
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "subs" { "subs-1"  } []
 Lookup: 5 0 0 "'rclt' Required Contextual Alternates lookup 1" { "'rclt' Required Contextual Alternates lookup 1-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 6 0 0 "Neanes-'rclt' Required Contextual Alternates lookup 3" { "Neanes-'rclt' Required Contextual Alternates lookup 3-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Neanes-subs" { } []
-Lookup: 5 0 0 "Neanes-'rclt' Required Contextual Alternates lookup 1" { "Neanes-'rclt' Required Contextual Alternates lookup 1-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -115,69 +112,6 @@ ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 1-1" 0 0 0 9
  1
   SeqLookup: 1 "subs"
 EndFPST
-ChainSub2: class "Neanes-'rclt' Required Contextual Alternates lookup 3-1" 3 3 1 1
-  Class: 567 petastiIson petasti petastiOligon petastiKentima petastiYpsiliRight petastiYpsiliLeft petastiKentimaYpsiliRight petastiKentimaYpsiliMiddle petastiDoubleYpsili petastiKentimataDoubleYpsili petastiKentimaDoubleYpsiliRight petastiKentimaDoubleYpsiliLeft petastiTripleYpsili petastiKentimataTripleYpsili petastiKentimaTripleYpsili petastiApostrofos petastiYporroi petastiElafron petastiRunningElafron petastiElafronApostrofos petastiChamili petastiChamiliApostrofos petastiChamiliElafron petastiChamiliElafronApostrofos petastiDoubleChamili petastiDoubleChamiliApostrofos
-  Class: 10 antikenoma
-  BClass: 567 petastiIson petasti petastiOligon petastiKentima petastiYpsiliRight petastiYpsiliLeft petastiKentimaYpsiliRight petastiKentimaYpsiliMiddle petastiDoubleYpsili petastiKentimataDoubleYpsili petastiKentimaDoubleYpsiliRight petastiKentimaDoubleYpsiliLeft petastiTripleYpsili petastiKentimataTripleYpsili petastiKentimaTripleYpsili petastiApostrofos petastiYporroi petastiElafron petastiRunningElafron petastiElafronApostrofos petastiChamili petastiChamiliApostrofos petastiChamiliElafron petastiChamiliElafronApostrofos petastiDoubleChamili petastiDoubleChamiliApostrofos
-  BClass: 10 antikenoma
- 1 1 0
-  ClsList: 2
-  BClsList: 1
-  FClsList:
- 1
-  SeqLookup: 0 "Neanes-subs"
-  ClassNames: "All_Others" "petasti" "antikenoma"
-  BClassNames: "All_Others" "petasti" "antikenoma"
-  FClassNames: "All_Others"
-EndFPST
-ContextSub2: glyph "Neanes-'rclt' Required Contextual Alternates lookup 1-1" 0 0 0 9
- String: 30 oligonKentimataBelow psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 0 "Neanes-subs"
- String: 21 apostrofos antikenoma
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 18 yporroi antikenoma
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 29 oligonIsonKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 32 oligonElafronKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 39 oligonRunningElafronKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 42 oligonElafronApostrofosKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 42 oligonElafronApostrofosKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
- String: 32 oligonChamiliKentimata psifiston
- BString: 0 
- FString: 0 
- 1
-  SeqLookup: 1 "Neanes-subs"
-EndFPST
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -185,11 +119,11 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 6
+WinInfo: 182 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
+AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
 BeginChars: 1114112 436
 
 StartChar: u1D046
@@ -21528,10 +21462,11 @@ EndChar
 StartChar: fthoraDiatonicNiLowAbove
 Encoding: 57744 57744 200
 Width: 0
-Flags: W
+Flags: HW
 HStem: 792.4 31.3193<58.9632 144.478>
 VStem: -138 62.6406<946.363 1013.92>
-AnchorPoint: "agogiAboveFthora" -1 1086 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1086 basemark 0
 AnchorPoint: "fthoraTop" 0 784 mark 0
 LayerCount: 2
 Back
@@ -21612,9 +21547,10 @@ EndChar
 StartChar: fthoraDiatonicPaAbove
 Encoding: 57745 57745 201
 Width: 0
-Flags: W
+Flags: HW
 VStem: -20.1602 38.2803<683.564 807.872> 40.1602 61.4795<891.521 980.279>
-AnchorPoint: "agogiAboveFthora" -1 1076 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1076 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
 Back
@@ -21644,32 +21580,33 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-101.639648438 965.719726562 m 4
- 101.639648438 1011.0625 61.361328125 1046.91992188 26.8193359375 1046.91992188 c 4
- -15.818359375 1046.91992188 -95.17578125 1004.703125 -100.200195312 889.16015625 c 4
- -101.873046875 849.01171875 -64.587890625 814.764648438 -25.9599609375 803.3203125 c 4
- -22.09375 802.546875 -20.16015625 799.06640625 -20.16015625 792.879882812 c 4
- -20.16015625 786.693359375 -22.09375 749.186523438 -25.9599609375 680.360351562 c 5
- -25.9599609375 649.206054688 -21.7724609375 643.240234375 -1.6005859375 643.240234375 c 4
- 24.33984375 643.240234375 26.240234375 667.909179688 26.240234375 675.140625 c 4
- 26.240234375 683.260742188 23.533203125 719.413085938 18.1201171875 783.599609375 c 4
- 18.1201171875 799.18359375 20.43359375 804.169921875 37.259765625 822.459960938 c 4
- 42.447265625 828.098632812 101.639648438 909.282226562 101.639648438 965.719726562 c 4
--9.7197265625 857.83984375 m 4
- -25.8134765625 854.62109375 -67.5224609375 882.145507812 -40.4599609375 934.98046875 c 4
- -24.490234375 966.159179688 3.650390625 990.446289062 18.1201171875 980.799804688 c 4
- 32.8134765625 971.00390625 40.16015625 953.604492188 40.16015625 928.599609375 c 4
- 40.16015625 890.176757812 23.533203125 866.590820312 -9.7197265625 857.83984375 c 4
+101.639648438 965.719726562 m 0
+ 101.639648438 1011.0625 61.361328125 1046.91992188 26.8193359375 1046.91992188 c 0
+ -15.818359375 1046.91992188 -95.17578125 1004.703125 -100.200195312 889.16015625 c 0
+ -101.873046875 849.01171875 -64.587890625 814.764648438 -25.9599609375 803.3203125 c 0
+ -22.09375 802.546875 -20.16015625 799.06640625 -20.16015625 792.879882812 c 0
+ -20.16015625 786.693359375 -22.09375 749.186523438 -25.9599609375 680.360351562 c 1
+ -25.9599609375 649.206054688 -21.7724609375 643.240234375 -1.6005859375 643.240234375 c 0
+ 24.33984375 643.240234375 26.240234375 667.909179688 26.240234375 675.140625 c 0
+ 26.240234375 683.260742188 23.533203125 719.413085938 18.1201171875 783.599609375 c 0
+ 18.1201171875 799.18359375 20.43359375 804.169921875 37.259765625 822.459960938 c 0
+ 42.447265625 828.098632812 101.639648438 909.282226562 101.639648438 965.719726562 c 0
+-9.7197265625 857.83984375 m 0
+ -25.8134765625 854.62109375 -67.5224609375 882.145507812 -40.4599609375 934.98046875 c 0
+ -24.490234375 966.159179688 3.650390625 990.446289062 18.1201171875 980.799804688 c 0
+ 32.8134765625 971.00390625 40.16015625 953.604492188 40.16015625 928.599609375 c 0
+ 40.16015625 890.176757812 23.533203125 866.590820312 -9.7197265625 857.83984375 c 0
 EndSplineSet
 EndChar
 
 StartChar: fthoraDiatonicVouAbove
 Encoding: 57746 57746 202
 Width: 0
-Flags: W
+Flags: HW
 HStem: 800.96 34.7998<-68.6162 15.3491>
 VStem: -98.5195 69.5996<1055 1086.08> 20.96 78.8799<751.263 797.04>
-AnchorPoint: "agogiAboveFthora" -1 1206 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1206 basemark 0
 AnchorPoint: "fthoraTop" 0 704 mark 0
 LayerCount: 2
 Back
@@ -21760,9 +21697,10 @@ EndChar
 StartChar: fthoraDiatonicGaAbove
 Encoding: 57747 57747 203
 Width: 0
-Flags: W
+Flags: HW
 VStem: -108.12 52.2002<877.693 959.281> -39.6797 64.96<600.47 736.833> -8.36035 56.8408<1063.99 1283.7> 41.5195 67.2803<903.959 991.833>
-AnchorPoint: "agogiAboveFthora" -1 1356 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1500 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1356 basemark 0
 AnchorPoint: "fthoraTop" 0 534 mark 0
 LayerCount: 2
 Back
@@ -21796,31 +21734,31 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-17.16015625 739.064453125 m 4x90
- 17.16015625 691.834960938 25.2802734375 620.124023438 25.2802734375 618.919921875 c 4
- 25.2802734375 588.106445312 -21.8212890625 591.819335938 -30.98046875 600.21484375 c 4
- -36.7802734375 605.53125 -39.6796875 618.677734375 -39.6796875 639.655273438 c 4xd0
- -39.6796875 660.631835938 -36.97265625 691.2265625 -31.5595703125 731.440429688 c 6
- -23.4404296875 797.559570312 l 5
- -54.759765625 817.280273438 l 6
- -90.3330078125 839.513671875 -108.120117188 868.126953125 -108.120117188 903.120117188 c 4
- -108.120117188 933.15234375 -44.248046875 1033.09472656 -31.560546875 1049.86035156 c 4
- -13.640625 1073.54003906 -8.3603515625 1087.42578125 -8.3603515625 1127.58007812 c 4
- -8.3603515625 1144.20605469 -9.9072265625 1169.53320312 -13 1203.55957031 c 6
- -16.48046875 1247.63964844 l 6
- -18.111328125 1268.85839844 -0.736328125 1284.75976562 17.16015625 1284.75976562 c 260
- 45.8642578125 1284.75976562 48.48046875 1262.73632812 48.48046875 1236.61914062 c 4xa0
- 48.48046875 1215.35253906 45.7734375 1185.38671875 40.3603515625 1146.71972656 c 6
- 29.919921875 1074.79980469 l 5
- 56.599609375 1059.71972656 l 6
- 91.3994140625 1039.61328125 108.799804688 1011.38671875 108.799804688 975.040039062 c 4
- 107.20703125 941.603515625 77.24609375 875.423828125 50.2197265625 842.220703125 c 4
- 27.9453125 814.854492188 17.16015625 801.603515625 17.16015625 739.064453125 c 4x90
-3.240234375 997.080078125 m 4
- -31.0302734375 997.080078125 -55.919921875 933.986328125 -55.919921875 928.639648438 c 4
- -55.919921875 895.083007812 -14.458984375 824.30078125 26.4404296875 901.379882812 c 4
- 36.4931640625 920.326171875 41.51953125 938.11328125 41.51953125 954.740234375 c 4
- 41.51953125 991.512695312 8.873046875 997.080078125 3.240234375 997.080078125 c 4
+17.16015625 739.064453125 m 0x90
+ 17.16015625 691.834960938 25.2802734375 620.124023438 25.2802734375 618.919921875 c 0
+ 25.2802734375 588.106445312 -21.8212890625 591.819335938 -30.98046875 600.21484375 c 0
+ -36.7802734375 605.53125 -39.6796875 618.677734375 -39.6796875 639.655273438 c 0xd0
+ -39.6796875 660.631835938 -36.97265625 691.2265625 -31.5595703125 731.440429688 c 2
+ -23.4404296875 797.559570312 l 1
+ -54.759765625 817.280273438 l 2
+ -90.3330078125 839.513671875 -108.120117188 868.126953125 -108.120117188 903.120117188 c 0
+ -108.120117188 933.15234375 -44.248046875 1033.09472656 -31.560546875 1049.86035156 c 0
+ -13.640625 1073.54003906 -8.3603515625 1087.42578125 -8.3603515625 1127.58007812 c 0
+ -8.3603515625 1144.20605469 -9.9072265625 1169.53320312 -13 1203.55957031 c 2
+ -16.48046875 1247.63964844 l 2
+ -18.111328125 1268.85839844 -0.736328125 1284.75976562 17.16015625 1284.75976562 c 256
+ 45.8642578125 1284.75976562 48.48046875 1262.73632812 48.48046875 1236.61914062 c 0xa0
+ 48.48046875 1215.35253906 45.7734375 1185.38671875 40.3603515625 1146.71972656 c 2
+ 29.919921875 1074.79980469 l 1
+ 56.599609375 1059.71972656 l 2
+ 91.3994140625 1039.61328125 108.799804688 1011.38671875 108.799804688 975.040039062 c 0
+ 107.20703125 941.603515625 77.24609375 875.423828125 50.2197265625 842.220703125 c 0
+ 27.9453125 814.854492188 17.16015625 801.603515625 17.16015625 739.064453125 c 0x90
+3.240234375 997.080078125 m 0
+ -31.0302734375 997.080078125 -55.919921875 933.986328125 -55.919921875 928.639648438 c 0
+ -55.919921875 895.083007812 -14.458984375 824.30078125 26.4404296875 901.379882812 c 0
+ 36.4931640625 920.326171875 41.51953125 938.11328125 41.51953125 954.740234375 c 0
+ 41.51953125 991.512695312 8.873046875 997.080078125 3.240234375 997.080078125 c 0
 EndSplineSet
 EndChar
 
@@ -21830,7 +21768,8 @@ Width: 0
 Flags: HW
 HStem: 840.32 52.1992<-41.6656 81.9474> 981.84 38.2803<-48.4488 44.8882>
 VStem: -130.8 76.5596<909.47 975.522> 73.3604 61.4795<895.382 965.538>
-AnchorPoint: "agogiAboveFthora" -1 1146 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1146 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
 Back
@@ -21894,10 +21833,11 @@ EndChar
 StartChar: fthoraDiatonicKeAbove
 Encoding: 57749 57749 205
 Width: 0
-Flags: W
+Flags: HW
 HStem: 814.8 52.2002<-47.7551 58.2019>
 VStem: -29.9199 46.4004<1016.78 1156.01> -21.7998 38.2803<1007.47 1115.12>
-AnchorPoint: "agogiAboveFthora" -1 1226 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -21952,10 +21892,11 @@ EndChar
 StartChar: fthoraDiatonicZoAbove
 Encoding: 57750 57750 206
 Width: 0
-Flags: W
+Flags: HW
 HStem: 795.16 41.7598<-46.2611 8.32581> 806.76 38.2803<-59.2315 77.2178> 1026 35.3799<-35.9809 -2.24023>
 VStem: 27.9199 92.7998<760.803 798.389> 38.3604 82.3594<773.816 805.755>
-AnchorPoint: "agogiAboveFthora" -1 1226 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 724 mark 0
 LayerCount: 2
 Back
@@ -22071,10 +22012,11 @@ EndChar
 StartChar: fthoraDiatonicNiHighAbove
 Encoding: 57751 57751 207
 Width: 0
-Flags: W
+Flags: HW
 HStem: 792.8 33.6406<57.07 145.103> 909.96 34.7998<-68.401 -53.554>
 VStem: -137 62.6406<947.156 1015.39> -55.7998 39.4404<1053.8 1061.92 1121.08 1128.79>
-AnchorPoint: "agogiAboveFthora" -1 1166 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1166 basemark 0
 AnchorPoint: "fthoraTop" 0 784 mark 0
 LayerCount: 2
 Back
@@ -22172,10 +22114,11 @@ EndChar
 StartChar: fthoraHardChromaticPaAbove
 Encoding: 57752 57752 208
 Width: 0
-Flags: W
+Flags: HW
 HStem: 912.16 52.2002<302.16 328.989> 912.16 25.5195<101.675 231.651> 936.52 32.4805<-29.6006 14.3422> 960.88 25.5205<-239.324 -180.4 -125.88 -97.8807> 1004.96 39.4404<-25.3196 29.8351>
 VStem: -93.4004 54.5205<896.527 936.481> 33.04 55.6797<962.115 1003.58>
-AnchorPoint: "agogiAboveFthora" -1 1085 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1085 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
 Back
@@ -22277,10 +22220,11 @@ EndChar
 StartChar: fthoraHardChromaticDiAbove
 Encoding: 57753 57753 209
 Width: 0
-Flags: W
+Flags: HW
 HStem: 832.721 52.1992<-73.3853 45.3632> 974.24 38.2803<-45.7428 56.9686>
 VStem: -126.32 61.4805<888.417 957.938> 62.7598 76.5596<901.758 967.923>
-AnchorPoint: "agogiAboveFthora" -1 1126 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
 Back
@@ -22347,10 +22291,11 @@ EndChar
 StartChar: fthoraSoftChromaticDiAbove
 Encoding: 57754 57754 210
 Width: 0
-Flags: W
+Flags: HW
 HStem: 872 52.2002<-56.9105 51.1661> 941.6 49.8809<-341.889 -181.622 113.48 296.324> 948.56 44.0801<-331.593 -115.378 -59.3594 28.8008>
 VStem: 333.881 62.6396<884.437 911.951>
-AnchorPoint: "agogiAboveFthora" -1 1126 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
 Back
@@ -22436,10 +22381,11 @@ EndChar
 StartChar: fthoraSoftChromaticKeAbove
 Encoding: 57755 57755 211
 Width: 0
-Flags: W
+Flags: HW
 HStem: 832.2 52.2002<-71.505 47.2425> 973.72 38.2803<-43.866 58.8487>
 VStem: -124.44 61.4805<887.897 957.418> 64.6396 76.5605<901.237 967.402>
-AnchorPoint: "agogiAboveFthora" -1 1176 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1176 basemark 0
 AnchorPoint: "fthoraTop" 0 714 mark 0
 LayerCount: 2
 Back
@@ -22528,10 +22474,11 @@ EndChar
 StartChar: fthoraEnharmonicAbove
 Encoding: 57756 57756 212
 Width: 0
-Flags: W
+Flags: HW
 HStem: 777.88 58<-96.8877 -38.9327> 845.16 61.4795<41.9013 100.026> 979.72 63.7998<51.6633 104.817>
 VStem: -24.9199 66.1191<906.679 976.155> 105 64.96<884.812 975.699>
-AnchorPoint: "agogiAboveFthora" -1 1106 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1106 basemark 0
 AnchorPoint: "fthoraTop" 0 754 mark 0
 LayerCount: 2
 Back
@@ -22602,10 +22549,11 @@ EndChar
 StartChar: chroaZygosAbove
 Encoding: 57757 57757 213
 Width: 0
-Flags: W
+Flags: HW
 HStem: 833.88 52.2002<-74.5073 43.1636> 975.4 38.2793<-47.9478 54.7691>
 VStem: -128.52 61.4795<889.577 959.098> 60.5605 76.5596<902.918 969.083>
-AnchorPoint: "agogiAboveFthora" -1 1196 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1196 basemark 0
 AnchorPoint: "fthoraTop" 0 734 mark 0
 LayerCount: 2
 Back
@@ -22695,10 +22643,11 @@ EndChar
 StartChar: chroaKlitonAbove
 Encoding: 57758 57758 214
 Width: 0
-Flags: W
+Flags: HW
 HStem: 780.08 59.1602<-128.223 -69.6545> 847.36 62.6396<9.83504 67.3611> 981.92 63.7998<17.2178 73.6297>
 VStem: -56.1201 64.96<910.048 978.301> 73.7998 64.96<887.827 981.861>
-AnchorPoint: "agogiAboveFthora" -1 1125 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1125 basemark 0
 AnchorPoint: "fthoraTop" 0 754 mark 0
 LayerCount: 2
 Back
@@ -24717,9 +24666,11 @@ EndChar
 StartChar: diesisGenikiAbove
 Encoding: 57844 57844 238
 Width: 0
-Flags: W
+Flags: HW
 HStem: 807.64 64.96<-22.0637 34.9172> 1084.88 52.2002<-36.5596 -23.7998 24.9199 38.8398>
 VStem: -23.7998 51.04<1051.28 1084.88 1139.43 1210.93> 41.1602 61.4795<874.219 961.861>
+AnchorPoint: "barlineAboveFthora" 0 1430 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1306 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -24793,9 +24744,11 @@ EndChar
 StartChar: yfesisGenikiAbove
 Encoding: 57860 57860 239
 Width: 0
-Flags: W
+Flags: HW
 HStem: 714.88 52.2002<-36.5596 -23.7998 24.9199 38.8398> 979.36 64.96<-22.0637 34.9172>
 VStem: -23.7998 51.04<641.032 712.531 767.08 800.676> 41.1602 61.4795<890.099 977.741>
+AnchorPoint: "barlineAboveFthora" 0 1262 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1176 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
 Back
@@ -25561,10 +25514,11 @@ EndChar
 StartChar: chroaSpathiAbove
 Encoding: 57759 57759 250
 Width: 0
-Flags: W
+Flags: HW
 HStem: 872 52.2002<-68.1353 38.3613> 949.72 42.9199<-343.224 -128.059 -72.04 16.1201>
 VStem: 161.12 60.3203<901.903 939.171> 175.04 54.5205<990.539 1040.59> 332.8 62.6406<884.437 911.855>
-AnchorPoint: "agogiAboveFthora" -1 1126 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1200 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 824 mark 0
 LayerCount: 2
 Back

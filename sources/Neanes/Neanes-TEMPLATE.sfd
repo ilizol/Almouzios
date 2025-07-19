@@ -5,7 +5,7 @@ FamilyName: Neanes
 Weight: Regular
 Copyright: Copyright (c) 2022, Daniel
 UComments: "2022-3-8: Created with FontForge (http://fontforge.org)"
-Version: 1.0.1
+Version: 1.0.3
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1646795337
-ModificationTime: 1749886756
+ModificationTime: 1752911572
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -120,11 +120,11 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 196 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
+AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
 BeginChars: 1114112 436
 
 StartChar: u1D046
@@ -18853,7 +18853,7 @@ VStem: 714 33<-410.406 -373.413>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 444 basechar 0
 AnchorPoint: "martyriaTop" 547 -40 basechar 0
-AnchorPoint: "fthoraTop" 517 446 basechar 0
+AnchorPoint: "fthoraTop" 515 590 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -18959,7 +18959,7 @@ VStem: 395 59<-226.537 -171.19> 585 38<-266.438 -170.992>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 374 basechar 0
 AnchorPoint: "martyriaTop" 515 -78 basechar 0
-AnchorPoint: "fthoraTop" 517 376 basechar 0
+AnchorPoint: "fthoraTop" 515 592 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19031,7 +19031,7 @@ VStem: 549 25<-374.586 -266.717>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 474 basechar 0
 AnchorPoint: "martyriaTop" 517 -44 basechar 0
-AnchorPoint: "fthoraTop" 512 474 basechar 0
+AnchorPoint: "fthoraTop" 516 670 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19125,7 +19125,7 @@ VStem: 360 39<-298 -221.914>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 454 basechar 0
 AnchorPoint: "martyriaTop" 467 -40 basechar 0
-AnchorPoint: "fthoraTop" 517 456 basechar 0
+AnchorPoint: "fthoraTop" 517 590 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19203,7 +19203,7 @@ Flags: W
 VStem: 360 70<-460 -220.322> 586 73<-176 -105.606>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 444 basechar 0
-AnchorPoint: "fthoraTop" 517 446 basechar 0
+AnchorPoint: "fthoraTop" 517 590 basechar 0
 AnchorPoint: "martyriaTop" 467 -40 basechar 0
 LayerCount: 2
 Back
@@ -19242,11 +19242,11 @@ StartChar: martyriaNoteDiLow
 Encoding: 57653 57653 129
 Width: 738
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: -460 45<414 626>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 444 basechar 0
-AnchorPoint: "fthoraTop" 517 446 basechar 0
+AnchorPoint: "fthoraTop" 517 673 basechar 0
 AnchorPoint: "martyriaTop" 533 -13 basechar 0
 LayerCount: 2
 Back
@@ -19282,7 +19282,7 @@ HStem: -227 53<450.467 511.497>
 VStem: 517 17<-320.158 -241.756>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 444 basechar 0
-AnchorPoint: "fthoraTop" 517 446 basechar 0
+AnchorPoint: "fthoraTop" 559 672 basechar 0
 AnchorPoint: "martyriaTop" 560 -80 basechar 0
 LayerCount: 2
 Back
@@ -19375,7 +19375,7 @@ VStem: 714 33<123.594 160.587>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 541 basechar 0
 AnchorPoint: "martyriaBottom" 527 -33 basechar 0
-AnchorPoint: "fthoraTop" 517 540 basechar 0
+AnchorPoint: "fthoraTop" 517 640 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19481,7 +19481,7 @@ VStem: 549 25<155.414 263.283>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 448 basechar 0
 AnchorPoint: "martyriaBottom" 520 -47 basechar 0
-AnchorPoint: "fthoraTop" 517 450 basechar 0
+AnchorPoint: "fthoraTop" 517 590 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19575,7 +19575,7 @@ VStem: 395 59<293.463 348.81> 585 38<253.562 349.008>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 417 basechar 0
 AnchorPoint: "martyriaBottom" 487 -30 basechar 0
-AnchorPoint: "fthoraTop" 517 416 basechar 0
+AnchorPoint: "fthoraTop" 517 588 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19647,7 +19647,7 @@ VStem: 360 39<222 298.086>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 523 basechar 0
 AnchorPoint: "martyriaBottom" 453 -40 basechar 0
-AnchorPoint: "fthoraTop" 517 525 basechar 0
+AnchorPoint: "fthoraTop" 517 651 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19727,7 +19727,7 @@ VStem: 395 59<293.463 348.81> 585 38<253.562 349.008> 779 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 417 basechar 0
 AnchorPoint: "martyriaBottom" 487 -30 basechar 0
-AnchorPoint: "fthoraTop" 517 376 basechar 0
+AnchorPoint: "fthoraTop" 517 608 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 731 0 2
@@ -19747,7 +19747,7 @@ VStem: 360 70<68 306.678> 586 73<351 421.933>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 529 basechar 0
 AnchorPoint: "martyriaBottom" 493 -27 basechar 0
-AnchorPoint: "fthoraTop" 517 530 basechar 0
+AnchorPoint: "fthoraTop" 515 613 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -19790,29 +19790,29 @@ HStem: 68 45<414 626>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 539 548 basechar 0
 AnchorPoint: "martyriaBottom" 533 -27 basechar 0
-AnchorPoint: "fthoraTop" 540 550 basechar 0
+AnchorPoint: "fthoraTop" 540 653 basechar 0
 LayerCount: 2
 Back
 SplineSet
-703 68 m 1
- 360 68 l 1
+703 68 m 5
+ 360 68 l 5
  541 450 l 1
- 703 68 l 1
-626 113 m 1
+ 703 68 l 5
+626 113 m 5
  525 349 l 1
- 414 113 l 1
- 626 113 l 1
+ 414 113 l 5
+ 626 113 l 5
 EndSplineSet
 Fore
 SplineSet
-703 68 m 1
- 360 68 l 1
+703 68 m 5
+ 360 68 l 5
  541 450 l 1
- 703 68 l 1
-626 113 m 1
+ 703 68 l 5
+626 113 m 5
  525 349 l 1
- 414 113 l 1
- 626 113 l 1
+ 414 113 l 5
+ 626 113 l 5
 EndSplineSet
 EndChar
 
@@ -19825,7 +19825,7 @@ HStem: 319 53<401.498 463.497>
 VStem: 465 21<225.842 312.75>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 449 basechar 0
-AnchorPoint: "fthoraTop" 517 450 basechar 0
+AnchorPoint: "fthoraTop" 517 590 basechar 0
 AnchorPoint: "martyriaBottom" 507 -27 basechar 0
 LayerCount: 2
 Back
@@ -19918,7 +19918,7 @@ VStem: 714 33<123.594 160.587> 831 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 541 basechar 0
 AnchorPoint: "martyriaBottom" 527 -33 basechar 0
-AnchorPoint: "fthoraTop" 517 446 basechar 0
+AnchorPoint: "fthoraTop" 517 640 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 783 0 2
@@ -19933,13 +19933,13 @@ StartChar: martyriaNotePaHigh
 Encoding: 57664 57664 140
 Width: 885
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 279 86<507.875 561 578.225 666.572> 287 83<395.316 561> 344 206
 VStem: 549 25<155.414 263.283> 785 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 448 basechar 0
 AnchorPoint: "martyriaBottom" 520 -47 basechar 0
-AnchorPoint: "fthoraTop" 517 376 basechar 0
+AnchorPoint: "fthoraTop" 517 610 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 737 0 2
@@ -19960,7 +19960,7 @@ VStem: 360 39<222 298.086> 749 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 523 basechar 0
 AnchorPoint: "martyriaBottom" 453 -40 basechar 0
-AnchorPoint: "fthoraTop" 517 456 basechar 0
+AnchorPoint: "fthoraTop" 517 651 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 701 0 2
@@ -19981,7 +19981,7 @@ VStem: 360 70<68 306.678> 586 73<351 421.933> 740 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 529 basechar 0
 AnchorPoint: "martyriaBottom" 493 -27 basechar 0
-AnchorPoint: "fthoraTop" 517 436 basechar 0
+AnchorPoint: "fthoraTop" 517 613 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 692 0 2
@@ -19996,13 +19996,13 @@ StartChar: martyriaNoteDiHigh
 Encoding: 57667 57667 143
 Width: 886
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: 68 45<414 626> 344 206
 VStem: 786 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 539 548 basechar 0
 AnchorPoint: "martyriaBottom" 533 -27 basechar 0
-AnchorPoint: "fthoraTop" 540 454 basechar 0
+AnchorPoint: "fthoraTop" 538 653 basechar 0
 LayerCount: 2
 Back
 Refer: 145 57669 N 1 0 0 1 738 0 2
@@ -20022,7 +20022,7 @@ HStem: 319 53<401.498 463.497> 344 206
 VStem: 465 21<225.842 312.75> 794 77<467.087 542.068>
 AnchorPoint: "barline" 517 590 basechar 0
 AnchorPoint: "agogi" 517 449 basechar 0
-AnchorPoint: "fthoraTop" 517 376 basechar 0
+AnchorPoint: "fthoraTop" 515 590 basechar 0
 AnchorPoint: "martyriaBottom" 507 -27 basechar 0
 LayerCount: 2
 Back
@@ -25170,7 +25170,8 @@ Width: 0
 Flags: W
 HStem: 744 27<66.129 88.6998> 746.5 92.5<103.688 152.757> 869 25<-91.8469 0.51283> 1078 25<-91.4949 0.51283>
 VStem: -163.312 25<940.316 1031.03> 45.6885 25<939.996 1032>
-AnchorPoint: "agogiAboveFthora" -1 1126 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 734 mark 0
 LayerCount: 2
 Back
@@ -25264,7 +25265,8 @@ Flags: W
 HStem: 1014 26<-47.1909 46.8635>
 VStem: -118 26<875.126 969.03> -13 26<656.029 807.258> 92 26<875.126 970.002>
 CounterMasks: 1 70
-AnchorPoint: "agogiAboveFthora" -1 1076 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1240 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1076 basemark 0
 AnchorPoint: "fthoraTop" 0 644 mark 0
 LayerCount: 2
 Back
@@ -25325,7 +25327,8 @@ Width: 0
 Flags: W
 HStem: 635 95<79.3424 159.602> 816.5 27.5<-140.577 63.1707>
 VStem: 72.9746 102<641.126 724.588>
-AnchorPoint: "agogiAboveFthora" -1 1296 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1457 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1296 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
 Back
@@ -25423,7 +25426,8 @@ Encoding: 57747 57747 203
 Width: 0
 Flags: W
 VStem: -119.5 26<878.929 974.779> -12.5 25<687.551 809.703 1044.03 1165.92> 94.5 25<881.401 973.181>
-AnchorPoint: "agogiAboveFthora" -1 1216 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1366 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1216 basemark 0
 AnchorPoint: "fthoraTop" 0 684 mark 0
 LayerCount: 2
 Back
@@ -25492,7 +25496,8 @@ Width: 0
 Flags: W
 HStem: 812.5 25<-46.3193 47.7236> 1022 25<-45.3625 47.7236>
 VStem: -115.819 25<883.456 976.344> 93.6807 25<883.047 975.544>
-AnchorPoint: "agogiAboveFthora" -1 1146 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1249 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1146 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
 Back
@@ -25561,7 +25566,8 @@ Width: 0
 Flags: W
 HStem: 802 25<-45.6833 46.3909>
 VStem: -117.5 25<873.327 963.999> -12.5 25<1034.03 1182.98> 91.5 26<871.88 966.019>
-AnchorPoint: "agogiAboveFthora" -1 1226 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1387 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -25621,7 +25627,8 @@ Encoding: 57750 57750 206
 Width: 0
 Flags: W
 VStem: 35.8506 27<1261.22 1305.99> 49.8506 25.5<1186.55 1231>
-AnchorPoint: "agogiAboveFthora" -1 1356 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1453 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1356 basemark 0
 AnchorPoint: "fthoraTop" 0 624 mark 0
 LayerCount: 2
 Back
@@ -25754,7 +25761,8 @@ Width: 0
 Flags: W
 HStem: 753 25<46.0952 83.8223> 756 83<99.1318 144.954> 896 22<-87.7601 -6.02455> 1083 23<-88.9574 -26.8671>
 VStem: -152.868 23<959.937 1042.16> 1.13184 24<1180 1195.39> 36.1318 22<960.156 1041.42>
-AnchorPoint: "agogiAboveFthora" -1 1226 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1305 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1226 basemark 0
 AnchorPoint: "fthoraTop" 0 754 mark 0
 LayerCount: 2
 Back
@@ -25861,7 +25869,8 @@ Width: 0
 Flags: W
 HStem: 813 28<-54.451 51.516> 870 68<-325.556 -268.434> 960 67<267.17 324.361> 1056 28<-54.7695 52.335>
 VStem: -368.971 102<883.421 939.835> -136.971 27<896.753 960> 107.029 27<938.018 999.45> 266.029 101<957.874 1014.89>
-AnchorPoint: "agogiAboveFthora" -1 1125 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1285 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1125 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -25968,7 +25977,8 @@ Width: 0
 Flags: W
 HStem: 807 25<-47.5108 43.7919> 1015 25<-47.8488 43.8938>
 VStem: -117.752 24<878.803 968.197> 89.248 25<877.849 969.131>
-AnchorPoint: "agogiAboveFthora" -1 1126 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1240 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1126 basemark 0
 AnchorPoint: "fthoraTop" 0 744 mark 0
 LayerCount: 2
 Back
@@ -26037,7 +26047,8 @@ Width: 0
 Flags: W
 HStem: 800 88<325.155 384.979> 831 27<-72.2769 34.1637> 957 21<-411.159 -154.621 -126.861 90.1387 117.255 298.117> 1077 27<-71.3883 34.3377>
 VStem: -154.861 28<910.33 957 978 1022.05> 90.1387 27<978 1022.05> 308.139 99.5<806.458 879.593>
-AnchorPoint: "agogiAboveFthora" -1 1146 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1305 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1146 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -26146,7 +26157,8 @@ Width: 0
 Flags: W
 HStem: 806 26<-49.9792 44.4144> 1017 25<-48.7502 43.5385>
 VStem: -120.567 25<877.491 970.183> 90.4326 25<878.264 969.919>
-AnchorPoint: "agogiAboveFthora" -1 1196 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1242 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1196 basemark 0
 AnchorPoint: "fthoraTop" 0 714 mark 0
 LayerCount: 2
 Back
@@ -26243,7 +26255,8 @@ Width: 0
 Flags: W
 HStem: 866 25<49.6323 141.713> 1074 25<49.8839 141.713>
 VStem: -201.112 74<786.844 853.775> -21.1123 25<936.129 1027.91> 186.888 25<936.176 1028.32>
-AnchorPoint: "agogiAboveFthora" -1 1146 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1298 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1146 basemark 0
 AnchorPoint: "fthoraTop" 0 734 mark 0
 LayerCount: 2
 Back
@@ -26324,7 +26337,8 @@ Width: 0
 Flags: W
 HStem: 806 26<-44.7064 49.9817> 1018 26<-43.6787 49.3496>
 VStem: -116 25<877.895 969.597> 96 25<878.625 970.548>
-AnchorPoint: "agogiAboveFthora" -1 1196 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1241 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1196 basemark 0
 AnchorPoint: "fthoraTop" 0 704 mark 0
 LayerCount: 2
 Back
@@ -26418,10 +26432,11 @@ EndChar
 StartChar: chroaKlitonAbove
 Encoding: 57758 57758 214
 Width: 0
-Flags: W
+Flags: HW
 HStem: 864 25<24.5114 116.817> 1076 26<23.1953 118.708>
 VStem: -231.425 75<783.359 850.97> -48.4248 26<934.861 1030.38> 164.575 26<935.834 1030.39>
-AnchorPoint: "agogiAboveFthora" -1 1225 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1305 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1225 basemark 0
 AnchorPoint: "fthoraTop" 0 734 mark 0
 LayerCount: 2
 Back
@@ -28606,6 +28621,8 @@ Width: 0
 Flags: W
 HStem: 808 26<-47.5588 48.4774> 1119 28<-96.4351 -10.5 16.5 99.4658>
 VStem: -119.5 26<879.369 974.764> -10.5 27<1045.1 1117 1146 1229.45> 94 25.5<880.011 973.25>
+AnchorPoint: "agogiAboveFthora" 0 1306 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1430 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -28690,81 +28707,83 @@ Width: 0
 Flags: W
 HStem: 725 27<-95.9506 -11.5 15.5 99.4658> 1036 26<-47.5588 48.4774>
 VStem: -119.5 25.5<895.506 989.494> -11.5 27<642.401 725 753 825.881> 94.5 25<895.644 988.413>
+AnchorPoint: "agogiAboveFthora" 0 1176 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1262 basemark 0
 AnchorPoint: "fthoraTop" 0 634 mark 0
 LayerCount: 2
 Back
 SplineSet
--11.5 725 m 5
- -82.5 723 l 6
- -90.5 723 -95 727.666992188 -96 737 c 4
- -97 746.333007812 -92.8330078125 751 -83.5 751 c 6
- -11.5 752 l 5
- -11.5 824 l 5
- -40.1669921875 826.666992188 -64.5 838 -84.5 858 c 4
- -107.833007812 881.333007812 -119.5 909.5 -119.5 942.5 c 4
- -119.5 975.5 -107.833007812 1003.66699219 -84.5 1027 c 4
- -61.1669921875 1050.33300781 -33 1062 0 1062 c 4
- 33 1062 61.1669921875 1050.33300781 84.5 1027 c 4
- 107.833007812 1003.66699219 119.5 975.5 119.5 942.5 c 4
- 119.5 909.5 107.833007812 881.333007812 84.5 858 c 4
- 65.8330078125 838.666992188 42.5 827.333007812 14.5 824 c 5
- 15.5 753 l 5
- 85.5 754 l 6
- 94.1669921875 754 98.8330078125 749.166992188 99.5 739.5 c 4
- 100.166992188 729.833007812 95.8330078125 725.333007812 86.5 726 c 6
- 15.5 725 l 5
- 16.5 699 l 5
- 17.5 657 l 6
- 17.5 646.333007812 12.5 640.833007812 2.5 640.5 c 4
- -7.5 640.166992188 -12.5 645.666992188 -12.5 657 c 6
- -11.5 674 l 5
- -11.5 725 l 5
-66.5 1009 m 4
- 48.5 1027 26.5 1036 0.5 1036 c 4
- -25.5 1036 -47.8330078125 1027 -66.5 1009 c 4
- -84.5 990.333007812 -93.6669921875 968.166992188 -94 942.5 c 4
- -94.3330078125 916.833007812 -85.1669921875 894.666992188 -66.5 876 c 4
- -47.8330078125 857.333007812 -25.6669921875 848 0 848 c 4
- 25.6669921875 848 47.8330078125 857.333007812 66.5 876 c 4
- 85.1669921875 894 94.5 916 94.5 942 c 4
- 94.5 968 85.1669921875 990.333007812 66.5 1009 c 4
+-11.5 725 m 1
+ -82.5 723 l 2
+ -90.5 723 -95 727.666992188 -96 737 c 0
+ -97 746.333007812 -92.8330078125 751 -83.5 751 c 2
+ -11.5 752 l 1
+ -11.5 824 l 1
+ -40.1669921875 826.666992188 -64.5 838 -84.5 858 c 0
+ -107.833007812 881.333007812 -119.5 909.5 -119.5 942.5 c 0
+ -119.5 975.5 -107.833007812 1003.66699219 -84.5 1027 c 0
+ -61.1669921875 1050.33300781 -33 1062 0 1062 c 0
+ 33 1062 61.1669921875 1050.33300781 84.5 1027 c 0
+ 107.833007812 1003.66699219 119.5 975.5 119.5 942.5 c 0
+ 119.5 909.5 107.833007812 881.333007812 84.5 858 c 0
+ 65.8330078125 838.666992188 42.5 827.333007812 14.5 824 c 1
+ 15.5 753 l 1
+ 85.5 754 l 2
+ 94.1669921875 754 98.8330078125 749.166992188 99.5 739.5 c 0
+ 100.166992188 729.833007812 95.8330078125 725.333007812 86.5 726 c 2
+ 15.5 725 l 1
+ 16.5 699 l 1
+ 17.5 657 l 2
+ 17.5 646.333007812 12.5 640.833007812 2.5 640.5 c 0
+ -7.5 640.166992188 -12.5 645.666992188 -12.5 657 c 2
+ -11.5 674 l 1
+ -11.5 725 l 1
+66.5 1009 m 0
+ 48.5 1027 26.5 1036 0.5 1036 c 0
+ -25.5 1036 -47.8330078125 1027 -66.5 1009 c 0
+ -84.5 990.333007812 -93.6669921875 968.166992188 -94 942.5 c 0
+ -94.3330078125 916.833007812 -85.1669921875 894.666992188 -66.5 876 c 0
+ -47.8330078125 857.333007812 -25.6669921875 848 0 848 c 0
+ 25.6669921875 848 47.8330078125 857.333007812 66.5 876 c 0
+ 85.1669921875 894 94.5 916 94.5 942 c 0
+ 94.5 968 85.1669921875 990.333007812 66.5 1009 c 0
 EndSplineSet
 Fore
 SplineSet
--11.5 725 m 5
- -82.5 723 l 6
- -90.5 723 -95 727.666992188 -96 737 c 4
- -97 746.333007812 -92.8330078125 751 -83.5 751 c 6
- -11.5 752 l 5
- -11.5 824 l 5
- -40.1669921875 826.666992188 -64.5 838 -84.5 858 c 4
- -107.833007812 881.333007812 -119.5 909.5 -119.5 942.5 c 4
- -119.5 975.5 -107.833007812 1003.66699219 -84.5 1027 c 4
- -61.1669921875 1050.33300781 -33 1062 0 1062 c 4
- 33 1062 61.1669921875 1050.33300781 84.5 1027 c 4
- 107.833007812 1003.66699219 119.5 975.5 119.5 942.5 c 4
- 119.5 909.5 107.833007812 881.333007812 84.5 858 c 4
- 65.8330078125 838.666992188 42.5 827.333007812 14.5 824 c 5
- 15.5 753 l 5
- 85.5 754 l 6
- 94.1669921875 754 98.8330078125 749.166992188 99.5 739.5 c 4
- 100.166992188 729.833007812 95.8330078125 725.333007812 86.5 726 c 6
- 15.5 725 l 5
- 16.5 699 l 5
- 17.5 657 l 6
- 17.5 646.333007812 12.5 640.833007812 2.5 640.5 c 4
- -7.5 640.166992188 -12.5 645.666992188 -12.5 657 c 6
- -11.5 674 l 5
- -11.5 725 l 5
-66.5 1009 m 4
- 48.5 1027 26.5 1036 0.5 1036 c 4
- -25.5 1036 -47.8330078125 1027 -66.5 1009 c 4
- -84.5 990.333007812 -93.6669921875 968.166992188 -94 942.5 c 4
- -94.3330078125 916.833007812 -85.1669921875 894.666992188 -66.5 876 c 4
- -47.8330078125 857.333007812 -25.6669921875 848 0 848 c 4
- 25.6669921875 848 47.8330078125 857.333007812 66.5 876 c 4
- 85.1669921875 894 94.5 916 94.5 942 c 4
- 94.5 968 85.1669921875 990.333007812 66.5 1009 c 4
+-11.5 725 m 1
+ -82.5 723 l 2
+ -90.5 723 -95 727.666992188 -96 737 c 0
+ -97 746.333007812 -92.8330078125 751 -83.5 751 c 2
+ -11.5 752 l 1
+ -11.5 824 l 1
+ -40.1669921875 826.666992188 -64.5 838 -84.5 858 c 0
+ -107.833007812 881.333007812 -119.5 909.5 -119.5 942.5 c 0
+ -119.5 975.5 -107.833007812 1003.66699219 -84.5 1027 c 0
+ -61.1669921875 1050.33300781 -33 1062 0 1062 c 0
+ 33 1062 61.1669921875 1050.33300781 84.5 1027 c 0
+ 107.833007812 1003.66699219 119.5 975.5 119.5 942.5 c 0
+ 119.5 909.5 107.833007812 881.333007812 84.5 858 c 0
+ 65.8330078125 838.666992188 42.5 827.333007812 14.5 824 c 1
+ 15.5 753 l 1
+ 85.5 754 l 2
+ 94.1669921875 754 98.8330078125 749.166992188 99.5 739.5 c 0
+ 100.166992188 729.833007812 95.8330078125 725.333007812 86.5 726 c 2
+ 15.5 725 l 1
+ 16.5 699 l 1
+ 17.5 657 l 2
+ 17.5 646.333007812 12.5 640.833007812 2.5 640.5 c 0
+ -7.5 640.166992188 -12.5 645.666992188 -12.5 657 c 2
+ -11.5 674 l 1
+ -11.5 725 l 1
+66.5 1009 m 0
+ 48.5 1027 26.5 1036 0.5 1036 c 0
+ -25.5 1036 -47.8330078125 1027 -66.5 1009 c 0
+ -84.5 990.333007812 -93.6669921875 968.166992188 -94 942.5 c 0
+ -94.3330078125 916.833007812 -85.1669921875 894.666992188 -66.5 876 c 0
+ -47.8330078125 857.333007812 -25.6669921875 848 0 848 c 0
+ 25.6669921875 848 47.8330078125 857.333007812 66.5 876 c 0
+ 85.1669921875 894 94.5 916 94.5 942 c 0
+ 94.5 968 85.1669921875 990.333007812 66.5 1009 c 0
 EndSplineSet
 EndChar
 
@@ -29543,7 +29562,8 @@ Width: 0
 Flags: W
 HStem: 798 87<314.956 385.479> 830 28<-78.3969 29.3409> 955 21<-411.659 -157.526 -131.361 83.6387 109.8 197.639 221.639 303.043> 1074 27<-76.629 28.5457>
 VStem: -158.361 27<910.459 955 976 1018.53> 83.6387 27<976 1019.94> 197.639 24<863.392 952 973 1064.97>
-AnchorPoint: "agogiAboveFthora" -1 1136 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 1300 basemark 0
+AnchorPoint: "agogiAboveFthora" 0 1136 basemark 0
 AnchorPoint: "fthoraTop" 0 804 mark 0
 LayerCount: 2
 Back
@@ -44589,7 +44609,8 @@ VWidth: 345
 Flags: W
 HStem: 590 305
 VStem: -17 32<590.064 894.967>
-AnchorPoint: "barline" -1 590 mark 0
+AnchorPoint: "barlineAboveFthora" 0 590 mark 0
+AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -44623,7 +44644,8 @@ Width: 0
 VWidth: 345
 Flags: W
 VStem: -16 32<4.06419 704.966>
-AnchorPoint: "barline" -7 4 mark 0
+AnchorPoint: "barlineAboveFthora" 0 0 mark 0
+AnchorPoint: "barline" 0 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -44661,7 +44683,8 @@ Width: 0
 VWidth: 345
 Flags: W
 VStem: -70 31<4.06419 704.966> 47 32<4.06419 704.966>
-AnchorPoint: "barline" 5 4 mark 0
+AnchorPoint: "barlineAboveFthora" 0 0 mark 0
+AnchorPoint: "barline" 0 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -44718,7 +44741,8 @@ VWidth: 345
 Flags: W
 HStem: 783 29<-97.4519 82.3209>
 VStem: -19 32<4.06419 704.966>
-AnchorPoint: "barline" -3 4 mark 0
+AnchorPoint: "barlineAboveFthora" 0 0 mark 0
+AnchorPoint: "barline" 0 0 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -44779,7 +44803,8 @@ VWidth: 345
 Flags: W
 HStem: 590 305
 VStem: -63 32<590.064 894.967> 30 32<590.064 894.967>
-AnchorPoint: "barline" -1 590 mark 0
+AnchorPoint: "barlineAboveFthora" 0 590 mark 0
+AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -44832,7 +44857,8 @@ VWidth: 345
 Flags: W
 HStem: 960 28<-77.5919 -23 20 65.2324>
 VStem: -19 32<589.064 894.966>
-AnchorPoint: "barline" -3 589 mark 0
+AnchorPoint: "barlineAboveFthora" 0 590 mark 0
+AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
 SplineSet

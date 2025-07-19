@@ -1669,49 +1669,64 @@
 0xE17B martyriaZygosAbove
 	('martyriaTop', 'mark', 0.0, -199.0)
 0xE190 fthoraDiatonicNiLowAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1086.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1086.0)
 	('fthoraTop', 'mark', 0.0, 784.0)
 0xE191 fthoraDiatonicPaAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1076.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1076.0)
 	('fthoraTop', 'mark', 0.0, 634.0)
 0xE192 fthoraDiatonicVouAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1206.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1206.0)
 	('fthoraTop', 'mark', 0.0, 704.0)
 0xE193 fthoraDiatonicGaAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1356.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1500.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1356.0)
 	('fthoraTop', 'mark', 0.0, 534.0)
 0xE194 fthoraDiatonicDiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1146.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1146.0)
 	('fthoraTop', 'mark', 0.0, 744.0)
 0xE195 fthoraDiatonicKeAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1226.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1226.0)
 	('fthoraTop', 'mark', 0.0, 804.0)
 0xE196 fthoraDiatonicZoAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1226.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1226.0)
 	('fthoraTop', 'mark', 0.0, 724.0)
 0xE197 fthoraDiatonicNiHighAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1166.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1166.0)
 	('fthoraTop', 'mark', 0.0, 784.0)
 0xE198 fthoraHardChromaticPaAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1085.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1085.0)
 	('fthoraTop', 'mark', 0.0, 824.0)
 0xE199 fthoraHardChromaticDiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1126.0)
 	('fthoraTop', 'mark', 0.0, 744.0)
 0xE19A fthoraSoftChromaticDiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1126.0)
 	('fthoraTop', 'mark', 0.0, 824.0)
 0xE19B fthoraSoftChromaticKeAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1176.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1176.0)
 	('fthoraTop', 'mark', 0.0, 714.0)
 0xE19C fthoraEnharmonicAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1106.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1106.0)
 	('fthoraTop', 'mark', 0.0, 754.0)
 0xE19D chroaZygosAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1196.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1196.0)
 	('fthoraTop', 'mark', 0.0, 734.0)
 0xE19E chroaKlitonAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1125.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1125.0)
 	('fthoraTop', 'mark', 0.0, 754.0)
 0xE1C0 fthoraDiatonicNiLowBelow
 	('fthoraBottom', 'mark', 0.0, 214.0)
@@ -1760,8 +1775,12 @@
 0xE203 yfesis8
 	('yfesis', 'mark', -159.0, 440.0)
 0xE1F4 diesisGenikiAbove
+	('barlineAboveFthora', 'basemark', 0.0, 1430.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1306.0)
 	('fthoraTop', 'mark', 0.0, 804.0)
 0xE204 yfesisGenikiAbove
+	('barlineAboveFthora', 'basemark', 0.0, 1262.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1176.0)
 	('fthoraTop', 'mark', 0.0, 634.0)
 0xE1F5 diesisGenikiBelow
 	('fthoraBottom', 'mark', 0.0, 444.0)
@@ -1784,7 +1803,8 @@
 0xE1CF chroaSpathiBelow
 	('fthoraBottom', 'mark', 0.0, 234.0)
 0xE19F chroaSpathiAbove
-	('agogiAboveFthora', 'basemark', -1.0, 1126.0)
+	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
+	('agogiAboveFthora', 'basemark', 0.0, 1126.0)
 	('fthoraTop', 'mark', 0.0, 824.0)
 0xE221 measureNumber3
 	('measureNumber', 'mark', 0.0, 656.0)
