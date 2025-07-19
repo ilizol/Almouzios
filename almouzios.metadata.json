@@ -6376,7 +6376,7 @@
       ],
       "fthoraTop": [
         0.0,
-        0.534
+        0.6
       ]
     },
     "fthoraDiatonicDiAbove": {
@@ -7240,7 +7240,7 @@
     "fthoraDiatonicGaSecondary": {
       "fthoraTopSecondary": [
         0.0,
-        0.534
+        0.6
       ]
     },
     "fthoraDiatonicDiSecondary": {
@@ -7336,7 +7336,7 @@
     "fthoraDiatonicGaTertiary": {
       "fthoraTopTertiary": [
         0.0,
-        0.534
+        0.6
       ]
     },
     "fthoraDiatonicDiTertiary": {

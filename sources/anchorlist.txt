@@ -1683,7 +1683,7 @@
 0xE193 fthoraDiatonicGaAbove
 	('barlineAboveFthora', 'basemark', 0.0, 1300.0)
 	('agogiAboveFthora', 'basemark', 0.0, 1356.0)
-	('fthoraTop', 'mark', 0.0, 534.0)
+	('fthoraTop', 'mark', 0.0, 600.0)
 0xE194 fthoraDiatonicDiAbove
 	('barlineAboveFthora', 'basemark', 0.0, 1100.0)
 	('agogiAboveFthora', 'basemark', 0.0, 1146.0)
@@ -1986,7 +1986,7 @@
 0xE1A2 fthoraDiatonicVouSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 704.0)
 0xE1A3 fthoraDiatonicGaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 534.0)
+	('fthoraTopSecondary', 'mark', 0.0, 600.0)
 0xE1A4 fthoraDiatonicDiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 744.0)
 0xE1A5 fthoraDiatonicKeSecondary
@@ -2018,7 +2018,7 @@
 0xE1B2 fthoraDiatonicVouTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 704.0)
 0xE1B3 fthoraDiatonicGaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 534.0)
+	('fthoraTopTertiary', 'mark', 0.0, 600.0)
 0xE1B4 fthoraDiatonicDiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 744.0)
 0xE1B5 fthoraDiatonicKeTertiary
