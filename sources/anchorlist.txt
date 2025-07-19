@@ -1621,53 +1621,53 @@
 0xE0FE triargon
 	('gorgonTop', 'mark', 0.0, 800.0)
 0xE150 martyriaZoBelow
-	('martyriaBottom', 'mark', 2.0, 108.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE151 martyriaDeltaBelow
-	('martyriaBottom', 'mark', 2.0, 298.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE152 martyriaAlphaBelow
-	('martyriaBottom', 'mark', 2.0, 328.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE153 martyriaLegetosBelow
-	('martyriaBottom', 'mark', 2.0, 298.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE154 martyriaNanaBelow
-	('martyriaBottom', 'mark', 2.0, 248.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE155 martyriaDeltaDottedBelow
-	('martyriaBottom', 'mark', 2.0, 398.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE156 martyriaAlphaDottedBelow
-	('martyriaBottom', 'mark', 1.0, 427.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE157 martyriaHardChromaticPaBelow
-	('martyriaBottom', 'mark', 0.0, 150.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE158 martyriaHardChromaticDiBelow
-	('martyriaBottom', 'mark', 2.0, 298.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE159 martyriaSoftChromaticDiBelow
-	('martyriaBottom', 'mark', 0.0, 150.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE15A martyriaSoftChromaticKeBelow
-	('martyriaBottom', 'mark', 2.0, 263.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE15B martyriaZygosBelow
-	('martyriaBottom', 'mark', 0.0, 244.0)
+	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE170 martyriaZoAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE171 martyriaDeltaAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE172 martyriaAlphaAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE173 martyriaLegetosAbove
-	('martyriaTop', 'mark', 2.0, -143.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE174 martyriaNanaAbove
-	('martyriaTop', 'mark', 2.0, -204.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE175 martyriaDeltaDottedAbove
-	('martyriaTop', 'mark', 2.0, -199.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE176 martyriaAlphaDottedAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE177 martyriaHardChromaticPaAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE178 martyriaHardChromaticDiAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE179 martyriaSoftChromaticDiAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE17A martyriaSoftChromaticKeAbove
-	('martyriaTop', 'mark', 2.0, -192.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE17B martyriaZygosAbove
-	('martyriaTop', 'mark', 0.0, -199.0)
+	('martyriaTop', 'mark', 0.0, 0.0)
 0xE190 fthoraDiatonicNiLowAbove
 	('barlineAboveFthora', 'basemark', 0.0, 1100.0)
 	('agogiAboveFthora', 'basemark', 0.0, 1086.0)
