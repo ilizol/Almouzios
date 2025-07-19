@@ -2074,22 +2074,22 @@
 0xF008 psifiston.alt01
 	('psifiston', 'mark', -1.6748, 458.0)
 0xE219 barlineShortSingleAbove
-	('barlineAboveFthora', 'basemark', 0.0, 560.0)
+	('barlineAboveFthora', 'mark', 0.0, 560.0)
 	('barline', 'mark', 0.0, 590.0)
 0xE216 barlineSingleAbove
-	('barlineAboveFthora', 'basemark', 0.0, 100.0)
+	('barlineAboveFthora', 'mark', 0.0, 100.0)
 	('barline', 'mark', 0.0, 130.0)
 0xE217 barlineDoubleAbove
-	('barlineAboveFthora', 'basemark', 0.0, 100.0)
+	('barlineAboveFthora', 'mark', 0.0, 100.0)
 	('barline', 'mark', 0.0, 130.0)
 0xE218 barlineTheseosAbove
-	('barlineAboveFthora', 'basemark', 0.0, 100.0)
+	('barlineAboveFthora', 'mark', 0.0, 100.0)
 	('barline', 'mark', 0.0, 130.0)
 0xE21A barlineShortDoubleAbove
-	('barlineAboveFthora', 'basemark', 0.0, 560.0)
+	('barlineAboveFthora', 'mark', 0.0, 560.0)
 	('barline', 'mark', 0.0, 590.0)
 0xE21B barlineShortTheseosAbove
-	('barlineAboveFthora', 'basemark', 0.0, 560.0)
+	('barlineAboveFthora', 'mark', 0.0, 560.0)
 	('barline', 'mark', 0.0, 590.0)
 0xE1F6 diesis2Secondary
 	('diesisSecondary', 'mark', 196.0, 612.0)

@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1752912803
+ModificationTime: 1752915834
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -39172,7 +39172,7 @@ Width: 0
 VWidth: 345
 Flags: HW
 VStem: -20 39.4404<591.753 844.886>
-AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
@@ -39206,7 +39206,7 @@ Width: 0
 VWidth: 1392
 Flags: W
 VStem: -20 39.4395<131.781 448.488>
-AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 100 mark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39242,7 +39242,7 @@ Width: 0
 VWidth: 1392
 Flags: HW
 VStem: -65 39.4395<131.781 448.488> 25 39.4395<131.781 448.488>
-AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 100 mark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39295,7 +39295,7 @@ Width: 0
 VWidth: 345
 Flags: HW
 VStem: -20.5996 39.4395<131.781 448.488>
-AnchorPoint: "barlineAboveFthora" 0 100 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 100 mark 0
 AnchorPoint: "barline" 0 130 mark 0
 LayerCount: 2
 Back
@@ -39349,7 +39349,7 @@ Width: 0
 VWidth: 345
 Flags: HW
 VStem: -61.5 39.4404<591.753 844.886> 21.5 39.4404<591.753 844.886>
-AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
@@ -39400,7 +39400,7 @@ Width: 0
 VWidth: 345
 Flags: HW
 VStem: -20.4805 39.4404<591.753 844.886>
-AnchorPoint: "barlineAboveFthora" 0 560 basemark 0
+AnchorPoint: "barlineAboveFthora" 0 560 mark 0
 AnchorPoint: "barline" 0 590 mark 0
 LayerCount: 2
 Back
