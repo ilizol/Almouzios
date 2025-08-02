@@ -1903,7 +1903,7 @@
 0xE215 barlineShortTheseos
 0xE0C1 breath
 0xE0D6 koronis
-	('koronis', 'mark', 0.0, 872.0)
+	('koronis', 'mark', 0.0, 0.0)
 0xE0E4 leimmaDot
 0xE100 gorgonSecondary
 	('gorgonSecondary', 'mark', 0.0, 800.0)

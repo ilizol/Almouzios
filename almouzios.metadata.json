@@ -6978,7 +6978,7 @@
     "koronis": {
       "koronis": [
         0.0,
-        0.872
+        0.0
       ]
     },
     "gorgonSecondary": {
@@ -10849,11 +10849,11 @@
     "koronis": {
       "bBoxNE": [
         0.446,
-        1.128
+        0.258
       ],
       "bBoxSW": [
         -0.45,
-        0.849
+        -0.021
       ]
     },
     "leimmaDot": {
