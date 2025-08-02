@@ -2044,13 +2044,13 @@
 0xE1BF chroaSpathiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE206 yfesis2Secondary
-	('yfesisSecondary', 'mark', -213.0, 452.0)
+	('yfesisSecondary', 'mark', 0.0, 0.0)
 0xE207 yfesis4Secondary
-	('yfesisSecondary', 'mark', -134.0, 429.0)
+	('yfesisSecondary', 'mark', 0.0, 0.0)
 0xE208 yfesis6Secondary
-	('yfesisSecondary', 'mark', -153.0, 456.0)
+	('yfesisSecondary', 'mark', 0.0, 0.0)
 0xE209 yfesis8Secondary
-	('yfesisSecondary', 'mark', -159.0, 440.0)
+	('yfesisSecondary', 'mark', 0.0, 0.0)
 0xE20A yfesis2Tertiary
 	('yfesisTertiary', 'mark', -213.0, 452.0)
 0xE20B yfesis4Tertiary
