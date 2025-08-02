@@ -1729,35 +1729,35 @@
 	('agogiAboveFthora', 'basemark', 0.0, 380.0)
 	('fthoraTop', 'mark', 0.0, 0.0)
 0xE1C0 fthoraDiatonicNiLowBelow
-	('fthoraBottom', 'mark', 0.0, 214.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C1 fthoraDiatonicPaBelow
-	('fthoraBottom', 'mark', 0.0, 254.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C2 fthoraDiatonicVouBelow
-	('fthoraBottom', 'mark', 0.0, 381.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C3 fthoraDiatonicGaBelow
-	('fthoraBottom', 'mark', 0.0, 484.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C4 fthoraDiatonicDiBelow
-	('fthoraBottom', 'mark', 0.0, 304.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C5 fthoraDiatonicKeBelow
-	('fthoraBottom', 'mark', 0.0, 364.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C6 fthoraDiatonicZoBelow
-	('fthoraBottom', 'mark', 0.0, 394.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C7 fthoraDiatonicNiHighBelow
-	('fthoraBottom', 'mark', 0.0, 314.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C8 fthoraHardChromaticPaBelow
-	('fthoraBottom', 'mark', 0.0, 224.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1C9 fthoraHardChromaticDiBelow
-	('fthoraBottom', 'mark', 0.0, 314.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1CA fthoraSoftChromaticDiBelow
-	('fthoraBottom', 'mark', 0.0, 234.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1CB fthoraSoftChromaticKeBelow
-	('fthoraBottom', 'mark', 0.0, 284.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1CC fthoraEnharmonicBelow
-	('fthoraBottom', 'mark', 0.0, 214.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1CD chroaZygosBelow
-	('fthoraBottom', 'mark', 0.0, 304.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1CE chroaKlitonBelow
-	('fthoraBottom', 'mark', 0.0, 284.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1F0 diesis2
 	('diesis', 'mark', 196.0, 612.0)
 0xE1F1 diesis4
@@ -1783,9 +1783,9 @@
 	('agogiAboveFthora', 'basemark', 0.0, 450.0)
 	('fthoraTop', 'mark', 0.0, 0.0)
 0xE1F5 diesisGenikiBelow
-	('fthoraBottom', 'mark', 0.0, 444.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE205 yfesisGenikiBelow
-	('fthoraBottom', 'mark', 0.0, 250.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE250 noteIndicatorNi
 	('noteTop', 'mark', 0.0, 800.0)
 0xE251 noteIndicatorPa
@@ -1801,7 +1801,7 @@
 0xE256 noteIndicatorZo
 	('noteTop', 'mark', 0.0, 800.0)
 0xE1CF chroaSpathiBelow
-	('fthoraBottom', 'mark', 0.0, 234.0)
+	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE19F chroaSpathiAbove
 	('barlineAboveFthora', 'basemark', 0.0, 250.0)
 	('agogiAboveFthora', 'basemark', 0.0, 280.0)

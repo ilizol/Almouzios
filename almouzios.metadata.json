@@ -6536,91 +6536,91 @@
     "fthoraDiatonicNiLowBelow": {
       "fthoraBottom": [
         0.0,
-        0.214
+        0.0
       ]
     },
     "fthoraDiatonicPaBelow": {
       "fthoraBottom": [
         0.0,
-        0.254
+        0.0
       ]
     },
     "fthoraDiatonicVouBelow": {
       "fthoraBottom": [
         0.0,
-        0.381
+        0.0
       ]
     },
     "fthoraDiatonicGaBelow": {
       "fthoraBottom": [
         0.0,
-        0.484
+        0.0
       ]
     },
     "fthoraDiatonicDiBelow": {
       "fthoraBottom": [
         0.0,
-        0.304
+        0.0
       ]
     },
     "fthoraDiatonicKeBelow": {
       "fthoraBottom": [
         0.0,
-        0.364
+        0.0
       ]
     },
     "fthoraDiatonicZoBelow": {
       "fthoraBottom": [
         0.0,
-        0.394
+        0.0
       ]
     },
     "fthoraDiatonicNiHighBelow": {
       "fthoraBottom": [
         0.0,
-        0.314
+        0.0
       ]
     },
     "fthoraHardChromaticPaBelow": {
       "fthoraBottom": [
         0.0,
-        0.224
+        0.0
       ]
     },
     "fthoraHardChromaticDiBelow": {
       "fthoraBottom": [
         0.0,
-        0.314
+        0.0
       ]
     },
     "fthoraSoftChromaticDiBelow": {
       "fthoraBottom": [
         0.0,
-        0.234
+        0.0
       ]
     },
     "fthoraSoftChromaticKeBelow": {
       "fthoraBottom": [
         0.0,
-        0.284
+        0.0
       ]
     },
     "fthoraEnharmonicBelow": {
       "fthoraBottom": [
         0.0,
-        0.214
+        0.0
       ]
     },
     "chroaZygosBelow": {
       "fthoraBottom": [
         0.0,
-        0.304
+        0.0
       ]
     },
     "chroaKlitonBelow": {
       "fthoraBottom": [
         0.0,
-        0.284
+        0.0
       ]
     },
     "diesis2": {
@@ -6702,13 +6702,13 @@
     "diesisGenikiBelow": {
       "fthoraBottom": [
         0.0,
-        0.444
+        0.0
       ]
     },
     "yfesisGenikiBelow": {
       "fthoraBottom": [
         0.0,
-        0.25
+        0.0
       ]
     },
     "noteIndicatorNi": {
@@ -6756,7 +6756,7 @@
     "chroaSpathiBelow": {
       "fthoraBottom": [
         0.0,
-        0.234
+        0.0
       ]
     },
     "chroaSpathiAbove": {
@@ -9889,151 +9889,151 @@
     "fthoraDiatonicNiLowBelow": {
       "bBoxNE": [
         0.16,
-        0.192
+        -0.018
       ],
       "bBoxSW": [
         -0.138,
-        -0.068
+        -0.278
       ]
     },
     "fthoraDiatonicPaBelow": {
       "bBoxNE": [
         0.102,
-        0.248
+        -0.002
       ],
       "bBoxSW": [
         -0.1,
-        -0.156
+        -0.406
       ]
     },
     "fthoraDiatonicVouBelow": {
       "bBoxNE": [
         0.114,
-        0.367
+        -0.013
       ],
       "bBoxSW": [
         -0.134,
-        -0.062
+        -0.442
       ]
     },
     "fthoraDiatonicGaBelow": {
       "bBoxNE": [
         0.109,
-        0.475
+        -0.005
       ],
       "bBoxSW": [
         -0.108,
-        -0.216
+        -0.696
       ]
     },
     "fthoraDiatonicDiBelow": {
       "bBoxNE": [
         0.341,
-        0.29
+        -0.01
       ],
       "bBoxSW": [
         -0.341,
-        -0.106
+        -0.406
       ]
     },
     "fthoraDiatonicKeBelow": {
       "bBoxNE": [
         0.121,
-        0.347
+        -0.013
       ],
       "bBoxSW": [
         -0.119,
-        0.002
+        -0.358
       ]
     },
     "fthoraDiatonicZoBelow": {
       "bBoxNE": [
         0.13,
-        0.376
+        -0.014
       ],
       "bBoxSW": [
         -0.126,
-        -0.051
+        -0.441
       ]
     },
     "fthoraDiatonicNiHighBelow": {
       "bBoxNE": [
         0.161,
-        0.293
+        -0.017
       ],
       "bBoxSW": [
         -0.137,
-        -0.054
+        -0.364
       ]
     },
     "fthoraHardChromaticPaBelow": {
       "bBoxNE": [
         0.332,
-        0.212
+        -0.008
       ],
       "bBoxSW": [
         -0.334,
-        0.013
+        -0.207
       ]
     },
     "fthoraHardChromaticDiBelow": {
       "bBoxNE": [
         0.349,
-        0.289
+        -0.021
       ],
       "bBoxSW": [
         -0.333,
-        -0.106
+        -0.416
       ]
     },
     "fthoraSoftChromaticDiBelow": {
       "bBoxNE": [
         0.397,
-        0.225
+        -0.005
       ],
       "bBoxSW": [
         -0.43,
-        -0.0
+        -0.23
       ]
     },
     "fthoraSoftChromaticKeBelow": {
       "bBoxNE": [
         0.302,
-        0.265
+        -0.015
       ],
       "bBoxSW": [
         -0.308,
-        -0.097
+        -0.377
       ]
     },
     "fthoraEnharmonicBelow": {
       "bBoxNE": [
         0.17,
-        0.204
+        -0.006
       ],
       "bBoxSW": [
         -0.158,
-        -0.062
+        -0.272
       ]
     },
     "chroaZygosBelow": {
       "bBoxNE": [
         0.347,
-        0.289
+        -0.011
       ],
       "bBoxSW": [
         -0.286,
-        -0.089
+        -0.389
       ]
     },
     "chroaKlitonBelow": {
       "bBoxNE": [
         0.211,
-        0.273
+        -0.007
       ],
       "bBoxSW": [
         -0.19,
-        -0.06
+        -0.34
       ]
     },
     "diesis2": {
@@ -10139,21 +10139,21 @@
     "diesisGenikiBelow": {
       "bBoxNE": [
         0.103,
-        0.428
+        -0.012
       ],
       "bBoxSW": [
         -0.099,
-        0.025
+        -0.415
       ]
     },
     "yfesisGenikiBelow": {
       "bBoxNE": [
         0.103,
-        0.241
+        -0.009
       ],
       "bBoxSW": [
         -0.099,
-        -0.162
+        -0.412
       ]
     },
     "noteIndicatorNi": {
@@ -10229,11 +10229,11 @@
     "chroaSpathiBelow": {
       "bBoxNE": [
         0.395,
-        0.225
+        -0.005
       ],
       "bBoxSW": [
         -0.431,
-        -0.0
+        -0.23
       ]
     },
     "chroaSpathiAbove": {
