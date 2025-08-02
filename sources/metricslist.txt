@@ -344,12 +344,12 @@
 	rightSB: -929.68
 0xE0B0 yfenAbove
 	width: 0
-	leftSB: -633.68
-	rightSB: -636.52
+	leftSB: -4.68
+	rightSB: -1265.52
 0xE0B1 yfenBelow
 	width: 0
-	leftSB: -636.52
-	rightSB: -633.68
+	leftSB: -4.52
+	rightSB: -1265.68
 0xE0C0 stavros
 	width: 410
 	leftSB: 30.0

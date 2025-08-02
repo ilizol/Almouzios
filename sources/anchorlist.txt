@@ -1910,9 +1910,9 @@
 0xE0A7 endofonon
 	('endofonon', 'mark', 0.0, 0.0)
 0xE0B0 yfenAbove
-	('yfenAbove', 'mark', -629.0, 951.0)
+	('yfenAbove', 'mark', 0.0, 0.0)
 0xE0B1 yfenBelow
-	('yfenBelow', 'mark', -632.0, -43.0)
+	('yfenBelow', 'mark', 0.0, 0.0)
 0xF003 modeFirst.salt01
 0xF004 modeFourth.salt01
 0xF005 oligonKentimataBelow.alt02
