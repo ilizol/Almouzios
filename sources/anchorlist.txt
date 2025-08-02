@@ -2072,7 +2072,7 @@
 0xE10A trigorgonDottedLeftSecondary
 	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xF008 psifiston.alt01
-	('psifiston', 'mark', -1.6748, 458.0)
+	('psifiston', 'mark', 0.0, 0.0)
 0xE219 barlineShortSingleAbove
 	('barlineAboveFthora', 'mark', 0.0, 560.0)
 	('barline', 'mark', 0.0, 590.0)

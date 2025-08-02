@@ -7497,8 +7497,8 @@
     },
     "psifiston.alt01": {
       "psifiston": [
-        -0.002,
-        0.458
+        0.0,
+        0.0
       ]
     },
     "barlineShortSingleAbove": {
@@ -11589,11 +11589,11 @@
     "psifiston.alt01": {
       "bBoxNE": [
         0.84,
-        0.461
+        0.011
       ],
       "bBoxSW": [
         -0.39,
-        0.081
+        -0.369
       ]
     },
     "barlineShortSingleAbove": {
