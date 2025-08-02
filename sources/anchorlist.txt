@@ -1575,7 +1575,7 @@
 	('apli', 'base', 753.8, -312.0)
 0xE0A0 vareia
 0xE0A1 psifiston
-	('psifiston', 'mark', -1.0, 458.0)
+	('psifiston', 'mark', 0.0, 0.0)
 0xE0A2 antikenoma
 	('antikenoma', 'mark', 8.0, 113.0)
 0xE0A3 omalon
