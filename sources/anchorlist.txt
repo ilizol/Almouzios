@@ -2100,13 +2100,13 @@
 0xE1F9 diesis8Secondary
 	('diesisSecondary', 'mark', 0.0, 0.0)
 0xE1FA diesis2Tertiary
-	('diesisTertiary', 'mark', 196.0, 612.0)
+	('diesisTertiary', 'mark', 0.0, 0.0)
 0xE1FB diesis4Tertiary
-	('diesisTertiary', 'mark', 177.0, 682.0)
+	('diesisTertiary', 'mark', 0.0, 0.0)
 0xE1FC diesis6Tertiary
-	('diesisTertiary', 'mark', 152.0, 652.0)
+	('diesisTertiary', 'mark', 0.0, 0.0)
 0xE1FD diesis8Tertiary
-	('diesisTertiary', 'mark', 12.0, 553.0)
+	('diesisTertiary', 'mark', 0.0, 0.0)
 0xE0C8 stavrosAbove
 	('stavros', 'mark', 0.0, 0.0)
 0xE1D0 fthoraDiatonicNiLow
