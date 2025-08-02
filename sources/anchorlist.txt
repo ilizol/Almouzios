@@ -1372,13 +1372,13 @@
 	('yfesis', 'base', 916.8, 1105.0)
 	('klasmaBottom', 'base', 790.0, -300.0)
 0xE0F0 gorgonAbove
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0F1 gorgonBelow
-	('gorgonBottom', 'mark', 0.0, 260.0)
+	('gorgonBottom', 'mark', 0.0, 0.0)
 0xE0F2 gorgonDottedLeft
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0F4 digorgon
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE120 agogiPoliArgi
 0xE124 agogiMesi
 0xE002 oligonKentimaMiddle
@@ -1404,9 +1404,9 @@
 	('gorgonTop', 'base', 680.0, 220.0)
 	('psifiston', 'base', 840.0, -119.0)
 0xE0F3 gorgonDottedRight
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0F5 digorgonDottedLeftBelow
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE02F tripleChamili
 	('yfenAbove', 'base', 578.64, 1089.0)
 	('yfenBelow', 'base', 607.64, -272.0)
@@ -1432,7 +1432,7 @@
 0xE127 agogiPoliGorgi
 0xE123 agogiMetria
 0xE0F6 digorgonDottedLeftAbove
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE130 martyriaNoteZoLow
 	('barline', 'base', 350.0, 200.0)
 	('agogi', 'base', 350.0, 0.0)
@@ -1605,21 +1605,21 @@
 0xE0E2 leimma3
 0xE0E3 leimma4
 0xE0F7 digorgonDottedRight
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0F8 trigorgon
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0F9 trigorgonDottedLeftBelow
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0FA trigorgonDottedLeftAbove
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0FB trigorgonDottedRight
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0FC argon
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0FD diargon
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE0FE triargon
-	('gorgonTop', 'mark', 0.0, 800.0)
+	('gorgonTop', 'mark', 0.0, 0.0)
 0xE150 martyriaZoBelow
 	('martyriaBottom', 'mark', 0.0, 0.0)
 0xE151 martyriaDeltaBelow
@@ -1906,7 +1906,7 @@
 	('koronis', 'mark', 0.0, 0.0)
 0xE0E4 leimmaDot
 0xE100 gorgonSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE0A7 endofonon
 	('endofonon', 'mark', 0.0, 0.0)
 0xE0B0 yfenAbove
@@ -1917,21 +1917,21 @@
 0xF004 modeFourth.salt01
 0xF005 oligonKentimataBelow.alt02
 0xE101 gorgonDottedLeftSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE102 gorgonDottedRightSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE103 digorgonSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE104 digorgonDottedLeftBelowSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE105 digorgonDottedRightSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE106 trigorgonSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE107 trigorgonDottedLeftBelowSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE108 trigorgonDottedRightSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE08D oligonChamiliKentimata
 	('diesisSecondary', 'base', 1046.8, 905.0)
 	('yfesisSecondary', 'base', 811.8, 580.0)
@@ -2068,9 +2068,9 @@
 0xE1FF diesisGenikiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE109 digorgonDottedLeftSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xE10A trigorgonDottedLeftSecondary
-	('gorgonSecondary', 'mark', 0.0, 800.0)
+	('gorgonSecondary', 'mark', 0.0, 0.0)
 0xF008 psifiston.alt01
 	('psifiston', 'mark', -1.6748, 458.0)
 0xE219 barlineShortSingleAbove

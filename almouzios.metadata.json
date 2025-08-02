@@ -5352,25 +5352,25 @@
     "gorgonAbove": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "gorgonBelow": {
       "gorgonBottom": [
         0.0,
-        0.26
+        0.0
       ]
     },
     "gorgonDottedLeft": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "digorgon": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "oligonKentimaMiddle": {
@@ -5462,13 +5462,13 @@
     "gorgonDottedRight": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "digorgonDottedLeftBelow": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "tripleChamili": {
@@ -5544,7 +5544,7 @@
     "digorgonDottedLeftAbove": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "martyriaNoteZoLow": {
@@ -6134,49 +6134,49 @@
     "digorgonDottedRight": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgon": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedLeftBelow": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedLeftAbove": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedRight": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "argon": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "diargon": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "triargon": {
       "gorgonTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "martyriaZoBelow": {
@@ -6984,7 +6984,7 @@
     "gorgonSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "endofonon": {
@@ -7008,49 +7008,49 @@
     "gorgonDottedLeftSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "gorgonDottedRightSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "digorgonSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "digorgonDottedLeftBelowSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "digorgonDottedRightSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedLeftBelowSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedRightSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "oligonChamiliKentimata": {
@@ -7486,13 +7486,13 @@
     "digorgonDottedLeftSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "trigorgonDottedLeftSecondary": {
       "gorgonSecondary": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "psifiston.alt01": {
@@ -8809,41 +8809,41 @@
     "gorgonAbove": {
       "bBoxNE": [
         0.202,
-        0.971
+        0.171
       ],
       "bBoxSW": [
         -0.202,
-        0.818
+        0.018
       ]
     },
     "gorgonBelow": {
       "bBoxNE": [
         0.202,
-        0.218
+        -0.042
       ],
       "bBoxSW": [
         -0.202,
-        0.065
+        -0.195
       ]
     },
     "gorgonDottedLeft": {
       "bBoxNE": [
         0.201,
-        0.972
+        0.172
       ],
       "bBoxSW": [
         -0.365,
-        0.818
+        0.018
       ]
     },
     "digorgon": {
       "bBoxNE": [
         0.254,
-        1.112
+        0.312
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "agogiPoliArgi": {
@@ -8879,21 +8879,21 @@
     "gorgonDottedRight": {
       "bBoxNE": [
         0.366,
-        0.984
+        0.184
       ],
       "bBoxSW": [
         -0.202,
-        0.818
+        0.018
       ]
     },
     "digorgonDottedLeftBelow": {
       "bBoxNE": [
         0.254,
-        1.112
+        0.312
       ],
       "bBoxSW": [
         -0.398,
-        0.82
+        0.02
       ]
     },
     "tripleChamili": {
@@ -8969,11 +8969,11 @@
     "digorgonDottedLeftAbove": {
       "bBoxNE": [
         0.254,
-        1.126
+        0.326
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "martyriaNoteZoLow": {
@@ -9419,81 +9419,81 @@
     "digorgonDottedRight": {
       "bBoxNE": [
         0.408,
-        1.113
+        0.313
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "trigorgon": {
       "bBoxNE": [
         0.324,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "trigorgonDottedLeftBelow": {
       "bBoxNE": [
         0.324,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.479,
-        0.813
+        0.013
       ]
     },
     "trigorgonDottedLeftAbove": {
       "bBoxNE": [
         0.324,
-        1.226
+        0.426
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "trigorgonDottedRight": {
       "bBoxNE": [
         0.483,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "argon": {
       "bBoxNE": [
         0.19,
-        0.955
+        0.155
       ],
       "bBoxSW": [
         -0.19,
-        0.802
+        0.002
       ]
     },
     "diargon": {
       "bBoxNE": [
         0.191,
-        1.095
+        0.295
       ],
       "bBoxSW": [
         -0.191,
-        0.802
+        0.002
       ]
     },
     "triargon": {
       "bBoxNE": [
         0.254,
-        1.096
+        0.296
       ],
       "bBoxSW": [
         -0.254,
-        0.803
+        0.003
       ]
     },
     "martyriaZoBelow": {
@@ -10869,11 +10869,11 @@
     "gorgonSecondary": {
       "bBoxNE": [
         0.202,
-        0.971
+        0.171
       ],
       "bBoxSW": [
         -0.202,
-        0.818
+        0.018
       ]
     },
     "endofonon": {
@@ -10939,81 +10939,81 @@
     "gorgonDottedLeftSecondary": {
       "bBoxNE": [
         0.201,
-        0.972
+        0.172
       ],
       "bBoxSW": [
         -0.365,
-        0.818
+        0.018
       ]
     },
     "gorgonDottedRightSecondary": {
       "bBoxNE": [
         0.366,
-        0.984
+        0.184
       ],
       "bBoxSW": [
         -0.202,
-        0.818
+        0.018
       ]
     },
     "digorgonSecondary": {
       "bBoxNE": [
         0.254,
-        1.112
+        0.312
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "digorgonDottedLeftBelowSecondary": {
       "bBoxNE": [
         0.254,
-        1.112
+        0.312
       ],
       "bBoxSW": [
         -0.398,
-        0.82
+        0.02
       ]
     },
     "digorgonDottedRightSecondary": {
       "bBoxNE": [
         0.408,
-        1.113
+        0.313
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "trigorgonSecondary": {
       "bBoxNE": [
         0.324,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "trigorgonDottedLeftBelowSecondary": {
       "bBoxNE": [
         0.324,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.479,
-        0.813
+        0.013
       ]
     },
     "trigorgonDottedRightSecondary": {
       "bBoxNE": [
         0.483,
-        1.21
+        0.41
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "oligonChamiliKentimata": {
@@ -11569,21 +11569,21 @@
     "digorgonDottedLeftSecondary": {
       "bBoxNE": [
         0.254,
-        1.126
+        0.326
       ],
       "bBoxSW": [
         -0.254,
-        0.82
+        0.02
       ]
     },
     "trigorgonDottedLeftSecondary": {
       "bBoxNE": [
         0.324,
-        1.226
+        0.426
       ],
       "bBoxSW": [
         -0.324,
-        0.813
+        0.013
       ]
     },
     "psifiston.alt01": {
