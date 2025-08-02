@@ -6674,29 +6674,29 @@
     "diesisGenikiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.2
+        0.42
       ],
       "agogiAboveFthora": [
         0.0,
-        1.306
+        0.45
       ],
       "fthoraTop": [
         0.0,
-        0.804
+        0.0
       ]
     },
     "yfesisGenikiAbove": {
       "barlineAboveFthora": [
         0.0,
-        1.1
+        0.42
       ],
       "agogiAboveFthora": [
         0.0,
-        1.176
+        0.45
       ],
       "fthoraTop": [
         0.0,
-        0.634
+        0.0
       ]
     },
     "diesisGenikiBelow": {
@@ -10119,21 +10119,21 @@
     "diesisGenikiAbove": {
       "bBoxNE": [
         0.103,
-        1.211
+        0.411
       ],
       "bBoxSW": [
         -0.099,
-        0.808
+        0.008
       ]
     },
     "yfesisGenikiAbove": {
       "bBoxNE": [
         0.103,
-        1.044
+        0.414
       ],
       "bBoxSW": [
         -0.099,
-        0.641
+        0.011
       ]
     },
     "diesisGenikiBelow": {

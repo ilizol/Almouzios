@@ -1775,13 +1775,13 @@
 0xE203 yfesis8
 	('yfesis', 'mark', -159.0, 440.0)
 0xE1F4 diesisGenikiAbove
-	('barlineAboveFthora', 'basemark', 0.0, 1200.0)
-	('agogiAboveFthora', 'basemark', 0.0, 1306.0)
-	('fthoraTop', 'mark', 0.0, 804.0)
+	('barlineAboveFthora', 'basemark', 0.0, 420.0)
+	('agogiAboveFthora', 'basemark', 0.0, 450.0)
+	('fthoraTop', 'mark', 0.0, 0.0)
 0xE204 yfesisGenikiAbove
-	('barlineAboveFthora', 'basemark', 0.0, 1100.0)
-	('agogiAboveFthora', 'basemark', 0.0, 1176.0)
-	('fthoraTop', 'mark', 0.0, 634.0)
+	('barlineAboveFthora', 'basemark', 0.0, 420.0)
+	('agogiAboveFthora', 'basemark', 0.0, 450.0)
+	('fthoraTop', 'mark', 0.0, 0.0)
 0xE1F5 diesisGenikiBelow
 	('fthoraBottom', 'mark', 0.0, 444.0)
 0xE205 yfesisGenikiBelow
