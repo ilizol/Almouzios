@@ -1148,20 +1148,20 @@
 	rightSB: -102.64
 0xE200 yfesis2
 	width: 0
-	leftSB: -211.12
-	rightSB: -165.88
+	leftSB: 1.88
+	rightSB: -378.88
 0xE201 yfesis4
 	width: 0
-	leftSB: -132.6
-	rightSB: -244.4
+	leftSB: 1.4
+	rightSB: -378.4
 0xE202 yfesis6
 	width: 0
-	leftSB: -156.32
-	rightSB: -275.2
+	leftSB: -3.32
+	rightSB: -428.2
 0xE203 yfesis8
 	width: 0
-	leftSB: -161.32
-	rightSB: -322.2
+	leftSB: -2.32
+	rightSB: -481.2
 0xE204 yfesisGenikiAbove
 	width: 0
 	leftSB: -99.25

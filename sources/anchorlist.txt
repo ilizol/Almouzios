@@ -1767,13 +1767,13 @@
 0xE1F3 diesis8
 	('diesis', 'mark', 0.0, 0.0)
 0xE200 yfesis2
-	('yfesis', 'mark', -213.0, 452.0)
+	('yfesis', 'mark', 0.0, 0.0)
 0xE201 yfesis4
-	('yfesis', 'mark', -134.0, 429.0)
+	('yfesis', 'mark', 0.0, 0.0)
 0xE202 yfesis6
-	('yfesis', 'mark', -153.0, 456.0)
+	('yfesis', 'mark', 0.0, 0.0)
 0xE203 yfesis8
-	('yfesis', 'mark', -159.0, 440.0)
+	('yfesis', 'mark', 0.0, 0.0)
 0xE1F4 diesisGenikiAbove
 	('barlineAboveFthora', 'basemark', 0.0, 420.0)
 	('agogiAboveFthora', 'basemark', 0.0, 450.0)
