@@ -1908,7 +1908,7 @@
 0xE100 gorgonSecondary
 	('gorgonSecondary', 'mark', 0.0, 800.0)
 0xE0A7 endofonon
-	('endofonon', 'mark', 1.0, -20.0)
+	('endofonon', 'mark', 0.0, 0.0)
 0xE0B0 yfenAbove
 	('yfenAbove', 'mark', -629.0, 951.0)
 0xE0B1 yfenBelow
