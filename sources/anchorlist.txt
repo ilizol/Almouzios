@@ -2108,7 +2108,7 @@
 0xE1FD diesis8Tertiary
 	('diesisTertiary', 'mark', 12.0, 553.0)
 0xE0C8 stavrosAbove
-	('stavros', 'mark', 0.0, 124.0)
+	('stavros', 'mark', 0.0, 0.0)
 0xE1D0 fthoraDiatonicNiLow
 0xE1D1 fthoraDiatonicPa
 0xE1D2 fthoraDiatonicVou
