@@ -7563,26 +7563,26 @@
     },
     "diesis2Secondary": {
       "diesisSecondary": [
-        0.196,
-        0.612
+        0.0,
+        0.0
       ]
     },
     "diesis4Secondary": {
       "diesisSecondary": [
-        0.177,
-        0.682
+        0.0,
+        0.0
       ]
     },
     "diesis6Secondary": {
       "diesisSecondary": [
-        0.152,
-        0.652
+        0.0,
+        0.0
       ]
     },
     "diesis8Secondary": {
       "diesisSecondary": [
-        0.012,
-        0.553
+        0.0,
+        0.0
       ]
     },
     "diesis2Tertiary": {
@@ -11658,42 +11658,42 @@
     },
     "diesis2Secondary": {
       "bBoxNE": [
-        0.191,
-        0.618
+        -0.005,
+        0.006
       ],
       "bBoxSW": [
-        -0.186,
-        0.382
+        -0.382,
+        -0.23
       ]
     },
     "diesis4Secondary": {
       "bBoxNE": [
-        0.177,
-        0.687
+        0.0,
+        0.005
       ],
       "bBoxSW": [
-        -0.2,
-        0.452
+        -0.377,
+        -0.23
       ]
     },
     "diesis6Secondary": {
       "bBoxNE": [
-        0.149,
-        0.67
+        -0.003,
+        0.018
       ],
       "bBoxSW": [
-        -0.282,
-        0.393
+        -0.434,
+        -0.259
       ]
     },
     "diesis8Secondary": {
       "bBoxNE": [
-        0.013,
-        0.583
+        0.001,
+        0.03
       ],
       "bBoxSW": [
-        -0.47,
-        0.268
+        -0.482,
+        -0.285
       ]
     },
     "diesis2Tertiary": {

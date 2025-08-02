@@ -2092,13 +2092,13 @@
 	('barlineAboveFthora', 'mark', 0.0, 560.0)
 	('barline', 'mark', 0.0, 590.0)
 0xE1F6 diesis2Secondary
-	('diesisSecondary', 'mark', 196.0, 612.0)
+	('diesisSecondary', 'mark', 0.0, 0.0)
 0xE1F7 diesis4Secondary
-	('diesisSecondary', 'mark', 177.0, 682.0)
+	('diesisSecondary', 'mark', 0.0, 0.0)
 0xE1F8 diesis6Secondary
-	('diesisSecondary', 'mark', 152.0, 652.0)
+	('diesisSecondary', 'mark', 0.0, 0.0)
 0xE1F9 diesis8Secondary
-	('diesisSecondary', 'mark', 12.0, 553.0)
+	('diesisSecondary', 'mark', 0.0, 0.0)
 0xE1FA diesis2Tertiary
 	('diesisTertiary', 'mark', 196.0, 612.0)
 0xE1FB diesis4Tertiary

@@ -1108,20 +1108,20 @@
 	rightSB: -102.64
 0xE1F6 diesis2Secondary
 	width: 0
-	leftSB: -186.08
-	rightSB: -190.92
+	leftSB: -382.08
+	rightSB: 5.08
 0xE1F7 diesis4Secondary
 	width: 0
-	leftSB: -199.6
-	rightSB: -177.4
+	leftSB: -376.6
+	rightSB: -0.4
 0xE1F8 diesis6Secondary
 	width: 0
-	leftSB: -282.32
-	rightSB: -149.2
+	leftSB: -434.32
+	rightSB: 2.8
 0xE1F9 diesis8Secondary
 	width: 0
-	leftSB: -470.32
-	rightSB: -13.2
+	leftSB: -482.32
+	rightSB: -1.2
 0xE1FA diesis2Tertiary
 	width: 0
 	leftSB: -186.08
