@@ -1847,7 +1847,7 @@
 0xE2C0 modePlagalFirst
 0xE2B8 modeFourth
 0xE2E8 modeOligonYpsili
-	('modeTop', 'mark', 0.0, 800.0)
+	('modeTop', 'mark', 0.0, 0.0)
 0xE2C8 modePlagalSecond
 0xE2D8 modePlagalFourth
 0xE2E0 modeNi
@@ -1888,11 +1888,11 @@
 	('fthoraTop', 'base', 570.64, 568.0)
 	('modeTop', 'base', 553.64, 609.0)
 0xE2E7 modeOligonKentimaAbove
-	('modeTop', 'mark', 0.0, 800.0)
+	('modeTop', 'mark', 0.0, 0.0)
 0xE2E9 modeElafron
-	('modeTop', 'mark', 0.0, 800.0)
+	('modeTop', 'mark', 0.0, 0.0)
 0xE2EA modeRunningElafron
-	('modeTop', 'mark', 0.0, 800.0)
+	('modeTop', 'mark', 0.0, 0.0)
 0xE280 gorthmikon
 0xE281 pelastikon
 0xE210 barlineSingle

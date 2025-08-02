@@ -6884,7 +6884,7 @@
     "modeOligonYpsili": {
       "modeTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "modeNi": {
@@ -6960,19 +6960,19 @@
     "modeOligonKentimaAbove": {
       "modeTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "modeElafron": {
       "modeTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "modeRunningElafron": {
       "modeTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "koronis": {
@@ -10469,11 +10469,11 @@
     "modeOligonYpsili": {
       "bBoxNE": [
         0.646,
-        1.725
+        0.935
       ],
       "bBoxSW": [
         -0.608,
-        0.752
+        -0.038
       ]
     },
     "modePlagalSecond": {
@@ -10729,31 +10729,31 @@
     "modeOligonKentimaAbove": {
       "bBoxNE": [
         0.629,
-        1.263
+        0.473
       ],
       "bBoxSW": [
         -0.608,
-        0.752
+        -0.038
       ]
     },
     "modeElafron": {
       "bBoxNE": [
         0.639,
-        1.131
+        0.331
       ],
       "bBoxSW": [
         -0.599,
-        0.812
+        0.012
       ]
     },
     "modeRunningElafron": {
       "bBoxNE": [
         1.006,
-        1.131
+        0.331
       ],
       "bBoxSW": [
         -0.939,
-        0.812
+        0.012
       ]
     },
     "gorthmikon": {
