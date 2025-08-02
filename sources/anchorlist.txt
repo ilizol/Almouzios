@@ -2052,13 +2052,13 @@
 0xE209 yfesis8Secondary
 	('yfesisSecondary', 'mark', 0.0, 0.0)
 0xE20A yfesis2Tertiary
-	('yfesisTertiary', 'mark', -213.0, 452.0)
+	('yfesisTertiary', 'mark', 0.0, 0.0)
 0xE20B yfesis4Tertiary
-	('yfesisTertiary', 'mark', -134.0, 429.0)
+	('yfesisTertiary', 'mark', 0.0, 0.0)
 0xE20C yfesis6Tertiary
-	('yfesisTertiary', 'mark', -153.0, 456.0)
+	('yfesisTertiary', 'mark', 0.0, 0.0)
 0xE20D yfesis8Tertiary
-	('yfesisTertiary', 'mark', -159.0, 440.0)
+	('yfesisTertiary', 'mark', 0.0, 0.0)
 0xE20E yfesisGenikiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE20F yfesisGenikiTertiary
