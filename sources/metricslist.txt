@@ -1084,20 +1084,20 @@
 	rightSB: 36.99
 0xE1F0 diesis2
 	width: 0
-	leftSB: -186.08
-	rightSB: -190.92
+	leftSB: -382.08
+	rightSB: 5.08
 0xE1F1 diesis4
 	width: 0
-	leftSB: -199.6
-	rightSB: -177.4
+	leftSB: -376.6
+	rightSB: -0.4
 0xE1F2 diesis6
 	width: 0
-	leftSB: -282.32
-	rightSB: -149.2
+	leftSB: -434.32
+	rightSB: 2.8
 0xE1F3 diesis8
 	width: 0
-	leftSB: -470.32
-	rightSB: -13.2
+	leftSB: -482.32
+	rightSB: -1.2
 0xE1F4 diesisGenikiAbove
 	width: 0
 	leftSB: -99.25

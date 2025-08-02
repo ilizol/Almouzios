@@ -1759,13 +1759,13 @@
 0xE1CE chroaKlitonBelow
 	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE1F0 diesis2
-	('diesis', 'mark', 196.0, 612.0)
+	('diesis', 'mark', 0.0, 0.0)
 0xE1F1 diesis4
-	('diesis', 'mark', 177.0, 682.0)
+	('diesis', 'mark', 0.0, 0.0)
 0xE1F2 diesis6
-	('diesis', 'mark', 152.0, 652.0)
+	('diesis', 'mark', 0.0, 0.0)
 0xE1F3 diesis8
-	('diesis', 'mark', 12.0, 553.0)
+	('diesis', 'mark', 0.0, 0.0)
 0xE200 yfesis2
 	('yfesis', 'mark', -213.0, 452.0)
 0xE201 yfesis4
