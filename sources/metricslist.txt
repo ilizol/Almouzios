@@ -320,8 +320,8 @@
 	rightSB: -620.77
 0xE0A2 antikenoma
 	width: 0
-	leftSB: -582.0
-	rightSB: -627.88
+	leftSB: -590.0
+	rightSB: -619.88
 0xE0A3 omalon
 	width: 0
 	leftSB: -506.92

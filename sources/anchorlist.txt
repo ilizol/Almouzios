@@ -1577,7 +1577,7 @@
 0xE0A1 psifiston
 	('psifiston', 'mark', 0.0, 0.0)
 0xE0A2 antikenoma
-	('antikenoma', 'mark', 8.0, 113.0)
+	('antikenoma', 'mark', 0.0, 0.0)
 0xE0A3 omalon
 	('omalon', 'mark', 0.0, 67.0)
 0xE0A4 omalonConnecting
