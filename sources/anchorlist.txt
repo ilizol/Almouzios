@@ -1588,9 +1588,9 @@
 	('heteronConnecting', 'mark', 0.0, 0.0)
 0xE0C0 stavros
 0xE0D0 klasmaAbove
-	('klasmaTop', 'mark', 0.0, 600.0)
+	('klasmaTop', 'mark', 0.0, 0.0)
 0xE0D1 klasmaBelow
-	('klasmaBottom', 'mark', 0.0, 200.0)
+	('klasmaBottom', 'mark', 0.0, 0.0)
 0xE0D2 apli
 	('apli', 'mark', 0.0, 0.0)
 0xE0D3 dipli

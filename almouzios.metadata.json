@@ -6092,13 +6092,13 @@
     "klasmaAbove": {
       "klasmaTop": [
         0.0,
-        0.6
+        0.0
       ]
     },
     "klasmaBelow": {
       "klasmaBottom": [
         0.0,
-        0.2
+        0.0
       ]
     },
     "apli": {
@@ -9319,21 +9319,21 @@
     "klasmaAbove": {
       "bBoxNE": [
         0.225,
-        0.756
+        0.156
       ],
       "bBoxSW": [
         -0.225,
-        0.606
+        0.006
       ]
     },
     "klasmaBelow": {
       "bBoxNE": [
         0.225,
-        0.176
+        -0.024
       ],
       "bBoxSW": [
         -0.225,
-        0.026
+        -0.174
       ]
     },
     "apli": {
