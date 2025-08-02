@@ -6714,43 +6714,43 @@
     "noteIndicatorNi": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorPa": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorVou": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorGa": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorDi": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorKe": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "noteIndicatorZo": {
       "noteTop": [
         0.0,
-        0.8
+        0.0
       ]
     },
     "chroaSpathiBelow": {
@@ -10159,71 +10159,71 @@
     "noteIndicatorNi": {
       "bBoxNE": [
         0.091,
-        1.009
+        0.209
       ],
       "bBoxSW": [
         -0.101,
-        0.823
+        0.023
       ]
     },
     "noteIndicatorPa": {
       "bBoxNE": [
         0.122,
-        0.966
+        0.166
       ],
       "bBoxSW": [
         -0.144,
-        0.805
+        0.005
       ]
     },
     "noteIndicatorVou": {
       "bBoxNE": [
         0.07,
-        1.052
+        0.252
       ],
       "bBoxSW": [
         -0.082,
-        0.813
+        0.013
       ]
     },
     "noteIndicatorGa": {
       "bBoxNE": [
         0.089,
-        1.005
+        0.205
       ],
       "bBoxSW": [
         -0.081,
-        0.808
+        0.008
       ]
     },
     "noteIndicatorDi": {
       "bBoxNE": [
         0.096,
-        1.012
+        0.222
       ],
       "bBoxSW": [
         -0.119,
-        0.801
+        0.011
       ]
     },
     "noteIndicatorKe": {
       "bBoxNE": [
         0.109,
-        1.033
+        0.233
       ],
       "bBoxSW": [
         -0.103,
-        0.816
+        0.016
       ]
     },
     "noteIndicatorZo": {
       "bBoxNE": [
         0.113,
-        1.032
+        0.232
       ],
       "bBoxSW": [
         -0.13,
-        0.818
+        0.018
       ]
     },
     "chroaSpathiBelow": {

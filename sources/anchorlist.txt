@@ -1787,19 +1787,19 @@
 0xE205 yfesisGenikiBelow
 	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE250 noteIndicatorNi
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE251 noteIndicatorPa
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE252 noteIndicatorVou
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE253 noteIndicatorGa
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE254 noteIndicatorDi
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE255 noteIndicatorKe
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE256 noteIndicatorZo
-	('noteTop', 'mark', 0.0, 800.0)
+	('noteTop', 'mark', 0.0, 0.0)
 0xE1CF chroaSpathiBelow
 	('fthoraBottom', 'mark', 0.0, 0.0)
 0xE19F chroaSpathiAbove
