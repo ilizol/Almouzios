@@ -1555,7 +1555,7 @@
 0xF001 oligonKentimataAbove.alt01
 	('psifiston', 'base', 840.0, 113.0)
 0xF002 antikenoma.alt01
-	('antikenoma', 'mark', 0.0, 88.0)
+	('antikenoma', 'mark', 0.0, 0.0)
 0xE04E petastiKentimaTripleYpsili
 	('yfenAbove', 'base', 780.8, 1207.0)
 	('yfenBelow', 'base', 717.8, -272.0)
