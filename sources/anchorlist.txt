@@ -2012,37 +2012,37 @@
 0xE1AF chroaSpathiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1B0 fthoraDiatonicNiLowTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 784.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B1 fthoraDiatonicPaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 634.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B2 fthoraDiatonicVouTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 704.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B3 fthoraDiatonicGaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 600.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B4 fthoraDiatonicDiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 744.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B5 fthoraDiatonicKeTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 804.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B6 fthoraDiatonicZoTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 724.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B7 fthoraDiatonicNiHighTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 784.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B8 fthoraHardChromaticPaTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 824.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1B9 fthoraHardChromaticDiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 744.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BA fthoraSoftChromaticDiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 824.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BB fthoraSoftChromaticKeTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 714.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BC fthoraEnharmonicTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 754.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BD chroaZygosTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 734.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BE chroaKlitonTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 754.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1BF chroaSpathiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 824.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE206 yfesis2Secondary
 	('yfesisSecondary', 'mark', -213.0, 452.0)
 0xE207 yfesis4Secondary
@@ -2062,11 +2062,11 @@
 0xE20E yfesisGenikiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE20F yfesisGenikiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 634.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE1FE diesisGenikiSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1FF diesisGenikiTertiary
-	('fthoraTopTertiary', 'mark', 0.0, 804.0)
+	('fthoraTopTertiary', 'mark', 0.0, 0.0)
 0xE109 digorgonDottedLeftSecondary
 	('gorgonSecondary', 'mark', 0.0, 800.0)
 0xE10A trigorgonDottedLeftSecondary
