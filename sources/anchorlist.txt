@@ -1807,19 +1807,19 @@
 	('agogiAboveFthora', 'basemark', 0.0, 280.0)
 	('fthoraTop', 'mark', 0.0, 0.0)
 0xE221 measureNumber3
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE222 measureNumber4
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE223 measureNumber5
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE224 measureNumber6
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE225 measureNumber7
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE226 measureNumber8
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE220 measureNumber2
-	('measureNumber', 'mark', 0.0, 656.0)
+	('measureNumber', 'mark', 0.0, 0.0)
 0xE261 isonIndicatorDiLow
 	('isonIndicator', 'mark', 0.0, 0.0)
 0xE260 isonIndicatorUnison

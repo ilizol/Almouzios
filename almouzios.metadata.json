@@ -6776,43 +6776,43 @@
     "measureNumber3": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber4": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber5": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber6": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber7": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber8": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "measureNumber2": {
       "measureNumber": [
         0.0,
-        0.656
+        0.0
       ]
     },
     "isonIndicatorDiLow": {
@@ -10249,71 +10249,71 @@
     "measureNumber3": {
       "bBoxNE": [
         0.124,
-        0.832
+        0.176
       ],
       "bBoxSW": [
         0.0,
-        0.618
+        -0.038
       ]
     },
     "measureNumber4": {
       "bBoxNE": [
         0.15,
-        0.832
+        0.176
       ],
       "bBoxSW": [
         0.0,
-        0.618
+        -0.038
       ]
     },
     "measureNumber5": {
       "bBoxNE": [
         0.132,
-        0.843
+        0.187
       ],
       "bBoxSW": [
         0.0,
-        0.618
+        -0.038
       ]
     },
     "measureNumber6": {
       "bBoxNE": [
         0.138,
-        0.864
+        0.208
       ],
       "bBoxSW": [
         0.0,
-        0.65
+        -0.006
       ]
     },
     "measureNumber7": {
       "bBoxNE": [
         0.137,
-        0.829
+        0.173
       ],
       "bBoxSW": [
         0.0,
-        0.618
+        -0.038
       ]
     },
     "measureNumber8": {
       "bBoxNE": [
         0.135,
-        0.864
+        0.208
       ],
       "bBoxSW": [
         0.0,
-        0.65
+        -0.006
       ]
     },
     "measureNumber2": {
       "bBoxNE": [
         0.153,
-        0.832
+        0.176
       ],
       "bBoxSW": [
         0.0,
-        0.651
+        -0.005
       ]
     },
     "isonIndicatorDiLow": {
