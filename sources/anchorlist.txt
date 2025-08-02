@@ -1581,7 +1581,7 @@
 0xE0A3 omalon
 	('omalon', 'mark', 0.0, 0.0)
 0xE0A4 omalonConnecting
-	('omalonConnecting', 'mark', 0.0, 67.0)
+	('omalonConnecting', 'mark', 0.0, 0.0)
 0xE0A5 heteron
 	('heteron', 'mark', 1.0, -20.0)
 0xE0A6 heteronConnecting

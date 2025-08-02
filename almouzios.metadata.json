@@ -6074,7 +6074,7 @@
     "omalonConnecting": {
       "omalonConnecting": [
         0.0,
-        0.067
+        0.0
       ]
     },
     "heteron": {
@@ -9279,11 +9279,11 @@
     "omalonConnecting": {
       "bBoxNE": [
         0.608,
-        0.022
+        -0.045
       ],
       "bBoxSW": [
         -0.507,
-        -0.23
+        -0.297
       ]
     },
     "heteron": {
