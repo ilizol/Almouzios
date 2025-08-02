@@ -6079,14 +6079,14 @@
     },
     "heteron": {
       "heteron": [
-        0.001,
-        -0.02
+        0.0,
+        0.0
       ]
     },
     "heteronConnecting": {
       "heteronConnecting": [
         0.0,
-        -0.019
+        0.0
       ]
     },
     "klasmaAbove": {
@@ -9289,21 +9289,21 @@
     "heteron": {
       "bBoxNE": [
         1.02,
-        -0.116
+        -0.097
       ],
       "bBoxSW": [
         -0.727,
-        -0.353
+        -0.334
       ]
     },
     "heteronConnecting": {
       "bBoxNE": [
         1.02,
-        -0.116
+        -0.097
       ],
       "bBoxSW": [
         -0.727,
-        -0.353
+        -0.334
       ]
     },
     "stavros": {

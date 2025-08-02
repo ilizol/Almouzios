@@ -1583,9 +1583,9 @@
 0xE0A4 omalonConnecting
 	('omalonConnecting', 'mark', 0.0, 0.0)
 0xE0A5 heteron
-	('heteron', 'mark', 1.0, -20.0)
+	('heteron', 'mark', 0.0, 0.0)
 0xE0A6 heteronConnecting
-	('heteronConnecting', 'mark', 0.0, -19.0)
+	('heteronConnecting', 'mark', 0.0, 0.0)
 0xE0C0 stavros
 0xE0D0 klasmaAbove
 	('klasmaTop', 'mark', 0.0, 600.0)
