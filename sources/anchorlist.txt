@@ -1980,37 +1980,37 @@
 	('agogi', 'mark', 0.0, -200.0)
 	('agogiAboveFthora', 'mark', 0.0, -200.0)
 0xE1A0 fthoraDiatonicNiLowSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 784.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A1 fthoraDiatonicPaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 634.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A2 fthoraDiatonicVouSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 704.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A3 fthoraDiatonicGaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 600.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A4 fthoraDiatonicDiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 744.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A5 fthoraDiatonicKeSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 804.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A6 fthoraDiatonicZoSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 724.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A7 fthoraDiatonicNiHighSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 784.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A8 fthoraHardChromaticPaSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 824.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A9 fthoraHardChromaticDiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 744.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AA fthoraSoftChromaticDiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 824.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AB fthoraSoftChromaticKeSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 714.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AC fthoraEnharmonicSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 754.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AD chroaZygosSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 734.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AE chroaKlitonSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 754.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1AF chroaSpathiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 824.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1B0 fthoraDiatonicNiLowTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 784.0)
 0xE1B1 fthoraDiatonicPaTertiary
