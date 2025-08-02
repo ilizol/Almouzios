@@ -1956,29 +1956,29 @@
 0xF007 heteronConnecting.salt01
 	('heteronConnecting', 'mark', 0.0, -200.0)
 0xE128 agogiPoliArgiAbove
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
-	('agogi', 'mark', 0.0, -200.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
+	('agogi', 'mark', 0.0, 0.0)
 0xE129 agogiArgoteriAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12A agogiArgiAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12B agogiMetriaAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12C agogiMesiAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12D agogiGorgiAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12E agogiGorgoteriAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE12F agogiPoliGorgiAbove
-	('agogi', 'mark', 0.0, -200.0)
-	('agogiAboveFthora', 'mark', 0.0, -200.0)
+	('agogi', 'mark', 0.0, 0.0)
+	('agogiAboveFthora', 'mark', 0.0, 30.0)
 0xE1A0 fthoraDiatonicNiLowSecondary
 	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1A1 fthoraDiatonicPaSecondary

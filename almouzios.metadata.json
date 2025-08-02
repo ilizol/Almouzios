@@ -7142,81 +7142,81 @@
     "agogiPoliArgiAbove": {
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ],
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ]
     },
     "agogiArgoteriAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiArgiAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiMetriaAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiMesiAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiGorgiAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiGorgoteriAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "agogiPoliGorgiAbove": {
       "agogi": [
         0.0,
-        -0.2
+        0.0
       ],
       "agogiAboveFthora": [
         0.0,
-        -0.2
+        0.03
       ]
     },
     "fthoraDiatonicNiLowSecondary": {
@@ -11049,81 +11049,81 @@
     "agogiPoliArgiAbove": {
       "bBoxNE": [
         0.15,
-        0.896
+        1.126
       ],
       "bBoxSW": [
         -0.625,
-        -0.197
+        0.033
       ]
     },
     "agogiArgoteriAbove": {
       "bBoxNE": [
         0.15,
-        0.745
+        0.975
       ],
       "bBoxSW": [
         -0.259,
-        -0.197
+        0.033
       ]
     },
     "agogiArgiAbove": {
       "bBoxNE": [
         0.149,
-        0.733
+        0.963
       ],
       "bBoxSW": [
         -0.43,
-        -0.197
+        0.033
       ]
     },
     "agogiMetriaAbove": {
       "bBoxNE": [
         0.149,
-        0.583
+        0.813
       ],
       "bBoxSW": [
         -0.259,
-        -0.197
+        0.033
       ]
     },
     "agogiMesiAbove": {
       "bBoxNE": [
         0.3,
-        0.583
+        0.813
       ],
       "bBoxSW": [
         -0.352,
-        -0.197
+        0.033
       ]
     },
     "agogiGorgiAbove": {
       "bBoxNE": [
         0.219,
-        0.583
+        0.813
       ],
       "bBoxSW": [
         -0.145,
-        -0.197
+        0.033
       ]
     },
     "agogiGorgoteriAbove": {
       "bBoxNE": [
         0.4,
-        0.733
+        0.963
       ],
       "bBoxSW": [
         -0.145,
-        -0.197
+        0.033
       ]
     },
     "agogiPoliGorgiAbove": {
       "bBoxNE": [
         0.596,
-        0.896
+        1.126
       ],
       "bBoxSW": [
         -0.145,
-        -0.197
+        0.033
       ]
     },
     "fthoraDiatonicNiLowSecondary": {
