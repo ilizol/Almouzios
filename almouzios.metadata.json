@@ -7462,7 +7462,7 @@
     "yfesisGenikiSecondary": {
       "fthoraTopSecondary": [
         0.0,
-        0.634
+        0.0
       ]
     },
     "yfesisGenikiTertiary": {
@@ -7474,7 +7474,7 @@
     "diesisGenikiSecondary": {
       "fthoraTopSecondary": [
         0.0,
-        0.804
+        0.0
       ]
     },
     "diesisGenikiTertiary": {
@@ -11529,11 +11529,11 @@
     "yfesisGenikiSecondary": {
       "bBoxNE": [
         0.103,
-        1.044
+        0.414
       ],
       "bBoxSW": [
         -0.099,
-        0.641
+        0.011
       ]
     },
     "yfesisGenikiTertiary": {
@@ -11549,11 +11549,11 @@
     "diesisGenikiSecondary": {
       "bBoxNE": [
         0.103,
-        1.211
+        0.411
       ],
       "bBoxSW": [
         -0.099,
-        0.808
+        0.008
       ]
     },
     "diesisGenikiTertiary": {

@@ -2060,11 +2060,11 @@
 0xE20D yfesis8Tertiary
 	('yfesisTertiary', 'mark', -159.0, 440.0)
 0xE20E yfesisGenikiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 634.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE20F yfesisGenikiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 634.0)
 0xE1FE diesisGenikiSecondary
-	('fthoraTopSecondary', 'mark', 0.0, 804.0)
+	('fthoraTopSecondary', 'mark', 0.0, 0.0)
 0xE1FF diesisGenikiTertiary
 	('fthoraTopTertiary', 'mark', 0.0, 804.0)
 0xE109 digorgonDottedLeftSecondary
