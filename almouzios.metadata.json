@@ -6818,67 +6818,67 @@
     "isonIndicatorDiLow": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorUnison": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorKeLow": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorZo": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorNi": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorPa": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorVou": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorGa": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorDi": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorKe": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "isonIndicatorZoHigh": {
       "isonIndicator": [
         0.0,
-        0.996
+        0.0
       ]
     },
     "modeOligonYpsili": {
@@ -10319,111 +10319,111 @@
     "isonIndicatorDiLow": {
       "bBoxNE": [
         0.443,
-        1.354
+        0.358
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorUnison": {
       "bBoxNE": [
         0.602,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorKeLow": {
       "bBoxNE": [
         0.455,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorZo": {
       "bBoxNE": [
         0.397,
-        1.352
+        0.356
       ],
       "bBoxSW": [
         0.0,
-        0.929
+        -0.067
       ]
     },
     "isonIndicatorNi": {
       "bBoxNE": [
         0.55,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorPa": {
       "bBoxNE": [
         0.548,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorVou": {
       "bBoxNE": [
         0.504,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorGa": {
       "bBoxNE": [
         0.456,
-        1.313
+        0.317
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorDi": {
       "bBoxNE": [
         0.493,
-        1.313
+        0.317
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorKe": {
       "bBoxNE": [
         0.517,
-        1.311
+        0.315
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "isonIndicatorZoHigh": {
       "bBoxNE": [
         0.482,
-        1.313
+        0.317
       ],
       "bBoxSW": [
         0.0,
-        0.945
+        -0.051
       ]
     },
     "modeThirdNana": {

@@ -1821,27 +1821,27 @@
 0xE220 measureNumber2
 	('measureNumber', 'mark', 0.0, 656.0)
 0xE261 isonIndicatorDiLow
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE260 isonIndicatorUnison
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE262 isonIndicatorKeLow
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE263 isonIndicatorZo
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE264 isonIndicatorNi
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE265 isonIndicatorPa
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE266 isonIndicatorVou
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE267 isonIndicatorGa
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE268 isonIndicatorDi
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE269 isonIndicatorKe
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE26A isonIndicatorZoHigh
-	('isonIndicator', 'mark', 0.0, 996.0)
+	('isonIndicator', 'mark', 0.0, 0.0)
 0xE2B1 modeThirdNana
 0xE2B0 modeThird
 0xE2C0 modePlagalFirst
