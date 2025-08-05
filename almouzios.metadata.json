@@ -8999,11 +8999,11 @@
     "martyriaNotePaLow": {
       "bBoxNE": [
         0.537,
-        -0.625
+        -0.605
       ],
       "bBoxSW": [
         0.123,
-        -0.873
+        -0.853
       ]
     },
     "martyriaNoteVouLow": {
@@ -9039,41 +9039,41 @@
     "martyriaNoteKeLow": {
       "bBoxNE": [
         0.515,
-        -0.571
+        -0.541
       ],
       "bBoxSW": [
         0.185,
-        -0.907
+        -0.877
       ]
     },
     "martyriaNoteZo": {
       "bBoxNE": [
         0.538,
-        -0.029
+        -0.069
       ],
       "bBoxSW": [
         0.162,
-        -0.363
+        -0.403
       ]
     },
     "martyriaNotePa": {
       "bBoxNE": [
         0.537,
-        -0.071
+        -0.131
       ],
       "bBoxSW": [
         0.123,
-        -0.319
+        -0.379
       ]
     },
     "martyriaNoteNi": {
       "bBoxNE": [
         0.525,
-        -0.061
+        -0.081
       ],
       "bBoxSW": [
         0.135,
-        -0.374
+        -0.394
       ]
     },
     "martyriaNoteVou": {
@@ -9093,37 +9093,37 @@
       ],
       "bBoxSW": [
         0.135,
-        -0.374
+        -0.394
       ]
     },
     "martyriaNoteGa": {
       "bBoxNE": [
         0.534,
-        0.003
+        -0.077
       ],
       "bBoxSW": [
         0.166,
-        -0.34
+        -0.42
       ]
     },
     "martyriaNoteDi": {
       "bBoxNE": [
         0.486,
-        -0.001
+        -0.061
       ],
       "bBoxSW": [
         0.154,
-        -0.33
+        -0.39
       ]
     },
     "martyriaNoteKe": {
       "bBoxNE": [
         0.515,
-        -0.003
+        -0.063
       ],
       "bBoxSW": [
         0.185,
-        -0.339
+        -0.399
       ]
     },
     "martyriaNoteZoHigh": {
@@ -9133,7 +9133,7 @@
       ],
       "bBoxSW": [
         0.162,
-        -0.363
+        -0.403
       ]
     },
     "martyriaNotePaHigh": {
@@ -9143,7 +9143,7 @@
       ],
       "bBoxSW": [
         0.123,
-        -0.319
+        -0.379
       ]
     },
     "martyriaNoteVouHigh": {
@@ -9163,7 +9163,7 @@
       ],
       "bBoxSW": [
         0.166,
-        -0.34
+        -0.42
       ]
     },
     "martyriaNoteDiHigh": {
@@ -9173,7 +9173,7 @@
       ],
       "bBoxSW": [
         0.154,
-        -0.33
+        -0.39
       ]
     },
     "martyriaNoteKeHigh": {
@@ -9183,7 +9183,7 @@
       ],
       "bBoxSW": [
         0.185,
-        -0.339
+        -0.399
       ]
     },
     "martyriaTick": {
@@ -9509,21 +9509,21 @@
     "martyriaDeltaBelow": {
       "bBoxNE": [
         0.235,
-        -0.017
+        -0.127
       ],
       "bBoxSW": [
         -0.267,
-        -0.566
+        -0.676
       ]
     },
     "martyriaAlphaBelow": {
       "bBoxNE": [
         0.24,
-        -0.001
+        -0.111
       ],
       "bBoxSW": [
         -0.153,
-        -0.606
+        -0.716
       ]
     },
     "martyriaLegetosBelow": {
@@ -9549,71 +9549,71 @@
     "martyriaDeltaDottedBelow": {
       "bBoxNE": [
         0.235,
-        0.053
+        0.043
       ],
       "bBoxSW": [
         -0.267,
-        -0.666
+        -0.676
       ]
     },
     "martyriaAlphaDottedBelow": {
       "bBoxNE": [
         0.24,
-        0.049
+        0.039
       ],
       "bBoxSW": [
         -0.191,
-        -0.706
+        -0.716
       ]
     },
     "martyriaHardChromaticPaBelow": {
       "bBoxNE": [
         0.241,
-        -0.126
+        -0.086
       ],
       "bBoxSW": [
         -0.281,
-        -0.283
+        -0.243
       ]
     },
     "martyriaHardChromaticDiBelow": {
       "bBoxNE": [
         0.342,
-        -0.06
+        -0.02
       ],
       "bBoxSW": [
         -0.341,
-        -0.455
+        -0.415
       ]
     },
     "martyriaSoftChromaticDiBelow": {
       "bBoxNE": [
         0.241,
-        -0.008
+        0.032
       ],
       "bBoxSW": [
         -0.281,
-        -0.283
+        -0.243
       ]
     },
     "martyriaSoftChromaticKeBelow": {
       "bBoxNE": [
         0.195,
-        -0.076
+        -0.026
       ],
       "bBoxSW": [
         -0.207,
-        -0.422
+        -0.372
       ]
     },
     "martyriaZygosBelow": {
       "bBoxNE": [
         0.206,
-        -0.061
+        -0.011
       ],
       "bBoxSW": [
         -0.218,
-        -0.424
+        -0.374
       ]
     },
     "martyriaZoAbove": {
