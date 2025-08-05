@@ -1288,32 +1288,32 @@
 	rightSB: -135.45
 0xE250 noteIndicatorNi
 	width: 0
-	leftSB: -100.64
-	rightSB: -90.76
+	leftSB: 0.0
+	rightSB: -191.4
 0xE251 noteIndicatorPa
 	width: 0
-	leftSB: -143.56
-	rightSB: -121.62
+	leftSB: 0.0
+	rightSB: -265.18
 0xE252 noteIndicatorVou
 	width: 0
-	leftSB: -82.24
-	rightSB: -69.72
+	leftSB: 0.0
+	rightSB: -151.96
 0xE253 noteIndicatorGa
 	width: 0
-	leftSB: -81.2
-	rightSB: -88.55
+	leftSB: 0.0
+	rightSB: -169.75
 0xE254 noteIndicatorDi
 	width: 0
-	leftSB: -119.08
-	rightSB: -95.52
+	leftSB: 0.0
+	rightSB: -214.6
 0xE255 noteIndicatorKe
 	width: 0
-	leftSB: -103.08
-	rightSB: -109.2
+	leftSB: 0.0
+	rightSB: -212.28
 0xE256 noteIndicatorZo
 	width: 0
-	leftSB: -129.53
-	rightSB: -113.28
+	leftSB: -0.0
+	rightSB: -242.81
 0xE260 isonIndicatorUnison
 	width: 0
 	leftSB: 0.0

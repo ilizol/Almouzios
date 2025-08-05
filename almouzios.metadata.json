@@ -10158,71 +10158,71 @@
     },
     "noteIndicatorNi": {
       "bBoxNE": [
-        0.091,
+        0.191,
         0.209
       ],
       "bBoxSW": [
-        -0.101,
+        0.0,
         0.023
       ]
     },
     "noteIndicatorPa": {
       "bBoxNE": [
-        0.122,
+        0.265,
         0.166
       ],
       "bBoxSW": [
-        -0.144,
+        0.0,
         0.005
       ]
     },
     "noteIndicatorVou": {
       "bBoxNE": [
-        0.07,
+        0.152,
         0.252
       ],
       "bBoxSW": [
-        -0.082,
+        0.0,
         0.013
       ]
     },
     "noteIndicatorGa": {
       "bBoxNE": [
-        0.089,
+        0.17,
         0.205
       ],
       "bBoxSW": [
-        -0.081,
+        0.0,
         0.008
       ]
     },
     "noteIndicatorDi": {
       "bBoxNE": [
-        0.096,
+        0.215,
         0.222
       ],
       "bBoxSW": [
-        -0.119,
+        0.0,
         0.011
       ]
     },
     "noteIndicatorKe": {
       "bBoxNE": [
-        0.109,
+        0.212,
         0.233
       ],
       "bBoxSW": [
-        -0.103,
+        0.0,
         0.016
       ]
     },
     "noteIndicatorZo": {
       "bBoxNE": [
-        0.113,
+        0.243,
         0.232
       ],
       "bBoxSW": [
-        -0.13,
+        -0.0,
         0.018
       ]
     },
