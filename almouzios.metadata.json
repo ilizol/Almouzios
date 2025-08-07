@@ -9049,31 +9049,31 @@
     "martyriaNoteZo": {
       "bBoxNE": [
         0.538,
-        -0.069
+        -0.089
       ],
       "bBoxSW": [
         0.162,
-        -0.403
+        -0.423
       ]
     },
     "martyriaNotePa": {
       "bBoxNE": [
         0.537,
-        -0.131
+        -0.171
       ],
       "bBoxSW": [
         0.123,
-        -0.379
+        -0.419
       ]
     },
     "martyriaNoteNi": {
       "bBoxNE": [
         0.525,
-        -0.081
+        -0.111
       ],
       "bBoxSW": [
         0.135,
-        -0.394
+        -0.424
       ]
     },
     "martyriaNoteVou": {
@@ -9093,7 +9093,7 @@
       ],
       "bBoxSW": [
         0.135,
-        -0.394
+        -0.424
       ]
     },
     "martyriaNoteGa": {
@@ -9109,11 +9109,11 @@
     "martyriaNoteDi": {
       "bBoxNE": [
         0.486,
-        -0.061
+        -0.081
       ],
       "bBoxSW": [
         0.154,
-        -0.39
+        -0.41
       ]
     },
     "martyriaNoteKe": {
@@ -9133,7 +9133,7 @@
       ],
       "bBoxSW": [
         0.162,
-        -0.403
+        -0.423
       ]
     },
     "martyriaNotePaHigh": {
@@ -9143,7 +9143,7 @@
       ],
       "bBoxSW": [
         0.123,
-        -0.379
+        -0.419
       ]
     },
     "martyriaNoteVouHigh": {
@@ -9173,7 +9173,7 @@
       ],
       "bBoxSW": [
         0.154,
-        -0.39
+        -0.41
       ]
     },
     "martyriaNoteKeHigh": {
@@ -9539,11 +9539,11 @@
     "martyriaNanaBelow": {
       "bBoxNE": [
         0.304,
-        -0.066
+        -0.016
       ],
       "bBoxSW": [
         -0.3,
-        -0.407
+        -0.357
       ]
     },
     "martyriaDeltaDottedBelow": {
