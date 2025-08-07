@@ -7923,7 +7923,7 @@
     "gorthmikon": 0.612,
     "pelastikon": 0.62,
     "barlineSingle": 0.09,
-    "barlineDouble": 0.19,
+    "barlineDouble": 0.18,
     "barlineTheseos": 0.09,
     "barlineShortSingle": 0.09,
     "barlineShortDouble": 0.18,
@@ -10788,11 +10788,11 @@
     },
     "barlineDouble": {
       "bBoxNE": [
-        0.16,
+        0.155,
         0.217
       ],
       "bBoxSW": [
-        0.03,
+        0.025,
         -0.102
       ]
     },

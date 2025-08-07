@@ -1215,9 +1215,9 @@
 	leftSB: 25.28
 	rightSB: 25.28
 0xE211 barlineDouble
-	width: 190
-	leftSB: 30.28
-	rightSB: 30.28
+	width: 180
+	leftSB: 25.28
+	rightSB: 25.28
 0xE212 barlineTheseos
 	width: 90
 	leftSB: -163.5
