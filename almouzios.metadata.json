@@ -9529,11 +9529,11 @@
     "martyriaLegetosBelow": {
       "bBoxNE": [
         0.235,
-        -0.028
+        0.002
       ],
       "bBoxSW": [
         -0.2,
-        -0.443
+        -0.413
       ]
     },
     "martyriaNanaBelow": {
@@ -9659,11 +9659,11 @@
     "martyriaNanaAbove": {
       "bBoxNE": [
         0.304,
-        0.384
+        0.364
       ],
       "bBoxSW": [
         -0.3,
-        0.043
+        0.023
       ]
     },
     "martyriaDeltaDottedAbove": {
@@ -9689,51 +9689,51 @@
     "martyriaHardChromaticPaAbove": {
       "bBoxNE": [
         0.257,
-        0.214
+        0.154
       ],
       "bBoxSW": [
         -0.265,
-        0.057
+        -0.003
       ]
     },
     "martyriaHardChromaticDiAbove": {
       "bBoxNE": [
         0.342,
-        0.43
+        0.31
       ],
       "bBoxSW": [
         -0.341,
-        0.035
+        -0.085
       ]
     },
     "martyriaSoftChromaticDiAbove": {
       "bBoxNE": [
         0.257,
-        0.332
+        0.272
       ],
       "bBoxSW": [
         -0.265,
-        0.057
+        -0.003
       ]
     },
     "martyriaSoftChromaticKeAbove": {
       "bBoxNE": [
         0.195,
-        0.374
+        0.274
       ],
       "bBoxSW": [
         -0.207,
-        0.028
+        -0.072
       ]
     },
     "martyriaZygosAbove": {
       "bBoxNE": [
         0.206,
-        0.379
+        0.269
       ],
       "bBoxSW": [
         -0.218,
-        0.016
+        -0.094
       ]
     },
     "fthoraDiatonicNiLowAbove": {
