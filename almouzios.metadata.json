@@ -9009,41 +9009,41 @@
     "martyriaNoteVouLow": {
       "bBoxNE": [
         0.517,
-        -0.506
+        -0.556
       ],
       "bBoxSW": [
         0.223,
-        -0.918
+        -0.968
       ]
     },
     "martyriaNoteGaLow": {
       "bBoxNE": [
         0.534,
-        -0.539
+        -0.579
       ],
       "bBoxSW": [
         0.166,
-        -0.882
+        -0.922
       ]
     },
     "martyriaNoteDiLow": {
       "bBoxNE": [
         0.486,
-        -0.544
+        -0.574
       ],
       "bBoxSW": [
         0.154,
-        -0.873
+        -0.903
       ]
     },
     "martyriaNoteKeLow": {
       "bBoxNE": [
         0.515,
-        -0.541
+        -0.581
       ],
       "bBoxSW": [
         0.185,
-        -0.877
+        -0.917
       ]
     },
     "martyriaNoteZo": {
@@ -9649,21 +9649,21 @@
     "martyriaLegetosAbove": {
       "bBoxNE": [
         0.235,
-        0.412
+        0.392
       ],
       "bBoxSW": [
         -0.2,
-        -0.003
+        -0.023
       ]
     },
     "martyriaNanaAbove": {
       "bBoxNE": [
         0.304,
-        0.364
+        0.334
       ],
       "bBoxSW": [
         -0.3,
-        0.023
+        -0.007
       ]
     },
     "martyriaDeltaDottedAbove": {
@@ -9729,11 +9729,11 @@
     "martyriaZygosAbove": {
       "bBoxNE": [
         0.206,
-        0.269
+        0.279
       ],
       "bBoxSW": [
         -0.218,
-        -0.094
+        -0.084
       ]
     },
     "fthoraDiatonicNiLowAbove": {
