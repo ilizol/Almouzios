@@ -9529,21 +9529,21 @@
     "martyriaLegetosBelow": {
       "bBoxNE": [
         0.235,
-        0.002
+        0.012
       ],
       "bBoxSW": [
         -0.2,
-        -0.413
+        -0.403
       ]
     },
     "martyriaNanaBelow": {
       "bBoxNE": [
         0.304,
-        -0.016
+        0.004
       ],
       "bBoxSW": [
         -0.3,
-        -0.357
+        -0.337
       ]
     },
     "martyriaDeltaDottedBelow": {
