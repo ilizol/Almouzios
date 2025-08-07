@@ -9579,11 +9579,11 @@
     "martyriaHardChromaticDiBelow": {
       "bBoxNE": [
         0.342,
-        -0.02
+        0.09
       ],
       "bBoxSW": [
         -0.341,
-        -0.415
+        -0.305
       ]
     },
     "martyriaSoftChromaticDiBelow": {
@@ -9599,21 +9599,21 @@
     "martyriaSoftChromaticKeBelow": {
       "bBoxNE": [
         0.195,
-        -0.026
+        0.054
       ],
       "bBoxSW": [
         -0.207,
-        -0.372
+        -0.292
       ]
     },
     "martyriaZygosBelow": {
       "bBoxNE": [
         0.206,
-        -0.011
+        0.059
       ],
       "bBoxSW": [
         -0.218,
-        -0.374
+        -0.304
       ]
     },
     "martyriaZoAbove": {
