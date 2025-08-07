@@ -9029,11 +9029,11 @@
     "martyriaNoteDiLow": {
       "bBoxNE": [
         0.486,
-        -0.574
+        -0.564
       ],
       "bBoxSW": [
         0.154,
-        -0.903
+        -0.893
       ]
     },
     "martyriaNoteKeLow": {
@@ -9569,11 +9569,11 @@
     "martyriaHardChromaticPaBelow": {
       "bBoxNE": [
         0.241,
-        -0.086
+        -0.046
       ],
       "bBoxSW": [
         -0.281,
-        -0.243
+        -0.203
       ]
     },
     "martyriaHardChromaticDiBelow": {
@@ -9589,11 +9589,11 @@
     "martyriaSoftChromaticDiBelow": {
       "bBoxNE": [
         0.241,
-        0.032
+        0.042
       ],
       "bBoxSW": [
         -0.281,
-        -0.243
+        -0.203
       ]
     },
     "martyriaSoftChromaticKeBelow": {
@@ -9709,7 +9709,7 @@
     "martyriaSoftChromaticDiAbove": {
       "bBoxNE": [
         0.257,
-        0.272
+        0.242
       ],
       "bBoxSW": [
         -0.265,
@@ -10479,7 +10479,7 @@
     "modePlagalSecond": {
       "bBoxNE": [
         0.781,
-        0.283
+        0.243
       ],
       "bBoxSW": [
         0.15,
