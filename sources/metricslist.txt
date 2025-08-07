@@ -692,7 +692,7 @@
 	rightSB: -235.08
 0xE156 martyriaAlphaDottedBelow
 	width: 0
-	leftSB: -191.08
+	leftSB: -159.2
 	rightSB: -240.44
 0xE157 martyriaHardChromaticPaBelow
 	width: 0
@@ -740,7 +740,7 @@
 	rightSB: -235.08
 0xE176 martyriaAlphaDottedAbove
 	width: 0
-	leftSB: -191.08
+	leftSB: -159.2
 	rightSB: -240.44
 0xE177 martyriaHardChromaticPaAbove
 	width: 0

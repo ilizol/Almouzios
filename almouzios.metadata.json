@@ -9509,21 +9509,21 @@
     "martyriaDeltaBelow": {
       "bBoxNE": [
         0.235,
-        -0.127
+        -0.087
       ],
       "bBoxSW": [
         -0.267,
-        -0.676
+        -0.636
       ]
     },
     "martyriaAlphaBelow": {
       "bBoxNE": [
         0.24,
-        -0.111
+        -0.081
       ],
       "bBoxSW": [
         -0.153,
-        -0.716
+        -0.686
       ]
     },
     "martyriaLegetosBelow": {
@@ -9549,21 +9549,21 @@
     "martyriaDeltaDottedBelow": {
       "bBoxNE": [
         0.235,
-        0.043
+        0.042
       ],
       "bBoxSW": [
         -0.267,
-        -0.676
+        -0.636
       ]
     },
     "martyriaAlphaDottedBelow": {
       "bBoxNE": [
         0.24,
-        0.039
+        0.042
       ],
       "bBoxSW": [
-        -0.191,
-        -0.716
+        -0.159,
+        -0.686
       ]
     },
     "martyriaHardChromaticPaBelow": {
@@ -9669,20 +9669,20 @@
     "martyriaDeltaDottedAbove": {
       "bBoxNE": [
         0.235,
-        0.653
+        0.602
       ],
       "bBoxSW": [
         -0.267,
-        -0.066
+        -0.076
       ]
     },
     "martyriaAlphaDottedAbove": {
       "bBoxNE": [
         0.24,
-        0.669
+        0.642
       ],
       "bBoxSW": [
-        -0.191,
+        -0.159,
         -0.086
       ]
     },
