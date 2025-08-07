@@ -7504,61 +7504,61 @@
     "barlineShortSingleAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.56
+        0.0
       ],
       "barline": [
         0.0,
-        0.59
+        0.03
       ]
     },
     "barlineSingleAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.1
+        0.0
       ],
       "barline": [
         0.0,
-        0.13
+        0.03
       ]
     },
     "barlineDoubleAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.1
+        0.0
       ],
       "barline": [
         0.0,
-        0.13
+        0.03
       ]
     },
     "barlineTheseosAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.1
+        0.0
       ],
       "barline": [
         0.0,
-        0.13
+        0.03
       ]
     },
     "barlineShortDoubleAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.56
+        0.0
       ],
       "barline": [
         0.0,
-        0.59
+        0.03
       ]
     },
     "barlineShortTheseosAbove": {
       "barlineAboveFthora": [
         0.0,
-        0.56
+        0.0
       ],
       "barline": [
         0.0,
-        0.59
+        0.03
       ]
     },
     "diesis2Secondary": {
@@ -7923,11 +7923,11 @@
     "gorthmikon": 0.612,
     "pelastikon": 0.62,
     "barlineSingle": 0.09,
-    "barlineDouble": 0.189,
-    "barlineTheseos": 0.097,
-    "barlineShortSingle": 0.097,
+    "barlineDouble": 0.19,
+    "barlineTheseos": 0.09,
+    "barlineShortSingle": 0.09,
     "barlineShortDouble": 0.18,
-    "barlineShortTheseos": 0.069,
+    "barlineShortTheseos": 0.09,
     "breath": 0.234,
     "koronis": 0.0,
     "leimmaDot": 0.26,
@@ -10778,7 +10778,7 @@
     },
     "barlineSingle": {
       "bBoxNE": [
-        0.064,
+        0.065,
         0.217
       ],
       "bBoxSW": [
@@ -10788,7 +10788,7 @@
     },
     "barlineDouble": {
       "bBoxNE": [
-        0.159,
+        0.16,
         0.217
       ],
       "bBoxSW": [
@@ -10798,21 +10798,21 @@
     },
     "barlineTheseos": {
       "bBoxNE": [
-        0.257,
+        0.254,
         0.349
       ],
       "bBoxSW": [
-        -0.16,
+        -0.164,
         -0.102
       ]
     },
     "barlineShortSingle": {
       "bBoxNE": [
-        0.068,
+        0.065,
         0.621
       ],
       "bBoxSW": [
-        0.029,
+        0.025,
         0.358
       ]
     },
@@ -10828,11 +10828,11 @@
     },
     "barlineShortTheseos": {
       "bBoxNE": [
-        0.243,
+        0.254,
         0.759
       ],
       "bBoxSW": [
-        -0.174,
+        -0.164,
         0.358
       ]
     },
@@ -11598,62 +11598,62 @@
     },
     "barlineShortSingleAbove": {
       "bBoxNE": [
-        0.019,
-        0.853
+        0.02,
+        0.293
       ],
       "bBoxSW": [
         -0.02,
-        0.59
+        0.03
       ]
     },
     "barlineSingleAbove": {
       "bBoxNE": [
-        0.019,
-        0.449
+        0.02,
+        0.349
       ],
       "bBoxSW": [
         -0.02,
-        0.13
+        0.03
       ]
     },
     "barlineDoubleAbove": {
       "bBoxNE": [
-        0.064,
-        0.449
+        0.065,
+        0.349
       ],
       "bBoxSW": [
         -0.065,
-        0.13
+        0.03
       ]
     },
     "barlineTheseosAbove": {
       "bBoxNE": [
-        0.209,
-        0.581
+        0.208,
+        0.481
       ],
       "bBoxSW": [
         -0.208,
-        0.13
+        0.03
       ]
     },
     "barlineShortDoubleAbove": {
       "bBoxNE": [
         0.061,
-        0.853
+        0.293
       ],
       "bBoxSW": [
         -0.061,
-        0.59
+        0.03
       ]
     },
     "barlineShortTheseosAbove": {
       "bBoxNE": [
-        0.21,
-        0.991
+        0.208,
+        0.431
       ],
       "bBoxSW": [
-        -0.207,
-        0.59
+        -0.208,
+        0.03
       ]
     },
     "diesis2Secondary": {
