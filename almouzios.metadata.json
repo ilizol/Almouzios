@@ -9049,11 +9049,11 @@
     "martyriaNoteZo": {
       "bBoxNE": [
         0.538,
-        -0.089
+        -0.079
       ],
       "bBoxSW": [
         0.162,
-        -0.423
+        -0.413
       ]
     },
     "martyriaNotePa": {
@@ -9119,11 +9119,11 @@
     "martyriaNoteKe": {
       "bBoxNE": [
         0.515,
-        -0.063
+        -0.073
       ],
       "bBoxSW": [
         0.185,
-        -0.399
+        -0.409
       ]
     },
     "martyriaNoteZoHigh": {
@@ -9133,7 +9133,7 @@
       ],
       "bBoxSW": [
         0.162,
-        -0.423
+        -0.413
       ]
     },
     "martyriaNotePaHigh": {
@@ -9183,7 +9183,7 @@
       ],
       "bBoxSW": [
         0.185,
-        -0.399
+        -0.409
       ]
     },
     "martyriaTick": {
@@ -9599,21 +9599,21 @@
     "martyriaSoftChromaticKeBelow": {
       "bBoxNE": [
         0.195,
-        0.054
+        0.044
       ],
       "bBoxSW": [
         -0.207,
-        -0.292
+        -0.302
       ]
     },
     "martyriaZygosBelow": {
       "bBoxNE": [
         0.206,
-        0.059
+        0.049
       ],
       "bBoxSW": [
         -0.218,
-        -0.304
+        -0.314
       ]
     },
     "martyriaZoAbove": {
