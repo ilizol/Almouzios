@@ -9509,11 +9509,11 @@
     "martyriaDeltaBelow": {
       "bBoxNE": [
         0.235,
-        -0.087
+        -0.077
       ],
       "bBoxSW": [
         -0.267,
-        -0.636
+        -0.626
       ]
     },
     "martyriaAlphaBelow": {
@@ -9553,7 +9553,7 @@
       ],
       "bBoxSW": [
         -0.267,
-        -0.636
+        -0.626
       ]
     },
     "martyriaAlphaDottedBelow": {
@@ -9669,7 +9669,7 @@
     "martyriaDeltaDottedAbove": {
       "bBoxNE": [
         0.235,
-        0.602
+        0.592
       ],
       "bBoxSW": [
         -0.267,
