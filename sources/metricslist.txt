@@ -1503,9 +1503,9 @@
 	leftSB: 31.0
 	rightSB: 30.31
 0xF001 oligonKentimataAbove.alt01
-	width: 1465
-	leftSB: 82.22
-	rightSB: 89.96
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xF002 antikenoma.alt01
 	width: 0
 	leftSB: -550.68
@@ -1519,9 +1519,9 @@
 	leftSB: 150.0
 	rightSB: 149.72
 0xF005 oligonKentimataBelow.alt02
-	width: 1750
-	leftSB: 360.22
-	rightSB: 86.95
+	width: 1298
+	leftSB: 31.0
+	rightSB: 30.28
 0xF006 psifiston.salt01
 	width: 0
 	leftSB: -390.24

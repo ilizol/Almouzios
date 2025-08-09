@@ -5977,8 +5977,8 @@
     },
     "oligonKentimataAbove.alt01": {
       "psifiston": [
-        0.84,
-        0.113
+        0.789,
+        -0.119
       ]
     },
     "antikenoma.alt01": {
@@ -7765,7 +7765,7 @@
     "martyriaNoteKeHigh": 0.7,
     "martyriaTick": 0.0,
     "oligonKentimataBelow.alt01": 1.298,
-    "oligonKentimataAbove.alt01": 1.465,
+    "oligonKentimataAbove.alt01": 1.298,
     "antikenoma.alt01": 0.0,
     "petastiKentimaTripleYpsili": 1.443,
     "vareia": 0.423,
@@ -7937,7 +7937,7 @@
     "yfenBelow": 0.0,
     "modeFirst.salt01": 0.774,
     "modeFourth.salt01": 0.802,
-    "oligonKentimataBelow.alt02": 1.75,
+    "oligonKentimataBelow.alt02": 1.298,
     "gorgonDottedLeftSecondary": 0.0,
     "gorgonDottedRightSecondary": 0.0,
     "digorgonSecondary": 0.0,
@@ -9208,12 +9208,12 @@
     },
     "oligonKentimataAbove.alt01": {
       "bBoxNE": [
-        1.375,
-        0.662
+        1.268,
+        0.451
       ],
       "bBoxSW": [
-        0.082,
-        0.222
+        0.031,
+        -0.06
       ]
     },
     "antikenoma.alt01": {
@@ -10928,12 +10928,12 @@
     },
     "oligonKentimataBelow.alt02": {
       "bBoxNE": [
-        1.663,
-        0.784
+        1.268,
+        0.172
       ],
       "bBoxSW": [
-        0.36,
-        0.368
+        0.031,
+        -0.262
       ]
     },
     "gorgonDottedLeftSecondary": {

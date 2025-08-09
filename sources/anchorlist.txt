@@ -1553,7 +1553,7 @@
 	('isonIndicator', 'base', 30.0, 700.0)
 	('psifiston', 'base', 789.932, -119.0)
 0xF001 oligonKentimataAbove.alt01
-	('psifiston', 'base', 840.0, 113.0)
+	('psifiston', 'base', 788.8, -119.0)
 0xF002 antikenoma.alt01
 	('antikenoma', 'mark', 0.0, 0.0)
 0xE04E petastiKentimaTripleYpsili
