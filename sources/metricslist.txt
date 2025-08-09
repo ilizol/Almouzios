@@ -1524,12 +1524,12 @@
 	rightSB: 86.95
 0xF006 psifiston.salt01
 	width: 0
-	leftSB: -759.88
-	rightSB: -759.88
+	leftSB: -390.24
+	rightSB: -839.77
 0xF007 heteronConnecting.salt01
 	width: 0
-	leftSB: -664.45
-	rightSB: -688.45
+	leftSB: -727.28
+	rightSB: -1019.68
 0xF008 psifiston.alt01
 	width: 0
 	leftSB: -390.24
