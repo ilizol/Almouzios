@@ -637,35 +637,35 @@
 0xE13E martyriaNoteZoHigh
 	width: 700
 	leftSB: 161.5
-	rightSB: -11.36
+	rightSB: 38.64
 0xE13F martyriaNoteNiHigh
 	width: 700
 	leftSB: 135.12
-	rightSB: -11.36
+	rightSB: 38.64
 0xE140 martyriaNotePaHigh
 	width: 700
 	leftSB: 123.38
-	rightSB: -11.36
+	rightSB: 38.64
 0xE141 martyriaNoteVouHigh
 	width: 700
 	leftSB: 222.68
-	rightSB: -11.36
+	rightSB: 38.64
 0xE142 martyriaNoteGaHigh
 	width: 700
 	leftSB: 165.56
-	rightSB: -11.36
+	rightSB: 38.64
 0xE143 martyriaNoteDiHigh
 	width: 700
 	leftSB: 154.12
-	rightSB: -11.36
+	rightSB: 38.64
 0xE144 martyriaNoteKeHigh
 	width: 700
 	leftSB: 184.7
-	rightSB: -11.36
+	rightSB: 38.64
 0xE145 martyriaTick
 	width: 0
-	leftSB: -100.0
-	rightSB: -11.36
+	leftSB: -150.0
+	rightSB: 38.64
 0xE150 martyriaZoBelow
 	width: 0
 	leftSB: -337.36
