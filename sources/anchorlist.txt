@@ -258,7 +258,7 @@
 	('isonIndicator', 'base', 0.0, 700.0)
 	('heteron', 'base', 252.648, -318.0)
 	('apli', 'base', 150.0, -200.0)
-	('antikenoma', 'base', 133.648, -132.0)
+	('antikenoma', 'base', 150.0, -100.0)
 	('noteTop', 'base', 60.0, 400.0)
 	('fthoraTop', 'base', 244.648, 377.0)
 	('fthoraBottom', 'base', 84.6484, -131.0)
