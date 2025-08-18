@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1755524836
+ModificationTime: 1755525430
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -10075,7 +10075,7 @@ StartChar: doubleChamiliElafronApostrofos
 Encoding: 57390 57390 89
 Width: 1435
 VWidth: 1392
-Flags: W
+Flags: WO
 HStem: -425.72 42.9199<686.742 763.032> -380.48 290.58<1117.98 1268.39> -122.96 61.4795<439.137 882.108> 92.6396 73.0801<791.548 1077.34> 452.239 73.0801<884.348 1170.12> 499.22 67.8604<37.6572 152.694> 858.819 67.8604<130.457 245.494>
 VStem: 133.08 206.479<-277.207 -181.653> 765.28 186.76<-370.372 -303.429>
 AnchorPoint: "yfenAbove" 578.64 999 basechar 0
@@ -10086,8 +10086,8 @@ AnchorPoint: "measureNumber" 30 1000 basechar 0
 AnchorPoint: "isonIndicator" 30 1000 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -472 basechar 0
 AnchorPoint: "omalonConnecting" 1108.64 -412 basechar 0
-AnchorPoint: "apli" 750 -500 basechar 0
-AnchorPoint: "antikenoma" 520.64 -464 basechar 0
+AnchorPoint: "apli" 780 -550 basechar 0
+AnchorPoint: "antikenoma" 780 -440 basechar 0
 AnchorPoint: "noteTop" 60 1000 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -462 basechar 0
@@ -10354,8 +10354,8 @@ AnchorPoint: "measureNumber" 30 1000 basechar 0
 AnchorPoint: "isonIndicator" 30 1000 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -472 basechar 0
 AnchorPoint: "omalonConnecting" 1101.64 -372 basechar 0
-AnchorPoint: "apli" 750 -500 basechar 0
-AnchorPoint: "antikenoma" 592.64 -355 basechar 0
+AnchorPoint: "apli" 780 -550 basechar 0
+AnchorPoint: "antikenoma" 780 -440 basechar 0
 AnchorPoint: "noteTop" 60 1000 basechar 0
 AnchorPoint: "fthoraTop" 721.64 873 basechar 0
 AnchorPoint: "fthoraBottom" 557.64 -352 basechar 0
