@@ -92,12 +92,12 @@
 	rightSB: 29.64
 0xE021 apostrofos
 	width: 733
-	leftSB: 30.0
-	rightSB: 29.04
+	leftSB: 20.0
+	rightSB: 39.04
 0xE022 apostrofosSyndesmos
 	width: 1615
-	leftSB: 30.0
-	rightSB: 29.44
+	leftSB: 20.0
+	rightSB: 39.44
 0xE023 yporroi
 	width: 370
 	leftSB: 30.0
