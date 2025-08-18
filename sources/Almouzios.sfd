@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1755527722
+ModificationTime: 1755528137
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2641,7 +2641,7 @@ AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 979.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1419.8 -99 basechar 0
 AnchorPoint: "antikenoma" 768.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 1201.8 208 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
@@ -2744,7 +2744,7 @@ AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 979.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1419.8 -99 basechar 0
 AnchorPoint: "antikenoma" 768.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 505.8 257 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
@@ -2863,7 +2863,7 @@ AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 980.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1420.8 -99 basechar 0
 AnchorPoint: "antikenoma" 769.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 550 basechar 0
 AnchorPoint: "fthoraTop" 838.8 269 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
@@ -2982,7 +2982,7 @@ AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 979.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1419.8 -99 basechar 0
 AnchorPoint: "antikenoma" 768.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 306.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
@@ -3127,7 +3127,7 @@ AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 979.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1419.8 -99 basechar 0
 AnchorPoint: "antikenoma" 768.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 1175.8 215 basechar 0
 AnchorPoint: "fthoraBottom" 737.8 -23 basechar 0
@@ -3270,7 +3270,7 @@ AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 980.8 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1420.8 -99 basechar 0
 AnchorPoint: "antikenoma" 769.8 -67 basechar 0
-AnchorPoint: "apli" 750 -150 basechar 0
+AnchorPoint: "apli" 730 -150 basechar 0
 AnchorPoint: "noteTop" 60 500 basechar 0
 AnchorPoint: "fthoraTop" 627.8 275 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
@@ -3430,7 +3430,7 @@ AnchorPoint: "heteron" 1036.01 -5 basechar 0
 AnchorPoint: "omalon" 980.007 -99 basechar 0
 AnchorPoint: "omalonConnecting" 1420.01 -99 basechar 0
 AnchorPoint: "antikenoma" 769.007 -67 basechar 0
-AnchorPoint: "apli" 800 -150 basechar 0
+AnchorPoint: "apli" 780 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 263.007 839 basechar 0
 AnchorPoint: "fthoraBottom" 738.007 -23 basechar 0
@@ -7799,7 +7799,7 @@ StartChar: oligonKentimataBelow
 Encoding: 57474 57474 74
 Width: 1298
 VWidth: 1392
-Flags: W
+Flags: WO
 HStem: -262.16 206.48<829.24 959.739 1063.46 1104.42> -262.16 31.3203<973 1000.76> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "diesisSecondary" 1544.8 665 basechar 0
 AnchorPoint: "yfesisSecondary" 373.8 -377 basechar 0
@@ -7810,13 +7810,13 @@ AnchorPoint: "koronis" 634.8 569 basechar 0
 AnchorPoint: "endofonon" 720.8 -509 basechar 0
 AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "heteronConnecting" 1632.8 -370 basechar 0
-AnchorPoint: "apli" 700 -450 basechar 0
+AnchorPoint: "apli" 750 -400 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "diesis" 658.8 -99 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "omalonConnecting" 1408.8 -272 basechar 0
 AnchorPoint: "omalon" 988.8 -352 basechar 0
-AnchorPoint: "antikenoma" 768.8 -317 basechar 0
+AnchorPoint: "antikenoma" 750 -300 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraBottom" 332.8 -72 basechar 0
 AnchorPoint: "fthoraTop" 691.8 283 basechar 0
