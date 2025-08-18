@@ -1013,7 +1013,7 @@
 	('isonIndicator', 'base', 30.0, 700.0)
 	('gorgonBottom', 'base', 450.0, -140.0)
 	('apli', 'base', 450.0, -200.0)
-	('antikenoma', 'base', 409.8, -131.0)
+	('antikenoma', 'base', 400.0, -100.0)
 	('noteTop', 'base', 60.0, 400.0)
 	('fthoraTop', 'base', 334.8, 410.0)
 	('fthoraBottom', 'base', 288.8, -133.0)
