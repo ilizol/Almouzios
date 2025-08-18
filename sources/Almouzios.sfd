@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1755522016
+ModificationTime: 1755522256
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4116,8 +4116,8 @@ AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1368.8 -251 basechar 0
 AnchorPoint: "omalonConnecting" 1189.8 -143 basechar 0
-AnchorPoint: "apli" 650 -250 basechar 0
-AnchorPoint: "antikenoma" 529.8 -261 basechar 0
+AnchorPoint: "apli" 710 -250 basechar 0
+AnchorPoint: "antikenoma" 710 -150 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 466.8 428 basechar 0
 AnchorPoint: "fthoraBottom" 557.8 -262 basechar 0
