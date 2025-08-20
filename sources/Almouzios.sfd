@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1755605957
+ModificationTime: 1755691173
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8421,7 +8421,7 @@ StartChar: petastiRunningElafron
 Encoding: 57443 57443 78
 Width: 1974
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -88.1602 54.5205<1197.41 1630.42> 258.68 49.8799<998.864 1026.53 1067.92 1106.18> 291.16 290<114.68 470.8> 525.48 60.3193<1044.54 1444.85>
 VStem: 746.88 359.6<284.78 410.331> 1667.92 221.56<328.127 399.544> 1745.64 198.36<26.3485 107.014>
 AnchorPoint: "diesisSecondary" 611.8 1003 basechar 0
@@ -8435,8 +8435,6 @@ AnchorPoint: "endofonon" 1000.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1534.8 -251 basechar 0
 AnchorPoint: "measureNumber" 730 700 basechar 0
 AnchorPoint: "isonIndicator" 730 700 basechar 0
-AnchorPoint: "apli" 1400 -220 basechar 0
-AnchorPoint: "antikenoma" 1400 -120 basechar 0
 AnchorPoint: "fthoraBottom" 490.8 -70 basechar 0
 AnchorPoint: "fthoraTop" 707.8 679 basechar 0
 AnchorPoint: "noteTop" 750 700 basechar 0

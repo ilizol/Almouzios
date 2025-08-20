@@ -837,8 +837,6 @@
 	('heteronConnecting', 'base', 1534.8, -251.0)
 	('measureNumber', 'base', 730.0, 700.0)
 	('isonIndicator', 'base', 730.0, 700.0)
-	('apli', 'base', 1400.0, -220.0)
-	('antikenoma', 'base', 1400.0, -120.0)
 	('fthoraBottom', 'base', 490.8, -70.0)
 	('fthoraTop', 'base', 707.8, 679.0)
 	('noteTop', 'base', 750.0, 700.0)
