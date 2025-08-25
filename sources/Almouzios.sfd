@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1756116903
+ModificationTime: 1756119280
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -5014,7 +5014,7 @@ AnchorPoint: "koronis" 678.8 814 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1127.8 683 basechar 0
-AnchorPoint: "psifiston" 802.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5023,7 +5023,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 700 basechar 0
 AnchorPoint: "fthoraTop" 682.8 614 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5170,8 +5170,8 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 80 400 basechar 0
 AnchorPoint: "fthoraTop" 604.8 368 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5253,7 +5253,7 @@ AnchorPoint: "koronis" 678.8 814 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 759 basechar 0
-AnchorPoint: "psifiston" 808.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5261,7 +5261,7 @@ AnchorPoint: "antikenoma" 720 -120 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 682.8 614 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 LayerCount: 2
 Back
@@ -5384,7 +5384,7 @@ AnchorPoint: "koronis" 678.8 814 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5393,7 +5393,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 1039.8 428 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5501,7 +5501,7 @@ AnchorPoint: "koronis" 378.8 644 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5510,7 +5510,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 542.8 636 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5634,7 +5634,7 @@ AnchorPoint: "koronis" 873.8 575 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 700 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5643,7 +5643,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 906.8 416 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5767,7 +5767,7 @@ AnchorPoint: "koronis" 547.8 737 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5776,7 +5776,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 430.8 658 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -5926,7 +5926,7 @@ AnchorPoint: "koronis" 261.8 731 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -5935,7 +5935,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 968.8 448 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6084,7 +6084,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 611.8 729 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -6094,7 +6094,7 @@ AnchorPoint: "fthoraTop" 437.8 679 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 750.8 647 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6208,7 +6208,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 611.8 859 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -6218,7 +6218,7 @@ AnchorPoint: "fthoraTop" 437.8 819 basechar 0
 AnchorPoint: "noteTop" 60 700 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6362,7 +6362,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 611.8 859 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -6372,7 +6372,7 @@ AnchorPoint: "fthoraTop" 437.8 799 basechar 0
 AnchorPoint: "noteTop" 60 700 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6548,7 +6548,7 @@ AnchorPoint: "yfenBelow" 725.84 -272 basechar 0
 AnchorPoint: "koronis" 759.84 899 basechar 0
 AnchorPoint: "endofonon" 768.84 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1312.84 -251 basechar 0
-AnchorPoint: "psifiston" 791.84 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1000 basechar 0
 AnchorPoint: "isonIndicator" 30 1000 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -6558,7 +6558,7 @@ AnchorPoint: "fthoraTop" 645.84 739 basechar 0
 AnchorPoint: "noteTop" 60 900 basechar 0
 AnchorPoint: "diesis" 460.84 -85 basechar 0
 AnchorPoint: "yfesis" 1024.84 793 basechar 0
-AnchorPoint: "klasmaBottom" 790 -150 basechar 0
+AnchorPoint: "klasmaBottom" 720 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6824,7 +6824,7 @@ StartChar: oligonKentimataAbove
 Encoding: 57475 57475 68
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
 AnchorPoint: "fthoraTopSecondary" 188.8 248 basechar 0
 AnchorPoint: "yfenAbove" 738.8 669 basechar 0
@@ -6946,7 +6946,7 @@ StartChar: oligonIsonKentimata
 Encoding: 57476 57476 69
 Width: 1448
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 244.76 84.6807<235.975 399.087 500.007 738.628> 423.4 81.1992<167.801 293.795> 426.301 36.5391<832.012 871.18 1064.01 1103.18>
 VStem: 31.3672 183.279<352.242 424.947>
 AnchorPoint: "diesisSecondary" 824.007 869 basechar 0
@@ -7127,7 +7127,7 @@ StartChar: oligonYpsiliLeftKentimata
 Encoding: 57479 57479 70
 Width: 1484
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<260.079 525.16 1082.54 1250.15> 414.699 36.541<501.045 540.214 733.045 772.214>
 AnchorPoint: "yfenAbove" 879.8 969 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
@@ -7291,7 +7291,7 @@ StartChar: oligonApostrofosKentimata
 Encoding: 57480 57480 71
 Width: 1449
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35> 215.76 290<116.26 470.06> 426.301 36.5391<832.805 871.974 1064.8 1103.97>
 AnchorPoint: "diesisSecondary" 914.8 922 basechar 0
 AnchorPoint: "yfesisSecondary" 589.8 596 basechar 0
@@ -7450,7 +7450,7 @@ StartChar: oligonElafronKentimata
 Encoding: 57482 57482 72
 Width: 1450
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<226.439 491.52 1048.9 1216.51> 197.2 34.7998<243.835 294.846> 403.68 45.2402<235.948 582.391>
 VStem: 31 141.52<273.222 358.576> 721.199 165.881<253.96 317.812>
 AnchorPoint: "diesisSecondary" 853.64 931 basechar 0
@@ -7636,7 +7636,7 @@ StartChar: oligonYporroiKentimata
 Encoding: 57481 57481 73
 Width: 1448
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 198.36 56.8398<257.912 338.245> 426.301 36.5391<776.332 815.501 1008.33 1047.5> 440.8 45.2402<488.463 557.266>
 VStem: 345.727 153.12<262.034 424.56> 345.727 145<277.098 387.44 416.44 439.204>
 AnchorPoint: "diesisSecondary" 914.007 921 basechar 0
@@ -8153,7 +8153,7 @@ StartChar: oligonIson
 Encoding: 57360 57360 76
 Width: 1299
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8> 248.24 93.96<245.843 715.784> 255.2 117.16<477.373 1072.28> 446.6 78.8809<145.327 294.31>
 VStem: 31 175.16<359.499 445.771>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8283,7 +8283,7 @@ StartChar: oligonElafron
 Encoding: 57363 57363 77
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 452.4 52.1992<336.883 713.723>
 VStem: 90.293 162.399<305.887 398.335> 884.893 191.4<282.729 348.037>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8417,7 +8417,7 @@ StartChar: petastiRunningElafron
 Encoding: 57443 57443 78
 Width: 1974
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<1197.41 1630.42> 258.68 49.8799<998.864 1026.53 1067.92 1106.18> 291.16 290<114.68 470.8> 525.48 60.3193<1044.54 1444.85>
 VStem: 746.88 359.6<284.78 410.331> 1667.92 221.56<328.127 399.544> 1745.64 198.36<26.3485 107.014>
 AnchorPoint: "diesisSecondary" 611.8 1003 basechar 0
@@ -8436,8 +8436,8 @@ AnchorPoint: "fthoraTop" 707.8 679 basechar 0
 AnchorPoint: "noteTop" 750 700 basechar 0
 AnchorPoint: "diesis" 702.8 -85 basechar 0
 AnchorPoint: "yfesis" 1170.8 679 basechar 0
-AnchorPoint: "psifiston" 1020.8 -103 basechar 0
-AnchorPoint: "klasmaBottom" 1420 -150 basechar 0
+AnchorPoint: "psifiston" 1500 -120 basechar 0
+AnchorPoint: "klasmaBottom" 1360 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8603,7 +8603,7 @@ StartChar: oligonApostrofos
 Encoding: 57361 57361 79
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 233.16 290<253.853 609.973>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.933 679 basechar 0
@@ -8710,7 +8710,7 @@ StartChar: oligonYporroi
 Encoding: 57362 57362 80
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 221.56 56.8408<469.962 550.29> 464 45.2402<700.508 769.313>
 VStem: 557.772 153.12<285.234 447.76> 557.772 145<300.298 410.64 439.64 462.403>
 AnchorPoint: "barline" 946.933 646 basechar 0
@@ -8823,7 +8823,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 611.8 729 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 693.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -8833,7 +8833,7 @@ AnchorPoint: "fthoraTop" 637.8 549 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 884.8 625 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8934,7 +8934,7 @@ StartChar: oligonRunningElafronKentimata
 Encoding: 57483 57483 82
 Width: 1913
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<689.28 954.36 1511.74 1679.35> 211.12 33.0596<685.554 738.499> 227.36 216.92<86.6807 315.78> 403.68 46.4004<674.156 1019.88>
 VStem: 490.36 135.72<280.405 366.69>
 AnchorPoint: "diesisTertiary" 651.96 951 basechar 0
@@ -9152,7 +9152,7 @@ StartChar: oligonElafronApostrofosKentimata
 Encoding: 57484 57484 83
 Width: 1448
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 187.92 34.2207<401.591 454.15> 197.2 34.7998<244.202 295.213> 403.68 45.2402<236.316 582.758>
 VStem: 31.3672 141.52<273.222 358.576> 454.767 126.44<223.751 276.074> 721.566 165.881<253.96 317.812>
 AnchorPoint: "diesisSecondary" 866.007 905 basechar 0
@@ -9372,7 +9372,7 @@ StartChar: oligonKentimaMiddleKentimata
 Encoding: 57477 57477 84
 Width: 1583
 VWidth: 345
-Flags: HW
+Flags: W
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
 VStem: 1283 270.28
 AnchorPoint: "yfenAbove" 930 869 basechar 0
@@ -9403,7 +9403,7 @@ StartChar: oligonYpsiliRightKentimata
 Encoding: 57478 57478 85
 Width: 1478
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 414.699 36.541<430.652 469.821 662.652 701.821>
 AnchorPoint: "yfenAbove" 879.007 1019 basechar 0
 AnchorPoint: "yfenBelow" 878.007 -272 basechar 0
@@ -9575,7 +9575,7 @@ AnchorPoint: "yfenBelow" 677.8 -312 basechar 0
 AnchorPoint: "koronis" 711.8 899 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1100 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -9585,7 +9585,7 @@ AnchorPoint: "fthoraTop" 597.8 739 basechar 0
 AnchorPoint: "noteTop" 60 1100 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 976.8 793 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10772,7 +10772,7 @@ AnchorPoint: "koronis" 183.8 1101 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1168.8 395 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -10781,7 +10781,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 140.8 518 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -10999,7 +10999,7 @@ AnchorPoint: "koronis" 288.8 1098 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -11008,7 +11008,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 140.8 518 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11200,7 +11200,7 @@ AnchorPoint: "koronis" 658.8 1228 basechar 0
 AnchorPoint: "endofonon" 760.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1304.8 -251 basechar 0
 AnchorPoint: "yfesis" 1101.8 459 basechar 0
-AnchorPoint: "psifiston" 783.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -11209,7 +11209,7 @@ AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 1074.8 416 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 780 -150 basechar 0
+AnchorPoint: "klasmaBottom" 720 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11401,7 +11401,7 @@ AnchorPoint: "koronis" 651.8 1151 basechar 0
 AnchorPoint: "endofonon" 760.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1304.8 -251 basechar 0
 AnchorPoint: "yfesis" 1215.8 368 basechar 0
-AnchorPoint: "psifiston" 783.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -11410,7 +11410,7 @@ AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 1212.8 1064 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 780 -150 basechar 0
+AnchorPoint: "klasmaBottom" 720 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -11670,7 +11670,7 @@ AnchorPoint: "koronis" 611.8 1081 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1141.8 428 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -11679,7 +11679,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 782.8 1050 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -12453,7 +12453,7 @@ StartChar: oligonElafronApostrofos
 Encoding: 57364 57364 100
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 214.6 34.8008<508.944 571.045> 227.94 82.3594<263.125 326.458> 363.66 58.5801<368.04 521.057> 465.16 53.3594<335.097 712.346>
 VStem: 90.293 162.399<317.457 410.16> 572.853 154.28<258.316 320.442> 884.893 191.4<295.606 360.948>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -12632,7 +12632,7 @@ AnchorPoint: "koronis" 815.8 1051 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "yfesis" 1061.8 459 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -12641,7 +12641,7 @@ AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 152.8 610 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -12798,7 +12798,7 @@ StartChar: oligonChamili
 Encoding: 57365 57365 102
 Width: 1449
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<399.163 917.396> -6.95996 135.72<686.103 1208.44> 329.44 73.0791<791.549 1077.33> 736.02 67.8604<37.6572 152.694>
 AnchorPoint: "gorgonBottom" 880 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 799 basechar 0
@@ -12951,7 +12951,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 711.8 1189 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
 AnchorPoint: "isonIndicator" 30 1330 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -12961,7 +12961,7 @@ AnchorPoint: "fthoraTop" 597.8 989 basechar 0
 AnchorPoint: "noteTop" 60 1300 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13174,7 +13174,7 @@ AnchorPoint: "yfenBelow" 677.8 -272 basechar 0
 AnchorPoint: "koronis" 711.8 1189 basechar 0
 AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 743.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
 AnchorPoint: "isonIndicator" 30 1330 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
@@ -13184,7 +13184,7 @@ AnchorPoint: "fthoraTop" 597.8 1029 basechar 0
 AnchorPoint: "noteTop" 60 1300 basechar 0
 AnchorPoint: "diesis" 412.8 -85 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 740 -150 basechar 0
+AnchorPoint: "klasmaBottom" 680 -150 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13427,7 +13427,7 @@ AnchorPoint: "yfenBelow" 725.84 -442 basechar 0
 AnchorPoint: "koronis" 759.84 1059 basechar 0
 AnchorPoint: "endofonon" 768.84 -509 basechar 0
 AnchorPoint: "heteronConnecting" 1312.84 -281 basechar 0
-AnchorPoint: "psifiston" 780.84 -231 basechar 0
+AnchorPoint: "psifiston" 870 -270 basechar 0
 AnchorPoint: "measureNumber" 30 1100 basechar 0
 AnchorPoint: "isonIndicator" 30 1200 basechar 0
 AnchorPoint: "apli" 720 -350 basechar 0
@@ -13437,7 +13437,7 @@ AnchorPoint: "fthoraTop" 645.84 869 basechar 0
 AnchorPoint: "noteTop" 60 1100 basechar 0
 AnchorPoint: "diesis" 460.84 -228 basechar 0
 AnchorPoint: "yfesis" 964.84 1105 basechar 0
-AnchorPoint: "klasmaBottom" 790 -300 basechar 0
+AnchorPoint: "klasmaBottom" 730 -300 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -13654,7 +13654,7 @@ AnchorPoint: "yfenBelow" 677.8 -442 basechar 0
 AnchorPoint: "koronis" 711.8 1059 basechar 0
 AnchorPoint: "endofonon" 720.8 -519 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
-AnchorPoint: "psifiston" 729.8 -230 basechar 0
+AnchorPoint: "psifiston" 870 -270 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
 AnchorPoint: "isonIndicator" 30 1300 basechar 0
 AnchorPoint: "apli" 720 -350 basechar 0
@@ -13664,7 +13664,7 @@ AnchorPoint: "fthoraTop" 597.8 869 basechar 0
 AnchorPoint: "noteTop" 60 1300 basechar 0
 AnchorPoint: "diesis" 412.8 -228 basechar 0
 AnchorPoint: "yfesis" 916.8 1105 basechar 0
-AnchorPoint: "klasmaBottom" 790 -300 basechar 0
+AnchorPoint: "klasmaBottom" 730 -300 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -16991,8 +16991,8 @@ StartChar: oligonKentimataAbove.alt01
 Encoding: 61441 61441 147
 Width: 1298
 VWidth: 1392
-Flags: HW
-HStem: 246 121<182.719 1282.04> 463 20<992.949 1021.84> 641 21<485.137 519.998 731.066 768.424>
+Flags: W
+HStem: -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 197.84 206.48<449.24 579.739 683.462 724.424> 197.84 31.3203<593 620.759>
 AnchorPoint: "psifiston" 788.8 -119 basechar 0
 LayerCount: 2
 Back
@@ -17057,18 +17057,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-456.200195312 287.16015625 m 0
- 481.696289062 210.668945312 506.012695312 197.83984375 579.739257812 197.83984375 c 0x80
+456.200195312 287.16015625 m 0x20
+ 481.696289062 210.668945312 506.012695312 197.83984375 579.739257812 197.83984375 c 0x20
  607.192382812 197.83984375 620.919921875 203.639648438 620.919921875 215.240234375 c 0
- 620.919921875 216.038085938 620.592773438 224.798828125 606.419921875 229.16015625 c 0x40
+ 620.919921875 216.038085938 620.592773438 224.798828125 606.419921875 229.16015625 c 0x10
  581.047851562 236.967773438 565.116210938 350.614257812 536.819335938 379.959960938 c 0
- 513.838867188 403.79296875 454.435546875 404.3203125 449.240234375 404.3203125 c 0x80
+ 513.838867188 403.79296875 454.435546875 404.3203125 449.240234375 404.3203125 c 0
  419.853515625 404.3203125 402.83984375 399.680664062 398.200195312 390.400390625 c 1
  398.200195312 389.240234375 l 2
  398.200195312 376.11328125 419.948242188 384.491210938 433.580078125 356.1796875 c 0
- 438.606445312 345.739257812 446.146484375 322.733398438 456.200195312 287.16015625 c 0
+ 438.606445312 345.739257812 446.146484375 322.733398438 456.200195312 287.16015625 c 0x20
 646.439453125 287.16015625 m 0
- 671.936523438 210.671875 696.249023438 197.83984375 769.979492188 197.83984375 c 0x40
+ 671.936523438 210.671875 696.249023438 197.83984375 769.979492188 197.83984375 c 0x10
  797.432617188 197.83984375 811.16015625 203.639648438 811.16015625 215.240234375 c 0
  811.16015625 230.610351562 795.435546875 218.849609375 781.580078125 246.559570312 c 0
  759.223632812 291.271484375 751.373046875 370.052734375 714.879882812 389.8203125 c 0
@@ -17077,20 +17077,20 @@ SplineSet
  588.439453125 389.240234375 l 2
  588.439453125 376.114257812 610.189453125 384.490234375 623.819335938 356.1796875 c 0
  628.845703125 345.739257812 636.385742188 322.733398438 646.439453125 287.16015625 c 0
-481.240234375 -11.599609375 m 0xa0
+481.240234375 -11.599609375 m 0x80
  484.638671875 -11.599609375 656.646484375 -6.9599609375 821.120117188 -6.9599609375 c 0
  988.052734375 -6.9599609375 1105.31933594 -6.9599609375 1215.51953125 -44.66015625 c 0
  1232.16308594 -50.3544921875 1252.23632812 -60.3203125 1252.63964844 -60.3203125 c 0
  1262.69238281 -60.3203125 1267.71972656 -52.2001953125 1267.71972656 -35.9599609375 c 256
  1267.71972656 -18.9482421875 1261.53320312 -5.8017578125 1249.16015625 3.48046875 c 0
  1168.73242188 69.2138671875 1079.79882812 109.426757812 982.359375 124.120117188 c 0
- 964.572265625 127.212890625 933.639648438 128.759765625 889.559570312 128.759765625 c 0x60
+ 964.572265625 127.212890625 933.639648438 128.759765625 889.559570312 128.759765625 c 0x40
  787.1796875 128.759765625 677.21875 120.639648438 423.239257812 120.639648438 c 0
  338.172851562 120.639648438 282.87890625 122.186523438 257.359375 125.280273438 c 0
  154.505859375 138.426757812 89.1591796875 152.733398438 61.3193359375 168.200195312 c 0
  58.2255859375 170.51953125 54.166015625 171.6796875 49.1396484375 171.6796875 c 0
  23.259765625 171.6796875 -14.7763671875 61.2255859375 253.879882812 8.1201171875 c 0
- 328.892578125 -5.0263671875 404.6796875 -11.599609375 481.240234375 -11.599609375 c 0xa0
+ 328.892578125 -5.0263671875 404.6796875 -11.599609375 481.240234375 -11.599609375 c 0x80
 EndSplineSet
 EndChar
 
@@ -17166,14 +17166,14 @@ AnchorPoint: "koronis" 651.8 1151 basechar 0
 AnchorPoint: "endofonon" 760.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1304.8 -251 basechar 0
 AnchorPoint: "yfesis" 1201.8 381 basechar 0
-AnchorPoint: "psifiston" 783.8 -92 basechar 0
+AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
 AnchorPoint: "isonIndicator" 30 1100 basechar 0
 AnchorPoint: "fthoraTop" 1212.8 1064 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "diesis" 452.8 -85 basechar 0
 AnchorPoint: "fthoraBottom" 340.8 -70 basechar 0
-AnchorPoint: "klasmaBottom" 780 -150 basechar 0
+AnchorPoint: "klasmaBottom" 720 -150 basechar 0
 AnchorPoint: "antikenoma" 720 -120 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
 LayerCount: 2
@@ -17447,8 +17447,8 @@ StartChar: psifiston
 Encoding: 57505 57505 151
 Width: 0
 VWidth: 1392
-Flags: HW
-HStem: 81.4404 76.5596<-338.611 -106.112>
+Flags: W
+HStem: -376.56 76.5596<-337.611 -105.112>
 AnchorPoint: "psifiston" 0 0 mark 0
 LayerCount: 2
 Back
@@ -17980,8 +17980,8 @@ StartChar: klasmaBelow
 Encoding: 57553 57553 159
 Width: 0
 VWidth: 345
-Flags: HW
-HStem: 26.4404 63.7998<-66.8016 138.676>
+Flags: W
+HStem: -173.56 63.7998<-66.8016 138.676>
 AnchorPoint: "klasmaBottom" 0 0 mark 0
 LayerCount: 2
 Back
@@ -33675,7 +33675,7 @@ StartChar: oligonChamiliKentimata
 Encoding: 57485 57485 329
 Width: 1572
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 134.56<348.239 613.319 1170.7 1338.31> 274.92 62.0605<665.768 946.42> 587.54 50.46<33.5353 128.617>
 VStem: 493.84 100.92<235.306 285.36> 504.28 90.4795<357.286 397.728>
 AnchorPoint: "diesisSecondary" 1046.8 905 basechar 0
@@ -33872,8 +33872,8 @@ StartChar: psifiston.salt01
 Encoding: 61446 61446 330
 Width: 0
 VWidth: 1392
-Flags: HW
-HStem: 103 43.5<-338.092 62.8081> 234 12.5<-759.383 -746.164> 523 30<681.258 759.553>
+Flags: W
+HStem: -368.56 76.5596<-118.611 113.888>
 AnchorPoint: "psifiston" 0 0 mark 0
 LayerCount: 2
 Back
@@ -39027,8 +39027,8 @@ StartChar: psifiston.alt01
 Encoding: 61448 61448 386
 Width: 0
 VWidth: 1392
-Flags: HW
-HStem: 81.4404 76.5596<-118.611 113.888>
+Flags: W
+HStem: -368.56 76.5596<-118.611 113.888>
 AnchorPoint: "psifiston" 0 0 mark 0
 LayerCount: 2
 Back
