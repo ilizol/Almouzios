@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1756211099
+ModificationTime: 1756213439
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8153,7 +8153,7 @@ StartChar: oligonIson
 Encoding: 57360 57360 76
 Width: 1299
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8> 248.24 93.96<245.843 715.784> 255.2 117.16<477.373 1072.28> 446.6 78.8809<145.327 294.31>
 VStem: 31 175.16<359.499 445.771>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8165,8 +8165,6 @@ AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
-AnchorPoint: "omalon" 800 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 737.8 485 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
@@ -8283,7 +8281,7 @@ StartChar: oligonElafron
 Encoding: 57363 57363 77
 Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 452.4 52.1992<336.883 713.723>
 VStem: 90.293 162.399<305.887 398.335> 884.893 191.4<282.729 348.037>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8295,8 +8293,6 @@ AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1641.93 -251 basechar 0
 AnchorPoint: "heteron" 1036.93 -5 basechar 0
-AnchorPoint: "omalon" 800 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 551.933 803 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
@@ -8603,7 +8599,7 @@ StartChar: oligonApostrofos
 Encoding: 57361 57361 79
 Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 233.16 290<253.853 609.973>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.933 679 basechar 0
@@ -8614,8 +8610,6 @@ AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1641.93 -251 basechar 0
 AnchorPoint: "heteron" 1036.93 -5 basechar 0
-AnchorPoint: "omalon" 800 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 695.933 650 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
@@ -8710,7 +8704,7 @@ StartChar: oligonYporroi
 Encoding: 57362 57362 80
 Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 221.56 56.8408<469.962 550.29> 464 45.2402<700.508 769.313>
 VStem: 557.772 153.12<285.234 447.76> 557.772 145<300.298 410.64 439.64 462.403>
 AnchorPoint: "barline" 946.933 646 basechar 0
@@ -8723,8 +8717,6 @@ AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1641.93 -251 basechar 0
 AnchorPoint: "heteron" 1036.93 -5 basechar 0
-AnchorPoint: "omalon" 800 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 400 basechar 0
 AnchorPoint: "fthoraTop" 938.933 692 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
@@ -12454,7 +12446,7 @@ StartChar: oligonElafronApostrofos
 Encoding: 57364 57364 100
 Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 214.6 34.8008<508.944 571.045> 227.94 82.3594<263.125 326.458> 363.66 58.5801<368.04 521.057> 465.16 53.3594<335.097 712.346>
 VStem: 90.293 162.399<317.457 410.16> 572.853 154.28<258.316 320.442> 884.893 191.4<295.606 360.948>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -12466,8 +12458,6 @@ AnchorPoint: "measureNumber" 30 700 basechar 0
 AnchorPoint: "isonIndicator" 30 700 basechar 0
 AnchorPoint: "heteronConnecting" 1641.93 -251 basechar 0
 AnchorPoint: "heteron" 1036.93 -5 basechar 0
-AnchorPoint: "omalon" 800 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 600 basechar 0
 AnchorPoint: "fthoraTop" 551.933 803 basechar 0
 AnchorPoint: "fthoraBottom" 738.933 -23 basechar 0
@@ -12799,7 +12789,7 @@ StartChar: oligonChamili
 Encoding: 57365 57365 102
 Width: 1449
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<399.163 917.396> -6.95996 135.72<686.103 1208.44> 329.44 73.0791<791.549 1077.33> 736.02 67.8604<37.6572 152.694>
 AnchorPoint: "gorgonBottom" 880 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 799 basechar 0
@@ -12810,8 +12800,6 @@ AnchorPoint: "measureNumber" 30 1000 basechar 0
 AnchorPoint: "isonIndicator" 30 1000 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
-AnchorPoint: "omalon" 880 -100 basechar 0
-AnchorPoint: "omalonConnecting" 1300 -100 basechar 0
 AnchorPoint: "noteTop" 60 900 basechar 0
 AnchorPoint: "fthoraTop" 707.8 695 basechar 0
 AnchorPoint: "fthoraBottom" 738.8 -23 basechar 0
