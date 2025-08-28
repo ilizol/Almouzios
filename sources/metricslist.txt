@@ -332,12 +332,12 @@
 	rightSB: -607.84
 0xE0A5 heteron
 	width: 0
-	leftSB: -727.28
-	rightSB: -1019.68
+	leftSB: -817.28
+	rightSB: -929.68
 0xE0A6 heteronConnecting
 	width: 0
-	leftSB: -727.28
-	rightSB: -1019.68
+	leftSB: -817.28
+	rightSB: -929.68
 0xE0A7 endofonon
 	width: 0
 	leftSB: -817.28
