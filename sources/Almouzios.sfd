@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1756378719
+ModificationTime: 1756379591
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -119,7 +119,7 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 294 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2356,7 +2356,7 @@ StartChar: ison
 Encoding: 57344 57344 33
 Width: 1268
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -6.95996 93.96<242.934 710.644> 0 118.32<473.463 1066.94> 190.24 80.04<144.331 293.302>
 VStem: 30 175.16<104.514 190.571>
 AnchorPoint: "yfenAbove" 878.8 409 basechar 0
@@ -2451,7 +2451,7 @@ StartChar: oligonKentimaBelow
 Encoding: 57347 57347 34
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -258.68 31.3203<1016.24 1043.68> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "apli" 750 -380 basechar 0
 AnchorPoint: "gorgonBottom" 500 -80 basechar 0
@@ -2551,7 +2551,7 @@ StartChar: oligon
 Encoding: 57345 57345 35
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "yfenAbove" 878.8 409 basechar 0
 AnchorPoint: "yfenBelow" 877.8 -272 basechar 0
@@ -2627,7 +2627,7 @@ StartChar: oligonKentimaAbove
 Encoding: 57348 57348 36
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 679 basechar 0
@@ -2730,7 +2730,7 @@ StartChar: oligonYpsiliRight
 Encoding: 57349 57349 37
 Width: 1316
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 971 basechar 0
@@ -2849,7 +2849,7 @@ StartChar: oligonYpsiliLeft
 Encoding: 57350 57350 38
 Width: 1299
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1053 basechar 0
@@ -2968,7 +2968,7 @@ StartChar: oligonKentimaYpsiliRight
 Encoding: 57351 57351 39
 Width: 1316
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 970 basechar 0
@@ -3113,7 +3113,7 @@ StartChar: oligonKentimaYpsiliMiddle
 Encoding: 57352 57352 40
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 1171 basechar 0
@@ -3121,7 +3121,7 @@ AnchorPoint: "yfenBelow" 877.8 -272 basechar 0
 AnchorPoint: "koronis" 223.8 603 basechar 0
 AnchorPoint: "klasmaTop" 200 250 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 700 basechar 0
+AnchorPoint: "isonIndicator" 30 750 basechar 0
 AnchorPoint: "heteronConnecting" 1640.8 -251 basechar 0
 AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 800 -100 basechar 0
@@ -3256,7 +3256,7 @@ StartChar: oligonDoubleYpsili
 Encoding: 57353 57353 41
 Width: 1317
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1039 basechar 0
@@ -3264,7 +3264,7 @@ AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "koronis" 732.8 1029 basechar 0
 AnchorPoint: "endofonon" 751.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 800 -100 basechar 0
@@ -3416,15 +3416,15 @@ StartChar: oligonKentimataDoubleYpsili
 Encoding: 57354 57354 42
 Width: 1478
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 414.699 36.541<430.652 469.821 662.652 701.821>
+Flags: W
+HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.35> 414.699 36.541<430.652 469.821 662.652 701.821>
 AnchorPoint: "gorgonBottom" 780 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.007 1139 basechar 0
 AnchorPoint: "yfenBelow" 878.007 -272 basechar 0
 AnchorPoint: "koronis" 732.007 1139 basechar 0
 AnchorPoint: "endofonon" 751.007 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 700 basechar 0
+AnchorPoint: "isonIndicator" 30 750 basechar 0
 AnchorPoint: "heteronConnecting" 1641.01 -251 basechar 0
 AnchorPoint: "heteron" 1036.01 -5 basechar 0
 AnchorPoint: "omalon" 880 -100 basechar 0
@@ -3628,7 +3628,7 @@ StartChar: isonApostrofos
 Encoding: 57376 57376 43
 Width: 1592
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -370.04 290<973.66 1327.46> -6.95996 93.96<242.935 710.644> 0 118.32<473.463 1066.94> 190.24 80.04<144.329 293.303>
 VStem: 30 175.16<104.514 190.571>
 AnchorPoint: "yfenAbove" 638.8 659 basechar 0
@@ -3743,7 +3743,7 @@ StartChar: apostrofosSyndesmos
 Encoding: 57378 57378 44
 Width: 1615
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -254.04 290<986.859 1340.66> -68.4404 290<105.26 459.06>
 AnchorPoint: "yfenAbove" 868.8 659 basechar 0
 AnchorPoint: "yfenBelow" 1325.8 -346 basechar 0
@@ -3833,7 +3833,7 @@ StartChar: yporroi
 Encoding: 57379 57379 45
 Width: 370
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -80.04 56.8398<40.2394 120.566> 162.4 45.2393<270.784 339.585>
 VStem: 128.049 153.119<-16.3648 146.16> 128.049 145<-1.30277 109.04 138.04 160.804>
 AnchorPoint: "diesisSecondary" 523.648 655 basechar 0
@@ -3880,7 +3880,7 @@ StartChar: runningElafron
 Encoding: 57381 57381 46
 Width: 2004
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -90.4805 290.58<1722.5 1872.91> -68.4404 290<115.26 469.06> 167.04 61.4795<1043.66 1486.63>
 VStem: 737.6 206.479<12.7935 108.348>
 AnchorPoint: "stavros" 495.8 255 basechar 0
@@ -4009,7 +4009,7 @@ StartChar: elafron
 Encoding: 57380 57380 47
 Width: 1297
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -90.4805 290.58<1014.9 1165.31> 167.04 61.4795<336.058 779.028>
 VStem: 30 206.479<12.7935 108.348>
 AnchorPoint: "yfenAbove" 598.8 669 basechar 0
@@ -4103,7 +4103,7 @@ StartChar: elafronApostrofos
 Encoding: 57382 57382 48
 Width: 1297
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -135.72 42.9199<583.662 659.951> -90.4805 290.58<1014.9 1165.31> 167.04 61.4795<336.058 779.028>
 VStem: 30 206.479<12.7935 108.348> 662.2 186.76<-80.3725 -13.4287>
 AnchorPoint: "gorgonBottom" 730 -150 basechar 0
@@ -4230,7 +4230,7 @@ StartChar: chamiliApostrofos
 Encoding: 57384 57384 49
 Width: 1343
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -328.44 290<394.66 748.46> 86.8398 78.8799<791.049 1213.08> 499.22 67.8604<38.2159 152.845>
 VStem: 667.26 149.06<203.767 272.833>
 AnchorPoint: "yfenAbove" 579.8 689 basechar 0
@@ -4362,7 +4362,7 @@ StartChar: chamili
 Encoding: 57383 57383 50
 Width: 1342
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: 27.8398 73.0801<791.548 1077.33> 434.42 67.8604<37.6572 152.694>
 AnchorPoint: "yfenAbove" 578.64 689 basechar 0
 AnchorPoint: "yfenBelow" 607.64 -272 basechar 0
@@ -4467,7 +4467,7 @@ StartChar: chamiliElafron
 Encoding: 57385 57385 51
 Width: 1400
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -90.4805 290.58<1117.38 1267.79> 167.04 61.4795<438.539 881.507> 399.04 73.0801<791.548 1077.34> 805.62 67.8604<37.6572 152.694>
 VStem: 132.479 206.479<12.7935 108.348>
 AnchorPoint: "yfenAbove" 578.64 1069 basechar 0
@@ -4632,7 +4632,7 @@ StartChar: chamiliElafronApostrofos
 Encoding: 57386 57386 52
 Width: 1401
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -135.72 42.9199<686.742 763.032> -90.4805 290.58<1117.98 1268.39> 167.04 61.4795<439.137 882.108> 399.04 73.0801<791.548 1077.34> 805.62 67.8604<37.6572 152.694>
 VStem: 133.08 206.479<12.7935 108.347> 765.28 186.76<-80.3722 -13.4286>
 AnchorPoint: "yfenAbove" 578.64 1019 basechar 0
@@ -4830,7 +4830,7 @@ StartChar: doubleChamili
 Encoding: 57387 57387 53
 Width: 1435
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: 27.8398 73.0801<791.548 1077.34> 387.439 73.0801<884.348 1170.12> 434.42 67.8604<37.6572 152.694> 794.02 67.8604<130.457 245.494>
 AnchorPoint: "yfenAbove" 578.64 1009 basechar 0
 AnchorPoint: "yfenBelow" 607.64 -272 basechar 0
@@ -5004,7 +5004,7 @@ StartChar: petastiIson
 Encoding: 57408 57408 54
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 317.84 93.96<242.933 710.644> 324.8 118.32<473.463 1066.94> 515.04 80.04<144.329 293.306>
 VStem: 30 175.16<429.313 515.371> 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 740.8 817 basechar 0
@@ -5152,7 +5152,7 @@ StartChar: petasti
 Encoding: 57409 57409 55
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 817 basechar 0
@@ -5243,7 +5243,7 @@ StartChar: petastiOligon
 Encoding: 57410 57410 56
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 290 132.239<248.523 766.675> 294.64 135.72<535.187 1057.8>
 VStem: 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 740.8 817 basechar 0
@@ -5374,7 +5374,7 @@ StartChar: petastiKentima
 Encoding: 57411 57411 57
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62>
 VStem: 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 740.8 817 basechar 0
@@ -5491,7 +5491,7 @@ StartChar: petastiYpsiliRight
 Encoding: 57412 57412 58
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1077 basechar 0
@@ -5624,7 +5624,7 @@ StartChar: petastiYpsiliLeft
 Encoding: 57413 57413 59
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1067 basechar 0
@@ -5757,7 +5757,7 @@ StartChar: petastiKentimaYpsiliRight
 Encoding: 57414 57414 60
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1067 basechar 0
@@ -5916,7 +5916,7 @@ StartChar: petastiKentimaYpsiliMiddle
 Encoding: 57415 57415 61
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1067 basechar 0
@@ -6075,7 +6075,7 @@ StartChar: petastiApostrofos
 Encoding: 57440 57440 62
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 128.76 290<254.46 608.26>
 VStem: 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 740.8 817 basechar 0
@@ -6199,7 +6199,7 @@ StartChar: petastiElafron
 Encoding: 57442 57442 63
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 259.84 49.8799<328.384 356.054 397.439 435.701> 526.64 60.3203<374.061 774.364>
 VStem: 76.4004 359.6<285.939 411.49> 997.44 221.56<329.286 400.705> 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 660.8 877 basechar 0
@@ -6353,7 +6353,7 @@ StartChar: petastiElafronApostrofos
 Encoding: 57444 57444 64
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 259.84 49.8799<328.384 356.054 397.439 435.701> 526.64 60.3203<374.061 774.364>
 VStem: 76.4004 359.6<285.939 411.49> 997.44 221.56<329.286 400.705> 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 650.8 857 basechar 0
@@ -6539,7 +6539,7 @@ StartChar: petastiChamili
 Encoding: 57445 57445 65
 Width: 1349
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<572.655 1005.66> 341.04 73.0801<700.548 986.344> 747.62 67.8604<-53.3428 61.6939>
 VStem: 1120.88 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 778.84 997 basechar 0
@@ -6701,7 +6701,7 @@ StartChar: kentima
 Encoding: 57472 57472 66
 Width: 285
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -78.8799 251.72<104.385 144.504>
 VStem: -15 270.28
 LayerCount: 2
@@ -6743,7 +6743,7 @@ StartChar: kentimata
 Encoding: 57473 57473 67
 Width: 564
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: 136.301 36.5391<31.245 70.4144 263.245 302.414>
 AnchorPoint: "heteronConnecting" 754.64 -198 basechar 0
 AnchorPoint: "yfenAbove" 361.64 643 basechar 0
@@ -6823,7 +6823,7 @@ StartChar: oligonKentimataAbove
 Encoding: 57475 57475 68
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
 AnchorPoint: "fthoraTopSecondary" 188.8 248 basechar 0
 AnchorPoint: "yfenAbove" 738.8 669 basechar 0
@@ -6945,8 +6945,8 @@ StartChar: oligonIsonKentimata
 Encoding: 57476 57476 69
 Width: 1448
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 244.76 84.6807<235.975 399.087 500.007 738.628> 423.4 81.1992<167.801 293.795> 426.301 36.5391<832.012 871.18 1064.01 1103.18>
+Flags: W
+HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.35> 244.76 84.6807<235.975 399.087 500.007 738.628> 423.4 81.1992<167.801 293.795> 426.301 36.5391<832.012 871.18 1064.01 1103.18>
 VStem: 31.3672 183.279<352.242 424.947>
 AnchorPoint: "diesisSecondary" 824.007 869 basechar 0
 AnchorPoint: "yfesisSecondary" 819.007 544 basechar 0
@@ -7125,8 +7125,8 @@ StartChar: oligonYpsiliLeftKentimata
 Encoding: 57479 57479 70
 Width: 1484
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<260.079 525.16 1082.54 1250.15> 414.699 36.541<501.045 540.214 733.045 772.214>
+Flags: W
+HStem: -6.95996 134.56<260.079 525.16 1082.54 1249.94> 414.699 36.541<501.045 540.214 733.045 772.214>
 AnchorPoint: "yfenAbove" 879.8 969 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "endofonon" 751.8 -269 basechar 0
@@ -7288,8 +7288,8 @@ StartChar: oligonApostrofosKentimata
 Encoding: 57480 57480 71
 Width: 1449
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35> 215.76 290<116.26 470.06> 426.301 36.5391<832.805 871.974 1064.8 1103.97>
+Flags: W
+HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.14> 215.76 290<116.26 470.06> 426.301 36.5391<832.805 871.974 1064.8 1103.97>
 AnchorPoint: "diesisSecondary" 914.8 922 basechar 0
 AnchorPoint: "yfesisSecondary" 589.8 596 basechar 0
 AnchorPoint: "fthoraTopSecondary" 359.8 581 basechar 0
@@ -7446,8 +7446,8 @@ StartChar: oligonElafronKentimata
 Encoding: 57482 57482 72
 Width: 1450
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<226.439 491.52 1048.9 1216.51> 197.2 34.7998<243.835 294.846> 403.68 45.2402<235.948 582.391>
+Flags: W
+HStem: -6.95996 134.56<226.439 491.52 1048.9 1216.3> 197.2 34.7998<243.835 294.846> 403.68 45.2402<235.948 582.391>
 VStem: 31 141.52<273.222 358.576> 721.199 165.881<253.96 317.812>
 AnchorPoint: "diesisSecondary" 853.64 931 basechar 0
 AnchorPoint: "yfesisSecondary" 658.64 606 basechar 0
@@ -7631,8 +7631,8 @@ StartChar: oligonYporroiKentimata
 Encoding: 57481 57481 73
 Width: 1448
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 198.36 56.8398<257.912 338.245> 426.301 36.5391<776.332 815.501 1008.33 1047.5> 440.8 45.2402<488.463 557.266>
+Flags: W
+HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.35> 198.36 56.8398<257.912 338.245> 426.301 36.5391<776.332 815.501 1008.33 1047.5> 440.8 45.2402<488.463 557.266>
 VStem: 345.727 153.12<262.034 424.56> 345.727 145<277.098 387.44 416.44 439.204>
 AnchorPoint: "diesisSecondary" 914.007 921 basechar 0
 AnchorPoint: "barline" 451.007 630 basechar 0
@@ -7787,7 +7787,7 @@ StartChar: oligonKentimataBelow
 Encoding: 57474 57474 74
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -262.16 206.48<829.24 959.739 1063.46 1104.42> -262.16 31.3203<973 1000.76> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "diesisSecondary" 1544.8 665 basechar 0
 AnchorPoint: "yfesisSecondary" 373.8 -377 basechar 0
@@ -7918,15 +7918,15 @@ StartChar: oligonKentimaTripleYpsili
 Encoding: 57359 57359 75
 Width: 1449
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35>
+Flags: W
+HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.14>
 AnchorPoint: "gorgonBottom" 780 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1229 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "koronis" 732.8 1229 basechar 0
 AnchorPoint: "endofonon" 751.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 880 -100 basechar 0
@@ -8146,7 +8146,7 @@ StartChar: oligonIson
 Encoding: 57360 57360 76
 Width: 1299
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8> 248.24 93.96<245.843 715.784> 255.2 117.16<477.373 1072.28> 446.6 78.8809<145.327 294.31>
 VStem: 31 175.16<359.499 445.771>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8274,7 +8274,7 @@ StartChar: oligonElafron
 Encoding: 57363 57363 77
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 452.4 52.1992<336.883 713.723>
 VStem: 90.293 162.399<305.887 398.335> 884.893 191.4<282.729 348.037>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -8406,7 +8406,7 @@ StartChar: petastiRunningElafron
 Encoding: 57443 57443 78
 Width: 1974
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<1197.41 1630.42> 258.68 49.8799<998.864 1026.53 1067.92 1106.18> 291.16 290<114.68 470.8> 525.48 60.3193<1044.54 1444.85>
 VStem: 746.88 359.6<284.78 410.331> 1667.92 221.56<328.127 399.544> 1745.64 198.36<26.3485 107.014>
 AnchorPoint: "diesisSecondary" 611.8 1003 basechar 0
@@ -8592,7 +8592,7 @@ StartChar: oligonApostrofos
 Encoding: 57361 57361 79
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 233.16 290<253.853 609.973>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.933 679 basechar 0
@@ -8697,7 +8697,7 @@ StartChar: oligonYporroi
 Encoding: 57362 57362 80
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 221.56 56.8408<469.962 550.29> 464 45.2402<700.508 769.313>
 VStem: 557.772 153.12<285.234 447.76> 557.772 145<300.298 410.64 439.64 462.403>
 AnchorPoint: "barline" 946.933 646 basechar 0
@@ -8798,7 +8798,7 @@ StartChar: petastiYporroi
 Encoding: 57441 57441 81
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619> 70.7598 56.8398<516.375 596.719> 313.2 45.2402<746.935 815.739>
 VStem: 604.2 153.119<134.429 296.96> 604.2 145<149.498 259.84 288.84 311.603> 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "barline" 650.8 584 basechar 0
@@ -8919,8 +8919,8 @@ StartChar: oligonRunningElafronKentimata
 Encoding: 57483 57483 82
 Width: 1913
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<689.28 954.36 1511.74 1679.35> 211.12 33.0596<685.554 738.499> 227.36 216.92<86.6807 315.78> 403.68 46.4004<674.156 1019.88>
+Flags: W
+HStem: -6.95996 134.56<689.28 954.36 1511.74 1679.14> 211.12 33.0596<685.554 738.499> 227.36 216.92<86.6807 315.78> 403.68 46.4004<674.156 1019.88>
 VStem: 490.36 135.72<280.405 366.69>
 AnchorPoint: "diesisTertiary" 651.96 951 basechar 0
 AnchorPoint: "diesisSecondary" 1345.96 901 basechar 0
@@ -9136,8 +9136,8 @@ StartChar: oligonElafronApostrofosKentimata
 Encoding: 57484 57484 83
 Width: 1448
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 187.92 34.2207<401.591 454.15> 197.2 34.7998<244.202 295.213> 403.68 45.2402<236.316 582.758>
+Flags: W
+HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.35> 187.92 34.2207<401.591 454.15> 197.2 34.7998<244.202 295.213> 403.68 45.2402<236.316 582.758>
 VStem: 31.3672 141.52<273.222 358.576> 454.767 126.44<223.751 276.074> 721.566 165.881<253.96 317.812>
 AnchorPoint: "diesisSecondary" 866.007 905 basechar 0
 AnchorPoint: "yfesisSecondary" 711.007 580 basechar 0
@@ -9355,7 +9355,7 @@ StartChar: oligonKentimaMiddleKentimata
 Encoding: 57477 57477 84
 Width: 1583
 VWidth: 345
-Flags: HW
+Flags: W
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
 VStem: 1283 270.28
 AnchorPoint: "yfenAbove" 930 869 basechar 0
@@ -9386,8 +9386,8 @@ StartChar: oligonYpsiliRightKentimata
 Encoding: 57478 57478 85
 Width: 1478
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.56> 414.699 36.541<430.652 469.821 662.652 701.821>
+Flags: W
+HStem: -6.95996 134.56<224.486 489.566 1046.95 1214.35> 414.699 36.541<430.652 469.821 662.652 701.821>
 AnchorPoint: "yfenAbove" 879.007 1019 basechar 0
 AnchorPoint: "yfenBelow" 878.007 -272 basechar 0
 AnchorPoint: "endofonon" 751.007 -269 basechar 0
@@ -9549,7 +9549,7 @@ StartChar: petastiChamiliApostrofos
 Encoding: 57446 57446 86
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 128.76 290<254.46 608.26> 549.84 73.0801<791.708 1077.5> 956.42 67.8604<37.8173 152.854>
 VStem: 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 730.8 997 basechar 0
@@ -9559,7 +9559,7 @@ AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1100 basechar 0
-AnchorPoint: "isonIndicator" 30 1100 basechar 0
+AnchorPoint: "isonIndicator" 30 1150 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
 AnchorPoint: "antikenoma" 720 -120 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
@@ -9742,7 +9742,7 @@ StartChar: apostrofos
 Encoding: 57377 57377 87
 Width: 733
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -68.4404 290<105.26 459.06>
 AnchorPoint: "omalonConnecting" 730 -100 basechar 0
 AnchorPoint: "yfenAbove" 418.8 659 basechar 0
@@ -9783,15 +9783,15 @@ StartChar: oligonKentimataTripleYpsili
 Encoding: 57358 57358 88
 Width: 1479
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35> 414.699 36.541<431.445 470.614 663.445 702.614>
+Flags: W
+HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.14> 414.699 36.541<431.445 470.614 663.445 702.614>
 AnchorPoint: "gorgonBottom" 780 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1229 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "koronis" 732.8 1229 basechar 0
 AnchorPoint: "endofonon" 751.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 880 -100 basechar 0
@@ -10037,7 +10037,7 @@ StartChar: doubleChamiliElafronApostrofos
 Encoding: 57390 57390 89
 Width: 1435
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -425.72 42.9199<686.742 763.032> -380.48 290.58<1117.98 1268.39> -122.96 61.4795<439.137 882.108> 92.6396 73.0801<791.548 1077.34> 452.239 73.0801<884.348 1170.12> 499.22 67.8604<37.6572 152.694> 858.819 67.8604<130.457 245.494>
 VStem: 133.08 206.479<-277.207 -181.653> 765.28 186.76<-370.372 -303.429>
 AnchorPoint: "yfenAbove" 578.64 999 basechar 0
@@ -10045,7 +10045,7 @@ AnchorPoint: "yfenBelow" 607.64 -542 basechar 0
 AnchorPoint: "koronis" 718.64 1004 basechar 0
 AnchorPoint: "endofonon" 580.64 -579 basechar 0
 AnchorPoint: "measureNumber" 30 1000 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -472 basechar 0
 AnchorPoint: "omalonConnecting" 1400 -400 basechar 0
 AnchorPoint: "apli" 780 -550 basechar 0
@@ -10305,7 +10305,7 @@ StartChar: doubleChamiliElafron
 Encoding: 57389 57389 90
 Width: 1435
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -380.48 290.58<1118.38 1268.79> -122.96 61.4795<439.539 882.507> 92.6396 73.0801<791.548 1077.34> 452.239 73.0801<884.348 1170.12> 499.22 67.8604<37.6572 152.694> 858.819 67.8604<130.457 245.494>
 VStem: 133.479 206.479<-277.207 -181.652>
 AnchorPoint: "yfenAbove" 578.64 999 basechar 0
@@ -10313,7 +10313,7 @@ AnchorPoint: "yfenBelow" 607.64 -542 basechar 0
 AnchorPoint: "koronis" 718.64 994 basechar 0
 AnchorPoint: "endofonon" 580.64 -499 basechar 0
 AnchorPoint: "measureNumber" 30 1000 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -472 basechar 0
 AnchorPoint: "omalonConnecting" 1400 -400 basechar 0
 AnchorPoint: "apli" 780 -550 basechar 0
@@ -10540,14 +10540,14 @@ StartChar: doubleChamiliApostrofos
 Encoding: 57388 57388 91
 Width: 1344
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -328.44 290<415.54 769.34> 92.6396 73.0801<791.548 1077.34> 452.239 73.0801<884.348 1170.12> 499.22 67.8604<37.6572 152.694> 858.819 67.8604<130.457 245.494>
 AnchorPoint: "yfenAbove" 578.64 999 basechar 0
 AnchorPoint: "yfenBelow" 607.64 -542 basechar 0
 AnchorPoint: "koronis" 718.64 1004 basechar 0
 AnchorPoint: "endofonon" 580.64 -529 basechar 0
 AnchorPoint: "measureNumber" 30 1000 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -412 basechar 0
 AnchorPoint: "omalonConnecting" 1300 -350 basechar 0
 AnchorPoint: "apli" 750 -450 basechar 0
@@ -10745,7 +10745,7 @@ StartChar: petastiKentimataDoubleYpsili
 Encoding: 57417 57417 92
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619> 324.699 36.541<370.445 409.614 602.445 641.614>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1187 basechar 0
@@ -10972,7 +10972,7 @@ StartChar: petastiKentimaDoubleYpsiliRight
 Encoding: 57418 57418 93
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1217 basechar 0
@@ -11173,7 +11173,7 @@ StartChar: petastiKentimaDoubleYpsiliLeft
 Encoding: 57419 57419 94
 Width: 1341
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<564.615 997.619>
 VStem: 1112.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 780.8 1217 basechar 0
@@ -11374,7 +11374,7 @@ StartChar: petastiKentimataTripleYpsili
 Encoding: 57421 57421 95
 Width: 1443
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<564.615 997.619> 324.699 36.541<410.445 449.614 642.445 681.614>
 VStem: 1112.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 780.8 1207 basechar 0
@@ -11643,7 +11643,7 @@ StartChar: petastiTripleYpsili
 Encoding: 57420 57420 96
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1147 basechar 0
@@ -11860,7 +11860,7 @@ StartChar: oligonKentimaDoubleYpsiliRight
 Encoding: 57355 57355 97
 Width: 1316
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 1209 basechar 0
@@ -11868,7 +11868,7 @@ AnchorPoint: "yfenBelow" 877.8 -272 basechar 0
 AnchorPoint: "koronis" 731.8 1209 basechar 0
 AnchorPoint: "endofonon" 750.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 700 basechar 0
+AnchorPoint: "isonIndicator" 30 750 basechar 0
 AnchorPoint: "heteronConnecting" 1640.8 -251 basechar 0
 AnchorPoint: "heteron" 1035.8 -5 basechar 0
 AnchorPoint: "omalon" 800 -100 basechar 0
@@ -12045,15 +12045,15 @@ StartChar: oligonKentimaDoubleYpsiliLeft
 Encoding: 57356 57356 98
 Width: 1449
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35>
+Flags: W
+HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.14>
 AnchorPoint: "gorgonBottom" 780 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1209 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "koronis" 732.8 1209 basechar 0
 AnchorPoint: "endofonon" 751.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 880 -100 basechar 0
@@ -12231,15 +12231,15 @@ StartChar: oligonTripleYpsili
 Encoding: 57357 57357 99
 Width: 1571
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.35>
+Flags: W
+HStem: -6.95996 134.56<225.279 490.359 1047.74 1215.14>
 AnchorPoint: "gorgonBottom" 780 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1049 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
 AnchorPoint: "koronis" 732.8 1049 basechar 0
 AnchorPoint: "endofonon" 751.8 -294 basechar 0
 AnchorPoint: "measureNumber" 30 500 basechar 0
-AnchorPoint: "isonIndicator" 30 1000 basechar 0
+AnchorPoint: "isonIndicator" 30 1050 basechar 0
 AnchorPoint: "heteronConnecting" 1641.8 -251 basechar 0
 AnchorPoint: "heteron" 1036.8 -5 basechar 0
 AnchorPoint: "omalon" 880 -100 basechar 0
@@ -12433,7 +12433,7 @@ StartChar: oligonElafronApostrofos
 Encoding: 57364 57364 100
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<248.496 766.729> -6.95996 135.72<535.435 1057.78> 214.6 34.8008<508.944 571.045> 227.94 82.3594<263.125 326.458> 363.66 58.5801<368.04 521.057> 465.16 53.3594<335.097 712.346>
 VStem: 90.293 162.399<317.457 410.16> 572.853 154.28<258.316 320.442> 884.893 191.4<295.606 360.948>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -12601,7 +12601,7 @@ StartChar: petastiDoubleYpsili
 Encoding: 57416 57416 101
 Width: 1403
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.619>
 VStem: 1072.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 740.8 1067 basechar 0
@@ -12776,7 +12776,7 @@ StartChar: oligonChamili
 Encoding: 57365 57365 102
 Width: 1449
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -11.5996 132.239<399.163 917.396> -6.95996 135.72<686.103 1208.44> 329.44 73.0791<791.549 1077.33> 736.02 67.8604<37.6572 152.694>
 AnchorPoint: "gorgonBottom" 880 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 799 basechar 0
@@ -12919,7 +12919,7 @@ StartChar: petastiChamiliElafron
 Encoding: 57447 57447 103
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 259.84 49.8799<328.384 356.054 397.439 435.701> 526.64 60.3203<374.061 774.364> 781.84 73.0801<791.708 1077.5> 1188.42 67.8604<37.8173 152.854>
 VStem: 76.4004 359.6<285.939 411.49> 997.44 221.56<329.286 400.705> 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 730.8 1197 basechar 0
@@ -12929,7 +12929,7 @@ AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
-AnchorPoint: "isonIndicator" 30 1330 basechar 0
+AnchorPoint: "isonIndicator" 30 1400 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
 AnchorPoint: "antikenoma" 720 -120 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
@@ -13142,7 +13142,7 @@ StartChar: petastiChamiliElafronApostrofos
 Encoding: 57448 57448 104
 Width: 1301
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<524.615 957.62> 259.84 49.8799<328.384 356.054 397.439 435.701> 526.64 60.3203<374.061 774.364> 781.84 73.0801<791.708 1077.5> 1188.42 67.8604<37.8173 152.854>
 VStem: 76.4004 359.6<285.939 411.49> 997.44 221.56<329.286 400.705> 1072.84 198.36<26.349 107.014>
 AnchorPoint: "yfenAbove" 730.8 1197 basechar 0
@@ -13152,7 +13152,7 @@ AnchorPoint: "endofonon" 720.8 -359 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "psifiston" 870 -120 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
-AnchorPoint: "isonIndicator" 30 1330 basechar 0
+AnchorPoint: "isonIndicator" 30 1400 basechar 0
 AnchorPoint: "apli" 720 -220 basechar 0
 AnchorPoint: "antikenoma" 720 -120 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -70 basechar 0
@@ -13395,7 +13395,7 @@ StartChar: petastiDoubleChamili
 Encoding: 57449 57449 105
 Width: 1349
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -228.16 54.5205<572.655 1005.66> 212.64 73.0801<700.548 986.344> 572.239 73.0801<793.348 1079.12> 619.22 67.8604<-53.3428 61.6939> 978.819 67.8604<39.457 154.494>
 VStem: 1120.88 198.36<-113.651 -32.9859>
 AnchorPoint: "yfenAbove" 778.84 1057 basechar 0
@@ -13622,7 +13622,7 @@ StartChar: petastiDoubleChamiliApostrofos
 Encoding: 57450 57450 106
 Width: 1304
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -228.16 54.5205<524.615 957.62> -11.2402 290<254.46 608.26> 398.24 73.0801<791.708 1077.5> 757.84 73.0801<884.508 1170.28> 804.82 67.8604<37.8173 152.854> 1164.42 67.8604<130.617 245.654>
 VStem: 1072.84 198.36<-113.651 -32.9859>
 AnchorPoint: "yfenAbove" 730.8 1057 basechar 0
@@ -13632,7 +13632,7 @@ AnchorPoint: "endofonon" 720.8 -519 basechar 0
 AnchorPoint: "heteronConnecting" 1264.8 -251 basechar 0
 AnchorPoint: "psifiston" 870 -260 basechar 0
 AnchorPoint: "measureNumber" 30 1330 basechar 0
-AnchorPoint: "isonIndicator" 30 1300 basechar 0
+AnchorPoint: "isonIndicator" 30 1350 basechar 0
 AnchorPoint: "apli" 720 -360 basechar 0
 AnchorPoint: "antikenoma" 720 -260 basechar 0
 AnchorPoint: "fthoraBottom" 300.8 -190 basechar 0
@@ -14402,7 +14402,7 @@ EndChar
 StartChar: oligonKentimaMiddle
 Encoding: 57346 57346 113
 Width: 1583
-Flags: HW
+Flags: W
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 VStem: 1283 270.28
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
@@ -14591,14 +14591,14 @@ StartChar: tripleChamili
 Encoding: 57391 57391 116
 Width: 1441
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -22.1602 73.0801<791.548 1077.34> 337.439 73.0801<884.348 1170.12> 384.42 67.8604<37.6572 152.694> 707.84 73.0801<981.548 1267.33> 744.02 67.8604<130.457 245.494> 1114.42 67.8604<227.657 342.694>
 AnchorPoint: "yfenAbove" 578.64 1089 basechar 0
 AnchorPoint: "yfenBelow" 607.64 -272 basechar 0
 AnchorPoint: "koronis" 618.64 1098 basechar 0
 AnchorPoint: "endofonon" 580.64 -269 basechar 0
 AnchorPoint: "measureNumber" 30 1300 basechar 0
-AnchorPoint: "isonIndicator" 30 1250 basechar 0
+AnchorPoint: "isonIndicator" 30 1300 basechar 0
 AnchorPoint: "heteronConnecting" 1232.64 -251 basechar 0
 AnchorPoint: "omalonConnecting" 1300 -150 basechar 0
 AnchorPoint: "apli" 750 -250 basechar 0
@@ -16849,7 +16849,7 @@ StartChar: oligonKentimataBelow.alt01
 Encoding: 61440 61440 146
 Width: 1298
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -257.52 206.479<671.451 801.951 905.67 946.636> -257.52 31.3203<815.212 842.971> -11.5996 132.239<248.495 766.728> -6.95996 135.72<535.435 1057.78>
 AnchorPoint: "barline" 226.932 358 basechar 0
 AnchorPoint: "koronis" 635.932 569 basechar 0
@@ -17133,7 +17133,7 @@ StartChar: petastiKentimaTripleYpsili
 Encoding: 57422 57422 149
 Width: 1443
 VWidth: 1392
-Flags: HW
+Flags: W
 HStem: -88.1602 54.5205<564.615 997.619>
 VStem: 1112.84 198.36<26.3485 107.014>
 AnchorPoint: "yfenAbove" 780.8 1207 basechar 0
@@ -25897,9 +25897,9 @@ EndChar
 StartChar: isonIndicatorDiLow
 Encoding: 57953 57953 258
 Width: 0
-Flags: HW
-HStem: 12.7803 48.2998<164.66 243.9> 171.94 41.8594<186.105 236.339>
-VStem: 0 49.2197<8.68556 256.972> 116.84 44.6201<63.1608 148.697> 164.68 33.5801<279.744 322.82> 268.18 46<86.4131 168.138> 394.22 49.2197<6.4082 254.695>
+Flags: W
+HStem: -3.21973 48.2998<164.66 243.901> 155.94 41.8594<186.105 236.34>
+VStem: 0 49.2197<-7.31444 240.972> 116.84 44.6201<47.1608 132.697> 164.68 33.5801<263.744 306.82> 268.18 46<70.4131 152.138> 394.22 49.2207<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -25963,10 +25963,10 @@ SplineSet
  443.440429688 -35.8798828125 361.099609375 -67.16015625 361.099609375 -67.16015625 c 1
  356.5 -67.16015625 l 1
 203.780273438 290.259765625 m 0
- 199.639648438 290.259765625 198.259765625 287.959960938 198.259765625 285.200195312 c 0xd8
+ 199.639648438 290.259765625 198.259765625 287.959960938 198.259765625 285.200195312 c 0
  198.719726562 264.959960938 314.1796875 196.879882812 314.1796875 102.120117188 c 0
  314.1796875 43.7001953125 272.3203125 -3.2197265625 217.120117188 -3.2197265625 c 0
- 161.919921875 -3.2197265625 116.83984375 45.080078125 116.83984375 107.1796875 c 0xe8
+ 161.919921875 -3.2197265625 116.83984375 45.080078125 116.83984375 107.1796875 c 0
  116.83984375 159.16015625 149.5 195.959960938 199.639648438 197.799804688 c 1
  212.98046875 193.66015625 224.940429688 189.51953125 236.900390625 183.540039062 c 1
  240.120117188 186.759765625 l 1
@@ -25975,12 +25975,12 @@ SplineSet
  267.259765625 327.98046875 307.740234375 298.080078125 332.580078125 251.620117188 c 1
  323.83984375 237.360351562 l 1
  280.139648438 264.040039062 220.799804688 290.259765625 203.780273438 290.259765625 c 0
-196.419921875 45.080078125 m 0xe8
+196.419921875 45.080078125 m 0
  233.219726562 45.080078125 268.1796875 82.7998046875 268.1796875 121.440429688 c 0
  268.1796875 132.01953125 265.879882812 142.599609375 261.280273438 152.259765625 c 1
  254.83984375 154.559570312 248.400390625 155.940429688 240.120117188 155.940429688 c 0
  197.33984375 155.01953125 161.459960938 122.360351562 161.459960938 84.6396484375 c 0
- 161.459960938 59.7998046875 174.33984375 45.080078125 196.419921875 45.080078125 c 0xe8
+ 161.459960938 59.7998046875 174.33984375 45.080078125 196.419921875 45.080078125 c 0
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26000,9 +26000,9 @@ EndChar
 StartChar: isonIndicatorUnison
 Encoding: 57952 57952 259
 Width: 0
-Flags: HW
-HStem: 14.6201 30.3604<192.284 220.34 369.38 394.67 449.436 477.94> 284.18 29.4404<136.065 169.009 435.014 467.82>
-VStem: 0 49.2207<8.68556 256.972> 120.98 2.75977<12.3203 12.7803> 552.92 49.2207<6.4082 254.695>
+Flags: W
+HStem: -1.37988 30.3604<192.284 220.34 369.38 394.669 449.435 477.94> 270.94 26.6797<136.065 166.962 436.982 467.82>
+VStem: 0 49.2197<-7.31444 240.972> 120.98 2.75977<-3.67969 -3.21973> 552.92 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26055,9 +26055,9 @@ SplineSet
  515.200195312 -67.16015625 l 1
 170.200195312 244.719726562 m 0
  170.200195312 274.216192291 140.53204852 261.827263471 132.940429688 270.940429688 c 1
- 137.080078125 297.620117188 l 1x93
- 152.259765625 296.700195312 182.16015625 295.3203125 194.580078125 295.3203125 c 0x89
- 209.299804688 295.3203125 233.6796875 296.700195312 243.33984375 297.16015625 c 1x95
+ 137.080078125 297.620117188 l 1
+ 152.259765625 296.700195312 182.16015625 295.3203125 194.580078125 295.3203125 c 0
+ 209.299804688 295.3203125 233.6796875 296.700195312 243.33984375 297.16015625 c 1
  269.559570312 204.700195312 296.240234375 124.200195312 302.219726562 104.419921875 c 1
  305.900390625 104.419921875 l 1
  311.419921875 123.740234375 339.01953125 204.240234375 367.540039062 295.780273438 c 1
@@ -26066,7 +26066,7 @@ SplineSet
  436.540039062 295.3203125 464.599609375 297.620117188 468.740234375 298.080078125 c 1
  470.580078125 296.240234375 l 1
  467.8203125 268.639648438 l 1
- 441.599609375 266.33984375 433.780273438 260.8203125 433.780273438 244.259765625 c 0x89
+ 441.599609375 266.33984375 433.780273438 260.8203125 433.780273438 244.259765625 c 0
  433.780273438 224.48046875 440.219726562 126.040039062 444.8203125 71.2998046875 c 0
  448.5 37.7197265625 452.639648438 28.98046875 467.360351562 28.98046875 c 0
  472.419921875 28.98046875 478.860351562 29.900390625 480.240234375 29.900390625 c 1
@@ -26077,9 +26077,9 @@ SplineSet
  369.379882812 26.2197265625 l 1
  387.3203125 28.51953125 395.139648438 34.9599609375 395.139648438 49.2197265625 c 0
  395.139648438 62.5595703125 385.940429688 176.639648438 385.48046875 207.919921875 c 1
- 381.33984375 207.919921875 l 1xe1
+ 381.33984375 207.919921875 l 1
  364.780273438 161.919921875 336.719726562 81.8798828125 309.580078125 -3.2197265625 c 1
- 278.299804688 -7.3603515625 l 1x93
+ 278.299804688 -7.3603515625 l 1
  250.240234375 81.8798828125 223.099609375 161 206.540039062 207.919921875 c 1
  202.860351562 207.919921875 l 1
  202.400390625 191.360351562 192.280273438 54.740234375 192.280273438 43.7001953125 c 0
@@ -26087,7 +26087,7 @@ SplineSet
  222.639648438 29.4404296875 l 1
  225.400390625 27.1396484375 l 1
  220.33984375 -1.83984375 l 1
- 210.6796875 -1.3798828125 179.860351562 0 166.51953125 0 c 0xe1
+ 210.6796875 -1.3798828125 179.860351562 0 166.51953125 0 c 0
  150.879882812 0 120.98046875 -3.2197265625 120.98046875 -3.6796875 c 1
  123.740234375 26.2197265625 l 1
  141.6796875 28.0595703125 148.120117188 35.8798828125 151.799804688 59.33984375 c 0
@@ -26111,9 +26111,9 @@ EndChar
 StartChar: isonIndicatorKeLow
 Encoding: 57954 57954 260
 Width: 0
-Flags: HW
-HStem: 11.8604 57.04<266.422 323.574> 172.4 58.4199<123.874 167.226>
-VStem: 0 49.2197<8.68556 256.972> 168.82 25.7598<128.24 167.744> 406.181 49.2197<6.4082 254.695>
+Flags: W
+HStem: -4.13965 57.04<266.422 323.573> 156.4 58.4199<123.874 167.225>
+VStem: 0 49.2197<-7.31444 240.972> 168.82 25.7598<112.24 151.744> 406.18 49.2207<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26177,7 +26177,7 @@ SplineSet
  455.400390625 76.8203125 l 2
  455.400390625 -35.8798828125 373.059570312 -67.16015625 373.059570312 -67.16015625 c 1
  368.459960938 -67.16015625 l 1
-337.1796875 63.48046875 m 1x98
+337.1796875 63.48046875 m 1
  342.700195312 57.5 l 1
  333.5 27.1396484375 322.459960938 11.9599609375 300.83984375 -4.1396484375 c 1
  254.379882812 -2.2998046875 242.419921875 14.7197265625 233.219726562 86.48046875 c 1
@@ -26192,8 +26192,8 @@ SplineSet
  166.98046875 90.16015625 168.8203125 105.33984375 168.8203125 119.139648438 c 0
  168.8203125 144.900390625 160.080078125 156.400390625 137.080078125 156.400390625 c 0
  130.639648438 156.400390625 122.8203125 155.48046875 114.080078125 153.639648438 c 1
- 108.559570312 159.16015625 l 1xc8
- 114.540039062 182.16015625 126.5 201.01953125 143.98046875 214.8203125 c 1xa8
+ 108.559570312 159.16015625 l 1
+ 114.540039062 182.16015625 126.5 201.01953125 143.98046875 214.8203125 c 1
  177.559570312 213.900390625 194.580078125 191.360351562 194.580078125 147.200195312 c 0
  194.580078125 137.080078125 193.66015625 125.580078125 191.8203125 113.16015625 c 1
  194.580078125 112.240234375 l 1
@@ -26203,7 +26203,7 @@ SplineSet
  327.98046875 173.419921875 l 1
  301.299804688 160.540039062 277.83984375 143.51953125 258.059570312 122.360351562 c 1
  259.900390625 74.0595703125 269.559570312 52.900390625 295.3203125 52.900390625 c 0
- 306.360351562 52.900390625 320.16015625 56.580078125 337.1796875 63.48046875 c 1x98
+ 306.360351562 52.900390625 320.16015625 56.580078125 337.1796875 63.48046875 c 1
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26223,9 +26223,8 @@ EndChar
 StartChar: isonIndicatorZo
 Encoding: 57955 57955 261
 Width: 0
-Flags: HW
-HStem: 278.2 77.7402<128.495 169.279>
-VStem: 0 49.2197<8.68556 256.972> 121.899 41.8604<306.14 347.376> 122.819 28.9805<94.9554 145.257> 226.319 32.6602<4.9385 69.3612> 347.3 49.2197<6.4082 254.695>
+Flags: W
+VStem: 0 49.2197<-7.31444 240.972> 432.86 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26273,17 +26272,17 @@ SplineSet
  482.080078125 76.8203125 l 2
  482.080078125 -35.8798828125 399.740234375 -67.16015625 399.740234375 -67.16015625 c 1
  395.139648438 -67.16015625 l 1
-127.879882812 -2.2998046875 m 1xc8
+127.879882812 -2.2998046875 m 1
  116.83984375 17.9404296875 l 1
  278.759765625 262.200195312 l 1
- 218.959960938 258.51953125 l 1xc8
+ 218.959960938 258.51953125 l 1
  179.860351562 254.379882812 169.280273438 243.33984375 166.059570312 200.099609375 c 1
  127.879882812 197.33984375 l 1
  127.879882812 197.33984375 134.3203125 253.919921875 135.700195312 296.240234375 c 1
- 140.299804688 300.83984375 l 1x98
+ 140.299804688 300.83984375 l 1
  222.1796875 295.780273438 l 1
- 356.040039062 293.940429688 l 1xc8
- 363.860351562 275.540039062 l 1xa8
+ 356.040039062 293.940429688 l 1
+ 363.860351562 275.540039062 l 1
  285.200195312 170.66015625 219.419921875 67.6201171875 197.33984375 32.66015625 c 1
  270.48046875 37.7197265625 l 2
  300.83984375 40.48046875 316.940429688 60.7197265625 324.299804688 109.01953125 c 1
@@ -26291,7 +26290,7 @@ SplineSet
  362.01953125 112.240234375 352.8203125 52.4404296875 350.98046875 7.3603515625 c 1
  343.16015625 -1.3798828125 l 1
  162.379882812 1.3798828125 l 1
- 127.879882812 -2.2998046875 l 1xc8
+ 127.879882812 -2.2998046875 l 1
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26311,9 +26310,9 @@ EndChar
 StartChar: isonIndicatorNi
 Encoding: 57956 57956 262
 Width: 0
-Flags: HW
-HStem: 16 295.32<128.362 223.082>
-VStem: 0 49.2197<8.68556 256.972> 159.16 49.6797<45.0396 210.58> 318.78 113.16<281.574 311.32> 352.36 44.1602<121.8 279.886> 500.94 49.2197<6.4082 254.695>
+Flags: W
+HStem: 0 295.32<128.362 223.082>
+VStem: 0 49.2197<-7.31444 240.972> 159.16 49.6797<29.0396 194.58> 318.78 113.16<265.574 295.32> 352.36 44.1592<105.8 263.886> 500.94 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26348,7 +26347,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-463.219726562 -67.16015625 m 1
+463.219726562 -67.16015625 m 1xe4
  448.959960938 -46.4599609375 l 1
  449.419921875 -43.7001953125 l 1
  449.419921875 -43.7001953125 500.940429688 -18.8603515625 500.940429688 69.919921875 c 2
@@ -26360,8 +26359,8 @@ SplineSet
  469.200195312 298.540039062 550.16015625 267.719726562 550.16015625 156.400390625 c 2
  550.16015625 76.8203125 l 2
  550.16015625 -35.8798828125 467.8203125 -67.16015625 467.8203125 -67.16015625 c 1
- 463.219726562 -67.16015625 l 1
-350.059570312 -12.419921875 m 1xcc
+ 463.219726562 -67.16015625 l 1xe4
+350.059570312 -12.419921875 m 1
  277.83984375 102.580078125 213.440429688 194.580078125 213.440429688 194.580078125 c 1
  209.299804688 194.580078125 l 1
  208.83984375 49.6796875 l 2
@@ -26376,22 +26375,22 @@ SplineSet
  164.6796875 238.280273438 l 2
  164.6796875 258.059570312 157.3203125 264.040039062 127.419921875 267.259765625 c 1
  124.200195312 271.400390625 l 1
- 127.419921875 297.620117188 l 1xac
- 127.419921875 297.620117188 157.3203125 295.3203125 179.860351562 295.3203125 c 0xcc
- 199.1796875 295.3203125 223.099609375 297.16015625 223.099609375 297.16015625 c 1x9c
+ 127.419921875 297.620117188 l 1
+ 127.419921875 297.620117188 157.3203125 295.3203125 179.860351562 295.3203125 c 0
+ 199.1796875 295.3203125 223.099609375 297.16015625 223.099609375 297.16015625 c 1
  283.8203125 198.259765625 347.759765625 105.799804688 347.759765625 105.799804688 c 1
- 352.360351562 105.799804688 l 1
+ 352.360351562 105.799804688 l 1xec
  351.440429688 246.099609375 l 2
  350.98046875 260.360351562 346.83984375 265.879882812 336.259765625 265.879882812 c 0
  329.360351562 265.879882812 322.459960938 265.419921875 320.16015625 265.419921875 c 1
  318.780273438 268.639648438 l 1
  322 297.16015625 l 1
- 322 297.16015625 360.1796875 295.3203125 380.419921875 295.3203125 c 0xcc
+ 322 297.16015625 360.1796875 295.3203125 380.419921875 295.3203125 c 0
  402.5 295.3203125 434.240234375 297.620117188 434.240234375 297.620117188 c 1
- 431.940429688 267.259765625 l 1x9c
+ 431.940429688 267.259765625 l 1xf4
  411.240234375 264.5 402.959960938 256.6796875 402.5 238.280273438 c 2
- 396.51953125 -6.4404296875 l 1
- 350.059570312 -12.419921875 l 1xcc
+ 396.51953125 -6.4404296875 l 1xec
+ 350.059570312 -12.419921875 l 1
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26411,9 +26410,9 @@ EndChar
 StartChar: isonIndicatorPa
 Encoding: 57957 57957 263
 Width: 0
-Flags: HW
-HStem: 16 28.5195<127.88 158.627 221.628 255.76 295.779 325.325 388.608 420.439> 270.84 40.4805<226.504 328.818> 281.88 30.3604<130.64 161.535 393.79 422.739>
-VStem: 0 49.2197<8.68556 256.972> 161.92 58.4199<45.0303 269.249> 328.439 58.8799<46.2016 270.481> 498.64 49.2197<6.4082 254.695>
+Flags: W
+HStem: 0 28.5195<127.88 158.627 221.628 255.76 295.78 325.326 388.609 420.44> 254.84 40.4805<226.505 328.819> 265.88 30.3604<130.64 161.535 393.79 422.74>
+VStem: 0 49.2197<-7.31444 240.972> 161.92 58.4199<29.0303 253.249> 328.44 58.8799<30.2016 254.481> 498.64 49.2207<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26448,7 +26447,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-460.919921875 -67.16015625 m 1
+460.919921875 -67.16015625 m 1x9e
  446.66015625 -46.4599609375 l 1
  447.120117188 -43.7001953125 l 1
  447.120117188 -43.7001953125 498.639648438 -18.8603515625 498.639648438 69.919921875 c 2
@@ -26460,19 +26459,19 @@ SplineSet
  466.900390625 298.540039062 547.860351562 267.719726562 547.860351562 156.400390625 c 2
  547.860351562 76.8203125 l 2
  547.860351562 -35.8798828125 465.51953125 -67.16015625 465.51953125 -67.16015625 c 1
- 460.919921875 -67.16015625 l 1
-125.120117188 -4.1396484375 m 1xcc
+ 460.919921875 -67.16015625 l 1x9e
+125.120117188 -4.1396484375 m 1
  127.879882812 25.2998046875 l 1
  155.01953125 30.8203125 161.919921875 38.1796875 161.919921875 63.9404296875 c 2
  161.919921875 241.959960938 l 2
  161.919921875 261.280273438 158.700195312 265.879882812 145.360351562 265.879882812 c 0
  141.6796875 265.879882812 135.240234375 265.419921875 129.259765625 265.419921875 c 1
- 126.959960938 269.099609375 l 1xac
- 130.639648438 296.240234375 l 1
+ 126.959960938 269.099609375 l 1
+ 130.639648438 296.240234375 l 1xbe
  150.419921875 295.780273438 175.259765625 295.3203125 194.120117188 295.3203125 c 2
- 360.639648438 295.3203125 l 2xcc
+ 360.639648438 295.3203125 l 2
  371.219726562 295.3203125 393.759765625 296.700195312 425.5 298.540039062 c 1
- 422.740234375 268.1796875 l 1x9c
+ 422.740234375 268.1796875 l 1
  399.280273438 264.959960938 393.759765625 260.360351562 392.83984375 243.33984375 c 0
  389.620117188 181.240234375 387.3203125 103.959960938 387.3203125 60.7197265625 c 0
  387.3203125 35.419921875 391 28.98046875 405.259765625 28.98046875 c 0
@@ -26485,7 +26484,7 @@ SplineSet
  322 31.2802734375 328.440429688 38.1796875 328.440429688 62.5595703125 c 2
  328.900390625 231.379882812 l 2
  328.900390625 251.16015625 322 254.83984375 304.98046875 254.83984375 c 2
- 259.440429688 254.83984375 l 2
+ 259.440429688 254.83984375 l 2xde
  236.440429688 254.83984375 227.240234375 250.700195312 226.3203125 232.759765625 c 0
  222.639648438 166.51953125 220.33984375 100.740234375 220.33984375 60.7197265625 c 0
  220.33984375 35.419921875 224.01953125 28.98046875 238.280273438 28.98046875 c 0
@@ -26493,7 +26492,7 @@ SplineSet
  259.900390625 27.599609375 l 1
  255.759765625 -1.3798828125 l 1
  234.599609375 -0.919921875 202.860351562 0 188.599609375 0 c 0
- 174.799804688 0 149.040039062 -1.83984375 125.120117188 -4.1396484375 c 1xcc
+ 174.799804688 0 149.040039062 -1.83984375 125.120117188 -4.1396484375 c 1
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26513,7 +26512,9 @@ EndChar
 StartChar: isonIndicatorVou
 Encoding: 57958 57958 264
 Width: 0
-Flags: HW
+Flags: W
+HStem: -4.59961 38.6396<221.274 302.608> 129.26 35.8799<223.125 267.26> 260.36 34.96<132.975 162.377 226.194 265.841 265.88 290.727>
+VStem: 0 49.2197<-7.31444 240.972> 161.92 58.4199<36.0689 129.26 169.28 260.058> 299.46 63.4805<175.94 252.145> 312.34 66.2402<40.798 119.44> 454.48 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26564,7 +26565,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-416.759765625 -67.16015625 m 1
+416.759765625 -67.16015625 m 1xf9
  402.5 -46.4599609375 l 1
  402.959960938 -43.7001953125 l 1
  402.959960938 -43.7001953125 454.48046875 -18.8603515625 454.48046875 69.919921875 c 2
@@ -26576,33 +26577,33 @@ SplineSet
  422.740234375 298.540039062 503.700195312 267.719726562 503.700195312 156.400390625 c 2
  503.700195312 76.8203125 l 2
  503.700195312 -35.8798828125 421.360351562 -67.16015625 421.360351562 -67.16015625 c 1
- 416.759765625 -67.16015625 l 1
-191.360351562 0 m 0xe5
+ 416.759765625 -67.16015625 l 1xf9
+191.360351562 0 m 0
  165.599609375 0 125.120117188 -4.599609375 125.120117188 -4.599609375 c 1
  128.33984375 25.759765625 l 1
  155.01953125 30.8203125 161.919921875 38.6396484375 161.919921875 62.5595703125 c 2
  162.379882812 242.879882812 l 2
- 162.379882812 259.900390625 158.700195312 265.879882812 147.66015625 265.879882812 c 0xcd
+ 162.379882812 259.900390625 158.700195312 265.879882812 147.66015625 265.879882812 c 0
  142.139648438 265.879882812 132.01953125 264.959960938 132.01953125 264.959960938 c 1
- 128.799804688 268.639648438 l 1xd5
+ 128.799804688 268.639648438 l 1
  132.940429688 296.240234375 l 1
- 132.940429688 296.240234375 179.860351562 295.3203125 196.419921875 295.3203125 c 0xcd
+ 132.940429688 296.240234375 179.860351562 295.3203125 196.419921875 295.3203125 c 0
  212.51953125 295.3203125 265.879882812 297.620117188 265.879882812 297.620117188 c 1
- 328.900390625 297.620117188 362.940429688 272.3203125 362.940429688 226.3203125 c 0xe6
+ 328.900390625 297.620117188 362.940429688 272.3203125 362.940429688 226.3203125 c 0xfd
  362.940429688 194.120117188 342.700195312 171.120117188 313.259765625 155.940429688 c 1
- 350.51953125 146.280273438 378.580078125 124.66015625 378.580078125 87.400390625 c 0
+ 350.51953125 146.280273438 378.580078125 124.66015625 378.580078125 87.400390625 c 0xfb
  378.580078125 32.2001953125 330.740234375 -4.599609375 259.440429688 -4.599609375 c 0
- 241.959960938 -4.1396484375 209.759765625 0 191.360351562 0 c 0xe5
+ 241.959960938 -4.1396484375 209.759765625 0 191.360351562 0 c 0
 223.099609375 169.280273438 m 1
  223.099609375 169.280273438 258.51953125 165.139648438 267.259765625 165.139648438 c 1
- 267.259765625 165.139648438 299.459960938 176.1796875 299.459960938 214.8203125 c 0xe6
+ 267.259765625 165.139648438 299.459960938 176.1796875 299.459960938 214.8203125 c 0
  299.459960938 246.099609375 279.219726562 260.360351562 235.059570312 260.360351562 c 0
  229.080078125 260.360351562 227.240234375 258.51953125 226.780273438 251.620117188 c 0
  224.940429688 226.3203125 223.559570312 190.440429688 223.099609375 169.280273438 c 1
 222.1796875 129.259765625 m 1
  220.33984375 61.1796875 l 2
  220.33984375 41.8603515625 232.759765625 34.0400390625 264.040039062 34.0400390625 c 0
- 294.400390625 34.0400390625 312.33984375 51.51953125 312.33984375 80.5 c 0
+ 294.400390625 34.0400390625 312.33984375 51.51953125 312.33984375 80.5 c 0xfb
  312.33984375 105.799804688 295.780273438 122.8203125 264.959960938 129.719726562 c 1
  222.1796875 129.259765625 l 1
 80.9599609375 -67.16015625 m 1
@@ -26624,9 +26625,9 @@ EndChar
 StartChar: isonIndicatorGa
 Encoding: 57959 57959 265
 Width: 0
-Flags: HW
-HStem: 10.9404 30.8193<128.34 156.843> 14.1602 36.7998<220.744 269.1> 273.6 37.7207<226.226 296.893> 281.88 30.8203<133.859 161.586>
-VStem: 0 49.2197<8.68556 256.972> 161.46 58.8799<51.3304 273.314> 297.62 40.4795<203.68 240.903> 406.64 49.2197<6.4082 254.695>
+Flags: W
+HStem: -5.05957 30.8193<128.34 156.843> -1.83984 36.7998<220.744 269.1> 257.6 37.7207<226.227 296.893> 265.88 30.8203<133.86 161.586>
+VStem: 0 49.2197<-7.31444 240.972> 161.46 58.8799<35.3304 257.314> 297.62 40.4795<187.68 224.903> 406.64 49.2207<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26660,7 +26661,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-368.919921875 -67.16015625 m 1
+368.919921875 -67.16015625 m 1x0f
  354.66015625 -46.4599609375 l 1
  355.120117188 -43.7001953125 l 1
  355.120117188 -43.7001953125 406.639648438 -18.8603515625 406.639648438 69.919921875 c 2
@@ -26672,15 +26673,15 @@ SplineSet
  374.900390625 298.540039062 455.860351562 267.719726562 455.860351562 156.400390625 c 2
  455.860351562 76.8203125 l 2
  455.860351562 -35.8798828125 373.51953125 -67.16015625 373.51953125 -67.16015625 c 1
- 368.919921875 -67.16015625 l 1
-125.120117188 -5.0595703125 m 1xd8
+ 368.919921875 -67.16015625 l 1x0f
+125.120117188 -5.0595703125 m 1x8f
  128.33984375 25.759765625 l 1
  154.559570312 30.3603515625 161.459960938 39.099609375 161.459960938 65.7802734375 c 2
  161.919921875 241.040039062 l 2
  161.919921875 261.280273438 159.16015625 265.879882812 147.200195312 265.879882812 c 0
  143.98046875 265.879882812 138.459960938 265.419921875 132.940429688 264.959960938 c 1
  130.1796875 269.099609375 l 1
- 133.860351562 296.700195312 l 1xb8
+ 133.860351562 296.700195312 l 1x9f
  155.01953125 296.240234375 192.280273438 295.3203125 217.580078125 295.3203125 c 0
  278.299804688 295.3203125 320.620117188 296.700195312 345 300.83984375 c 1
  348.6796875 295.780273438 l 1
@@ -26693,9 +26694,9 @@ SplineSet
  220.33984375 40.9404296875 224.48046875 34.9599609375 240.120117188 34.9599609375 c 0
  247.48046875 34.9599609375 260.360351562 35.8798828125 270.01953125 37.259765625 c 1
  274.16015625 32.66015625 l 1
- 269.099609375 -1.83984375 l 1
+ 269.099609375 -1.83984375 l 1x6f
  241.5 -0.919921875 213.440429688 0 199.639648438 0 c 0
- 180.3203125 0 149.959960938 -1.83984375 125.120117188 -5.0595703125 c 1xd8
+ 180.3203125 0 149.959960938 -1.83984375 125.120117188 -5.0595703125 c 1x8f
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -26715,9 +26716,9 @@ EndChar
 StartChar: isonIndicatorDi
 Encoding: 57960 57960 266
 Width: 0
-Flags: HW
-HStem: 16 43.2402<179.86 291.64>
-VStem: 0 49.2197<8.68556 256.972> 443.44 49.2197<6.4082 254.695>
+Flags: W
+HStem: 0 43.2402<179.86 291.64>
+VStem: 0 49.2197<-7.31444 240.972> 443.44 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26801,7 +26802,9 @@ EndChar
 StartChar: isonIndicatorKe
 Encoding: 57961 57961 267
 Width: 0
-Flags: HW
+Flags: W
+HStem: -1.37988 30.3604<221.166 254.346 369.711 403.848> 0 295.32<132.516 254.346 310.744 401.781>
+VStem: 0 49.2197<-7.31444 240.972> 161.92 58.4199<29.6142 265.159> 468.28 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26838,7 +26841,7 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-430.559570312 -67.16015625 m 1
+430.559570312 -67.16015625 m 1x38
  416.299804688 -46.4599609375 l 1
  416.759765625 -43.7001953125 l 1
  416.759765625 -43.7001953125 468.280273438 -18.8603515625 468.280273438 69.919921875 c 2
@@ -26850,42 +26853,42 @@ SplineSet
  436.540039062 298.540039062 517.5 267.719726562 517.5 156.400390625 c 2
  517.5 76.8203125 l 2
  517.5 -35.8798828125 435.16015625 -67.16015625 435.16015625 -67.16015625 c 1
- 430.559570312 -67.16015625 l 1
-161.919921875 241.959960938 m 2xc8
+ 430.559570312 -67.16015625 l 1x38
+161.919921875 241.959960938 m 2
  161.919921875 261.280273438 158.700195312 265.879882812 145.360351562 265.879882812 c 0
  140.299804688 265.879882812 131.559570312 265.419921875 131.559570312 265.419921875 c 1
  129.259765625 269.099609375 l 1
  132.48046875 296.240234375 l 1
- 132.48046875 296.240234375 180.780273438 295.3203125 194.120117188 295.3203125 c 0xc8
+ 132.48046875 296.240234375 180.780273438 295.3203125 194.120117188 295.3203125 c 0x78
  213.900390625 295.3203125 256.6796875 298.540039062 256.6796875 298.540039062 c 1
- 254.379882812 268.1796875 l 1x98
+ 254.379882812 268.1796875 l 1
  231.379882812 264.040039062 225.400390625 258.51953125 224.940429688 241.5 c 2
  220.33984375 60.7197265625 l 2
  219.879882812 35.419921875 224.01953125 28.98046875 238.280273438 28.98046875 c 0
  247.940429688 28.98046875 256.219726562 30.3603515625 256.219726562 30.3603515625 c 1
  258.51953125 27.599609375 l 1
- 254.379882812 -1.3798828125 l 1
- 254.379882812 -1.3798828125 208.379882812 0 188.599609375 0 c 0
- 162.83984375 0 125.120117188 -1.3798828125 125.120117188 -1.3798828125 c 1
+ 254.379882812 -1.3798828125 l 1xb8
+ 254.379882812 -1.3798828125 208.379882812 0 188.599609375 0 c 0x78
+ 162.83984375 0 125.120117188 -1.3798828125 125.120117188 -1.3798828125 c 1xb8
  129.259765625 27.599609375 l 1
  155.940429688 31.2802734375 161.919921875 37.7197265625 161.919921875 63.9404296875 c 2
- 161.919921875 241.959960938 l 2xc8
+ 161.919921875 241.959960938 l 2
 230.919921875 155.01953125 m 1
  299.459960938 229.540039062 l 2
  307.280273438 237.8203125 311.879882812 245.639648438 311.879882812 252.540039062 c 0
  311.879882812 261.280273438 304.51953125 265.419921875 287.040039062 266.33984375 c 1
  285.66015625 269.559570312 l 1
  289.33984375 297.620117188 l 1
- 289.33984375 297.620117188 327.51953125 295.3203125 346.379882812 295.3203125 c 0xc8
+ 289.33984375 297.620117188 327.51953125 295.3203125 346.379882812 295.3203125 c 0x78
  363.860351562 295.3203125 399.740234375 297.16015625 399.740234375 297.16015625 c 1
  402.5 292.099609375 l 1
- 398.8203125 266.33984375 l 1xa8
+ 398.8203125 266.33984375 l 1
  379.959960938 258.98046875 365.700195312 245.639648438 339.48046875 214.8203125 c 1
  289.799804688 159.620117188 l 1
  351.900390625 66.7001953125 l 2
  370.299804688 39.099609375 384.099609375 27.599609375 404.799804688 26.6796875 c 1
  407.559570312 22.5400390625 l 1
- 403.879882812 -1.3798828125 l 1
+ 403.879882812 -1.3798828125 l 1xb8
  403.879882812 -1.3798828125 359.259765625 -6.900390625 350.98046875 -6.900390625 c 0
  332.120117188 -6.900390625 316.48046875 5.51953125 299.919921875 31.740234375 c 2
  229.540039062 145.360351562 l 1
@@ -26909,8 +26912,8 @@ EndChar
 StartChar: isonIndicatorZoHigh
 Encoding: 57962 57962 268
 Width: 0
-Flags: HW
-VStem: 610 49.2197<8.68556 256.972> 1042.86 49.2197<6.4082 254.695>
+Flags: W
+VStem: 0 49.2197<-7.31444 240.972> 496.34 49.2197<-9.5918 238.695>
 AnchorPoint: "isonIndicator" 0 0 mark 0
 LayerCount: 2
 Back
@@ -26980,17 +26983,17 @@ SplineSet
  440.219726562 319.700195312 l 1
  400.200195312 234.139648438 l 1
  393.299804688 232.299804688 l 1
-127.879882812 -2.2998046875 m 1xc8
+127.879882812 -2.2998046875 m 1
  116.83984375 17.9404296875 l 1
  278.759765625 262.200195312 l 1
- 218.959960938 258.51953125 l 1xc8
+ 218.959960938 258.51953125 l 1
  179.860351562 254.379882812 169.280273438 243.33984375 166.059570312 200.099609375 c 1
  127.879882812 197.33984375 l 1
  127.879882812 197.33984375 134.3203125 253.919921875 135.700195312 296.240234375 c 1
- 140.299804688 300.83984375 l 1x98
+ 140.299804688 300.83984375 l 1
  222.1796875 295.780273438 l 1
- 356.040039062 293.940429688 l 1xc8
- 363.860351562 275.540039062 l 1xa8
+ 356.040039062 293.940429688 l 1
+ 363.860351562 275.540039062 l 1
  285.200195312 170.66015625 219.419921875 67.6201171875 197.33984375 32.66015625 c 1
  270.48046875 37.7197265625 l 2
  300.83984375 40.48046875 316.940429688 60.7197265625 324.299804688 109.01953125 c 1
@@ -26998,7 +27001,7 @@ SplineSet
  362.01953125 112.240234375 352.8203125 52.4404296875 350.98046875 7.3603515625 c 1
  343.16015625 -1.3798828125 l 1
  162.379882812 1.3798828125 l 1
- 127.879882812 -2.2998046875 l 1xc8
+ 127.879882812 -2.2998046875 l 1
 80.9599609375 -67.16015625 m 1
  80.9599609375 -67.16015625 0 -36.33984375 0 74.98046875 c 2
  0 154.559570312 l 2
@@ -33578,8 +33581,8 @@ StartChar: oligonChamiliKentimata
 Encoding: 57485 57485 329
 Width: 1572
 VWidth: 1392
-Flags: HW
-HStem: -6.95996 134.56<348.239 613.319 1170.7 1338.31> 274.92 62.0605<665.768 946.42> 587.54 50.46<33.5353 128.617>
+Flags: W
+HStem: -6.95996 134.56<348.239 613.319 1170.7 1338.1> 274.92 62.0605<665.768 946.42> 587.54 50.46<33.5353 128.617>
 VStem: 493.84 100.92<235.306 285.36> 504.28 90.4795<357.286 397.728>
 AnchorPoint: "diesisSecondary" 1046.8 905 basechar 0
 AnchorPoint: "yfesisSecondary" 811.8 580 basechar 0
