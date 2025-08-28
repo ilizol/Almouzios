@@ -10175,37 +10175,37 @@
     "isonIndicatorDiLow": {
       "bBoxNE": [
         0.443,
-        0.358
+        0.342
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorUnison": {
       "bBoxNE": [
         0.602,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorKeLow": {
       "bBoxNE": [
         0.455,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorZo": {
       "bBoxNE": [
-        0.397,
-        0.356
+        0.482,
+        0.301
       ],
       "bBoxSW": [
         0.0,
@@ -10215,71 +10215,71 @@
     "isonIndicatorNi": {
       "bBoxNE": [
         0.55,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorPa": {
       "bBoxNE": [
         0.548,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorVou": {
       "bBoxNE": [
         0.504,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorGa": {
       "bBoxNE": [
         0.456,
-        0.317
+        0.301
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorDi": {
       "bBoxNE": [
         0.493,
-        0.317
+        0.301
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorKe": {
       "bBoxNE": [
         0.517,
-        0.315
+        0.299
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "isonIndicatorZoHigh": {
       "bBoxNE": [
-        0.482,
-        0.317
+        0.546,
+        0.34
       ],
       "bBoxSW": [
         0.0,
-        -0.051
+        -0.067
       ]
     },
     "modeThirdNana": {

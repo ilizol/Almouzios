@@ -1329,7 +1329,7 @@
 0xE263 isonIndicatorZo
 	width: 0
 	leftSB: 0.0
-	rightSB: -396.52
+	rightSB: -482.08
 0xE264 isonIndicatorNi
 	width: 0
 	leftSB: 0.0
@@ -1357,7 +1357,7 @@
 0xE26A isonIndicatorZoHigh
 	width: 0
 	leftSB: 0.0
-	rightSB: -482.08
+	rightSB: -545.56
 0xE280 gorthmikon
 	width: 612
 	leftSB: 58.2
