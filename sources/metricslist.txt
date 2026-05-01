@@ -1,7 +1,7 @@
 0xE000 ison
 	width: 1268
-	leftSB: 30.0
-	rightSB: 30.44
+	leftSB: 15.0
+	rightSB: 45.44
 0xE001 oligon
 	width: 1298
 	leftSB: 31.0
