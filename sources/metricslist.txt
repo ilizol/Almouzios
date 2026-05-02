@@ -87,9 +87,9 @@
 	leftSB: 31.0
 	rightSB: 30.64
 0xE020 isonApostrofos
-	width: 1592
-	leftSB: 30.0
-	rightSB: 29.64
+	width: 1348
+	leftSB: 15.0
+	rightSB: -199.36
 0xE021 apostrofos
 	width: 733
 	leftSB: 20.0

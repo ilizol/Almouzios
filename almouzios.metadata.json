@@ -881,43 +881,43 @@
     },
     "isonApostrofos": {
       "yfenAbove": [
-        0.639,
+        0.624,
         0.659
       ],
       "yfenBelow": [
-        0.703,
+        0.688,
         -0.468
       ],
       "koronis": [
-        0.579,
+        0.564,
         0.649
       ],
       "apli": [
-        1.35,
+        1.335,
         -0.48
       ],
       "measureNumber": [
-        0.03,
+        0.015,
         0.5
       ],
       "isonIndicator": [
-        0.03,
+        0.015,
         0.7
       ],
       "noteTop": [
-        0.06,
+        0.045,
         0.4
       ],
       "fthoraTop": [
-        0.593,
+        0.578,
         0.275
       ],
       "fthoraBottom": [
-        0.369,
+        0.354,
         -0.079
       ],
       "diesis": [
-        0.349,
+        0.334,
         -0.099
       ]
     },
@@ -7517,7 +7517,7 @@
     "oligonKentimaYpsiliMiddle": 1.298,
     "oligonDoubleYpsili": 1.317,
     "oligonKentimataDoubleYpsili": 1.478,
-    "isonApostrofos": 1.592,
+    "isonApostrofos": 1.348,
     "apostrofosSyndesmos": 1.615,
     "yporroi": 0.37,
     "runningElafron": 2.004,
@@ -8024,11 +8024,11 @@
     },
     "isonApostrofos": {
       "bBoxNE": [
-        1.562,
+        1.547,
         0.27
       ],
       "bBoxSW": [
-        0.03,
+        0.015,
         -0.37
       ]
     },
