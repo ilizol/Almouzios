@@ -99,9 +99,9 @@
 	leftSB: 20.0
 	rightSB: 39.44
 0xE023 yporroi
-	width: 370
-	leftSB: 30.0
-	rightSB: 29.67
+	width: 340
+	leftSB: 10.0
+	rightSB: 19.67
 0xE024 elafron
 	width: 1297
 	leftSB: 30.0
