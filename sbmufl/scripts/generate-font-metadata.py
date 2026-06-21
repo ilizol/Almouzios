@@ -1,4 +1,6 @@
 import argparse
+import json
+import os
 import fontforge
 import json
 
@@ -78,6 +80,7 @@ class SbmuflFont(object):
             )
 
     def __init__(self, font_filepath, glyphnames_filepath="glyphnames.json", mode="w"):
+        self.filepath = font_filepath
         self.font = fontforge.open(font_filepath)
         self.read_only = mode == "r"
 
@@ -115,10 +118,23 @@ class SbmuflFont(object):
         self.font.generate(filename, *args, **kwargs)
 
     def export_metadata(self, filename=None, indent=2, **kwargs):
-        filename = filename or self.font.fontname.lower() + ".metadata.json"
+        filename = filename or (self.font.fontname + ".metadata.json").lower()
 
-        with open(filename, "w") as outfile:
-            json.dump(self.generate_metadata(), outfile, indent=indent, **kwargs)
+        metadata = self.generate_metadata()
+
+        font_dir = os.path.dirname(os.path.abspath(self.filepath))
+        extra_filename = os.path.join(
+            font_dir,
+            f"{self.font.fontname}.extra.json",
+        )
+        if os.path.exists(extra_filename):
+            with open(extra_filename, "r", encoding="utf-8") as infile:
+                extra_metadata = json.load(infile)
+
+            metadata.update(extra_metadata)
+
+        with open(filename, "w", encoding="utf-8") as outfile:
+            json.dump(metadata, outfile, indent=indent, **kwargs)
 
     def generate_metadata(self):
         return _SbmuflMetadata(self).asdict()
