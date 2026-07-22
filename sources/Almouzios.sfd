@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1777732247
+ModificationTime: 1784719328
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,13 +43,53 @@ HheadDOffset: 0
 OS2Vendor: 'PfEd'
 Lookup: 3 0 0 "'salt' Stylistic Alternatives in Byzantine Music lookup 4" { "'salt' Stylistic Alternatives in Byzantine Music lookup 4-1"  } ['salt' ('DFLT' <'dflt' > 'byzm' <'dflt' > ) ]
 Lookup: 6 0 0 "'rclt' Required Contextual Alternates lookup 3" { "'rclt' Required Contextual Alternates lookup 3-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 256 0 "rclt-gorgon" { "rclt-gorgon-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "subs" { "subs-1"  } []
+Lookup: 1 0 0 "subs-gorgon" { "subs-gorgon-1"  } []
+Lookup: 1 0 0 "subs-digorgon" { "subs-digorgon-1"  } []
+Lookup: 1 0 0 "subs-trigorgon" { "subs-trigorgon-1"  } []
 Lookup: 5 0 0 "'rclt' Required Contextual Alternates lookup 1" { "'rclt' Required Contextual Alternates lookup 1-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
-MarkAttachClasses: 1
+MarkAttachClasses: 2
+"gorgon" 179 gorgonAbove gorgonDottedLeft gorgonDottedRight digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
 DEI: 91125
+ChainSub2: class "rclt-gorgon-1" 5 5 5 3
+  Class: 7 yporroi
+  Class: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  Class: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  Class: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+  BClass: 7 yporroi
+  BClass: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  BClass: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  BClass: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+  FClass: 7 yporroi
+  FClass: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  FClass: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  FClass: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "subs-gorgon"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 3
+ 1
+  SeqLookup: 0 "subs-digorgon"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 4
+ 1
+  SeqLookup: 0 "subs-trigorgon"
+  ClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+  BClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+  FClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+EndFPST
 ChainSub2: class "'rclt' Required Contextual Alternates lookup 3-1" 3 3 1 1
   Class: 567 petastiIson petasti petastiOligon petastiKentima petastiYpsiliRight petastiYpsiliLeft petastiKentimaYpsiliRight petastiKentimaYpsiliMiddle petastiDoubleYpsili petastiKentimataDoubleYpsili petastiKentimaDoubleYpsiliRight petastiKentimaDoubleYpsiliLeft petastiTripleYpsili petastiKentimataTripleYpsili petastiKentimaTripleYpsili petastiApostrofos petastiYporroi petastiElafron petastiRunningElafron petastiElafronApostrofos petastiChamili petastiChamiliApostrofos petastiChamiliElafron petastiChamiliElafronApostrofos petastiDoubleChamili petastiDoubleChamiliApostrofos
   Class: 10 antikenoma
@@ -119,12 +159,12 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 14 6
+WinInfo: 350 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
-BeginChars: 1114112 436
+BeginChars: 1114112 439
 
 StartChar: u1D046
 Encoding: 118854 118854 0
@@ -916,9 +956,9 @@ EndChar
 
 StartChar: u1D053
 Encoding: 118867 118867 11
-Width: 400
-VWidth: 345
-Flags: W
+Width: 340
+VWidth: 1392
+Flags: HW
 HStem: 417 30<334.051 380.419>
 VStem: 75 305.5
 LayerCount: 2
@@ -942,23 +982,20 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-358 447 m 0
- 373.333333333 447 380.833333333 442.333333333 380.5 433 c 0
- 380.166666667 423.666666667 374.666666667 418.333333333 364 417 c 0
- 346 413 334 405.333333333 328 394 c 0
- 304 336.666666667 285.5 286.333333333 272.5 243 c 0
- 259.5 199.666666667 243 174 223 166 c 1
- 201.666666667 163.333333333 179.166666667 161.666666667 155.5 161 c 0
- 131.833333333 160.333333333 108.333333333 162 85 166 c 1
- 75 170 71.6666666667 174.333333333 75 179 c 0
- 78.3333333333 183.666666667 83.3333333333 187 90 189 c 0
- 96.6666666667 190.333333333 103.666666667 198.333333333 111 213 c 0
- 134.333333333 254.333333333 153.833333333 301.166666667 169.5 353.5 c 0
- 185.166666667 405.833333333 201.666666667 435 219 441 c 0
- 241.666666667 447.666666667 264.666666667 450.333333333 288 449 c 0
- 311.333333333 447.666666667 334.666666667 447 358 447 c 0
+179.96875 207.639648438 m 0xd0
+ 116.6953125 207.639648438 102.248046875 194.563476562 102.248046875 146.16015625 c 1
+ 108.048828125 44.080078125 l 1
+ 108.048828125 -3.1982421875 97.2109375 -23.2001953125 52.9482421875 -23.2001953125 c 0
+ 17.5673828125 -23.2001953125 7.2158203125 -26.767578125 10.6083984375 -41.1796875 c 0
+ 17.9990234375 -72.5869140625 56.12109375 -80.0400390625 160.248046875 -80.0400390625 c 256
+ 201.266601562 -80.0400390625 222.844726562 -75.4423828125 240.868164062 -57.419921875 c 0
+ 257.411132812 -40.8779296875 261.16796875 -30.265625 261.16796875 -2.3203125 c 256xe0
+ 261.16796875 19.72265625 261.16796875 19.72265625 253.048828125 109.040039062 c 2
+ 250.728515625 138.040039062 l 1
+ 250.728515625 156.083984375 258.990234375 162.400390625 285.528320312 162.400390625 c 0
+ 314.365234375 162.400390625 320.328125 166.389648438 320.328125 178.060546875 c 0
+ 320.328125 193.893554688 319.916992188 207.639648438 179.96875 207.639648438 c 0xd0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: u1D058
@@ -3860,19 +3897,19 @@ Back
 Refer: 11 118867 N 1 0 0 1 -83.3521 -2 2
 Fore
 SplineSet
-179.96875 207.639648438 m 0xd0
- 116.6953125 207.639648438 102.248046875 194.563476562 102.248046875 146.16015625 c 1
- 108.048828125 44.080078125 l 1
- 108.048828125 -3.1982421875 97.2109375 -23.2001953125 52.9482421875 -23.2001953125 c 0
- 17.5673828125 -23.2001953125 7.2158203125 -26.767578125 10.6083984375 -41.1796875 c 0
- 17.9990234375 -72.5869140625 56.12109375 -80.0400390625 160.248046875 -80.0400390625 c 256
- 201.266601562 -80.0400390625 222.844726562 -75.4423828125 240.868164062 -57.419921875 c 0
- 257.411132812 -40.8779296875 261.16796875 -30.265625 261.16796875 -2.3203125 c 256xe0
- 261.16796875 19.72265625 261.16796875 19.72265625 253.048828125 109.040039062 c 2
- 250.728515625 138.040039062 l 1
- 250.728515625 156.083984375 258.990234375 162.400390625 285.528320312 162.400390625 c 0
- 314.365234375 162.400390625 320.328125 166.389648438 320.328125 178.060546875 c 0
- 320.328125 193.893554688 319.916992188 207.639648438 179.96875 207.639648438 c 0xd0
+179.96875 207.639648438 m 4xd0
+ 116.6953125 207.639648438 102.248046875 194.563476562 102.248046875 146.16015625 c 5
+ 108.048828125 44.080078125 l 5
+ 108.048828125 -3.1982421875 97.2109375 -23.2001953125 52.9482421875 -23.2001953125 c 4
+ 17.5673828125 -23.2001953125 7.2158203125 -26.767578125 10.6083984375 -41.1796875 c 4
+ 17.9990234375 -72.5869140625 56.12109375 -80.0400390625 160.248046875 -80.0400390625 c 260
+ 201.266601562 -80.0400390625 222.844726562 -75.4423828125 240.868164062 -57.419921875 c 4
+ 257.411132812 -40.8779296875 261.16796875 -30.265625 261.16796875 -2.3203125 c 260xe0
+ 261.16796875 19.72265625 261.16796875 19.72265625 253.048828125 109.040039062 c 6
+ 250.728515625 138.040039062 l 5
+ 250.728515625 156.083984375 258.990234375 162.400390625 285.528320312 162.400390625 c 4
+ 314.365234375 162.400390625 320.328125 166.389648438 320.328125 178.060546875 c 4
+ 320.328125 193.893554688 319.916992188 207.639648438 179.96875 207.639648438 c 4xd0
 EndSplineSet
 EndChar
 
@@ -42840,6 +42877,99 @@ SplineSet
  472.706054688 924.200195312 499.516601562 932.659179688 506.887695312 947.400390625 c 1
  395.52734375 949.719726562 l 1
 EndSplineSet
+EndChar
+
+StartChar: yporroi.gorgon
+Encoding: 61449 61449 436
+Width: 544
+VWidth: 345
+Flags: HW
+HStem: 417 30<334.051 380.419>
+VStem: 75 305.5
+AnchorPoint: "diesisSecondary" 587 887 basechar 0
+AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
+AnchorPoint: "yfesis" 308 609 basechar 0
+AnchorPoint: "barline" 400 895 basechar 0
+AnchorPoint: "yfenAbove" 217 887 basechar 0
+AnchorPoint: "yfenBelow" 159 -40 basechar 0
+AnchorPoint: "koronis" 210 881 basechar 0
+AnchorPoint: "endofonon" 192 -146 basechar 0
+AnchorPoint: "heteronConnecting" 583 -19 basechar 0
+AnchorPoint: "measureNumber" 72 483 basechar 0
+AnchorPoint: "isonIndicator" 212 913 basechar 0
+AnchorPoint: "heteron" 316 -86 basechar 0
+AnchorPoint: "apli" 161 -13 basechar 0
+AnchorPoint: "antikenoma" 197 100 basechar 0
+AnchorPoint: "noteTop" 156 675 basechar 0
+AnchorPoint: "fthoraTop" 308 609 basechar 0
+AnchorPoint: "fthoraBottom" 148 101 basechar 0
+AnchorPoint: "diesis" 267 60 basechar 0
+AnchorPoint: "gorgonTop" 400 527 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 118867 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: yporroi.digorgon
+Encoding: 61450 61450 437
+Width: 622
+VWidth: 345
+Flags: HW
+HStem: 417 30<334.051 380.419>
+VStem: 75 305.5
+AnchorPoint: "diesisSecondary" 587 887 basechar 0
+AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
+AnchorPoint: "yfesis" 308 609 basechar 0
+AnchorPoint: "barline" 320 1065 basechar 0
+AnchorPoint: "yfenAbove" 217 887 basechar 0
+AnchorPoint: "yfenBelow" 159 -40 basechar 0
+AnchorPoint: "koronis" 210 881 basechar 0
+AnchorPoint: "endofonon" 192 -146 basechar 0
+AnchorPoint: "heteronConnecting" 583 -19 basechar 0
+AnchorPoint: "measureNumber" 72 483 basechar 0
+AnchorPoint: "isonIndicator" 212 913 basechar 0
+AnchorPoint: "heteron" 316 -86 basechar 0
+AnchorPoint: "apli" 161 -13 basechar 0
+AnchorPoint: "antikenoma" 197 100 basechar 0
+AnchorPoint: "noteTop" 156 675 basechar 0
+AnchorPoint: "fthoraTop" 308 609 basechar 0
+AnchorPoint: "fthoraBottom" 148 101 basechar 0
+AnchorPoint: "diesis" 267 60 basechar 0
+AnchorPoint: "gorgonTop" 320 527 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 118867 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: yporroi.trigorgon
+Encoding: 61451 61451 438
+Width: 700
+VWidth: 345
+Flags: HW
+HStem: 417 30<334.051 380.419>
+VStem: 75 305.5
+AnchorPoint: "diesisSecondary" 587 887 basechar 0
+AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
+AnchorPoint: "yfesis" 308 609 basechar 0
+AnchorPoint: "barline" 382 1080 basechar 0
+AnchorPoint: "yfenAbove" 217 887 basechar 0
+AnchorPoint: "yfenBelow" 159 -40 basechar 0
+AnchorPoint: "koronis" 210 881 basechar 0
+AnchorPoint: "endofonon" 192 -146 basechar 0
+AnchorPoint: "heteronConnecting" 583 -19 basechar 0
+AnchorPoint: "measureNumber" 72 483 basechar 0
+AnchorPoint: "isonIndicator" 212 913 basechar 0
+AnchorPoint: "heteron" 316 -86 basechar 0
+AnchorPoint: "apli" 161 -13 basechar 0
+AnchorPoint: "antikenoma" 197 100 basechar 0
+AnchorPoint: "noteTop" 156 675 basechar 0
+AnchorPoint: "fthoraTop" 308 609 basechar 0
+AnchorPoint: "fthoraBottom" 148 101 basechar 0
+AnchorPoint: "diesis" 267 60 basechar 0
+AnchorPoint: "gorgonTop" 382 527 basechar 0
+LayerCount: 2
+Fore
+Refer: 11 118867 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
