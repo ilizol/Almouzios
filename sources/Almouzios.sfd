@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1784719328
+ModificationTime: 1784726019
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -958,9 +958,9 @@ StartChar: u1D053
 Encoding: 118867 118867 11
 Width: 340
 VWidth: 1392
-Flags: HW
-HStem: 417 30<334.051 380.419>
-VStem: 75 305.5
+Flags: W
+HStem: -80.04 56.8398<20.2394 100.566> 162.4 45.2393<250.784 319.585>
+VStem: 108.049 153.119<-16.3648 146.16> 108.049 145<-1.30277 109.04 138.04 160.804>
 LayerCount: 2
 Back
 SplineSet
@@ -3870,13 +3870,13 @@ StartChar: yporroi
 Encoding: 57379 57379 45
 Width: 340
 VWidth: 1392
-Flags: HW
-HStem: -80.04 56.8398<20.2392 100.566> 162.4 45.2393<250.784 319.585>
-VStem: 108.049 153.119<-16.3648 146.16> 108.049 145<-1.30277 109.04 138.04 160.804>
+Flags: W
+HStem: -80.04 56.8398<20.2394 100.566> 162.4 45.2393<250.784 319.585>
+VStem: 108.049 145<-1.30277 109.04 138.04 160.804> 108.049 153.119<-16.3648 146.16>
 AnchorPoint: "diesisSecondary" 503.647 655 basechar 0
 AnchorPoint: "yfesisSecondary" -102.352 -455 basechar 0
 AnchorPoint: "yfesis" 224.647 377 basechar 0
-AnchorPoint: "barline" 202.647 358 basechar 0
+AnchorPoint: "barline" 200 280 basechar 0
 AnchorPoint: "yfenAbove" 133.647 655 basechar 0
 AnchorPoint: "yfenBelow" 75.6484 -272 basechar 0
 AnchorPoint: "koronis" 126.647 649 basechar 0
@@ -38996,8 +38996,8 @@ StartChar: barlineShortSingleAbove
 Encoding: 57881 57881 387
 Width: 0
 VWidth: 345
-Flags: HW
-VStem: -19.4404 39.4404<591.753 844.886>
+Flags: W
+VStem: -19.7207 39.4414<31.7526 284.886>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -39030,8 +39030,8 @@ StartChar: barlineSingleAbove
 Encoding: 57878 57878 388
 Width: 0
 VWidth: 1392
-Flags: HW
-VStem: -19.4395 39.4395<131.781 448.488>
+Flags: W
+VStem: -19.7197 39.4395<31.7806 348.488>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -39066,8 +39066,8 @@ StartChar: barlineDoubleAbove
 Encoding: 57879 57879 389
 Width: 0
 VWidth: 1392
-Flags: HW
-VStem: -64.4395 39.4395<131.781 448.488> 25.5605 39.4395<131.781 448.488>
+Flags: W
+VStem: -64.7197 39.4395<31.7806 348.488> 25.2803 39.4395<31.7806 348.488>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -39119,8 +39119,8 @@ StartChar: barlineTheseosAbove
 Encoding: 57880 57880 390
 Width: 0
 VWidth: 345
-Flags: HW
-VStem: -21.5996 39.4395<131.781 448.488>
+Flags: W
+VStem: -19.7197 39.4395<31.7806 348.488>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -39173,8 +39173,8 @@ StartChar: barlineShortDoubleAbove
 Encoding: 57882 57882 391
 Width: 0
 VWidth: 345
-Flags: HW
-VStem: -60.9404 39.4404<591.753 844.886> 22.0596 39.4404<591.753 844.886>
+Flags: W
+VStem: -61.2207 39.4414<31.7526 284.886> 21.7793 39.4414<31.7526 284.886>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -39224,8 +39224,8 @@ StartChar: barlineShortTheseosAbove
 Encoding: 57883 57883 392
 Width: 0
 VWidth: 345
-Flags: HW
-VStem: -23.4805 39.4404<591.753 844.886>
+Flags: W
+VStem: -19.7207 39.4414<31.7526 284.886>
 AnchorPoint: "barlineAboveFthora" 0 0 mark 0
 AnchorPoint: "barline" 0 30 mark 0
 LayerCount: 2
@@ -42870,30 +42870,30 @@ EndChar
 
 StartChar: yporroi.gorgon
 Encoding: 61449 61449 436
-Width: 544
-VWidth: 345
-Flags: HW
-HStem: 417 30<334.051 380.419>
-VStem: 75 305.5
-AnchorPoint: "diesisSecondary" 587 887 basechar 0
-AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
-AnchorPoint: "yfesis" 308 609 basechar 0
-AnchorPoint: "barline" 400 895 basechar 0
-AnchorPoint: "yfenAbove" 217 887 basechar 0
-AnchorPoint: "yfenBelow" 159 -40 basechar 0
-AnchorPoint: "koronis" 210 881 basechar 0
-AnchorPoint: "endofonon" 192 -146 basechar 0
-AnchorPoint: "heteronConnecting" 583 -19 basechar 0
-AnchorPoint: "measureNumber" 72 483 basechar 0
-AnchorPoint: "isonIndicator" 212 913 basechar 0
-AnchorPoint: "heteron" 316 -86 basechar 0
-AnchorPoint: "apli" 161 -13 basechar 0
-AnchorPoint: "antikenoma" 197 100 basechar 0
-AnchorPoint: "noteTop" 156 675 basechar 0
-AnchorPoint: "fthoraTop" 308 609 basechar 0
-AnchorPoint: "fthoraBottom" 148 101 basechar 0
-AnchorPoint: "diesis" 267 60 basechar 0
-AnchorPoint: "gorgonTop" 400 527 basechar 0
+Width: 450
+VWidth: 1392
+Flags: W
+HStem: -80.04 56.8398<20.2394 100.566> 162.4 45.2393<250.784 319.585>
+VStem: 108.049 145<-1.30277 109.04 138.04 160.804> 108.049 153.119<-16.3648 146.16>
+AnchorPoint: "gorgonTop" 230 290 basechar 0
+AnchorPoint: "diesis" 183.647 -172 basechar 0
+AnchorPoint: "fthoraBottom" 64.6484 -131 basechar 0
+AnchorPoint: "fthoraTop" 224.647 377 basechar 0
+AnchorPoint: "noteTop" 40 400 basechar 0
+AnchorPoint: "antikenoma" 130 -100 basechar 0
+AnchorPoint: "apli" 130 -200 basechar 0
+AnchorPoint: "heteron" 232.647 -318 basechar 0
+AnchorPoint: "isonIndicator" -20 700 basechar 0
+AnchorPoint: "measureNumber" 10 500 basechar 0
+AnchorPoint: "heteronConnecting" 499.647 -251 basechar 0
+AnchorPoint: "endofonon" 108.647 -378 basechar 0
+AnchorPoint: "koronis" 126.647 649 basechar 0
+AnchorPoint: "yfenBelow" 75.6484 -272 basechar 0
+AnchorPoint: "yfenAbove" 133.647 655 basechar 0
+AnchorPoint: "barline" 200 530 basechar 0
+AnchorPoint: "yfesis" 224.647 377 basechar 0
+AnchorPoint: "yfesisSecondary" -102.352 -455 basechar 0
+AnchorPoint: "diesisSecondary" 503.647 655 basechar 0
 LayerCount: 2
 Fore
 Refer: 11 118867 N 1 0 0 1 0 0 2
@@ -42901,30 +42901,30 @@ EndChar
 
 StartChar: yporroi.digorgon
 Encoding: 61450 61450 437
-Width: 622
-VWidth: 345
-Flags: HW
-HStem: 417 30<334.051 380.419>
-VStem: 75 305.5
-AnchorPoint: "diesisSecondary" 587 887 basechar 0
-AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
-AnchorPoint: "yfesis" 308 609 basechar 0
-AnchorPoint: "barline" 320 1065 basechar 0
-AnchorPoint: "yfenAbove" 217 887 basechar 0
-AnchorPoint: "yfenBelow" 159 -40 basechar 0
-AnchorPoint: "koronis" 210 881 basechar 0
-AnchorPoint: "endofonon" 192 -146 basechar 0
-AnchorPoint: "heteronConnecting" 583 -19 basechar 0
-AnchorPoint: "measureNumber" 72 483 basechar 0
-AnchorPoint: "isonIndicator" 212 913 basechar 0
-AnchorPoint: "heteron" 316 -86 basechar 0
-AnchorPoint: "apli" 161 -13 basechar 0
-AnchorPoint: "antikenoma" 197 100 basechar 0
-AnchorPoint: "noteTop" 156 675 basechar 0
-AnchorPoint: "fthoraTop" 308 609 basechar 0
-AnchorPoint: "fthoraBottom" 148 101 basechar 0
-AnchorPoint: "diesis" 267 60 basechar 0
-AnchorPoint: "gorgonTop" 320 527 basechar 0
+Width: 450
+VWidth: 1392
+Flags: W
+HStem: -80.04 56.8398<20.2394 100.566> 162.4 45.2393<250.784 319.585>
+VStem: 108.049 145<-1.30277 109.04 138.04 160.804> 108.049 153.119<-16.3648 146.16>
+AnchorPoint: "gorgonTop" 230 290 basechar 0
+AnchorPoint: "diesis" 183.647 -172 basechar 0
+AnchorPoint: "fthoraBottom" 64.6484 -131 basechar 0
+AnchorPoint: "fthoraTop" 224.647 377 basechar 0
+AnchorPoint: "noteTop" 40 400 basechar 0
+AnchorPoint: "antikenoma" 130 -100 basechar 0
+AnchorPoint: "apli" 130 -200 basechar 0
+AnchorPoint: "heteron" 232.647 -318 basechar 0
+AnchorPoint: "isonIndicator" -20 700 basechar 0
+AnchorPoint: "measureNumber" 10 500 basechar 0
+AnchorPoint: "heteronConnecting" 499.647 -251 basechar 0
+AnchorPoint: "endofonon" 108.647 -378 basechar 0
+AnchorPoint: "koronis" 126.647 649 basechar 0
+AnchorPoint: "yfenBelow" 75.6484 -272 basechar 0
+AnchorPoint: "yfenAbove" 133.647 655 basechar 0
+AnchorPoint: "barline" 200 670 basechar 0
+AnchorPoint: "yfesis" 224.647 377 basechar 0
+AnchorPoint: "yfesisSecondary" -102.352 -455 basechar 0
+AnchorPoint: "diesisSecondary" 503.647 655 basechar 0
 LayerCount: 2
 Fore
 Refer: 11 118867 N 1 0 0 1 0 0 2
@@ -42932,30 +42932,30 @@ EndChar
 
 StartChar: yporroi.trigorgon
 Encoding: 61451 61451 438
-Width: 700
-VWidth: 345
-Flags: HW
-HStem: 417 30<334.051 380.419>
-VStem: 75 305.5
-AnchorPoint: "diesisSecondary" 587 887 basechar 0
-AnchorPoint: "yfesisSecondary" -19 -223 basechar 0
-AnchorPoint: "yfesis" 308 609 basechar 0
-AnchorPoint: "barline" 382 1080 basechar 0
-AnchorPoint: "yfenAbove" 217 887 basechar 0
-AnchorPoint: "yfenBelow" 159 -40 basechar 0
-AnchorPoint: "koronis" 210 881 basechar 0
-AnchorPoint: "endofonon" 192 -146 basechar 0
-AnchorPoint: "heteronConnecting" 583 -19 basechar 0
-AnchorPoint: "measureNumber" 72 483 basechar 0
-AnchorPoint: "isonIndicator" 212 913 basechar 0
-AnchorPoint: "heteron" 316 -86 basechar 0
-AnchorPoint: "apli" 161 -13 basechar 0
-AnchorPoint: "antikenoma" 197 100 basechar 0
-AnchorPoint: "noteTop" 156 675 basechar 0
-AnchorPoint: "fthoraTop" 308 609 basechar 0
-AnchorPoint: "fthoraBottom" 148 101 basechar 0
-AnchorPoint: "diesis" 267 60 basechar 0
-AnchorPoint: "gorgonTop" 382 527 basechar 0
+Width: 450
+VWidth: 1392
+Flags: W
+HStem: -80.04 56.8398<20.2394 100.566> 162.4 45.2393<250.784 319.585>
+VStem: 108.049 145<-1.30277 109.04 138.04 160.804> 108.049 153.119<-16.3648 146.16>
+AnchorPoint: "gorgonTop" 230 290 basechar 0
+AnchorPoint: "diesis" 183.647 -172 basechar 0
+AnchorPoint: "fthoraBottom" 64.6484 -131 basechar 0
+AnchorPoint: "fthoraTop" 224.647 377 basechar 0
+AnchorPoint: "noteTop" 40 400 basechar 0
+AnchorPoint: "antikenoma" 130 -100 basechar 0
+AnchorPoint: "apli" 130 -200 basechar 0
+AnchorPoint: "heteron" 232.647 -318 basechar 0
+AnchorPoint: "isonIndicator" -20 700 basechar 0
+AnchorPoint: "measureNumber" 10 500 basechar 0
+AnchorPoint: "heteronConnecting" 499.647 -251 basechar 0
+AnchorPoint: "endofonon" 108.647 -378 basechar 0
+AnchorPoint: "koronis" 126.647 649 basechar 0
+AnchorPoint: "yfenBelow" 75.6484 -272 basechar 0
+AnchorPoint: "yfenAbove" 133.647 655 basechar 0
+AnchorPoint: "barline" 200 780 basechar 0
+AnchorPoint: "yfesis" 224.647 377 basechar 0
+AnchorPoint: "yfesisSecondary" -102.352 -455 basechar 0
+AnchorPoint: "diesisSecondary" 503.647 655 basechar 0
 LayerCount: 2
 Fore
 Refer: 11 118867 N 1 0 0 1 0 0 2

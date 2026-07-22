@@ -1535,14 +1535,14 @@
 	leftSB: -390.24
 	rightSB: -839.77
 0xF009 yporroi.gorgon
-	width: 544
+	width: 450
 	leftSB: 10.0
-	rightSB: 223.67
+	rightSB: 129.67
 0xF00A yporroi.digorgon
-	width: 622
+	width: 450
 	leftSB: 10.0
-	rightSB: 301.67
+	rightSB: 129.67
 0xF00B yporroi.trigorgon
-	width: 700
+	width: 450
 	leftSB: 10.0
-	rightSB: 379.67
+	rightSB: 129.67
