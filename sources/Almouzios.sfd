@@ -5,7 +5,7 @@ FamilyName: Almouzios
 Weight: Regular
 Copyright: SIL OPEN FONT LICENSE Version 1.1
 UComments: "2022-3-8: Created with FontForge (http://fontforge.org)"
-Version: 1.0.3
+Version: 1.0.7
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1784726019
+ModificationTime: 1784727046
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
