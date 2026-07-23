@@ -592,8 +592,8 @@
 	rightSB: 313.38
 0xE133 martyriaNoteVouLow
 	width: 1000
-	leftSB: 312.68
-	rightSB: 392.68
+	leftSB: 372.68
+	rightSB: 332.68
 0xE134 martyriaNoteGaLow
 	width: 1000
 	leftSB: 315.56
@@ -620,8 +620,8 @@
 	rightSB: 313.38
 0xE13A martyriaNoteVou
 	width: 1000
-	leftSB: 312.68
-	rightSB: 392.68
+	leftSB: 372.68
+	rightSB: 332.68
 0xE13B martyriaNoteGa
 	width: 1000
 	leftSB: 315.56
@@ -648,7 +648,7 @@
 	rightSB: 188.64
 0xE141 martyriaNoteVouHigh
 	width: 1000
-	leftSB: 312.68
+	leftSB: 372.68
 	rightSB: 188.64
 0xE142 martyriaNoteGaHigh
 	width: 1000
