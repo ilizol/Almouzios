@@ -579,93 +579,93 @@
 	leftSB: -145.0
 	rightSB: -596.4
 0xE130 martyriaNoteZoLow
-	width: 700
-	leftSB: 161.5
-	rightSB: 161.5
+	width: 1000
+	leftSB: 311.5
+	rightSB: 311.5
 0xE131 martyriaNoteNiLow
-	width: 700
-	leftSB: 135.12
-	rightSB: 175.12
+	width: 1000
+	leftSB: 285.12
+	rightSB: 325.12
 0xE132 martyriaNotePaLow
-	width: 700
-	leftSB: 123.38
-	rightSB: 163.38
+	width: 1000
+	leftSB: 273.38
+	rightSB: 313.38
 0xE133 martyriaNoteVouLow
-	width: 700
-	leftSB: 222.68
-	rightSB: 182.68
+	width: 1000
+	leftSB: 312.68
+	rightSB: 392.68
 0xE134 martyriaNoteGaLow
-	width: 700
-	leftSB: 165.56
-	rightSB: 165.56
+	width: 1000
+	leftSB: 315.56
+	rightSB: 315.56
 0xE135 martyriaNoteDiLow
-	width: 700
-	leftSB: 154.12
-	rightSB: 214.12
+	width: 1000
+	leftSB: 304.12
+	rightSB: 364.12
 0xE136 martyriaNoteKeLow
-	width: 700
-	leftSB: 184.7
-	rightSB: 184.7
+	width: 1000
+	leftSB: 334.7
+	rightSB: 334.7
 0xE137 martyriaNoteZo
-	width: 700
-	leftSB: 161.5
-	rightSB: 161.5
+	width: 1000
+	leftSB: 311.5
+	rightSB: 311.5
 0xE138 martyriaNoteNi
-	width: 700
-	leftSB: 135.12
-	rightSB: 175.12
+	width: 1000
+	leftSB: 285.12
+	rightSB: 325.12
 0xE139 martyriaNotePa
-	width: 700
-	leftSB: 123.38
-	rightSB: 163.38
+	width: 1000
+	leftSB: 273.38
+	rightSB: 313.38
 0xE13A martyriaNoteVou
-	width: 700
-	leftSB: 222.68
-	rightSB: 182.68
+	width: 1000
+	leftSB: 312.68
+	rightSB: 392.68
 0xE13B martyriaNoteGa
-	width: 700
-	leftSB: 165.56
-	rightSB: 165.56
+	width: 1000
+	leftSB: 315.56
+	rightSB: 315.56
 0xE13C martyriaNoteDi
-	width: 700
-	leftSB: 154.12
-	rightSB: 214.12
+	width: 1000
+	leftSB: 304.12
+	rightSB: 364.12
 0xE13D martyriaNoteKe
-	width: 700
-	leftSB: 184.7
-	rightSB: 184.7
+	width: 1000
+	leftSB: 334.7
+	rightSB: 334.7
 0xE13E martyriaNoteZoHigh
-	width: 700
-	leftSB: 161.5
-	rightSB: 38.64
+	width: 1000
+	leftSB: 311.5
+	rightSB: 188.64
 0xE13F martyriaNoteNiHigh
-	width: 700
-	leftSB: 135.12
-	rightSB: 38.64
+	width: 1000
+	leftSB: 285.12
+	rightSB: 188.64
 0xE140 martyriaNotePaHigh
-	width: 700
-	leftSB: 123.38
-	rightSB: 38.64
+	width: 1000
+	leftSB: 273.38
+	rightSB: 188.64
 0xE141 martyriaNoteVouHigh
-	width: 700
-	leftSB: 222.68
-	rightSB: 38.64
+	width: 1000
+	leftSB: 312.68
+	rightSB: 188.64
 0xE142 martyriaNoteGaHigh
-	width: 700
-	leftSB: 165.56
-	rightSB: 38.64
+	width: 1000
+	leftSB: 315.56
+	rightSB: 188.64
 0xE143 martyriaNoteDiHigh
-	width: 700
-	leftSB: 154.12
-	rightSB: 38.64
+	width: 1000
+	leftSB: 304.12
+	rightSB: 188.64
 0xE144 martyriaNoteKeHigh
-	width: 700
-	leftSB: 184.7
-	rightSB: 38.64
+	width: 1000
+	leftSB: 334.7
+	rightSB: 188.64
 0xE145 martyriaTick
 	width: 0
-	leftSB: -150.0
-	rightSB: 38.64
+	leftSB: -300.0
+	rightSB: 188.64
 0xE150 martyriaZoBelow
 	width: 0
 	leftSB: -337.36
