@@ -1,8 +1,12 @@
 import argparse
 import json
 import os
+import tempfile
+from pathlib import Path
+
 import fontforge
-import json
+from fontTools.feaLib import ast
+from fontTools.feaLib.parser import Parser
 
 
 def find_midpoint(glyph):
@@ -21,6 +25,42 @@ def find_midpoint(glyph):
         return None
 
     return (min_y + max_y) / 2
+
+
+def contour_bbox(contour):
+    xs = [p.x for p in contour]
+    ys = [p.y for p in contour]
+
+    if not xs:
+        return None
+
+    xmin = min(xs)
+    ymin = min(ys)
+    xmax = max(xs)
+    ymax = max(ys)
+
+    if xmin == xmax or ymin == ymax:
+        return None
+
+    return xmin, ymin, xmax, ymax
+
+
+def find_widest_contour_bbox(glyph):
+    bboxes = [bbox for contour in glyph.foreground if (bbox := contour_bbox(contour))]
+
+    if not bboxes:
+        return None
+
+    return max(bboxes, key=lambda bbox: bbox[2] - bbox[0])
+
+
+def find_lowest_contour_bbox(glyph):
+    bboxes = [bbox for contour in glyph.foreground if (bbox := contour_bbox(contour))]
+
+    if not bboxes:
+        return None
+
+    return min(bboxes, key=lambda bbox: bbox[1])
 
 
 class SbmuflFont(object):
@@ -125,7 +165,7 @@ class SbmuflFont(object):
         font_dir = os.path.dirname(os.path.abspath(self.filepath))
         extra_filename = os.path.join(
             font_dir,
-            f"{self.font.fontname}.extra.json",
+            f"{self.font.fontname.lower()}.extra.json",
         )
         if os.path.exists(extra_filename):
             with open(extra_filename, "r", encoding="utf-8") as infile:
@@ -211,6 +251,7 @@ class _SbmuflMetadata(object):
             "winAscent": round(self.font.os2_winascent / self.font.em, 3),
             "winDescent": round(self.font.os2_windescent / self.font.em, 3),
             "oligonMidpoint": round(self.font.oligon_midpoint / self.font.em, 3),
+            "elafronBounds": self.elafron_bounds(),
         }
 
         anchors = self.anchors()
@@ -220,6 +261,15 @@ class _SbmuflMetadata(object):
         alternates = self.alternates()
         if alternates:
             d["glyphsWithAlternates"] = alternates
+
+        contextual_substitutions, mark_attachment_classes = (
+            self.contextual_substitutions()
+        )
+        if mark_attachment_classes:
+            d["markAttachmentClasses"] = mark_attachment_classes
+
+        if contextual_substitutions:
+            d["contextualSubstitutions"] = contextual_substitutions
 
         advance_widths = self.advance_widths()
         if advance_widths:
@@ -238,6 +288,32 @@ class _SbmuflMetadata(object):
             d["ligatures"] = ligatures
 
         return d
+
+    def elafron_bounds(self):
+        # In runningElafron the wider of the two adjacent contours is the
+        # elafron. In petastiRunningElafron the elafron is the contour below
+        # the petasti. Derive the component bounds from those outlines instead
+        # of assuming they match the stand-alone elafron.
+        contour_bboxes = {
+            "runningElafron": find_widest_contour_bbox(self.font["runningElafron"]),
+            "petastiRunningElafron": find_lowest_contour_bbox(
+                self.font["petastiRunningElafron"]
+            ),
+        }
+
+        bounds = {}
+
+        for glyph_name, bbox in contour_bboxes.items():
+            if bbox is None:
+                raise ValueError(f"Cannot locate the elafron in {glyph_name}")
+
+            elafron_left, _, elafron_right, _ = bbox
+            bounds[glyph_name] = {
+                "left": round(elafron_left / self.font.em, 3),
+                "right": round(elafron_right / self.font.em, 3),
+            }
+
+        return bounds
 
     def anchors(self):
         all_anchors = {}
@@ -285,6 +361,157 @@ class _SbmuflMetadata(object):
                 all_alternates[char_name] = char_alternates
 
         return all_alternates
+
+    def contextual_substitutions(self):
+        with tempfile.NamedTemporaryFile(suffix=".fea", delete=False) as tmp:
+            fea_path = tmp.name
+
+        try:
+            self.font.font.generateFeatureFile(fea_path)
+            feature_file = Parser(fea_path).parse()
+        finally:
+            os.unlink(fea_path)
+
+        substitutions_by_lookup = self._substitutions_by_lookup(feature_file)
+        contextual_substitutions = []
+        mark_attachment_classes = {}
+
+        for statement, lookup_flag in self._walk_statements_with_lookup_flags(
+            feature_file
+        ):
+            if isinstance(statement, ast.ChainContextSubstStatement):
+                input_glyphs = [self._glyph_set(g) for g in statement.glyphs]
+                backtrack_glyphs = [self._glyph_set(g) for g in statement.prefix]
+                lookahead_glyphs = [self._glyph_set(g) for g in statement.suffix]
+
+                substitutions = []
+
+                for index, lookups in enumerate(statement.lookups):
+                    if not lookups:
+                        continue
+
+                    for lookup in lookups:
+                        substitutions.extend(
+                            self._substitutions_for_rule(
+                                substitutions_by_lookup,
+                                input_glyphs,
+                                index,
+                                lookup.name,
+                            )
+                        )
+
+            elif isinstance(statement, ast.SingleSubstStatement):
+                if not (statement.prefix or statement.suffix):
+                    continue
+
+                input_glyphs = [self._glyph_set(g) for g in statement.glyphs]
+                backtrack_glyphs = [self._glyph_set(g) for g in statement.prefix]
+                lookahead_glyphs = [self._glyph_set(g) for g in statement.suffix]
+                substitutions = []
+
+                for index, replacement in enumerate(statement.replacements):
+                    from_glyphs = input_glyphs[index]
+                    to_glyphs = self._glyph_set(replacement)
+
+                    for from_glyph, to_glyph in zip(from_glyphs, to_glyphs):
+                        substitutions.append(
+                            {
+                                "index": index,
+                                "from": from_glyph,
+                                "to": to_glyph,
+                            }
+                        )
+            else:
+                continue
+
+            if substitutions:
+                contextual_substitution = {
+                    "inputGlyphs": input_glyphs,
+                    "backtrackGlyphs": backtrack_glyphs,
+                    "lookaheadGlyphs": lookahead_glyphs,
+                    "substitutions": substitutions,
+                }
+
+                if lookup_flag is not None and lookup_flag.markAttachment is not None:
+                    mark_attachment_class = lookup_flag.markAttachment.glyphclass.name
+                    mark_attachment_classes[mark_attachment_class] = self._glyph_set(
+                        lookup_flag.markAttachment
+                    )
+                    contextual_substitution["markAttachmentClass"] = (
+                        mark_attachment_class
+                    )
+
+                contextual_substitutions.append(contextual_substitution)
+
+        return contextual_substitutions, mark_attachment_classes
+
+    def _substitutions_by_lookup(self, node):
+        substitutions_by_lookup = {}
+
+        for statement in self._walk_statements(node):
+            if not isinstance(statement, ast.LookupBlock):
+                continue
+
+            substitutions = []
+
+            for lookup_statement in statement.statements:
+                if not isinstance(lookup_statement, ast.SingleSubstStatement):
+                    continue
+
+                if lookup_statement.prefix or lookup_statement.suffix:
+                    continue
+
+                for index, replacement in enumerate(lookup_statement.replacements):
+                    from_glyphs = self._glyph_set(lookup_statement.glyphs[index])
+                    to_glyphs = self._glyph_set(replacement)
+
+                    for from_glyph, to_glyph in zip(from_glyphs, to_glyphs):
+                        substitutions.append(
+                            {
+                                "from": from_glyph,
+                                "to": to_glyph,
+                            }
+                        )
+
+            if substitutions:
+                substitutions_by_lookup.setdefault(statement.name, []).extend(
+                    substitutions
+                )
+
+        return substitutions_by_lookup
+
+    def _walk_statements(self, node):
+        for statement in getattr(node, "statements", []):
+            yield statement
+            yield from self._walk_statements(statement)
+
+    def _walk_statements_with_lookup_flags(self, node, lookup_flag=None):
+        current_lookup_flag = lookup_flag
+
+        for statement in getattr(node, "statements", []):
+            if isinstance(statement, ast.LookupFlagStatement):
+                current_lookup_flag = statement
+                continue
+
+            yield statement, current_lookup_flag
+            yield from self._walk_statements_with_lookup_flags(
+                statement, current_lookup_flag
+            )
+
+    @staticmethod
+    def _glyph_set(glyph_expr):
+        return sorted(glyph_expr.glyphSet())
+
+    @staticmethod
+    def _substitutions_for_rule(substitutions_by_lookup, input_glyphs, index, lookup):
+        return [
+            {
+                "index": index,
+                **substitution,
+            }
+            for substitution in substitutions_by_lookup.get(lookup, [])
+            if substitution["from"] in input_glyphs[index]
+        ]
 
     def bounding_boxes(self):
         all_bounding_boxes = {}
