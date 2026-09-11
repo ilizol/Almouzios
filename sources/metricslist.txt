@@ -104,16 +104,16 @@
 	rightSB: 19.67
 0xE024 elafron
 	width: 1297
-	leftSB: 30.0
-	rightSB: 29.62
+	leftSB: 15.0
+	rightSB: 44.62
 0xE025 runningElafron
 	width: 2004
-	leftSB: 30.0
-	rightSB: 29.02
+	leftSB: 15.0
+	rightSB: 44.02
 0xE026 elafronApostrofos
 	width: 1297
-	leftSB: 30.0
-	rightSB: 29.62
+	leftSB: 15.0
+	rightSB: 44.62
 0xE027 chamili
 	width: 1342
 	leftSB: 31.0
@@ -224,8 +224,8 @@
 	rightSB: 29.8
 0xE063 petastiRunningElafron
 	width: 1974
-	leftSB: 30.0
-	rightSB: 30.0
+	leftSB: 15.0
+	rightSB: 45.0
 0xE064 petastiElafronApostrofos
 	width: 1301
 	leftSB: 30.0
