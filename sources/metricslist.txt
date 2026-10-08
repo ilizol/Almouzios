@@ -1427,9 +1427,9 @@
 	leftSB: 150.0
 	rightSB: 199.22
 0xE2E4 modeDi
-	width: 749
+	width: 754
 	leftSB: 115.0
-	rightSB: 124.98
+	rightSB: 129.98
 0xE2E5 modeKe
 	width: 958
 	leftSB: 150.0
@@ -1459,9 +1459,9 @@
 	leftSB: 150.0
 	rightSB: 149.36
 0xE2F1 modeWordEchos
-	width: 1439
+	width: 1444
 	leftSB: -100.0
-	rightSB: 124.16
+	rightSB: 129.16
 0xE2F2 modeWordVarys
 	width: 1703
 	leftSB: 150.0

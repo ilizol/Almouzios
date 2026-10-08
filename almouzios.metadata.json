@@ -6801,11 +6801,11 @@
     },
     "modeDi": {
       "fthoraTop": [
-        0.425,
+        0.42,
         0.48
       ],
       "modeTop": [
-        0.425,
+        0.42,
         0.52
       ]
     },
@@ -8309,7 +8309,7 @@
     "modeWordVarys": 1.703,
     "modeAlpha": 0.986,
     "modeBeta": 0.955,
-    "modeWordEchos": 1.439,
+    "modeWordEchos": 1.444,
     "modeGamma": 0.963,
     "modeDelta": 0.97,
     "modeFirst": 0.774,
@@ -8318,7 +8318,7 @@
     "modeVarys2": 0.944,
     "modeVou": 1.257,
     "modeGa": 0.95,
-    "modeDi": 0.749,
+    "modeDi": 0.754,
     "modeKe": 0.958,
     "modeZo": 1.063,
     "modeOligonKentimaAbove": 0.0,
