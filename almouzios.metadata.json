@@ -6801,11 +6801,11 @@
     },
     "modeDi": {
       "fthoraTop": [
-        0.45,
+        0.425,
         0.48
       ],
       "modeTop": [
-        0.45,
+        0.425,
         0.52
       ]
     },
@@ -8309,16 +8309,16 @@
     "modeWordVarys": 1.703,
     "modeAlpha": 0.986,
     "modeBeta": 0.955,
-    "modeWordEchos": 1.544,
+    "modeWordEchos": 1.439,
     "modeGamma": 0.963,
     "modeDelta": 0.97,
     "modeFirst": 0.774,
-    "modeSecond": 1.455,
+    "modeSecond": 1.485,
     "modeLegetos": 1.571,
     "modeVarys2": 0.944,
     "modeVou": 1.257,
     "modeGa": 0.95,
-    "modeDi": 0.859,
+    "modeDi": 0.749,
     "modeKe": 0.958,
     "modeZo": 1.063,
     "modeOligonKentimaAbove": 0.0,
@@ -11024,11 +11024,11 @@
     },
     "modeWordEchos": {
       "bBoxNE": [
-        1.395,
+        1.315,
         0.469
       ],
       "bBoxSW": [
-        -0.02,
+        -0.1,
         -0.149
       ]
     },
@@ -11064,11 +11064,11 @@
     },
     "modeSecond": {
       "bBoxNE": [
-        1.305,
+        1.32,
         0.353
       ],
       "bBoxSW": [
-        0.15,
+        0.165,
         -0.112
       ]
     },
@@ -11114,11 +11114,11 @@
     },
     "modeDi": {
       "bBoxNE": [
-        0.659,
+        0.624,
         0.404
       ],
       "bBoxSW": [
-        0.15,
+        0.115,
         -0.006
       ]
     },
