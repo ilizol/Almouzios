@@ -26,7 +26,7 @@
   <anchor x="800" y="-120" name="psifiston"/>
   <outline>
     <component base="oligon"/>
-    <component base="kentima" xOffset="475" yOffset="278"/>
+    <component base="kentima" xOffset="485" yOffset="278"/>
   </outline>
   <lib>
     <dict>

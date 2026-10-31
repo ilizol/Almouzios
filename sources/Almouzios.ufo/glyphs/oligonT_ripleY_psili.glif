@@ -23,9 +23,6 @@
   <anchor x="730" y="-70" name="klasmaBottom"/>
   <anchor x="880" y="-120" name="psifiston"/>
   <outline>
-    <contour>
-      <point x="1243.2" y="288.84" type="move" smooth="yes"/>
-    </contour>
     <component base="ypsiliMiddleOligon"/>
     <component base="ypsiliLeftOligon"/>
     <component base="ypsiliRightOligon"/>
