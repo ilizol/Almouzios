@@ -2,7 +2,7 @@ StartChar: oligonKentimaMiddleKentimata
 Encoding: 57477 57477 84
 Width: 1583
 VWidth: 345
-Flags: W
+Flags: HW
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
 VStem: 1283 270.28
 AnchorPoint: "yfenAbove" 930 869 basechar 0
