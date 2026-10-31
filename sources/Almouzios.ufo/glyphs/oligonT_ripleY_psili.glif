@@ -98,7 +98,7 @@
     <contour>
       <point x="1243.2" y="288.84" type="move" smooth="yes"/>
     </contour>
-    <component base="ypsiliRight"/>
+    <component base="ypsiliRightOligon"/>
     <component base="oligon"/>
   </outline>
   <lib>

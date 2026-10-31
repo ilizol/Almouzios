@@ -1714,7 +1714,7 @@ feature mkmk {
 	\fthoraHardChromaticPa \fthoraHardChromaticDi \fthoraSoftChromaticDi 
 	\fthoraSoftChromaticKe \fthoraEnharmonic \chroaZygos \chroaKliton 
 	\chroaSpathi \yporroi.gorgon \yporroi.digorgon \yporroi.trigorgon 
-	\ypsiliRight ];
+	\ypsiliRightOligon ];
 @GDEF_Ligature = [\oligonKentimaMiddleKentimata \oligonKentimaMiddle 
 	\martyriaNoteNiHigh \martyriaNoteZoHigh \martyriaNotePaHigh 
 	\martyriaNoteVouHigh \martyriaNoteGaHigh \martyriaNoteDiHigh 

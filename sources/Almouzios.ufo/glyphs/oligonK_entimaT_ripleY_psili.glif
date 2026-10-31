@@ -95,7 +95,7 @@
       <point x="527.48" y="813.547"/>
       <point x="532.12" y="823.406"/>
     </contour>
-    <component base="ypsiliRight"/>
+    <component base="ypsiliRightOligon"/>
     <component base="oligonKentimaAbove"/>
   </outline>
   <lib>

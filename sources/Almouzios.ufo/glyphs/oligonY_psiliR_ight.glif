@@ -25,7 +25,7 @@
   <anchor x="400" y="220" name="gorgonTop"/>
   <anchor x="800" y="-120" name="psifiston"/>
   <outline>
-    <component base="ypsiliRight"/>
+    <component base="ypsiliRightOligon"/>
     <component base="oligon"/>
   </outline>
   <lib>
