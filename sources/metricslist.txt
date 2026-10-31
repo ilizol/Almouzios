@@ -167,9 +167,9 @@
 	leftSB: 30.0
 	rightSB: 29.8
 0xE044 petastiYpsiliRight
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -72.28
 0xE045 petastiYpsiliLeft
 	width: 1301
 	leftSB: 30.0
@@ -183,9 +183,9 @@
 	leftSB: 30.0
 	rightSB: 29.8
 0xE048 petastiDoubleYpsili
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -72.28
 0xE049 petastiKentimataDoubleYpsili
 	width: 1403
 	leftSB: 30.0
@@ -199,9 +199,9 @@
 	leftSB: 30.0
 	rightSB: 29.8
 0xE04C petastiTripleYpsili
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -72.28
 0xE04D petastiKentimataTripleYpsili
 	width: 1443
 	leftSB: 30.0
