@@ -22,7 +22,9 @@ def find_midpoint(glyph):
                 max_y = y
 
     if min_y == float("inf") or max_y == float("-inf"):
-        return None
+        _, min_y, _, max_y = glyph.boundingBox()
+        if min_y == max_y == 0:
+            return None
 
     return (min_y + max_y) / 2
 
