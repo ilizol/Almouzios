@@ -24,44 +24,9 @@
   <anchor x="880" y="-120" name="psifiston"/>
   <outline>
     <contour>
-      <point x="1036.72" y="836.94" type="curve" smooth="yes"/>
-      <point x="1036.72" y="911.275"/>
-      <point x="973.846" y="912.92"/>
-      <point x="968.28" y="912.92" type="curve" smooth="yes"/>
-      <point x="952.813" y="912.92"/>
-      <point x="934.061" y="907.12"/>
-      <point x="912.021" y="895.52" type="curve" smooth="yes"/>
-      <point x="865.353" y="870.958"/>
-      <point x="836.932" y="794.012"/>
-      <point x="826.76" y="664.68" type="curve" smooth="yes"/>
-      <point x="812.567" y="500.681"/>
-      <point x="780.192" y="415.152"/>
-      <point x="638.84" y="360.18" type="curve" smooth="yes"/>
-      <point x="617.96" y="352.06"/>
-      <point x="600.56" y="346.84"/>
-      <point x="586.64" y="344.52" type="curve" smooth="yes"/>
-      <point x="535.6" y="336.4" type="line"/>
-      <point x="750.2" y="233.16" type="line" smooth="yes"/>
-      <point x="798.92" y="210.733"/>
-      <point x="832.367" y="199.52"/>
-      <point x="850.54" y="199.52" type="curve" smooth="yes"/>
-      <point x="926.752" y="199.52"/>
-      <point x="818.069" y="265.836"/>
-      <point x="738.6" y="288.84" type="curve" smooth="yes"/>
-      <point x="688.72" y="303.92" type="line"/>
-      <point x="728.16" y="312.04" type="line" smooth="yes"/>
-      <point x="821.413" y="332.245"/>
-      <point x="920.291" y="405.678"/>
-      <point x="948.56" y="477.92" type="curve" smooth="yes"/>
-      <point x="977.647" y="557.899"/>
-      <point x="947.032" y="764.534"/>
-      <point x="1022.8" y="807.36" type="curve" smooth="yes"/>
-      <point x="1032.08" y="813.547"/>
-      <point x="1036.72" y="823.406"/>
-    </contour>
-    <contour>
       <point x="1243.2" y="288.84" type="move" smooth="yes"/>
     </contour>
+    <component base="ypsiliMiddleOligon"/>
     <component base="ypsiliLeftOligon"/>
     <component base="ypsiliRightOligon"/>
     <component base="oligon"/>

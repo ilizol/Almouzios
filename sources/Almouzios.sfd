@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1793452926
+ModificationTime: 1793453466
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -164,7 +164,7 @@ BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
-BeginChars: 1114114 441
+BeginChars: 1114115 442
 
 StartChar: u1D046
 Encoding: 118854 118854 0
@@ -11226,23 +11226,9 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-1036.71972656 836.940429688 m 0
- 1036.71972656 911.275390625 973.845703125 912.919921875 968.280273438 912.919921875 c 0
- 952.813476562 912.919921875 934.060546875 907.120117188 912.020507812 895.51953125 c 0
- 865.352539062 870.958007812 836.931640625 794.01171875 826.759765625 664.6796875 c 0
- 812.567382812 500.680664062 780.192382812 415.15234375 638.83984375 360.1796875 c 0
- 617.959960938 352.059570312 600.559570312 346.83984375 586.639648438 344.51953125 c 2
- 535.599609375 336.400390625 l 1
- 750.200195312 233.16015625 l 2
- 798.919921875 210.733398438 832.3671875 199.51953125 850.540039062 199.51953125 c 0
- 926.751953125 199.51953125 818.069335938 265.8359375 738.599609375 288.83984375 c 2
- 688.719726562 303.919921875 l 1
- 728.16015625 312.040039062 l 2
- 821.413085938 332.245117188 920.291015625 405.677734375 948.559570312 477.919921875 c 0
- 977.647460938 557.899414062 947.032226562 764.534179688 1022.79980469 807.360351562 c 0
- 1032.08007812 813.546875 1036.71972656 823.40625 1036.71972656 836.940429688 c 0
 1243.20019531 288.83984375 m 1026
 EndSplineSet
+Refer: 441 -1 N 1 0 0 1 0 0 2
 Refer: 440 -1 N 1 0 0 1 0 0 2
 Refer: 439 -1 N 1 0 0 1 0 0 2
 Refer: 35 57345 N 1 0 0 1 0 0 2
@@ -41566,6 +41552,16 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 7 118864 N 1 0 0 1 -24.4395 190 2
+EndChar
+
+StartChar: ypsiliMiddleOligon
+Encoding: 1114114 -1 441
+Width: 1298
+VWidth: 1392
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 7 118864 N 1 0 0 1 375.56 190 2
 EndChar
 EndChars
 EndSplineFont
