@@ -21,7 +21,7 @@
 0xE005 oligonYpsiliRight
 	width: 1298
 	leftSB: 31.0
-	rightSB: 12.88
+	rightSB: 13.44
 0xE006 oligonYpsiliLeft
 	width: 1298
 	leftSB: 31.0
