@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="petastiKentimaTripleYpsili" format="2">
-  <advance width="1443"/>
+  <advance width="1301"/>
   <unicode hex="E04E"/>
   <anchor x="780.8" y="1207" name="yfenAbove"/>
   <anchor x="717.8" y="-272" name="yfenBelow"/>
@@ -127,77 +127,7 @@
       <point x="1408.64" y="859.946"/>
       <point x="1413.28" y="869.807"/>
     </contour>
-    <contour>
-      <point x="523.56" y="352.64" type="curve"/>
-      <point x="523.56" y="350.32" type="line" smooth="yes"/>
-      <point x="523.56" y="348.119"/>
-      <point x="525.021" y="340.296"/>
-      <point x="544.44" y="333.5" type="curve" smooth="yes"/>
-      <point x="591.652" y="316.978"/>
-      <point x="581.784" y="153.255"/>
-      <point x="667.979" y="126.439" type="curve" smooth="yes"/>
-      <point x="685.38" y="121.027"/>
-      <point x="710.707" y="118.32"/>
-      <point x="743.96" y="118.32" type="curve" smooth="yes"/>
-      <point x="777.213" y="118.32"/>
-      <point x="793.84" y="124.894"/>
-      <point x="793.84" y="138.04" type="curve" smooth="yes"/>
-      <point x="793.84" y="158.491"/>
-      <point x="774.139" y="144.963"/>
-      <point x="757.88" y="177.48" type="curve" smooth="yes"/>
-      <point x="730.771" y="231.695"/>
-      <point x="723.919" y="327.448"/>
-      <point x="676.68" y="352.64" type="curve" smooth="yes"/>
-      <point x="654.931" y="364.24"/>
-      <point x="625.217" y="370.04"/>
-      <point x="587.537" y="370.04" type="curve" smooth="yes"/>
-      <point x="549.857" y="370.04"/>
-      <point x="528.531" y="364.24"/>
-    </contour>
-    <contour>
-      <point x="70" y="139.2" type="curve" smooth="yes"/>
-      <point x="70" y="-6.53809"/>
-      <point x="408.367" y="-88.1602"/>
-      <point x="770.64" y="-88.1602" type="curve" smooth="yes"/>
-      <point x="1094.25" y="-88.1602"/>
-      <point x="1286.32" y="-14.8535"/>
-      <point x="1303.66" y="27.8398" type="curve" smooth="yes"/>
-      <point x="1308.69" y="40.2139"/>
-      <point x="1311.2" y="51.4268"/>
-      <point x="1311.2" y="61.4805" type="curve" smooth="yes"/>
-      <point x="1311.2" y="117.795"/>
-      <point x="1241.55" y="159.769"/>
-      <point x="1051.36" y="192.56" type="curve" smooth="yes"/>
-      <point x="1008.05" y="200.293"/>
-      <point x="979.439" y="204.16"/>
-      <point x="965.52" y="204.16" type="curve" smooth="yes"/>
-      <point x="931.231" y="204.16"/>
-      <point x="930.72" y="177.889"/>
-      <point x="930.72" y="176.32" type="curve" smooth="yes"/>
-      <point x="930.72" y="150.876"/>
-      <point x="1112.84" y="140.767"/>
-      <point x="1112.84" y="69.5996" type="curve" smooth="yes"/>
-      <point x="1112.84" y="36.9316"/>
-      <point x="1079.52" y="-33.6396"/>
-      <point x="791.52" y="-33.6396" type="curve" smooth="yes"/>
-      <point x="682.779" y="-33.6396"/>
-      <point x="483.749" y="-32.6133"/>
-      <point x="358.26" y="51.6201" type="curve" smooth="yes"/>
-      <point x="330.033" y="70.5664"/>
-      <point x="315.92" y="88.1602"/>
-      <point x="315.92" y="104.4" type="curve" smooth="yes"/>
-      <point x="315.92" y="149.15"/>
-      <point x="417.308" y="145.468"/>
-      <point x="436.56" y="164.72" type="curve" smooth="yes"/>
-      <point x="457.195" y="187.935"/>
-      <point x="328.365" y="204.16"/>
-      <point x="226.021" y="204.16" type="curve" smooth="yes"/>
-      <point x="224.539" y="204.16"/>
-      <point x="116.599" y="203.961"/>
-      <point x="81.0195" y="174" type="curve" smooth="yes"/>
-      <point x="73.6729" y="167.813"/>
-      <point x="70" y="156.213"/>
-    </contour>
+    <component base="petastiKentima"/>
   </outline>
   <lib>
     <dict>

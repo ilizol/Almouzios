@@ -8082,7 +8082,7 @@
     "petastiKentima": 1.301,
     "petastiYpsiliRight": 1.301,
     "petastiYpsiliLeft": 1.301,
-    "petastiKentimaYpsiliRight": 1.403,
+    "petastiKentimaYpsiliRight": 1.301,
     "petastiKentimaYpsiliMiddle": 1.301,
     "petastiApostrofos": 1.301,
     "petastiElafron": 1.301,
@@ -8115,8 +8115,8 @@
     "doubleChamiliElafron": 1.435,
     "doubleChamiliApostrofos": 1.344,
     "petastiKentimataDoubleYpsili": 1.403,
-    "petastiKentimaDoubleYpsiliRight": 1.403,
-    "petastiKentimaDoubleYpsiliLeft": 1.341,
+    "petastiKentimaDoubleYpsiliRight": 1.301,
+    "petastiKentimaDoubleYpsiliLeft": 1.301,
     "petastiKentimataTripleYpsili": 1.443,
     "petastiTripleYpsili": 1.301,
     "oligonKentimaDoubleYpsiliRight": 1.298,
@@ -8171,7 +8171,7 @@
     "oligonKentimataBelow.alt01": 1.298,
     "oligonKentimataAbove.alt01": 1.298,
     "antikenoma.alt01": 0.0,
-    "petastiKentimaTripleYpsili": 1.443,
+    "petastiKentimaTripleYpsili": 1.301,
     "vareia": 0.423,
     "psifiston": 0.0,
     "antikenoma": 0.0,
@@ -9094,7 +9094,7 @@
     },
     "petastiKentimaDoubleYpsiliLeft": {
       "bBoxNE": [
-        1.311,
+        1.271,
         1.104
       ],
       "bBoxSW": [
