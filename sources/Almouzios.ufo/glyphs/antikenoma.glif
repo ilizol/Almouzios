@@ -4,51 +4,7 @@
   <unicode hex="E0A2"/>
   <anchor x="0" y="0" name="_antikenoma"/>
   <outline>
-    <contour>
-      <point x="-590" y="-73.5596" type="curve" smooth="yes"/>
-      <point x="-590" y="-78.2046"/>
-      <point x="-589.24" y="-90.96"/>
-      <point x="-541.28" y="-90.96" type="curve" smooth="yes"/>
-      <point x="-525.813" y="-90.96"/>
-      <point x="-497.2" y="-90.1865"/>
-      <point x="-455.44" y="-88.6396" type="curve" smooth="yes"/>
-      <point x="-413.68" y="-86.3203" type="line" smooth="yes"/>
-      <point x="-334.8" y="-81.6807"/>
-      <point x="-235.04" y="-79.3604"/>
-      <point x="-114.4" y="-79.3604" type="curve" smooth="yes"/>
-      <point x="-108.93" y="-79.3604"/>
-      <point x="347.855" y="-80.5539"/>
-      <point x="431.96" y="-106.04" type="curve" smooth="yes"/>
-      <point x="487.026" y="-122.727"/>
-      <point x="527.08" y="-151.87"/>
-      <point x="527.08" y="-166.36" type="curve" smooth="yes"/>
-      <point x="527.08" y="-171.773"/>
-      <point x="522.634" y="-174.48"/>
-      <point x="513.74" y="-174.48" type="curve" smooth="yes"/>
-      <point x="504.847" y="-174.48"/>
-      <point x="495.953" y="-173.9"/>
-      <point x="487.061" y="-172.74" type="curve" smooth="yes"/>
-      <point x="473.114" y="-170.921"/>
-      <point x="449.36" y="-177.208"/>
-      <point x="449.36" y="-198.84" type="curve" smooth="yes"/>
-      <point x="449.36" y="-200.6"/>
-      <point x="450.218" y="-239.44"/>
-      <point x="525.92" y="-239.44" type="curve" smooth="yes"/>
-      <point x="589.935" y="-239.44"/>
-      <point x="600.886" y="-221.937"/>
-      <point x="610.6" y="-198.26" type="curve" smooth="yes"/>
-      <point x="616.786" y="-183.18"/>
-      <point x="619.88" y="-169.26"/>
-      <point x="619.88" y="-156.5" type="curve" smooth="yes"/>
-      <point x="619.88" y="-126.298"/>
-      <point x="619.186" y="-105.445"/>
-      <point x="557.24" y="-75.8799" type="curve" smooth="yes"/>
-      <point x="437.533" y="-18.7455"/>
-      <point x="322.338" y="-15.5596"/>
-      <point x="-34.3594" y="-15.5596" type="curve" smooth="yes"/>
-      <point x="-63.0065" y="-15.5596"/>
-      <point x="-590" y="-16.337"/>
-    </contour>
+    <component base="u1D05C"/>
   </outline>
   <lib>
     <dict>
