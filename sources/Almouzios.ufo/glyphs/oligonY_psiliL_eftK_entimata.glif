@@ -16,42 +16,7 @@
   <anchor x="880" y="-120" name="psifiston"/>
   <anchor x="750" y="530" name="gorgonTop"/>
   <outline>
-    <contour>
-      <point x="532.12" y="836.94" type="curve" smooth="yes"/>
-      <point x="532.12" y="911.274"/>
-      <point x="469.246" y="912.92"/>
-      <point x="463.68" y="912.92" type="curve" smooth="yes"/>
-      <point x="448.213" y="912.92"/>
-      <point x="429.46" y="907.12"/>
-      <point x="407.419" y="895.52" type="curve" smooth="yes"/>
-      <point x="360.752" y="870.959"/>
-      <point x="332.332" y="794.012"/>
-      <point x="322.16" y="664.68" type="curve" smooth="yes"/>
-      <point x="307.968" y="500.683"/>
-      <point x="275.596" y="415.155"/>
-      <point x="134.24" y="360.18" type="curve" smooth="yes"/>
-      <point x="113.36" y="352.06"/>
-      <point x="95.96" y="346.84"/>
-      <point x="82.04" y="344.52" type="curve" smooth="yes"/>
-      <point x="31" y="336.4" type="line"/>
-      <point x="245.6" y="233.16" type="line" smooth="yes"/>
-      <point x="294.319" y="210.733"/>
-      <point x="327.767" y="199.52"/>
-      <point x="345.94" y="199.52" type="curve" smooth="yes"/>
-      <point x="422.153" y="199.52"/>
-      <point x="313.467" y="265.837"/>
-      <point x="234" y="288.84" type="curve" smooth="yes"/>
-      <point x="184.12" y="303.92" type="line"/>
-      <point x="223.56" y="312.04" type="line" smooth="yes"/>
-      <point x="316.814" y="332.245"/>
-      <point x="415.691" y="405.678"/>
-      <point x="443.96" y="477.92" type="curve" smooth="yes"/>
-      <point x="473.046" y="557.911"/>
-      <point x="442.436" y="764.537"/>
-      <point x="518.2" y="807.36" type="curve" smooth="yes"/>
-      <point x="527.48" y="813.547"/>
-      <point x="532.12" y="823.406"/>
-    </contour>
+    <component base="ypsiliLeftOligon"/>
     <component base="oligonKentimataAbove"/>
   </outline>
   <lib>
