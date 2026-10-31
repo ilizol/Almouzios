@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oligonIson" format="2">
-  <advance width="1299"/>
+  <advance width="1298"/>
   <unicode hex="E010"/>
   <anchor x="700" y="-80" name="gorgonBottom"/>
   <anchor x="879.8" y="679" name="yfenAbove"/>

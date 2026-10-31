@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oligonYpsiliLeft" format="2">
-  <advance width="1299"/>
+  <advance width="1298"/>
   <unicode hex="E006"/>
   <anchor x="700" y="-80" name="gorgonBottom"/>
   <anchor x="879.8" y="1053" name="yfenAbove"/>
@@ -61,47 +61,7 @@
       <point x="527.48" y="813.547"/>
       <point x="532.12" y="823.406"/>
     </contour>
-    <contour>
-      <point x="482.24" y="-11.5996" type="curve" smooth="yes"/>
-      <point x="485.64" y="-11.5996"/>
-      <point x="657.608" y="-6.95996"/>
-      <point x="822.12" y="-6.95996" type="curve" smooth="yes"/>
-      <point x="989.052" y="-6.95996"/>
-      <point x="1106.32" y="-6.95996"/>
-      <point x="1216.52" y="-44.6602" type="curve" smooth="yes"/>
-      <point x="1233.16" y="-50.3535"/>
-      <point x="1253.24" y="-60.3203"/>
-      <point x="1253.64" y="-60.3203" type="curve" smooth="yes"/>
-      <point x="1263.69" y="-60.3203"/>
-      <point x="1268.72" y="-52.2002"/>
-      <point x="1268.72" y="-35.96" type="curve" smooth="yes"/>
-      <point x="1268.72" y="-18.9482"/>
-      <point x="1262.53" y="-5.80176"/>
-      <point x="1250.16" y="3.48047" type="curve" smooth="yes"/>
-      <point x="1169.73" y="69.2139"/>
-      <point x="1080.8" y="109.427"/>
-      <point x="983.359" y="124.12" type="curve" smooth="yes"/>
-      <point x="965.573" y="127.213"/>
-      <point x="934.64" y="128.76"/>
-      <point x="890.56" y="128.76" type="curve" smooth="yes"/>
-      <point x="788.18" y="128.76"/>
-      <point x="678.219" y="120.64"/>
-      <point x="424.239" y="120.64" type="curve" smooth="yes"/>
-      <point x="339.173" y="120.64"/>
-      <point x="283.88" y="122.187"/>
-      <point x="258.359" y="125.28" type="curve" smooth="yes"/>
-      <point x="155.507" y="138.427"/>
-      <point x="90.1602" y="152.733"/>
-      <point x="62.3193" y="168.2" type="curve" smooth="yes"/>
-      <point x="59.2266" y="170.52"/>
-      <point x="55.166" y="171.68"/>
-      <point x="50.1396" y="171.68" type="curve" smooth="yes"/>
-      <point x="24.2607" y="171.68"/>
-      <point x="-13.7764" y="61.2256"/>
-      <point x="254.88" y="8.12012" type="curve" smooth="yes"/>
-      <point x="329.893" y="-5.02637"/>
-      <point x="405.68" y="-11.5996"/>
-    </contour>
+    <component base="oligon"/>
   </outline>
   <lib>
     <dict>

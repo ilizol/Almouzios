@@ -1,8 +1,8 @@
 StartChar: oligonIson
 Encoding: 57360 57360 76
-Width: 1299
+Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8> 248.24 93.96<245.843 715.784> 255.2 117.16<477.373 1072.28> 446.6 78.8809<145.327 294.31>
 VStem: 31 175.16<359.499 445.771>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0

@@ -1,8 +1,8 @@
 StartChar: oligonKentimaDoubleYpsiliRight
 Encoding: 57355 57355 97
-Width: 1316
+Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 878.8 1209 basechar 0

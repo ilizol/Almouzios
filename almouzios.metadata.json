@@ -8059,11 +8059,11 @@
     "oligonKentimaBelow": 1.298,
     "oligon": 1.298,
     "oligonKentimaAbove": 1.298,
-    "oligonYpsiliRight": 1.316,
-    "oligonYpsiliLeft": 1.299,
-    "oligonKentimaYpsiliRight": 1.316,
+    "oligonYpsiliRight": 1.298,
+    "oligonYpsiliLeft": 1.298,
+    "oligonKentimaYpsiliRight": 1.298,
     "oligonKentimaYpsiliMiddle": 1.298,
-    "oligonDoubleYpsili": 1.317,
+    "oligonDoubleYpsili": 1.298,
     "oligonKentimataDoubleYpsili": 1.478,
     "isonApostrofos": 1.348,
     "apostrofosSyndesmos": 1.615,
@@ -8098,7 +8098,7 @@
     "oligonYporroiKentimata": 1.448,
     "oligonKentimataBelow": 1.298,
     "oligonKentimaTripleYpsili": 1.449,
-    "oligonIson": 1.299,
+    "oligonIson": 1.298,
     "oligonElafron": 1.298,
     "petastiRunningElafron": 1.974,
     "oligonApostrofos": 1.298,
@@ -8119,7 +8119,7 @@
     "petastiKentimaDoubleYpsiliLeft": 1.341,
     "petastiKentimataTripleYpsili": 1.443,
     "petastiTripleYpsili": 1.403,
-    "oligonKentimaDoubleYpsiliRight": 1.316,
+    "oligonKentimaDoubleYpsiliRight": 1.298,
     "oligonKentimaDoubleYpsiliLeft": 1.449,
     "oligonTripleYpsili": 1.571,
     "oligonElafronApostrofos": 1.298,
@@ -8534,7 +8534,7 @@
     },
     "oligonYpsiliLeft": {
       "bBoxNE": [
-        1.269,
+        1.268,
         0.913
       ],
       "bBoxSW": [

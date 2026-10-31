@@ -1,8 +1,8 @@
 StartChar: oligonDoubleYpsili
 Encoding: 57353 57353 41
-Width: 1317
+Width: 1298
 VWidth: 1392
-Flags: W
+Flags: HW
 HStem: -11.5996 132.239<249.523 767.676> -6.95996 135.72<536.187 1058.8>
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0
 AnchorPoint: "yfenAbove" 879.8 1039 basechar 0

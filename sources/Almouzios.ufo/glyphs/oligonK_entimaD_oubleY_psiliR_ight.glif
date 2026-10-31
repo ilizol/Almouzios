@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oligonKentimaDoubleYpsiliRight" format="2">
-  <advance width="1316"/>
+  <advance width="1298"/>
   <unicode hex="E00B"/>
   <anchor x="700" y="-80" name="gorgonBottom"/>
   <anchor x="878.8" y="1209" name="yfenAbove"/>
