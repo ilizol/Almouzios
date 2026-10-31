@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1793454569
+ModificationTime: 1793454727
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6317,7 +6317,7 @@ StartChar: oligonYpsiliLeftKentimata
 Encoding: 57479 57479 70
 Width: 1298
 VWidth: 1392
-Flags: HWO
+Flags: HW
 HStem: -6.95996 134.56<260.079 525.16 1082.54 1249.94> 414.699 36.541<501.045 540.214 733.045 772.214>
 AnchorPoint: "yfenAbove" 879.8 969 basechar 0
 AnchorPoint: "yfenBelow" 878.8 -272 basechar 0
@@ -41475,7 +41475,7 @@ VWidth: 1392
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 7 118864 N 1 0 0 1 435.56 460 2
+Refer: 7 118864 N 1 0 0 1 455.56 460 2
 EndChar
 EndChars
 EndSplineFont
