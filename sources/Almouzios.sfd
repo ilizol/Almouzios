@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1793456139
+ModificationTime: 1793456399
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -159,12 +159,12 @@ NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 14 14 6
+WinInfo: 0 14 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
-BeginChars: 1114116 443
+BeginChars: 1114117 444
 
 StartChar: u1D046
 Encoding: 118854 118854 0
@@ -9673,8 +9673,7 @@ SplineSet
  1314.20605469 604.310546875 1283.59375 810.935546875 1359.359375 853.759765625 c 0
  1368.63964844 859.946289062 1373.28027344 869.806640625 1373.28027344 883.33984375 c 0
 EndSplineSet
-Refer: 67 57473 N 1 0 0 1 339 188 2
-Refer: 55 57409 N 1 0 0 1 0 0 2
+Refer: 443 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: petastiKentimaDoubleYpsiliRight
@@ -10217,26 +10216,6 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-410.200195312 343.83984375 m 1
- 410.200195312 341.51953125 l 2
- 410.200195312 339.318359375 411.661132812 331.49609375 431.079101562 324.69921875 c 0
- 478.291992188 308.174804688 468.426757812 144.455078125 554.620117188 117.639648438 c 0
- 572.01953125 112.2265625 597.346679688 109.51953125 630.599609375 109.51953125 c 0
- 663.852539062 109.51953125 680.479492188 116.092773438 680.479492188 129.240234375 c 0
- 680.479492188 149.69140625 660.778320312 136.163085938 644.51953125 168.6796875 c 0
- 617.407226562 222.91015625 610.55859375 318.645507812 563.319335938 343.83984375 c 0
- 541.5703125 355.440429688 511.85546875 361.240234375 474.17578125 361.240234375 c 0
- 436.49609375 361.240234375 415.170898438 355.440429688 410.200195312 343.83984375 c 1
-642.200195312 343.83984375 m 1
- 642.200195312 341.51953125 l 2
- 642.200195312 339.318359375 643.661132812 331.49609375 663.079101562 324.69921875 c 0
- 710.291992188 308.174804688 700.426757812 144.455078125 786.620117188 117.639648438 c 0
- 804.01953125 112.2265625 829.346679688 109.51953125 862.599609375 109.51953125 c 0
- 895.852539062 109.51953125 912.479492188 116.092773438 912.479492188 129.240234375 c 0
- 912.479492188 149.69140625 892.778320312 136.163085938 876.51953125 168.6796875 c 0
- 849.407226562 222.91015625 842.55859375 318.645507812 795.319335938 343.83984375 c 0
- 773.5703125 355.440429688 743.85546875 361.240234375 706.17578125 361.240234375 c 0
- 668.49609375 361.240234375 647.170898438 355.440429688 642.200195312 343.83984375 c 1
 531.120117188 883.33984375 m 0
  531.120117188 957.67578125 468.24609375 959.3203125 462.6796875 959.3203125 c 0
  447.212890625 959.3203125 428.459960938 953.520507812 406.418945312 941.919921875 c 0
@@ -10283,7 +10262,7 @@ SplineSet
  1354.20605469 604.310546875 1323.59375 810.935546875 1399.359375 853.759765625 c 0
  1408.63964844 859.946289062 1413.28027344 869.806640625 1413.28027344 883.33984375 c 0
 EndSplineSet
-Refer: 55 57409 N 1 0 0 1 0 0 2
+Refer: 443 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: petastiTripleYpsili
@@ -41197,6 +41176,17 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 7 118864 N 1 0 0 1 455.56 460 2
+EndChar
+
+StartChar: petastiKentimata
+Encoding: 1114116 -1 443
+Width: 1301
+VWidth: 1392
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 67 57473 N 1 0 0 1 339 188 2
+Refer: 55 57409 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

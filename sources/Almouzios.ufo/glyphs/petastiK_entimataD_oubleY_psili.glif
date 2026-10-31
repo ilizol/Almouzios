@@ -91,8 +91,7 @@
       <point x="1368.64" y="859.946"/>
       <point x="1373.28" y="869.807"/>
     </contour>
-    <component base="kentimata" xOffset="339" yOffset="188"/>
-    <component base="petasti"/>
+    <component base="petastiKentimata"/>
   </outline>
   <lib>
     <dict>
