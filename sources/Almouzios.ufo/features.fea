@@ -1713,7 +1713,8 @@ feature mkmk {
 	\fthoraDiatonicDi \fthoraDiatonicKe \fthoraDiatonicZo \fthoraDiatonicNiHigh 
 	\fthoraHardChromaticPa \fthoraHardChromaticDi \fthoraSoftChromaticDi 
 	\fthoraSoftChromaticKe \fthoraEnharmonic \chroaZygos \chroaKliton 
-	\chroaSpathi \yporroi.gorgon \yporroi.digorgon \yporroi.trigorgon ];
+	\chroaSpathi \yporroi.gorgon \yporroi.digorgon \yporroi.trigorgon 
+	\ypsiliRight ];
 @GDEF_Ligature = [\oligonKentimaMiddleKentimata \oligonKentimaMiddle 
 	\martyriaNoteNiHigh \martyriaNoteZoHigh \martyriaNotePaHigh 
 	\martyriaNoteVouHigh \martyriaNoteGaHigh \martyriaNoteDiHigh 
