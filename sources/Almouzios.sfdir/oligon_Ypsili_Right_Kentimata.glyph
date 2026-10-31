@@ -16,7 +16,7 @@ AnchorPoint: "fthoraTop" 602.007 623 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1464.01 707 basechar 0
 AnchorPoint: "psifiston" 880 -120 basechar 0
-AnchorPoint: "gorgonTop" 670 530 basechar 0
+AnchorPoint: "gorgonTop" 610 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -107,6 +107,6 @@ SplineSet
  1395.00683594 1156.33300781 1413.67285156 1158.33300781 1435.00683594 1161 c 1
 EndSplineSet
 Fore
-Refer: 439 -1 S 1 0 0 1 0 0 2
+Refer: 439 -1 N 1 0 0 1 0 0 2
 Refer: 68 57475 N 1 0 0 1 0 0 2
 EndChar

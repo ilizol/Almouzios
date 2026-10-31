@@ -14,7 +14,7 @@
   <anchor x="400" y="-99" name="diesis"/>
   <anchor x="1316" y="387" name="yfesis"/>
   <anchor x="880" y="-120" name="psifiston"/>
-  <anchor x="580" y="530" name="gorgonTop"/>
+  <anchor x="610" y="530" name="gorgonTop"/>
   <outline>
     <component base="kentima" xOffset="1298"/>
     <component base="oligonKentimataAbove"/>

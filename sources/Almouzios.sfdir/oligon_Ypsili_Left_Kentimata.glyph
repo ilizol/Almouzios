@@ -16,7 +16,7 @@ AnchorPoint: "fthoraTop" 642.8 657 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "psifiston" 880 -120 basechar 0
-AnchorPoint: "gorgonTop" 750 530 basechar 0
+AnchorPoint: "gorgonTop" 610 530 basechar 0
 LayerCount: 2
 Back
 SplineSet

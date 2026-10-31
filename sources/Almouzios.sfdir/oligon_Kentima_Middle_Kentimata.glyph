@@ -17,7 +17,7 @@ AnchorPoint: "fthoraTop" 627 559 basechar 0
 AnchorPoint: "diesis" 400 -99 basechar 0
 AnchorPoint: "yfesis" 1316 387 basechar 0
 AnchorPoint: "psifiston" 880 -120 basechar 0
-AnchorPoint: "gorgonTop" 580 530 basechar 0
+AnchorPoint: "gorgonTop" 610 530 basechar 0
 LayerCount: 2
 Back
 Refer: 66 57472 N 1 0 0 1 1465 0 2
