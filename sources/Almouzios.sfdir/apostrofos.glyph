@@ -1,0 +1,40 @@
+StartChar: apostrofos
+Encoding: 57377 57377 87
+Width: 733
+VWidth: 1392
+Flags: W
+HStem: -68.4404 290<105.26 459.06>
+AnchorPoint: "omalonConnecting" 730 -100 basechar 0
+AnchorPoint: "yfenAbove" 418.8 659 basechar 0
+AnchorPoint: "yfenBelow" 447.8 -272 basechar 0
+AnchorPoint: "koronis" 318.8 659 basechar 0
+AnchorPoint: "endofonon" 440.8 -358 basechar 0
+AnchorPoint: "heteronConnecting" 817.8 -251 basechar 0
+AnchorPoint: "measureNumber" 20 500 basechar 0
+AnchorPoint: "isonIndicator" 30 700 basechar 0
+AnchorPoint: "gorgonBottom" 440 -140 basechar 0
+AnchorPoint: "apli" 440 -200 basechar 0
+AnchorPoint: "antikenoma" 390 -100 basechar 0
+AnchorPoint: "noteTop" 50 400 basechar 0
+AnchorPoint: "fthoraTop" 324.8 410 basechar 0
+AnchorPoint: "fthoraBottom" 278.8 -133 basechar 0
+AnchorPoint: "gorgonTop" 360 300 basechar 0
+AnchorPoint: "diesis" 171.8 -132 basechar 0
+AnchorPoint: "yfesis" 586.8 325 basechar 0
+AnchorPoint: "klasmaTop" 340 320 basechar 0
+LayerCount: 2
+Back
+Refer: 10 118865 N 1 0 0 1 -51.2002 -2 2
+Fore
+SplineSet
+451.51953125 39.4404296875 m 0
+ 451.51953125 -4.7890625 334.359375 12.5654296875 334.359375 -33.640625 c 0
+ 334.359375 -46.3623046875 350.061523438 -68.4404296875 459.059570312 -68.4404296875 c 0
+ 583.330078125 -68.4404296875 693.959960938 -24.70703125 693.959960938 24.3603515625 c 0
+ 693.959960938 40.599609375 682.74609375 59.16015625 660.319335938 80.0400390625 c 256
+ 587.98828125 147.383789062 249.216796875 221.559570312 105.259765625 221.559570312 c 0
+ 31.2919921875 221.559570312 20 207.73046875 20 180.959960938 c 0
+ 20 111.052734375 342.594726562 165.764648438 427.159179688 81.19921875 c 0
+ 443.399414062 64.9599609375 451.51953125 51.0400390625 451.51953125 39.4404296875 c 0
+EndSplineSet
+EndChar

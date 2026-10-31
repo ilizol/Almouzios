@@ -1,0 +1,21 @@
+StartChar: martyriaNoteGaHigh
+Encoding: 57666 57666 142
+Width: 1000
+VWidth: 345
+Flags: HW
+HStem: -201.52 51.0391<340.866 500.984>
+VStem: 247.92 82.3594<-365.886 -195.837> 600 111.36
+AnchorPoint: "barline" 500 200 basechar 0
+AnchorPoint: "agogi" 500 0 basechar 0
+AnchorPoint: "martyriaBottom" 500 -500 basechar 0
+AnchorPoint: "fthoraTop" 500 100 basechar 0
+LayerCount: 2
+Back
+Refer: 145 57669 N 1 0 0 1 692 0 2
+Refer: 136 57659 N 1 0 0 1 0 0 2
+Fore
+Refer: 145 57669 N 1 0 0 1 1000 0 2
+Refer: 136 57659 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" martyriaNoteGa martyriaTick
+EndChar

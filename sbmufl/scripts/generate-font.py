@@ -9,4 +9,7 @@ if __name__ == "__main__":
 
     font = fontforge.open(args.infile)
 
-    font.generate(args.outfile)
+    if args.outfile.lower().endswith(".sfdir"):
+        font.save(args.outfile)
+    else:
+        font.generate(args.outfile)

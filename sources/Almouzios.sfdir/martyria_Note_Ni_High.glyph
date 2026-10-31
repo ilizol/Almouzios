@@ -1,0 +1,21 @@
+StartChar: martyriaNoteNiHigh
+Encoding: 57663 57663 135
+Width: 1000
+VWidth: 345
+Flags: HW
+HStem: -210.56 99.7598<164.7 247.06>
+VStem: 600 111.36
+AnchorPoint: "barline" 500 200 basechar 0
+AnchorPoint: "agogi" 500 0 basechar 0
+AnchorPoint: "martyriaBottom" 500 -500 basechar 0
+AnchorPoint: "fthoraTop" 500 100 basechar 0
+LayerCount: 2
+Back
+Refer: 145 57669 N 1 0 0 1 731 0 2
+Refer: 133 57656 N 1 0 0 1 0 0 2
+Fore
+Refer: 145 57669 N 1 0 0 1 1000 0 2
+Refer: 133 57656 N 1 0 0 1 0 0 2
+LCarets2: 1 0
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" martyriaNoteNi martyriaTick
+EndChar

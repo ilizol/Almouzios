@@ -1,0 +1,167 @@
+SplineFontDB: 3.2
+FontName: Almouzios
+FullName: Almouzios
+FamilyName: Almouzios
+Weight: Regular
+Copyright: SIL OPEN FONT LICENSE Version 1.1
+UComments: "2022-3-8: Created with FontForge (http://fontforge.org)"
+Version: 1.0.7
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 151 880831689 20337]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1646795337
+ModificationTime: 1791451188
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 880
+OS2TypoAOffset: 0
+OS2TypoDescent: -440
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 880
+OS2WinAOffset: 0
+OS2WinDescent: 440
+OS2WinDOffset: 0
+HheadAscent: 880
+HheadAOffset: 0
+HheadDescent: -440
+HheadDOffset: 0
+OS2Vendor: 'PfEd'
+Lookup: 3 0 0 "'salt' Stylistic Alternatives in Byzantine Music lookup 4" { "'salt' Stylistic Alternatives in Byzantine Music lookup 4-1"  } ['salt' ('DFLT' <'dflt' > 'byzm' <'dflt' > ) ]
+Lookup: 6 0 0 "'rclt' Required Contextual Alternates lookup 3" { "'rclt' Required Contextual Alternates lookup 3-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 256 0 "rclt-gorgon" { "rclt-gorgon-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2-1"  } ['ccmp' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "subs" { "subs-1"  } []
+Lookup: 1 0 0 "subs-gorgon" { "subs-gorgon-1"  } []
+Lookup: 1 0 0 "subs-digorgon" { "subs-digorgon-1"  } []
+Lookup: 1 0 0 "subs-trigorgon" { "subs-trigorgon-1"  } []
+Lookup: 5 0 0 "'rclt' Required Contextual Alternates lookup 1" { "'rclt' Required Contextual Alternates lookup 1-1"  } ['rclt' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > 'byzm' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 2
+"gorgon" 179 gorgonAbove gorgonDottedLeft gorgonDottedRight digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+DEI: 91125
+ChainSub2: class "rclt-gorgon-1" 5 5 5 3
+  Class: 7 yporroi
+  Class: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  Class: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  Class: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+  BClass: 7 yporroi
+  BClass: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  BClass: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  BClass: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+  FClass: 7 yporroi
+  FClass: 46 gorgonAbove gorgonDottedLeft gorgonDottedRight
+  FClass: 76 digorgon digorgonDottedLeftAbove digorgonDottedLeftBelow digorgonDottedRight
+  FClass: 55 trigorgon trigorgonDottedLeftAbove trigorgonDottedRight
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 2
+ 1
+  SeqLookup: 0 "subs-gorgon"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 3
+ 1
+  SeqLookup: 0 "subs-digorgon"
+ 1 0 1
+  ClsList: 1
+  BClsList:
+  FClsList: 4
+ 1
+  SeqLookup: 0 "subs-trigorgon"
+  ClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+  BClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+  FClassNames: "All_Others" "yporroi" "gorgonAbove" "digorgon" "trigorgon"
+EndFPST
+ChainSub2: class "'rclt' Required Contextual Alternates lookup 3-1" 3 3 1 1
+  Class: 567 petastiIson petasti petastiOligon petastiKentima petastiYpsiliRight petastiYpsiliLeft petastiKentimaYpsiliRight petastiKentimaYpsiliMiddle petastiDoubleYpsili petastiKentimataDoubleYpsili petastiKentimaDoubleYpsiliRight petastiKentimaDoubleYpsiliLeft petastiTripleYpsili petastiKentimataTripleYpsili petastiKentimaTripleYpsili petastiApostrofos petastiYporroi petastiElafron petastiRunningElafron petastiElafronApostrofos petastiChamili petastiChamiliApostrofos petastiChamiliElafron petastiChamiliElafronApostrofos petastiDoubleChamili petastiDoubleChamiliApostrofos
+  Class: 10 antikenoma
+  BClass: 567 petastiIson petasti petastiOligon petastiKentima petastiYpsiliRight petastiYpsiliLeft petastiKentimaYpsiliRight petastiKentimaYpsiliMiddle petastiDoubleYpsili petastiKentimataDoubleYpsili petastiKentimaDoubleYpsiliRight petastiKentimaDoubleYpsiliLeft petastiTripleYpsili petastiKentimataTripleYpsili petastiKentimaTripleYpsili petastiApostrofos petastiYporroi petastiElafron petastiRunningElafron petastiElafronApostrofos petastiChamili petastiChamiliApostrofos petastiChamiliElafron petastiChamiliElafronApostrofos petastiDoubleChamili petastiDoubleChamiliApostrofos
+  BClass: 10 antikenoma
+ 1 1 0
+  ClsList: 2
+  BClsList: 1
+  FClsList:
+ 1
+  SeqLookup: 0 "subs"
+  ClassNames: "All_Others" "petasti" "antikenoma"
+  BClassNames: "All_Others" "petasti" "antikenoma"
+  FClassNames: "All_Others"
+EndFPST
+ContextSub2: glyph "'rclt' Required Contextual Alternates lookup 1-1" 0 0 0 9
+ String: 30 oligonKentimataBelow psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 0 "subs"
+ String: 21 apostrofos antikenoma
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 18 yporroi antikenoma
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 29 oligonIsonKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 32 oligonElafronKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 39 oligonRunningElafronKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 42 oligonElafronApostrofosKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 42 oligonElafronApostrofosKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+ String: 32 oligonChamiliKentimata psifiston
+ BString: 0 
+ FString: 0 
+ 1
+  SeqLookup: 1 "subs"
+EndFPST
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 308 14 6
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 346030 173015 115343 0 -1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "barlineAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "stavros" "'mark' Mark Positioning lookup 0-1" "diesisTertiary" "'mark' Mark Positioning lookup 0-1" "diesisSecondary" "'mark' Mark Positioning lookup 0-1" "barline" "'mark' Mark Positioning lookup 0-1" "yfesisTertiary" "'mark' Mark Positioning lookup 0-1" "yfesisSecondary" "'mark' Mark Positioning lookup 0-1" "fthoraTopTertiary" "'mark' Mark Positioning lookup 0-1" "fthoraTopSecondary" "'mark' Mark Positioning lookup 0-1" "yfenBelow" "'mark' Mark Positioning lookup 0-1" "yfenAbove" "'mark' Mark Positioning lookup 0-1" "koronis" "'mark' Mark Positioning lookup 0-1" "endofonon" "'mark' Mark Positioning lookup 0-1" "agogiAboveFthora" "'mkmk' Mark to Mark lookup 1-1" "agogi" "'mark' Mark Positioning lookup 0-1" "modeTop" "'mark' Mark Positioning lookup 0-1" "isonIndicator" "'mark' Mark Positioning lookup 0-1" "measureNumber" "'mark' Mark Positioning lookup 0-1" "heteronConnecting" "'mark' Mark Positioning lookup 0-1" "omalon" "'mark' Mark Positioning lookup 0-1" "omalonConnecting" "'mark' Mark Positioning lookup 0-1" "martyriaTop" "'mark' Mark Positioning lookup 0-1" "martyriaBottom" "'mark' Mark Positioning lookup 0-1" "noteTop" "'mark' Mark Positioning lookup 0-1" "fthoraBottom" "'mark' Mark Positioning lookup 0-1" "fthoraTop" "'mark' Mark Positioning lookup 0-1" "heteron" "'mark' Mark Positioning lookup 0-1" "gorgonSecondary" "'mark' Mark Positioning lookup 0-1" "antikenoma" "'mark' Mark Positioning lookup 0-1" "gorgonBottom" "'mark' Mark Positioning lookup 0-1" "psifiston" "'mark' Mark Positioning lookup 0-1" "diesis" "'mark' Mark Positioning lookup 0-1" "yfesis" "'mark' Mark Positioning lookup 0-1" "klasmaTop" "'mark' Mark Positioning lookup 0-1" "klasmaBottom" "'mark' Mark Positioning lookup 0-1" "apli-bottom"""  "apli" "'mark' Mark Positioning lookup 0-1" "gorgonTop" "'mark' Mark Positioning lookup 0-1"
+EndSplineFont

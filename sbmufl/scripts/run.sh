@@ -1,5 +1,6 @@
 python3 generate-font.py ../../sources/Almouzios.sfd ../../Almouzios.otf
 python3 generate-font.py ../../sources/Almouzios.sfd ../../Almouzios.ttf
+python3 generate-font.py ../../sources/Almouzios.sfd ../../sources/Almouzios.sfdir
 python3 generate-font-metadata.py ../../sources/Almouzios.sfd ../metadata/glyphnames.json
 
 # fontforge -script generate-font.py ../../sources/Almouzios.sfd ../../Almouzios.otf
@@ -25,5 +26,8 @@ cp -f ../../almouzios.metadata.json ../../../neanestex/examples/almouzios.metada
 cp -f ../../Almouzios.otf ../../../neanestex/examples/Almouzios.otf
 
 # poc-neanes-pdfgen
-cp -f ../../almouzios.metadata.json ../../../poc-neanes-pdfgen/src/support/neanes/assets/almouzios.metadata.json
-cp -f ../../Almouzios.otf ../../../poc-neanes-pdfgen/src/support/neanes/assets/Almouzios.otf
+# cp -f ../../almouzios.metadata.json ../../../poc-neanes-pdfgen/src/support/neanes/assets/almouzios.metadata.json
+# cp -f ../../Almouzios.otf ../../../poc-neanes-pdfgen/src/support/neanes/assets/Almouzios.otf
+
+# neumes
+cp -f ../../Almouzios.ttf ../../../neumes/docs/fonts/Almouzios.ttf

@@ -1,0 +1,30 @@
+StartChar: oligonKentimaMiddleKentimata
+Encoding: 57477 57477 84
+Width: 1583
+VWidth: 345
+Flags: W
+HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.677> -6.95996 135.72<535.187 1057.8> 414.7 36.54<344.605 383.773 576.605 615.773>
+VStem: 1283 270.28
+AnchorPoint: "yfenAbove" 930 869 basechar 0
+AnchorPoint: "yfenBelow" 1109 -272 basechar 0
+AnchorPoint: "endofonon" 802 -269 basechar 0
+AnchorPoint: "heteronConnecting" 1920 -251 basechar 0
+AnchorPoint: "measureNumber" 30 500 basechar 0
+AnchorPoint: "isonIndicator" 30 700 basechar 0
+AnchorPoint: "noteTop" 60 400 basechar 0
+AnchorPoint: "fthoraBottom" 746 -38 basechar 0
+AnchorPoint: "fthoraTop" 627 559 basechar 0
+AnchorPoint: "diesis" 400 -99 basechar 0
+AnchorPoint: "yfesis" 1316 387 basechar 0
+AnchorPoint: "psifiston" 880 -120 basechar 0
+AnchorPoint: "gorgonTop" 580 530 basechar 0
+LayerCount: 2
+Back
+Refer: 66 57472 N 1 0 0 1 1465 0 2
+Refer: 68 57475 N 1 0 0 1 -0.00027934 0 2
+Fore
+Refer: 66 57472 N 1 0 0 1 1298 0 2
+Refer: 68 57475 N 1 0 0 1 0 0 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition lookup 2-1" oligonKentimataAbove kentima
+LCarets2: 1 0
+EndChar
