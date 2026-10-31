@@ -1501,7 +1501,7 @@
 0xF000 oligonKentimataBelow.alt01
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xF001 oligonKentimataAbove.alt01
 	width: 1298
 	leftSB: 31.0
