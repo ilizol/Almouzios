@@ -39,9 +39,9 @@
 	leftSB: 31.0
 	rightSB: 11.88
 0xE00A oligonKentimataDoubleYpsili
-	width: 1478
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.27
+	rightSB: -149.73
 0xE00B oligonKentimaDoubleYpsiliRight
 	width: 1298
 	leftSB: 31.0
@@ -51,13 +51,13 @@
 	leftSB: 31.0
 	rightSB: 30.28
 0xE00D oligonTripleYpsili
-	width: 1571
+	width: 1298
 	leftSB: 31.0
-	rightSB: 29.68
+	rightSB: -243.32
 0xE00E oligonKentimataTripleYpsili
-	width: 1479
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.48
+	rightSB: -150.52
 0xE00F oligonKentimaTripleYpsili
 	width: 1298
 	leftSB: 31.0
