@@ -6,7 +6,7 @@
     "descent": 0.2,
     "winAscent": 0.88,
     "winDescent": 0.44,
-    "oligonMidpoint": 0.113,
+    "oligonMidpoint": 0.056,
     "elafronBounds": {
       "runningElafron": {
         "left": 0.723,
