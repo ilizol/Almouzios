@@ -25,12 +25,6 @@
   <anchor x="800" y="220" name="gorgonTop"/>
   <anchor x="800" y="-120" name="psifiston"/>
   <outline>
-    <contour>
-      <point x="518.2" y="807.36" type="move" smooth="yes"/>
-      <point x="527.48" y="813.547"/>
-      <point x="532.12" y="823.406"/>
-      <point x="532.12" y="836.94" type="curve" smooth="yes"/>
-    </contour>
     <component base="ypsiliLeftOligon"/>
     <component base="oligon"/>
   </outline>
