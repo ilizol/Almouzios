@@ -882,5 +882,7 @@
     <string>yporroi.trigorgon.glif</string>
     <key>ypsiliRightOligon</key>
     <string>ypsiliR_ightO_ligon.glif</string>
+    <key>ypsiliLeftOligon</key>
+    <string>ypsiliL_eftO_ligon.glif</string>
   </dict>
 </plist>
