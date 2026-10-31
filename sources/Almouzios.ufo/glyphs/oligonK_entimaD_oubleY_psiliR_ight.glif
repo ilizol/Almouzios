@@ -59,42 +59,7 @@
       <point x="920.879" y="1080.35"/>
       <point x="925.52" y="1090.21"/>
     </contour>
-    <contour>
-      <point x="1285.12" y="836.94" type="curve" smooth="yes"/>
-      <point x="1285.12" y="911.274"/>
-      <point x="1222.25" y="912.92"/>
-      <point x="1216.68" y="912.92" type="curve" smooth="yes"/>
-      <point x="1201.21" y="912.92"/>
-      <point x="1182.46" y="907.12"/>
-      <point x="1160.42" y="895.52" type="curve" smooth="yes"/>
-      <point x="1113.75" y="870.959"/>
-      <point x="1085.33" y="794.012"/>
-      <point x="1075.16" y="664.68" type="curve" smooth="yes"/>
-      <point x="1060.97" y="500.683"/>
-      <point x="1028.59" y="415.155"/>
-      <point x="887.24" y="360.18" type="curve" smooth="yes"/>
-      <point x="866.359" y="352.06"/>
-      <point x="848.96" y="346.84"/>
-      <point x="835.04" y="344.52" type="curve" smooth="yes"/>
-      <point x="784" y="336.4" type="line"/>
-      <point x="998.6" y="233.16" type="line" smooth="yes"/>
-      <point x="1047.32" y="210.733"/>
-      <point x="1080.77" y="199.52"/>
-      <point x="1098.94" y="199.52" type="curve" smooth="yes"/>
-      <point x="1175.15" y="199.52"/>
-      <point x="1066.47" y="265.837"/>
-      <point x="987" y="288.84" type="curve" smooth="yes"/>
-      <point x="937.12" y="303.92" type="line"/>
-      <point x="976.56" y="312.04" type="line" smooth="yes"/>
-      <point x="1069.81" y="332.245"/>
-      <point x="1168.69" y="405.678"/>
-      <point x="1196.96" y="477.92" type="curve" smooth="yes"/>
-      <point x="1226.05" y="557.911"/>
-      <point x="1195.43" y="764.537"/>
-      <point x="1271.2" y="807.36" type="curve" smooth="yes"/>
-      <point x="1280.48" y="813.547"/>
-      <point x="1285.12" y="823.406"/>
-    </contour>
+    <component base="ypsiliRight"/>
     <component base="oligonKentimaAbove"/>
   </outline>
   <lib>

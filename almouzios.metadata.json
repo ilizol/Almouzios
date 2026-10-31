@@ -8564,7 +8564,7 @@
     },
     "oligonDoubleYpsili": {
       "bBoxNE": [
-        1.286,
+        1.285,
         0.913
       ],
       "bBoxSW": [
@@ -8574,7 +8574,7 @@
     },
     "oligonKentimataDoubleYpsili": {
       "bBoxNE": [
-        1.448,
+        1.285,
         1.226
       ],
       "bBoxSW": [
@@ -8904,7 +8904,7 @@
     },
     "oligonKentimaTripleYpsili": {
       "bBoxNE": [
-        1.381,
+        1.285,
         1.192
       ],
       "bBoxSW": [
@@ -9034,7 +9034,7 @@
     },
     "oligonKentimataTripleYpsili": {
       "bBoxNE": [
-        1.449,
+        1.285,
         1.226
       ],
       "bBoxSW": [
@@ -9144,7 +9144,7 @@
     },
     "oligonTripleYpsili": {
       "bBoxNE": [
-        1.541,
+        1.285,
         0.913
       ],
       "bBoxSW": [
