@@ -65,27 +65,27 @@
 0xE010 oligonIson
 	width: 1298
 	leftSB: 31.0
-	rightSB: 29.28
+	rightSB: 30.28
 0xE011 oligonApostrofos
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE012 oligonYporroi
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE013 oligonElafron
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE014 oligonElafronApostrofos
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE015 oligonChamili
-	width: 1449
-	leftSB: 31.0
-	rightSB: 30.64
+	width: 1298
+	leftSB: -120.0
+	rightSB: 30.28
 0xE020 isonApostrofos
 	width: 1348
 	leftSB: 15.0
