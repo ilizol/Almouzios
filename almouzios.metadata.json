@@ -8524,7 +8524,7 @@
     },
     "oligonYpsiliRight": {
       "bBoxNE": [
-        1.325,
+        1.323,
         0.913
       ],
       "bBoxSW": [
@@ -8544,7 +8544,7 @@
     },
     "oligonKentimaYpsiliRight": {
       "bBoxNE": [
-        1.325,
+        1.323,
         0.913
       ],
       "bBoxSW": [
@@ -8564,7 +8564,7 @@
     },
     "oligonDoubleYpsili": {
       "bBoxNE": [
-        1.325,
+        1.323,
         0.913
       ],
       "bBoxSW": [
@@ -8574,7 +8574,7 @@
     },
     "oligonKentimataDoubleYpsili": {
       "bBoxNE": [
-        1.325,
+        1.323,
         1.226
       ],
       "bBoxSW": [
@@ -8904,7 +8904,7 @@
     },
     "oligonKentimaTripleYpsili": {
       "bBoxNE": [
-        1.325,
+        1.323,
         1.192
       ],
       "bBoxSW": [
@@ -9004,7 +9004,7 @@
     },
     "oligonYpsiliRightKentimata": {
       "bBoxNE": [
-        1.325,
+        1.323,
         0.913
       ],
       "bBoxSW": [
@@ -9034,7 +9034,7 @@
     },
     "oligonKentimataTripleYpsili": {
       "bBoxNE": [
-        1.325,
+        1.323,
         1.226
       ],
       "bBoxSW": [
@@ -9124,7 +9124,7 @@
     },
     "oligonKentimaDoubleYpsiliRight": {
       "bBoxNE": [
-        1.325,
+        1.323,
         1.18
       ],
       "bBoxSW": [
@@ -9144,7 +9144,7 @@
     },
     "oligonTripleYpsili": {
       "bBoxNE": [
-        1.325,
+        1.323,
         0.913
       ],
       "bBoxSW": [
