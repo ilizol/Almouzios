@@ -8092,7 +8092,7 @@
     "kentimata": 0.564,
     "oligonKentimataAbove": 1.298,
     "oligonIsonKentimata": 1.448,
-    "oligonYpsiliLeftKentimata": 1.484,
+    "oligonYpsiliLeftKentimata": 1.298,
     "oligonApostrofosKentimata": 1.449,
     "oligonElafronKentimata": 1.45,
     "oligonYporroiKentimata": 1.448,
@@ -8107,7 +8107,7 @@
     "oligonRunningElafronKentimata": 1.913,
     "oligonElafronApostrofosKentimata": 1.448,
     "oligonKentimaMiddleKentimata": 1.583,
-    "oligonYpsiliRightKentimata": 1.478,
+    "oligonYpsiliRightKentimata": 1.298,
     "petastiChamiliApostrofos": 1.301,
     "apostrofos": 0.733,
     "oligonKentimataTripleYpsili": 1.298,
@@ -8854,7 +8854,7 @@
     },
     "oligonYpsiliLeftKentimata": {
       "bBoxNE": [
-        1.453,
+        1.268,
         0.913
       ],
       "bBoxSW": [

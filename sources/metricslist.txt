@@ -279,13 +279,13 @@
 	leftSB: 31.0
 	rightSB: 29.72
 0xE086 oligonYpsiliRightKentimata
-	width: 1478
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.27
+	rightSB: -149.73
 0xE087 oligonYpsiliLeftKentimata
-	width: 1484
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.84
+	rightSB: 30.28
 0xE088 oligonApostrofosKentimata
 	width: 1449
 	leftSB: 31.0
