@@ -20,60 +20,6 @@
   <anchor x="680" y="-150" name="klasmaBottom"/>
   <outline>
     <contour>
-      <point x="370.2" y="343.84" type="curve"/>
-      <point x="370.2" y="341.52" type="line" smooth="yes"/>
-      <point x="370.2" y="339.318"/>
-      <point x="371.661" y="331.496"/>
-      <point x="391.079" y="324.699" type="curve" smooth="yes"/>
-      <point x="438.292" y="308.175"/>
-      <point x="428.427" y="144.455"/>
-      <point x="514.62" y="117.64" type="curve" smooth="yes"/>
-      <point x="532.02" y="112.227"/>
-      <point x="557.347" y="109.52"/>
-      <point x="590.6" y="109.52" type="curve" smooth="yes"/>
-      <point x="623.853" y="109.52"/>
-      <point x="640.479" y="116.093"/>
-      <point x="640.479" y="129.24" type="curve" smooth="yes"/>
-      <point x="640.479" y="149.691"/>
-      <point x="620.778" y="136.163"/>
-      <point x="604.52" y="168.68" type="curve" smooth="yes"/>
-      <point x="577.407" y="222.91"/>
-      <point x="570.559" y="318.646"/>
-      <point x="523.319" y="343.84" type="curve" smooth="yes"/>
-      <point x="501.57" y="355.44"/>
-      <point x="471.855" y="361.24"/>
-      <point x="434.176" y="361.24" type="curve" smooth="yes"/>
-      <point x="396.496" y="361.24"/>
-      <point x="375.171" y="355.44"/>
-    </contour>
-    <contour>
-      <point x="602.2" y="343.84" type="curve"/>
-      <point x="602.2" y="341.52" type="line" smooth="yes"/>
-      <point x="602.2" y="339.318"/>
-      <point x="603.661" y="331.496"/>
-      <point x="623.079" y="324.699" type="curve" smooth="yes"/>
-      <point x="670.292" y="308.175"/>
-      <point x="660.427" y="144.455"/>
-      <point x="746.62" y="117.64" type="curve" smooth="yes"/>
-      <point x="764.02" y="112.227"/>
-      <point x="789.347" y="109.52"/>
-      <point x="822.6" y="109.52" type="curve" smooth="yes"/>
-      <point x="855.853" y="109.52"/>
-      <point x="872.479" y="116.093"/>
-      <point x="872.479" y="129.24" type="curve" smooth="yes"/>
-      <point x="872.479" y="149.691"/>
-      <point x="852.778" y="136.163"/>
-      <point x="836.52" y="168.68" type="curve" smooth="yes"/>
-      <point x="809.407" y="222.91"/>
-      <point x="802.559" y="318.646"/>
-      <point x="755.319" y="343.84" type="curve" smooth="yes"/>
-      <point x="733.57" y="355.44"/>
-      <point x="703.855" y="361.24"/>
-      <point x="666.176" y="361.24" type="curve" smooth="yes"/>
-      <point x="628.496" y="361.24"/>
-      <point x="607.171" y="355.44"/>
-    </contour>
-    <contour>
       <point x="937.12" y="1028.34" type="curve" smooth="yes"/>
       <point x="937.12" y="1102.68"/>
       <point x="874.246" y="1104.32"/>
@@ -145,6 +91,7 @@
       <point x="1368.64" y="859.946"/>
       <point x="1373.28" y="869.807"/>
     </contour>
+    <component base="kentimata" xOffset="339" yOffset="188"/>
     <component base="petasti"/>
   </outline>
   <lib>
