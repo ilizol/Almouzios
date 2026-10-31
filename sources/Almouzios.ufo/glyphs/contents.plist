@@ -886,5 +886,7 @@
     <string>ypsiliL_eftO_ligon.glif</string>
     <key>ypsiliMiddleOligon</key>
     <string>ypsiliM_iddleO_ligon.glif</string>
+    <key>ypsiliMiddleAboveOligon</key>
+    <string>ypsiliM_iddleA_boveO_ligon.glif</string>
   </dict>
 </plist>
