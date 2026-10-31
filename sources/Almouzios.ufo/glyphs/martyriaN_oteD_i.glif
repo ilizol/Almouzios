@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="martyriaNoteDi" format="2">
+  <advance width="1000"/>
+  <unicode hex="E13C"/>
+  <anchor x="500" y="200" name="barline"/>
+  <anchor x="500" y="0" name="agogi"/>
+  <anchor x="500" y="-500" name="martyriaBottom"/>
+  <anchor x="500" y="100" name="fthoraTop"/>
+  <outline>
+    <contour>
+      <point x="349.359" y="-293.92" type="line" smooth="yes"/>
+      <point x="335.354" y="-293.92"/>
+      <point x="304.119" y="-293.92"/>
+      <point x="304.119" y="-311.32" type="curve" smooth="yes"/>
+      <point x="304.119" y="-314.413"/>
+      <point x="309.92" y="-321.76"/>
+      <point x="321.52" y="-333.36" type="curve" smooth="yes"/>
+      <point x="338.92" y="-349.6" type="line"/>
+      <point x="486.24" y="-349.6" type="line" smooth="yes"/>
+      <point x="584.84" y="-349.6"/>
+      <point x="634.721" y="-348.439"/>
+      <point x="635.881" y="-346.12" type="curve" smooth="yes"/>
+      <point x="635.881" y="-325.226"/>
+      <point x="622.287" y="-346.448"/>
+      <point x="564.261" y="-168.487" type="curve" smooth="yes"/>
+      <point x="518.785" y="-29.0186"/>
+      <point x="515.741" y="-21.3203"/>
+      <point x="499.58" y="-21.3203" type="curve" smooth="yes"/>
+      <point x="494.553" y="-21.3203"/>
+      <point x="490.881" y="-23.6406"/>
+      <point x="488.561" y="-28.2803" type="curve" smooth="yes"/>
+      <point x="453.159" y="-116.613"/>
+      <point x="417.604" y="-204.791"/>
+      <point x="381.84" y="-292.76" type="curve"/>
+    </contour>
+    <contour>
+      <point x="486.24" y="-275.36" type="line"/>
+      <point x="452.6" y="-278.84" type="line"/>
+      <point x="452.6" y="-270.72" type="line" smooth="yes"/>
+      <point x="452.6" y="-261.418"/>
+      <point x="496.373" y="-164.671"/>
+      <point x="501.319" y="-166.32" type="curve" smooth="yes"/>
+      <point x="502.776" y="-167.777"/>
+      <point x="522.737" y="-270.802"/>
+      <point x="521.041" y="-274.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-410</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-410</integer>
+            <key>width</key>
+            <integer>56</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>154</integer>
+            <key>width</key>
+            <integer>332</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

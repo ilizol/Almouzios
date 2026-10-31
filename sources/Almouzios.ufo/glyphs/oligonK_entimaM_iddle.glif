@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oligonKentimaMiddle" format="2">
+  <advance width="1583"/>
+  <unicode hex="E002"/>
+  <anchor x="700" y="-80" name="gorgonBottom"/>
+  <anchor x="930" y="409" name="yfenAbove"/>
+  <anchor x="929" y="-272" name="yfenBelow"/>
+  <anchor x="783" y="569" name="koronis"/>
+  <anchor x="802" y="-294" name="endofonon"/>
+  <anchor x="30" y="500" name="measureNumber"/>
+  <anchor x="30" y="700" name="isonIndicator"/>
+  <anchor x="1970" y="-251" name="heteronConnecting"/>
+  <anchor x="1087" y="-5" name="heteron"/>
+  <anchor x="980" y="-100" name="omalon"/>
+  <anchor x="1500" y="-100" name="omalonConnecting"/>
+  <anchor x="730" y="-50" name="antikenoma"/>
+  <anchor x="730" y="-150" name="apli"/>
+  <anchor x="60" y="400" name="noteTop"/>
+  <anchor x="788" y="275" name="fthoraTop"/>
+  <anchor x="789" y="-23" name="fthoraBottom"/>
+  <anchor x="400" y="-99" name="diesis"/>
+  <anchor x="1316" y="387" name="yfesis"/>
+  <anchor x="650" y="250" name="klasmaTop"/>
+  <anchor x="680" y="220" name="gorgonTop"/>
+  <anchor x="880" y="-120" name="psifiston"/>
+  <outline>
+    <component base="kentima" xOffset="1298"/>
+    <component base="oligon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-79</integer>
+            <key>width</key>
+            <integer>252</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-12</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1283</integer>
+            <key>width</key>
+            <integer>270</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="barlineShortSingleAbove" format="2">
+  <advance width="0"/>
+  <unicode hex="E219"/>
+  <anchor x="0" y="0" name="_barlineAboveFthora"/>
+  <anchor x="0" y="30" name="_barline"/>
+  <outline>
+    <contour>
+      <point x="-19.7207" y="106.64" type="curve" smooth="yes"/>
+      <point x="-16.1094" y="39.8467"/>
+      <point x="-13.5156" y="30.0801"/>
+      <point x="-6.38086" y="30.0801" type="curve" smooth="yes"/>
+      <point x="-6.01172" y="30.0801"/>
+      <point x="17.9316" y="32.6113"/>
+      <point x="19.1406" y="56.7598" type="curve" smooth="yes"/>
+      <point x="19.5273" y="64.4932"/>
+      <point x="19.7207" y="77.6406"/>
+      <point x="19.7207" y="96.2002" type="curve" smooth="yes"/>
+      <point x="19.7207" y="162.32" type="line"/>
+      <point x="18.123" y="269.293"/>
+      <point x="17.3359" y="276.861"/>
+      <point x="11.0195" y="285.28" type="curve" smooth="yes"/>
+      <point x="-2.50586" y="303.315"/>
+      <point x="-14.3848" y="285.508"/>
+      <point x="-14.5" y="285.279" type="curve" smooth="yes"/>
+      <point x="-17.9805" y="278.319"/>
+      <point x="-19.7207" y="218.773"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>39</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

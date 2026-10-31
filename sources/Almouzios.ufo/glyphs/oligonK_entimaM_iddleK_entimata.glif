@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oligonKentimaMiddleKentimata" format="2">
+  <advance width="1583"/>
+  <unicode hex="E085"/>
+  <anchor x="930" y="869" name="yfenAbove"/>
+  <anchor x="1109" y="-272" name="yfenBelow"/>
+  <anchor x="802" y="-269" name="endofonon"/>
+  <anchor x="1920" y="-251" name="heteronConnecting"/>
+  <anchor x="30" y="500" name="measureNumber"/>
+  <anchor x="30" y="700" name="isonIndicator"/>
+  <anchor x="60" y="400" name="noteTop"/>
+  <anchor x="746" y="-38" name="fthoraBottom"/>
+  <anchor x="627" y="559" name="fthoraTop"/>
+  <anchor x="400" y="-99" name="diesis"/>
+  <anchor x="1316" y="387" name="yfesis"/>
+  <anchor x="880" y="-120" name="psifiston"/>
+  <anchor x="580" y="530" name="gorgonTop"/>
+  <outline>
+    <component base="kentima" xOffset="1298"/>
+    <component base="oligonKentimataAbove"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-79</integer>
+            <key>width</key>
+            <integer>252</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-12</integer>
+            <key>width</key>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>415</integer>
+            <key>width</key>
+            <integer>37</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1283</integer>
+            <key>width</key>
+            <integer>270</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="martyriaNoteNiLow" format="2">
+  <advance width="1000"/>
+  <unicode hex="E131"/>
+  <anchor x="500" y="200" name="barline"/>
+  <anchor x="500" y="0" name="agogi"/>
+  <anchor x="500" y="-500" name="martyriaTop"/>
+  <anchor x="500" y="100" name="fthoraTop"/>
+  <outline>
+    <contour>
+      <point x="634.279" y="-640.12" type="curve" smooth="yes"/>
+      <point x="657.918" y="-640.12"/>
+      <point x="674.88" y="-661.365"/>
+      <point x="674.88" y="-673.76" type="curve" smooth="yes"/>
+      <point x="674.88" y="-707.754"/>
+      <point x="623.174" y="-712.655"/>
+      <point x="553.534" y="-858.033" type="curve" smooth="yes"/>
+      <point x="523.845" y="-920.011"/>
+      <point x="507.453" y="-951"/>
+      <point x="504.36" y="-951" type="curve" smooth="yes"/>
+      <point x="496.971" y="-951"/>
+      <point x="480.344" y="-934.373"/>
+      <point x="454.479" y="-901.12" type="curve" smooth="yes"/>
+      <point x="403.439" y="-836.934"/>
+      <point x="377.92" y="-779.707"/>
+      <point x="377.92" y="-729.44" type="curve" smooth="yes"/>
+      <point x="377.92" y="-692.32" type="line"/>
+      <point x="350.08" y="-719" type="line" smooth="yes"/>
+      <point x="336.933" y="-731.373"/>
+      <point x="325.14" y="-737.56"/>
+      <point x="314.7" y="-737.56" type="curve" smooth="yes"/>
+      <point x="294.98" y="-737.56"/>
+      <point x="285.12" y="-727.893"/>
+      <point x="285.12" y="-708.56" type="curve" smooth="yes"/>
+      <point x="285.12" y="-678.264"/>
+      <point x="354.972" y="-637.8"/>
+      <point x="397.06" y="-637.8" type="curve" smooth="yes"/>
+      <point x="433.203" y="-637.8"/>
+      <point x="433.449" y="-639.184"/>
+      <point x="446.939" y="-714.939" type="curve" smooth="yes"/>
+      <point x="462.871" y="-804.408"/>
+      <point x="489.959" y="-883.008"/>
+      <point x="497.399" y="-858.2" type="curve" smooth="yes"/>
+      <point x="548.407" y="-714.62"/>
+      <point x="575.041" y="-640.12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-598</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

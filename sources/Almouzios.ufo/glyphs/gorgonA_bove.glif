@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorgonAbove" format="2">
+  <advance width="0"/>
+  <unicode hex="E0F0"/>
+  <anchor x="0" y="0" name="_gorgonTop"/>
+  <outline>
+    <contour>
+      <point x="1.05469" y="53.3398" type="curve" smooth="yes"/>
+      <point x="1.05469" y="35.6602"/>
+      <point x="-21.3379" y="17.96"/>
+      <point x="-43.0254" y="17.96" type="curve" smooth="yes"/>
+      <point x="-105.641" y="17.96"/>
+      <point x="-201.945" y="154.568"/>
+      <point x="-201.945" y="158.32" type="curve" smooth="yes"/>
+      <point x="-201.945" y="166.827"/>
+      <point x="-150.519" y="171.08"/>
+      <point x="-47.666" y="171.08" type="curve" smooth="yes"/>
+      <point x="174.862" y="171.08"/>
+      <point x="204.896" y="168.643"/>
+      <point x="201.734" y="156" type="curve" smooth="yes"/>
+      <point x="198.642" y="146.72"/>
+      <point x="154.948" y="140.146"/>
+      <point x="70.6543" y="136.28" type="curve" smooth="yes"/>
+      <point x="-54.626" y="130.48" type="line"/>
+      <point x="-22.1455" y="92.2002" type="line" smooth="yes"/>
+      <point x="-6.67871" y="72.8672"/>
+      <point x="1.05469" y="59.9131"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>930</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

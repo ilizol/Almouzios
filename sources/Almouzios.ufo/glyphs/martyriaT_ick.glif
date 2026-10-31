@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="martyriaTick" format="2">
+  <advance width="0"/>
+  <unicode hex="E145"/>
+  <outline>
+    <contour>
+      <point x="-213" y="37.3203" type="curve" smooth="yes"/>
+      <point x="-243.526" y="37.3203"/>
+      <point x="-300" y="-86.6914"/>
+      <point x="-300" y="-100.72" type="curve" smooth="yes"/>
+      <point x="-300" y="-112.32"/>
+      <point x="-279.12" y="-97.2402"/>
+      <point x="-237.36" y="-55.4795" type="curve" smooth="yes"/>
+      <point x="-204.88" y="-24.4766"/>
+      <point x="-188.64" y="-2.05078"/>
+      <point x="-188.64" y="11.7998" type="curve" smooth="yes"/>
+      <point x="-188.64" y="27.9385"/>
+      <point x="-205.777" y="37.3203"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-250</integer>
+            <key>width</key>
+            <integer>111</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

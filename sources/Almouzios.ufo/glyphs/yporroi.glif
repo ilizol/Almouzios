@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yporroi" format="2">
+  <advance width="340"/>
+  <unicode hex="E023"/>
+  <anchor x="503.647" y="655" name="diesisSecondary"/>
+  <anchor x="-102.352" y="-455" name="yfesisSecondary"/>
+  <anchor x="224.647" y="377" name="yfesis"/>
+  <anchor x="200" y="280" name="barline"/>
+  <anchor x="133.647" y="655" name="yfenAbove"/>
+  <anchor x="75.6484" y="-272" name="yfenBelow"/>
+  <anchor x="126.647" y="649" name="koronis"/>
+  <anchor x="108.647" y="-378" name="endofonon"/>
+  <anchor x="499.647" y="-251" name="heteronConnecting"/>
+  <anchor x="10" y="500" name="measureNumber"/>
+  <anchor x="-20" y="700" name="isonIndicator"/>
+  <anchor x="232.647" y="-318" name="heteron"/>
+  <anchor x="130" y="-200" name="apli"/>
+  <anchor x="130" y="-100" name="antikenoma"/>
+  <anchor x="40" y="400" name="noteTop"/>
+  <anchor x="224.647" y="377" name="fthoraTop"/>
+  <anchor x="64.6484" y="-131" name="fthoraBottom"/>
+  <anchor x="183.647" y="-172" name="diesis"/>
+  <anchor x="230" y="290" name="gorgonTop"/>
+  <outline>
+    <component base="u1D053"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-80</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>162</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>108</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>108</integer>
+            <key>width</key>
+            <integer>153</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

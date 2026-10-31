@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gorgonDottedRight" format="2">
+  <advance width="0"/>
+  <unicode hex="E0F3"/>
+  <anchor x="0" y="0" name="_gorgonTop"/>
+  <outline>
+    <contour>
+      <point x="262" y="122.68" type="curve" smooth="yes"/>
+      <point x="262" y="123.085"/>
+      <point x="272.12" y="143.734"/>
+      <point x="278.24" y="159.8" type="curve" smooth="yes"/>
+      <point x="284.04" y="174.88" type="line"/>
+      <point x="285.467" y="183.438"/>
+      <point x="286.547" y="184.16"/>
+      <point x="327.54" y="184.16" type="curve" smooth="yes"/>
+      <point x="368.426" y="184.16"/>
+      <point x="370.046" y="182.596"/>
+      <point x="363.5" y="173.14" type="curve" smooth="yes"/>
+      <point x="360.021" y="168.113"/>
+      <point x="355.96" y="156.706"/>
+      <point x="351.319" y="138.92" type="curve"/>
+      <point x="346.68" y="125" type="line" smooth="yes"/>
+      <point x="342.553" y="113.992"/>
+      <point x="336.88" y="112.24"/>
+      <point x="292.739" y="112.24" type="curve" smooth="yes"/>
+      <point x="272.246" y="112.24"/>
+      <point x="262" y="115.72"/>
+    </contour>
+    <contour>
+      <point x="1" y="53.6602" type="curve" smooth="yes"/>
+      <point x="1" y="35.9766"/>
+      <point x="-21.3955" y="18.2803"/>
+      <point x="-43.0801" y="18.2803" type="curve" smooth="yes"/>
+      <point x="-105.704" y="18.2803"/>
+      <point x="-202" y="154.894"/>
+      <point x="-202" y="158.64" type="curve" smooth="yes"/>
+      <point x="-202" y="167.146"/>
+      <point x="-150.573" y="171.4"/>
+      <point x="-47.7197" y="171.4" type="curve" smooth="yes"/>
+      <point x="174.803" y="171.4"/>
+      <point x="204.841" y="168.964"/>
+      <point x="201.68" y="156.32" type="curve" smooth="yes"/>
+      <point x="198.587" y="147.04"/>
+      <point x="154.894" y="140.467"/>
+      <point x="70.5996" y="136.6" type="curve" smooth="yes"/>
+      <point x="-54.6807" y="130.8" type="line"/>
+      <point x="-22.2002" y="92.5195" type="line" smooth="yes"/>
+      <point x="-6.7334" y="73.1865"/>
+      <point x="1" y="60.2334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>912</integer>
+            <key>width</key>
+            <integer>72</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>931</integer>
+            <key>width</key>
+            <integer>41</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

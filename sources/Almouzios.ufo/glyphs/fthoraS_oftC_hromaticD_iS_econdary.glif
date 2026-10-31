@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fthoraSoftChromaticDiSecondary" format="2">
+  <advance width="0"/>
+  <unicode hex="E1AA"/>
+  <anchor x="0" y="0" name="_fthoraTopSecondary"/>
+  <outline>
+    <contour>
+      <point x="-122" y="129.72" type="curve"/>
+      <point x="-247.684" y="127.572"/>
+      <point x="-391.298" y="121.6"/>
+      <point x="-394.02" y="121.6" type="curve" smooth="yes"/>
+      <point x="-412.192" y="121.6"/>
+      <point x="-423.213" y="123.533"/>
+      <point x="-427.08" y="127.4" type="curve" smooth="yes"/>
+      <point x="-455.941" y="162.924"/>
+      <point x="-222.646" y="170.052"/>
+      <point x="-125.479" y="171.48" type="curve"/>
+      <point x="-113.254" y="211.215"/>
+      <point x="-68.0781" y="247.763"/>
+      <point x="-28.04" y="244.56" type="curve" smooth="yes"/>
+      <point x="34.7539" y="240.075"/>
+      <point x="78.0605" y="215.716"/>
+      <point x="101.881" y="171.48" type="curve"/>
+      <point x="216.164" y="169.51"/>
+      <point x="288.825" y="163.93"/>
+      <point x="353.601" y="132.62" type="curve" smooth="yes"/>
+      <point x="396.521" y="111.875"/>
+      <point x="396.521" y="96.5938"/>
+      <point x="396.521" y="77.5195" type="curve" smooth="yes"/>
+      <point x="396.521" y="76.9512"/>
+      <point x="396.145" y="39.4482"/>
+      <point x="372.74" y="25.9004" type="curve" smooth="yes"/>
+      <point x="365.394" y="21.6465"/>
+      <point x="352.44" y="19.5195"/>
+      <point x="333.88" y="19.5195" type="curve" smooth="yes"/>
+      <point x="280.806" y="19.5195"/>
+      <point x="280.521" y="47.335"/>
+      <point x="280.521" y="47.9395" type="curve" smooth="yes"/>
+      <point x="280.521" y="79.7842"/>
+      <point x="333.881" y="53.5264"/>
+      <point x="333.881" y="69.4004" type="curve" smooth="yes"/>
+      <point x="333.881" y="79.458"/>
+      <point x="307.937" y="98.9287"/>
+      <point x="267.76" y="112.32" type="curve" smooth="yes"/>
+      <point x="249.2" y="118.507"/>
+      <point x="197.773" y="122.76"/>
+      <point x="113.48" y="125.08" type="curve"/>
+      <point x="113.48" y="119.28" type="line" smooth="yes"/>
+      <point x="113.48" y="76.2607"/>
+      <point x="65.3262" y="52"/>
+      <point x="13.7197" y="52" type="curve" smooth="yes"/>
+      <point x="-29.7461" y="52"/>
+      <point x="-64.8916" y="70.0566"/>
+      <point x="-110.399" y="111.16" type="curve" smooth="yes"/>
+      <point x="-115.039" y="115.026"/>
+      <point x="-118.906" y="121.213"/>
+    </contour>
+    <contour>
+      <point x="-66.3193" y="172.64" type="curve"/>
+      <point x="28.8008" y="172.64" type="line"/>
+      <point x="9.46777" y="188.106"/>
+      <point x="-5.80566" y="195.84"/>
+      <point x="-17.0195" y="195.84" type="curve" smooth="yes"/>
+      <point x="-38.2861" y="195.84"/>
+      <point x="-54.7197" y="188.106"/>
+    </contour>
+    <contour>
+      <point x="-59.3594" y="128.56" type="curve"/>
+      <point x="-58.0518" y="127.144"/>
+      <point x="-36.2695" y="104.2"/>
+      <point x="2.7002" y="104.2" type="curve" smooth="yes"/>
+      <point x="17.8184" y="104.2"/>
+      <point x="44.6348" y="112.66"/>
+      <point x="52" y="127.4" type="curve"/>
+      <point x="28.0264" y="128.173"/>
+      <point x="-9.09277" y="128.56"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>872</integer>
+            <key>width</key>
+            <integer>52</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>942</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>949</integer>
+            <key>width</key>
+            <integer>44</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>334</integer>
+            <key>width</key>
+            <integer>63</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leimmaDot" format="2">
+  <advance width="260"/>
+  <unicode hex="E0E4"/>
+  <outline>
+    <contour>
+      <point x="30" y="144.44" type="curve" smooth="yes"/>
+      <point x="30" y="137.48"/>
+      <point x="47.9795" y="134"/>
+      <point x="83.9395" y="134" type="curve" smooth="yes"/>
+      <point x="169.201" y="134"/>
+      <point x="169.201" y="134"/>
+      <point x="185.439" y="171.119" type="curve" smooth="yes"/>
+      <point x="198.135" y="200.139"/>
+      <point x="210.896" y="218.312"/>
+      <point x="223.72" y="225.64" type="curve" smooth="yes"/>
+      <point x="237.665" y="234.007"/>
+      <point x="230.779" y="236.991"/>
+      <point x="168.62" y="237.82" type="curve" smooth="yes"/>
+      <point x="93.5586" y="238.821"/>
+      <point x="88.5117" y="237.104"/>
+      <point x="77.5596" y="205.34" type="curve" smooth="yes"/>
+      <point x="68.665" y="179.544"/>
+      <point x="58.6113" y="165.044"/>
+      <point x="47.3994" y="161.84" type="curve" smooth="yes"/>
+      <point x="37.9619" y="158.693"/>
+      <point x="30" y="150.662"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>134</integer>
+            <key>width</key>
+            <integer>104</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

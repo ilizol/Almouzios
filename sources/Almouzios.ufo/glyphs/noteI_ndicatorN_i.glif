@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noteIndicatorNi" format="2">
+  <advance width="0"/>
+  <unicode hex="E250"/>
+  <anchor x="0" y="0" name="_noteTop"/>
+  <outline>
+    <contour>
+      <point x="191.399" y="175.206" type="curve" smooth="yes"/>
+      <point x="191.399" y="185.31"/>
+      <point x="183.969" y="203.68"/>
+      <point x="164.72" y="203.68" type="curve"/>
+      <point x="156.6" y="204.84" type="line"/>
+      <point x="147.319" y="190.92" type="line"/>
+      <point x="122.843" y="157.701"/>
+      <point x="106.99" y="130.247"/>
+      <point x="99.7598" y="108.56" type="curve" smooth="yes"/>
+      <point x="95.2627" y="104.066"/>
+      <point x="101.553" y="135.766"/>
+      <point x="72.5" y="175.84" type="curve" smooth="yes"/>
+      <point x="59.8477" y="193.291"/>
+      <point x="37.1523" y="224.595"/>
+      <point x="14.5" y="200.2" type="curve" smooth="yes"/>
+      <point x="5.60645" y="190.622"/>
+      <point x="1.15918" y="177.089"/>
+      <point x="1.15918" y="159.6" type="curve" smooth="yes"/>
+      <point x="0.386719" y="155.733"/>
+      <point x="0" y="151.286"/>
+      <point x="0" y="146.26" type="curve" smooth="yes"/>
+      <point x="0" y="129.641"/>
+      <point x="20.7217" y="144.204"/>
+      <point x="58" y="101.6" type="curve" smooth="yes"/>
+      <point x="63.4131" y="95.4131"/>
+      <point x="66.8936" y="90.3867"/>
+      <point x="68.4395" y="86.5195" type="curve" smooth="yes"/>
+      <point x="79.0752" y="43.9863"/>
+      <point x="90.4814" y="22.7197"/>
+      <point x="102.659" y="22.7197" type="curve" smooth="yes"/>
+      <point x="118.539" y="22.7197"/>
+      <point x="127.396" y="69.8594"/>
+      <point x="161.819" y="123.061" type="curve" smooth="yes"/>
+      <point x="181.539" y="153.535"/>
+      <point x="191.399" y="170.917"/>
+    </contour>
+  </outline>
+</glyph>
