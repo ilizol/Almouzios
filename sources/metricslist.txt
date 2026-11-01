@@ -89,7 +89,7 @@
 0xE020 isonApostrofos
 	width: 1348
 	leftSB: 15.0
-	rightSB: -199.36
+	rightSB: -198.96
 0xE021 apostrofos
 	width: 733
 	leftSB: 20.0
