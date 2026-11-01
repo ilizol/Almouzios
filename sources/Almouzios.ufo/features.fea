@@ -1715,7 +1715,8 @@ feature mkmk {
 	\fthoraSoftChromaticKe \fthoraEnharmonic \chroaZygos \chroaKliton 
 	\chroaSpathi \yporroi.gorgon \yporroi.digorgon \yporroi.trigorgon 
 	\ypsiliRightOligon \ypsiliLeftOligon \ypsiliMiddleOligon 
-	\ypsiliMiddleAboveOligon \petastiKentimata ];
+	\ypsiliMiddleAboveOligon \petastiKentimata \ypsiliRightPetasti 
+	\ypsiliLeftPetasti \ypsiliMiddlePetasti \ypsiliMiddleAbovePetasti ];
 @GDEF_Ligature = [\oligonKentimaMiddleKentimata \oligonKentimaMiddle 
 	\martyriaNoteNiHigh \martyriaNoteZoHigh \martyriaNotePaHigh 
 	\martyriaNoteVouHigh \martyriaNoteGaHigh \martyriaNoteDiHigh 

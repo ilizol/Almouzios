@@ -890,5 +890,13 @@
     <string>ypsiliM_iddleA_boveO_ligon.glif</string>
     <key>petastiKentimata</key>
     <string>petastiK_entimata.glif</string>
+    <key>ypsiliRightPetasti</key>
+    <string>ypsiliR_ightP_etasti.glif</string>
+    <key>ypsiliLeftPetasti</key>
+    <string>ypsiliL_eftP_etasti.glif</string>
+    <key>ypsiliMiddlePetasti</key>
+    <string>ypsiliM_iddleP_etasti.glif</string>
+    <key>ypsiliMiddleAbovePetasti</key>
+    <string>ypsiliM_iddleA_boveP_etasti.glif</string>
   </dict>
 </plist>
