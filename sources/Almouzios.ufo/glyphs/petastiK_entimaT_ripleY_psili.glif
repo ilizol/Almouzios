@@ -20,42 +20,6 @@
   <anchor x="760" y="-220" name="apli"/>
   <outline>
     <contour>
-      <point x="531.12" y="883.34" type="curve" smooth="yes"/>
-      <point x="531.12" y="957.676"/>
-      <point x="468.246" y="959.32"/>
-      <point x="462.68" y="959.32" type="curve" smooth="yes"/>
-      <point x="447.213" y="959.32"/>
-      <point x="428.46" y="953.521"/>
-      <point x="406.419" y="941.92" type="curve" smooth="yes"/>
-      <point x="359.752" y="917.357"/>
-      <point x="331.332" y="840.411"/>
-      <point x="321.16" y="711.08" type="curve" smooth="yes"/>
-      <point x="306.967" y="547.077"/>
-      <point x="274.589" y="461.549"/>
-      <point x="133.24" y="406.58" type="curve" smooth="yes"/>
-      <point x="112.36" y="398.46"/>
-      <point x="94.96" y="393.24"/>
-      <point x="81.04" y="390.92" type="curve" smooth="yes"/>
-      <point x="30" y="382.8" type="line"/>
-      <point x="244.6" y="279.56" type="line" smooth="yes"/>
-      <point x="293.319" y="257.133"/>
-      <point x="326.767" y="245.92"/>
-      <point x="344.94" y="245.92" type="curve" smooth="yes"/>
-      <point x="421.153" y="245.92"/>
-      <point x="312.466" y="312.237"/>
-      <point x="233" y="335.24" type="curve" smooth="yes"/>
-      <point x="183.12" y="350.32" type="line"/>
-      <point x="222.56" y="358.44" type="line" smooth="yes"/>
-      <point x="315.812" y="378.644"/>
-      <point x="414.691" y="452.077"/>
-      <point x="442.96" y="524.32" type="curve" smooth="yes"/>
-      <point x="472.049" y="604.32"/>
-      <point x="441.433" y="810.936"/>
-      <point x="517.2" y="853.76" type="curve" smooth="yes"/>
-      <point x="526.48" y="859.946"/>
-      <point x="531.12" y="869.807"/>
-    </contour>
-    <contour>
       <point x="977.12" y="1028.34" type="curve" smooth="yes"/>
       <point x="977.12" y="1102.68"/>
       <point x="914.246" y="1104.32"/>
@@ -91,6 +55,7 @@
       <point x="972.48" y="1004.95"/>
       <point x="977.12" y="1014.81"/>
     </contour>
+    <component base="ypsiliLeftPetasti"/>
     <component base="ypsiliRightPetasti"/>
     <component base="petastiKentima"/>
   </outline>
