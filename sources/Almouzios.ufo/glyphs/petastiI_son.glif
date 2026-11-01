@@ -19,63 +19,7 @@
   <anchor x="412.8" y="-85" name="diesis"/>
   <anchor x="680" y="-150" name="klasmaBottom"/>
   <outline>
-    <contour>
-      <point x="382.64" y="510.98" type="curve" smooth="yes"/>
-      <point x="382.64" y="542.359"/>
-      <point x="270.377" y="595.08"/>
-      <point x="183.7" y="595.08" type="curve" smooth="yes"/>
-      <point x="104.957" y="595.08"/>
-      <point x="46.0508" y="553.595"/>
-      <point x="45.6602" y="553.319" type="curve" smooth="yes"/>
-      <point x="32.8525" y="544.279"/>
-      <point x="30" y="534.843"/>
-      <point x="30" y="495.899" type="curve" smooth="yes"/>
-      <point x="30" y="434.637"/>
-      <point x="47.2354" y="420.043"/>
-      <point x="142.52" y="377.58" type="curve" smooth="yes"/>
-      <point x="206.448" y="349.09"/>
-      <point x="276.57" y="317.84"/>
-      <point x="424.979" y="317.84" type="curve" smooth="yes"/>
-      <point x="453.979" y="317.84"/>
-      <point x="610.772" y="320.16"/>
-      <point x="895.359" y="324.8" type="curve"/>
-      <point x="957.818" y="324.8"/>
-      <point x="1114.89" y="324.8"/>
-      <point x="1174.92" y="293.479" type="curve" smooth="yes"/>
-      <point x="1192.71" y="284.199"/>
-      <point x="1205.85" y="279.56"/>
-      <point x="1214.36" y="279.56" type="curve" smooth="yes"/>
-      <point x="1229.83" y="279.56"/>
-      <point x="1237.56" y="288.84"/>
-      <point x="1237.56" y="307.399" type="curve" smooth="yes"/>
-      <point x="1237.56" y="307.586"/>
-      <point x="1237.51" y="351.324"/>
-      <point x="1191.16" y="378.16" type="curve" smooth="yes"/>
-      <point x="1116.15" y="421.467"/>
-      <point x="987" y="443.12"/>
-      <point x="803.72" y="443.12" type="curve" smooth="yes"/>
-      <point x="714.014" y="443.12"/>
-      <point x="598.014" y="436.934"/>
-      <point x="455.72" y="424.56" type="curve"/>
-      <point x="431.359" y="422.24" type="line" smooth="yes"/>
-      <point x="351.706" y="415.28"/>
-      <point x="302.406" y="411.8"/>
-      <point x="283.46" y="411.8" type="curve" smooth="yes"/>
-      <point x="247.572" y="411.8"/>
-      <point x="240.371" y="414.291"/>
-      <point x="220.239" y="432.1" type="curve" smooth="yes"/>
-      <point x="210.187" y="440.993"/>
-      <point x="205.16" y="450.853"/>
-      <point x="205.16" y="461.68" type="curve" smooth="yes"/>
-      <point x="205.16" y="482.303"/>
-      <point x="248.355" y="515.04"/>
-      <point x="263.74" y="515.04" type="curve" smooth="yes"/>
-      <point x="285.023" y="515.04"/>
-      <point x="330.617" y="482.56"/>
-      <point x="351.9" y="482.56" type="curve" smooth="yes"/>
-      <point x="367.138" y="482.56"/>
-      <point x="382.64" y="493.553"/>
-    </contour>
+    <component base="ison" xOffset="15" yOffset="325"/>
     <component base="petasti"/>
   </outline>
   <lib>
