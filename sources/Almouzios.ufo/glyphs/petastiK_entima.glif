@@ -19,7 +19,7 @@
   <anchor x="412.8" y="-85" name="diesis"/>
   <anchor x="680" y="-150" name="klasmaBottom"/>
   <outline>
-    <component base="u1D04F" xOffset="498" yOffset="197"/>
+    <component base="kentima" xOffset="498" yOffset="197"/>
     <component base="petasti"/>
   </outline>
   <lib>
