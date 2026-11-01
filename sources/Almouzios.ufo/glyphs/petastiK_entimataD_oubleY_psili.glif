@@ -19,42 +19,7 @@
   <anchor x="412.8" y="-85" name="diesis"/>
   <anchor x="680" y="-150" name="klasmaBottom"/>
   <outline>
-    <contour>
-      <point x="937.12" y="1028.34" type="curve" smooth="yes"/>
-      <point x="937.12" y="1102.68"/>
-      <point x="874.246" y="1104.32"/>
-      <point x="868.68" y="1104.32" type="curve" smooth="yes"/>
-      <point x="853.213" y="1104.32"/>
-      <point x="834.46" y="1098.52"/>
-      <point x="812.419" y="1086.92" type="curve" smooth="yes"/>
-      <point x="765.752" y="1062.36"/>
-      <point x="737.332" y="985.411"/>
-      <point x="727.16" y="856.08" type="curve" smooth="yes"/>
-      <point x="712.967" y="692.077"/>
-      <point x="680.589" y="606.549"/>
-      <point x="539.24" y="551.58" type="curve" smooth="yes"/>
-      <point x="518.36" y="543.46"/>
-      <point x="500.96" y="538.24"/>
-      <point x="487.04" y="535.92" type="curve" smooth="yes"/>
-      <point x="436" y="527.8" type="line"/>
-      <point x="650.6" y="424.56" type="line" smooth="yes"/>
-      <point x="699.319" y="402.133"/>
-      <point x="732.767" y="390.92"/>
-      <point x="750.94" y="390.92" type="curve" smooth="yes"/>
-      <point x="827.153" y="390.92"/>
-      <point x="718.466" y="457.237"/>
-      <point x="639" y="480.24" type="curve" smooth="yes"/>
-      <point x="589.12" y="495.32" type="line"/>
-      <point x="628.56" y="503.44" type="line" smooth="yes"/>
-      <point x="721.812" y="523.644"/>
-      <point x="820.691" y="597.077"/>
-      <point x="848.96" y="669.32" type="curve" smooth="yes"/>
-      <point x="878.049" y="749.32"/>
-      <point x="847.433" y="955.936"/>
-      <point x="923.2" y="998.76" type="curve" smooth="yes"/>
-      <point x="932.48" y="1004.95"/>
-      <point x="937.12" y="1014.81"/>
-    </contour>
+    <component base="ypsiliMiddleAbovePetasti"/>
     <component base="ypsiliRightPetasti"/>
     <component base="petastiKentimata"/>
   </outline>

@@ -19,45 +19,7 @@
   <anchor x="452.8" y="-85" name="diesis"/>
   <anchor x="720" y="-150" name="klasmaBottom"/>
   <outline>
-    <contour>
-      <point x="977.12" y="1028.34" type="curve" smooth="yes"/>
-      <point x="977.12" y="1102.68"/>
-      <point x="914.246" y="1104.32"/>
-      <point x="908.68" y="1104.32" type="curve" smooth="yes"/>
-      <point x="893.213" y="1104.32"/>
-      <point x="874.46" y="1098.52"/>
-      <point x="852.419" y="1086.92" type="curve" smooth="yes"/>
-      <point x="805.752" y="1062.36"/>
-      <point x="777.332" y="985.411"/>
-      <point x="767.16" y="856.08" type="curve" smooth="yes"/>
-      <point x="752.967" y="692.077"/>
-      <point x="720.589" y="606.549"/>
-      <point x="579.24" y="551.58" type="curve" smooth="yes"/>
-      <point x="558.36" y="543.46"/>
-      <point x="540.96" y="538.24"/>
-      <point x="527.04" y="535.92" type="curve" smooth="yes"/>
-      <point x="476" y="527.8" type="line"/>
-      <point x="690.6" y="424.56" type="line" smooth="yes"/>
-      <point x="739.319" y="402.133"/>
-      <point x="772.767" y="390.92"/>
-      <point x="790.94" y="390.92" type="curve" smooth="yes"/>
-      <point x="867.153" y="390.92"/>
-      <point x="758.466" y="457.237"/>
-      <point x="679" y="480.24" type="curve" smooth="yes"/>
-      <point x="629.12" y="495.32" type="line"/>
-      <point x="668.56" y="503.44" type="line" smooth="yes"/>
-      <point x="761.812" y="523.644"/>
-      <point x="860.691" y="597.077"/>
-      <point x="888.96" y="669.32" type="curve" smooth="yes"/>
-      <point x="918.049" y="749.32"/>
-      <point x="887.433" y="955.936"/>
-      <point x="963.2" y="998.76" type="curve" smooth="yes"/>
-      <point x="972.48" y="1004.95"/>
-      <point x="977.12" y="1014.81"/>
-    </contour>
-    <contour>
-      <point x="963.2" y="390.92" type="move" smooth="yes"/>
-    </contour>
+    <component base="ypsiliMiddleAbovePetasti"/>
     <component base="ypsiliLeftPetasti"/>
     <component base="ypsiliRightPetasti"/>
     <component base="petastiKentimata"/>
