@@ -16,8 +16,9 @@
   <anchor x="880" y="-120" name="psifiston"/>
   <anchor x="610" y="530" name="gorgonTop"/>
   <outline>
+    <component base="oligon"/>
+    <component base="kentimata" xOffset="343" yOffset="278"/>
     <component base="ypsiliLeftOligon"/>
-    <component base="oligonKentimataAbove"/>
   </outline>
   <lib>
     <dict>
