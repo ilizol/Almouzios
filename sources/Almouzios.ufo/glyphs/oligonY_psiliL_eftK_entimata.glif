@@ -14,10 +14,10 @@
   <anchor x="349.8" y="-99" name="diesis"/>
   <anchor x="1265.8" y="387" name="yfesis"/>
   <anchor x="880" y="-120" name="psifiston"/>
-  <anchor x="610" y="530" name="gorgonTop"/>
+  <anchor x="760" y="530" name="gorgonTop"/>
   <outline>
     <component base="oligon"/>
-    <component base="kentimata" xOffset="343" yOffset="278"/>
+    <component base="kentimata" xOffset="493" yOffset="278"/>
     <component base="ypsiliLeftOligon"/>
   </outline>
   <lib>

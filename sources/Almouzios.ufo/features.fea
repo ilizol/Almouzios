@@ -837,7 +837,7 @@ lookup markMarkPositioninglookup0 {
 	<anchor 350 -99> mark @diesis
 	<anchor 1266 387> mark @yfesis
 	<anchor 880 -120> mark @psifiston
-	<anchor 610 530> mark @gorgonTop;
+	<anchor 760 530> mark @gorgonTop;
   pos base [\oligonApostrofosKentimata ] <anchor 915 922> mark @diesisSecondary
 	<anchor 590 596> mark @yfesisSecondary
 	<anchor 360 581> mark @fthoraTopSecondary
@@ -1097,7 +1097,7 @@ lookup markMarkPositioninglookup0 {
 	<anchor 349 -99> mark @diesis
 	<anchor 1464 707> mark @yfesis
 	<anchor 880 -120> mark @psifiston
-	<anchor 610 530> mark @gorgonTop;
+	<anchor 460 530> mark @gorgonTop;
   pos base [\petastiChamiliApostrofos ] <anchor 731 997> mark @yfenAbove
 	<anchor 678 -312> mark @yfenBelow
 	<anchor 712 899> mark @koronis

@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1646795337
-ModificationTime: 1793533339
+ModificationTime: 1793533540
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -6119,7 +6119,7 @@ AnchorPoint: "fthoraTop" 642.8 657 basechar 0
 AnchorPoint: "diesis" 349.8 -99 basechar 0
 AnchorPoint: "yfesis" 1265.8 387 basechar 0
 AnchorPoint: "psifiston" 880 -120 basechar 0
-AnchorPoint: "gorgonTop" 610 530 basechar 0
+AnchorPoint: "gorgonTop" 760 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -6211,7 +6211,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 35 57345 N 1 0 0 1 0 0 2
-Refer: 67 57473 N 1 0 0 1 343 278 2
+Refer: 67 57473 N 1 0 0 1 493 278 2
 Refer: 440 -1 N 1 0 0 1 0 0 2
 EndChar
 
@@ -8178,7 +8178,7 @@ AnchorPoint: "fthoraTop" 602.007 623 basechar 0
 AnchorPoint: "diesis" 349.007 -99 basechar 0
 AnchorPoint: "yfesis" 1464.01 707 basechar 0
 AnchorPoint: "psifiston" 880 -120 basechar 0
-AnchorPoint: "gorgonTop" 610 530 basechar 0
+AnchorPoint: "gorgonTop" 460 530 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -8270,7 +8270,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 35 57345 N 1 0 0 1 0 0 2
-Refer: 67 57473 N 1 0 0 1 343 278 2
+Refer: 67 57473 N 1 0 0 1 193 278 2
 Refer: 439 -1 N 1 0 0 1 0 0 2
 EndChar
 
