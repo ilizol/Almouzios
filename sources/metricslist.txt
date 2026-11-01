@@ -169,7 +169,7 @@
 0xE044 petastiYpsiliRight
 	width: 1301
 	leftSB: 30.0
-	rightSB: -72.28
+	rightSB: -71.56
 0xE045 petastiYpsiliLeft
 	width: 1301
 	leftSB: 30.0

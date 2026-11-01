@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ypsiliRightPetasti" format="2">
-  <advance width="1298"/>
+  <advance width="1301"/>
   <outline>
-    <component base="ypsiliRightOligon"/>
+    <component base="u1D050" xOffset="847" yOffset="236"/>
   </outline>
 </glyph>
