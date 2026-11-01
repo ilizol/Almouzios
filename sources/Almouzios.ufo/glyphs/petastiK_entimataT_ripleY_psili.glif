@@ -92,41 +92,9 @@
       <point x="977.12" y="1014.81"/>
     </contour>
     <contour>
-      <point x="1413.28" y="883.34" type="curve" smooth="yes"/>
-      <point x="1413.28" y="957.676"/>
-      <point x="1350.41" y="959.32"/>
-      <point x="1344.84" y="959.32" type="curve" smooth="yes"/>
-      <point x="1329.37" y="959.32"/>
-      <point x="1310.62" y="953.521"/>
-      <point x="1288.58" y="941.92" type="curve" smooth="yes"/>
-      <point x="1241.91" y="917.357"/>
-      <point x="1213.49" y="840.411"/>
-      <point x="1203.32" y="711.08" type="curve" smooth="yes"/>
-      <point x="1189.13" y="547.073"/>
-      <point x="1156.75" y="461.547"/>
-      <point x="1015.4" y="406.58" type="curve" smooth="yes"/>
-      <point x="994.52" y="398.46"/>
-      <point x="977.12" y="393.24"/>
-      <point x="963.2" y="390.92" type="curve" smooth="yes"/>
-      <point x="912.16" y="382.8" type="line"/>
-      <point x="1126.76" y="279.56" type="line" smooth="yes"/>
-      <point x="1175.48" y="257.133"/>
-      <point x="1208.93" y="245.92"/>
-      <point x="1227.1" y="245.92" type="curve" smooth="yes"/>
-      <point x="1303.31" y="245.92"/>
-      <point x="1194.63" y="312.237"/>
-      <point x="1115.16" y="335.24" type="curve" smooth="yes"/>
-      <point x="1065.28" y="350.32" type="line"/>
-      <point x="1104.72" y="358.44" type="line" smooth="yes"/>
-      <point x="1197.97" y="378.644"/>
-      <point x="1296.85" y="452.077"/>
-      <point x="1325.12" y="524.32" type="curve" smooth="yes"/>
-      <point x="1354.21" y="604.311"/>
-      <point x="1323.59" y="810.936"/>
-      <point x="1399.36" y="853.76" type="curve" smooth="yes"/>
-      <point x="1408.64" y="859.946"/>
-      <point x="1413.28" y="869.807"/>
+      <point x="963.2" y="390.92" type="move" smooth="yes"/>
     </contour>
+    <component base="ypsiliRightPetasti"/>
     <component base="petastiKentimata"/>
   </outline>
   <lib>
