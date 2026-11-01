@@ -19,47 +19,7 @@
   <anchor x="680" y="-150" name="klasmaBottom"/>
   <anchor x="412.8" y="-85" name="diesis"/>
   <outline>
-    <contour>
-      <point x="481.24" y="290" type="curve" smooth="yes"/>
-      <point x="484.64" y="290"/>
-      <point x="656.57" y="294.64"/>
-      <point x="821.12" y="294.64" type="curve" smooth="yes"/>
-      <point x="988.053" y="294.64"/>
-      <point x="1105.32" y="294.64"/>
-      <point x="1215.52" y="256.939" type="curve" smooth="yes"/>
-      <point x="1232.16" y="251.245"/>
-      <point x="1252.24" y="241.279"/>
-      <point x="1252.64" y="241.279" type="curve" smooth="yes"/>
-      <point x="1262.69" y="241.279"/>
-      <point x="1267.72" y="249.399"/>
-      <point x="1267.72" y="265.64" type="curve" smooth="yes"/>
-      <point x="1267.72" y="282.652"/>
-      <point x="1261.53" y="295.799"/>
-      <point x="1249.16" y="305.08" type="curve" smooth="yes"/>
-      <point x="1168.73" y="370.813"/>
-      <point x="1079.8" y="411.026"/>
-      <point x="982.359" y="425.72" type="curve" smooth="yes"/>
-      <point x="964.573" y="428.812"/>
-      <point x="933.64" y="430.359"/>
-      <point x="889.56" y="430.359" type="curve" smooth="yes"/>
-      <point x="787.18" y="430.359"/>
-      <point x="677.22" y="422.239"/>
-      <point x="423.239" y="422.239" type="curve" smooth="yes"/>
-      <point x="338.173" y="422.239"/>
-      <point x="282.88" y="423.786"/>
-      <point x="257.359" y="426.88" type="curve" smooth="yes"/>
-      <point x="154.507" y="440.026"/>
-      <point x="89.1602" y="454.333"/>
-      <point x="61.3193" y="469.8" type="curve" smooth="yes"/>
-      <point x="58.2266" y="472.119"/>
-      <point x="54.166" y="473.279"/>
-      <point x="49.1396" y="473.279" type="curve" smooth="yes"/>
-      <point x="23.2607" y="473.279"/>
-      <point x="-14.7764" y="362.825"/>
-      <point x="253.88" y="309.72" type="curve" smooth="yes"/>
-      <point x="328.893" y="296.573"/>
-      <point x="404.68" y="290"/>
-    </contour>
+    <component base="oligon" yOffset="301"/>
     <component base="petasti"/>
   </outline>
   <lib>
