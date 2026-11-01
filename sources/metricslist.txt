@@ -109,7 +109,7 @@
 0xE025 runningElafron
 	width: 2004
 	leftSB: 15.0
-	rightSB: 44.02
+	rightSB: 43.62
 0xE026 elafronApostrofos
 	width: 1297
 	leftSB: 15.0

@@ -47,8 +47,31 @@ def contour_bbox(contour):
     return xmin, ymin, xmax, ymax
 
 
-def find_widest_contour_bbox(glyph):
+def reference_bbox(font, reference):
+    reference_name, transform, _ = reference
+    xmin, ymin, xmax, ymax = font[reference_name].boundingBox()
+    xx, xy, yx, yy, dx, dy = transform
+    corners = (
+        (xmin, ymin),
+        (xmin, ymax),
+        (xmax, ymin),
+        (xmax, ymax),
+    )
+    transformed = [
+        (xx * x + yx * y + dx, xy * x + yy * y + dy) for x, y in corners
+    ]
+    xs, ys = zip(*transformed)
+    return min(xs), min(ys), max(xs), max(ys)
+
+
+def find_contour_bboxes(glyph, font):
     bboxes = [bbox for contour in glyph.foreground if (bbox := contour_bbox(contour))]
+    bboxes.extend(reference_bbox(font, reference) for reference in glyph.references)
+    return bboxes
+
+
+def find_widest_contour_bbox(glyph, font):
+    bboxes = find_contour_bboxes(glyph, font)
 
     if not bboxes:
         return None
@@ -56,8 +79,8 @@ def find_widest_contour_bbox(glyph):
     return max(bboxes, key=lambda bbox: bbox[2] - bbox[0])
 
 
-def find_lowest_contour_bbox(glyph):
-    bboxes = [bbox for contour in glyph.foreground if (bbox := contour_bbox(contour))]
+def find_lowest_contour_bbox(glyph, font):
+    bboxes = find_contour_bboxes(glyph, font)
 
     if not bboxes:
         return None
@@ -294,9 +317,11 @@ class _SbmuflMetadata(object):
         # the petasti. Derive the component bounds from those outlines instead
         # of assuming they match the stand-alone elafron.
         contour_bboxes = {
-            "runningElafron": find_widest_contour_bbox(self.font["runningElafron"]),
+            "runningElafron": find_widest_contour_bbox(
+                self.font["runningElafron"], self.font.font
+            ),
             "petastiRunningElafron": find_lowest_contour_bbox(
-                self.font["petastiRunningElafron"]
+                self.font["petastiRunningElafron"], self.font.font
             ),
         }
 
