@@ -19,77 +19,77 @@
 	leftSB: 31.0
 	rightSB: 30.28
 0xE005 oligonYpsiliRight
-	width: 1316
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.88
+	rightSB: -35.12
 0xE006 oligonYpsiliLeft
-	width: 1299
-	leftSB: 31.0
+	width: 1298
+	leftSB: -25.0
 	rightSB: 30.28
 0xE007 oligonKentimaYpsiliRight
-	width: 1316
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.88
+	rightSB: -35.12
 0xE008 oligonKentimaYpsiliMiddle
 	width: 1298
 	leftSB: 31.0
 	rightSB: 30.28
 0xE009 oligonDoubleYpsili
-	width: 1317
-	leftSB: 31.0
-	rightSB: 30.88
+	width: 1298
+	leftSB: -25.0
+	rightSB: -35.12
 0xE00A oligonKentimataDoubleYpsili
-	width: 1478
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.27
+	rightSB: -35.12
 0xE00B oligonKentimaDoubleYpsiliRight
-	width: 1316
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.88
+	rightSB: -35.12
 0xE00C oligonKentimaDoubleYpsiliLeft
-	width: 1449
-	leftSB: 31.0
-	rightSB: 30.64
+	width: 1298
+	leftSB: -25.0
+	rightSB: 30.28
 0xE00D oligonTripleYpsili
-	width: 1571
-	leftSB: 31.0
-	rightSB: 29.68
+	width: 1298
+	leftSB: -25.0
+	rightSB: -35.12
 0xE00E oligonKentimataTripleYpsili
-	width: 1479
-	leftSB: 31.0
-	rightSB: 30.48
+	width: 1298
+	leftSB: -25.0
+	rightSB: -35.12
 0xE00F oligonKentimaTripleYpsili
-	width: 1449
-	leftSB: 31.0
-	rightSB: 30.64
+	width: 1298
+	leftSB: -25.0
+	rightSB: -35.12
 0xE010 oligonIson
-	width: 1299
+	width: 1298
 	leftSB: 31.0
 	rightSB: 30.28
 0xE011 oligonApostrofos
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE012 oligonYporroi
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE013 oligonElafron
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE014 oligonElafronApostrofos
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xE015 oligonChamili
-	width: 1449
-	leftSB: 31.0
-	rightSB: 30.64
+	width: 1298
+	leftSB: -120.0
+	rightSB: 30.28
 0xE020 isonApostrofos
 	width: 1348
 	leftSB: 15.0
-	rightSB: -199.36
+	rightSB: -198.96
 0xE021 apostrofos
 	width: 733
 	leftSB: 20.0
@@ -97,7 +97,7 @@
 0xE022 apostrofosSyndesmos
 	width: 1615
 	leftSB: 20.0
-	rightSB: 39.44
+	rightSB: 39.04
 0xE023 yporroi
 	width: 340
 	leftSB: 10.0
@@ -109,7 +109,7 @@
 0xE025 runningElafron
 	width: 2004
 	leftSB: 15.0
-	rightSB: 44.02
+	rightSB: 43.62
 0xE026 elafronApostrofos
 	width: 1297
 	leftSB: 15.0
@@ -167,49 +167,49 @@
 	leftSB: 30.0
 	rightSB: 29.8
 0xE044 petastiYpsiliRight
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE045 petastiYpsiliLeft
 	width: 1301
 	leftSB: 30.0
 	rightSB: 29.8
 0xE046 petastiKentimaYpsiliRight
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE047 petastiKentimaYpsiliMiddle
 	width: 1301
 	leftSB: 30.0
 	rightSB: 29.8
 0xE048 petastiDoubleYpsili
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE049 petastiKentimataDoubleYpsili
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE04A petastiKentimaDoubleYpsiliRight
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE04B petastiKentimaDoubleYpsiliLeft
-	width: 1341
+	width: 1301
 	leftSB: 30.0
 	rightSB: 29.8
 0xE04C petastiTripleYpsili
-	width: 1403
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE04D petastiKentimataTripleYpsili
-	width: 1443
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE04E petastiKentimaTripleYpsili
-	width: 1443
+	width: 1301
 	leftSB: 30.0
-	rightSB: 29.72
+	rightSB: -71.56
 0xE060 petastiApostrofos
 	width: 1301
 	leftSB: 30.0
@@ -279,13 +279,13 @@
 	leftSB: 31.0
 	rightSB: 29.72
 0xE086 oligonYpsiliRightKentimata
-	width: 1478
+	width: 1298
 	leftSB: 31.0
-	rightSB: 30.27
+	rightSB: -35.12
 0xE087 oligonYpsiliLeftKentimata
-	width: 1484
-	leftSB: 31.0
-	rightSB: 30.84
+	width: 1298
+	leftSB: -25.0
+	rightSB: 30.28
 0xE088 oligonApostrofosKentimata
 	width: 1449
 	leftSB: 31.0
@@ -1501,7 +1501,7 @@
 0xF000 oligonKentimataBelow.alt01
 	width: 1298
 	leftSB: 31.0
-	rightSB: 30.31
+	rightSB: 30.28
 0xF001 oligonKentimataAbove.alt01
 	width: 1298
 	leftSB: 31.0

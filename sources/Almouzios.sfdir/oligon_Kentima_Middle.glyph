@@ -1,7 +1,7 @@
 StartChar: oligonKentimaMiddle
 Encoding: 57346 57346 113
 Width: 1583
-Flags: W
+Flags: HW
 HStem: -78.8799 251.72<1402.38 1442.5> -11.5996 132.239<248.523 766.675> -6.95996 135.72<535.187 1057.8>
 VStem: 1283 270.28
 AnchorPoint: "gorgonBottom" 700 -80 basechar 0

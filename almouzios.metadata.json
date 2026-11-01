@@ -6,11 +6,11 @@
     "descent": 0.2,
     "winAscent": 0.88,
     "winDescent": 0.44,
-    "oligonMidpoint": 0.113,
+    "oligonMidpoint": 0.056,
     "elafronBounds": {
       "runningElafron": {
         "left": 0.723,
-        "right": 1.981
+        "right": 1.96
       },
       "petastiRunningElafron": {
         "left": 0.688,
@@ -2553,7 +2553,7 @@
         -0.12
       ],
       "gorgonTop": [
-        0.58,
+        0.61,
         0.53
       ]
     },
@@ -2677,7 +2677,7 @@
         -0.12
       ],
       "gorgonTop": [
-        0.75,
+        0.76,
         0.53
       ]
     },
@@ -3693,7 +3693,7 @@
         -0.12
       ],
       "gorgonTop": [
-        0.58,
+        0.61,
         0.53
       ]
     },
@@ -3747,7 +3747,7 @@
         -0.12
       ],
       "gorgonTop": [
-        0.67,
+        0.46,
         0.53
       ]
     },
@@ -8059,12 +8059,12 @@
     "oligonKentimaBelow": 1.298,
     "oligon": 1.298,
     "oligonKentimaAbove": 1.298,
-    "oligonYpsiliRight": 1.316,
-    "oligonYpsiliLeft": 1.299,
-    "oligonKentimaYpsiliRight": 1.316,
+    "oligonYpsiliRight": 1.298,
+    "oligonYpsiliLeft": 1.298,
+    "oligonKentimaYpsiliRight": 1.298,
     "oligonKentimaYpsiliMiddle": 1.298,
-    "oligonDoubleYpsili": 1.317,
-    "oligonKentimataDoubleYpsili": 1.478,
+    "oligonDoubleYpsili": 1.298,
+    "oligonKentimataDoubleYpsili": 1.298,
     "isonApostrofos": 1.348,
     "apostrofosSyndesmos": 1.615,
     "yporroi": 0.34,
@@ -8080,9 +8080,9 @@
     "petasti": 1.301,
     "petastiOligon": 1.301,
     "petastiKentima": 1.301,
-    "petastiYpsiliRight": 1.403,
+    "petastiYpsiliRight": 1.301,
     "petastiYpsiliLeft": 1.301,
-    "petastiKentimaYpsiliRight": 1.403,
+    "petastiKentimaYpsiliRight": 1.301,
     "petastiKentimaYpsiliMiddle": 1.301,
     "petastiApostrofos": 1.301,
     "petastiElafron": 1.301,
@@ -8092,13 +8092,13 @@
     "kentimata": 0.564,
     "oligonKentimataAbove": 1.298,
     "oligonIsonKentimata": 1.448,
-    "oligonYpsiliLeftKentimata": 1.484,
+    "oligonYpsiliLeftKentimata": 1.298,
     "oligonApostrofosKentimata": 1.449,
     "oligonElafronKentimata": 1.45,
     "oligonYporroiKentimata": 1.448,
     "oligonKentimataBelow": 1.298,
-    "oligonKentimaTripleYpsili": 1.449,
-    "oligonIson": 1.299,
+    "oligonKentimaTripleYpsili": 1.298,
+    "oligonIson": 1.298,
     "oligonElafron": 1.298,
     "petastiRunningElafron": 1.974,
     "oligonApostrofos": 1.298,
@@ -8107,24 +8107,24 @@
     "oligonRunningElafronKentimata": 1.913,
     "oligonElafronApostrofosKentimata": 1.448,
     "oligonKentimaMiddleKentimata": 1.583,
-    "oligonYpsiliRightKentimata": 1.478,
+    "oligonYpsiliRightKentimata": 1.298,
     "petastiChamiliApostrofos": 1.301,
     "apostrofos": 0.733,
-    "oligonKentimataTripleYpsili": 1.479,
+    "oligonKentimataTripleYpsili": 1.298,
     "doubleChamiliElafronApostrofos": 1.435,
     "doubleChamiliElafron": 1.435,
     "doubleChamiliApostrofos": 1.344,
-    "petastiKentimataDoubleYpsili": 1.403,
-    "petastiKentimaDoubleYpsiliRight": 1.403,
-    "petastiKentimaDoubleYpsiliLeft": 1.341,
-    "petastiKentimataTripleYpsili": 1.443,
-    "petastiTripleYpsili": 1.403,
-    "oligonKentimaDoubleYpsiliRight": 1.316,
-    "oligonKentimaDoubleYpsiliLeft": 1.449,
-    "oligonTripleYpsili": 1.571,
+    "petastiKentimataDoubleYpsili": 1.301,
+    "petastiKentimaDoubleYpsiliRight": 1.301,
+    "petastiKentimaDoubleYpsiliLeft": 1.301,
+    "petastiKentimataTripleYpsili": 1.301,
+    "petastiTripleYpsili": 1.301,
+    "oligonKentimaDoubleYpsiliRight": 1.298,
+    "oligonKentimaDoubleYpsiliLeft": 1.298,
+    "oligonTripleYpsili": 1.298,
     "oligonElafronApostrofos": 1.298,
-    "petastiDoubleYpsili": 1.403,
-    "oligonChamili": 1.449,
+    "petastiDoubleYpsili": 1.301,
+    "oligonChamili": 1.298,
     "petastiChamiliElafron": 1.301,
     "petastiChamiliElafronApostrofos": 1.301,
     "petastiDoubleChamili": 1.349,
@@ -8171,7 +8171,7 @@
     "oligonKentimataBelow.alt01": 1.298,
     "oligonKentimataAbove.alt01": 1.298,
     "antikenoma.alt01": 0.0,
-    "petastiKentimaTripleYpsili": 1.443,
+    "petastiKentimaTripleYpsili": 1.301,
     "vareia": 0.423,
     "psifiston": 0.0,
     "antikenoma": 0.0,
@@ -8524,7 +8524,7 @@
     },
     "oligonYpsiliRight": {
       "bBoxNE": [
-        1.285,
+        1.333,
         0.913
       ],
       "bBoxSW": [
@@ -8534,17 +8534,17 @@
     },
     "oligonYpsiliLeft": {
       "bBoxNE": [
-        1.269,
+        1.268,
         0.913
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
     "oligonKentimaYpsiliRight": {
       "bBoxNE": [
-        1.285,
+        1.333,
         0.913
       ],
       "bBoxSW": [
@@ -8555,7 +8555,7 @@
     "oligonKentimaYpsiliMiddle": {
       "bBoxNE": [
         1.268,
-        1.18
+        1.183
       ],
       "bBoxSW": [
         0.031,
@@ -8564,18 +8564,18 @@
     },
     "oligonDoubleYpsili": {
       "bBoxNE": [
-        1.286,
+        1.333,
         0.913
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
     "oligonKentimataDoubleYpsili": {
       "bBoxNE": [
-        1.448,
-        1.226
+        1.333,
+        1.183
       ],
       "bBoxSW": [
         0.031,
@@ -8854,11 +8854,11 @@
     },
     "oligonYpsiliLeftKentimata": {
       "bBoxNE": [
-        1.453,
+        1.268,
         0.913
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
@@ -8904,17 +8904,17 @@
     },
     "oligonKentimaTripleYpsili": {
       "bBoxNE": [
-        1.418,
-        1.192
+        1.333,
+        1.183
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
     "oligonIson": {
       "bBoxNE": [
-        1.269,
+        1.268,
         0.525
       ],
       "bBoxSW": [
@@ -9004,7 +9004,7 @@
     },
     "oligonYpsiliRightKentimata": {
       "bBoxNE": [
-        1.448,
+        1.333,
         0.913
       ],
       "bBoxSW": [
@@ -9034,11 +9034,11 @@
     },
     "oligonKentimataTripleYpsili": {
       "bBoxNE": [
-        1.449,
-        1.226
+        1.333,
+        1.183
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
@@ -9094,7 +9094,7 @@
     },
     "petastiKentimaDoubleYpsiliLeft": {
       "bBoxNE": [
-        1.311,
+        1.271,
         1.104
       ],
       "bBoxSW": [
@@ -9104,7 +9104,7 @@
     },
     "petastiKentimataTripleYpsili": {
       "bBoxNE": [
-        1.413,
+        1.373,
         1.104
       ],
       "bBoxSW": [
@@ -9124,8 +9124,8 @@
     },
     "oligonKentimaDoubleYpsiliRight": {
       "bBoxNE": [
-        1.285,
-        1.18
+        1.333,
+        1.183
       ],
       "bBoxSW": [
         0.031,
@@ -9134,21 +9134,21 @@
     },
     "oligonKentimaDoubleYpsiliLeft": {
       "bBoxNE": [
-        1.418,
-        1.192
+        1.268,
+        1.183
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
     "oligonTripleYpsili": {
       "bBoxNE": [
-        1.541,
+        1.333,
         0.913
       ],
       "bBoxSW": [
-        0.031,
+        -0.025,
         -0.06
       ]
     },
@@ -9174,11 +9174,11 @@
     },
     "oligonChamili": {
       "bBoxNE": [
-        1.418,
+        1.268,
         0.804
       ],
       "bBoxSW": [
-        0.031,
+        -0.12,
         -0.06
       ]
     },
@@ -9644,7 +9644,7 @@
     },
     "petastiKentimaTripleYpsili": {
       "bBoxNE": [
-        1.413,
+        1.373,
         1.104
       ],
       "bBoxSW": [

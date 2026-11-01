@@ -4,35 +4,7 @@
   <unicode hex="E0D0"/>
   <anchor x="0" y="0" name="_klasmaTop"/>
   <outline>
-    <contour>
-      <point x="-225.039" y="130.56" type="curve" smooth="yes"/>
-      <point x="-225.039" y="22.8877"/>
-      <point x="22.9648" y="6.44043"/>
-      <point x="100.34" y="6.44043" type="curve" smooth="yes"/>
-      <point x="177.012" y="6.44043"/>
-      <point x="189.957" y="9.6377"/>
-      <point x="209.381" y="29.0605" type="curve" smooth="yes"/>
-      <point x="219.82" y="39.5"/>
-      <point x="225.039" y="52.4531"/>
-      <point x="225.039" y="67.9199" type="curve" smooth="yes"/>
-      <point x="225.039" y="112.945"/>
-      <point x="220.922" y="156.08"/>
-      <point x="84.6797" y="156.08" type="curve" smooth="yes"/>
-      <point x="31.3203" y="156.08"/>
-      <point x="4.64062" y="147.96"/>
-      <point x="4.64062" y="131.72" type="curve" smooth="yes"/>
-      <point x="4.64062" y="110.047"/>
-      <point x="44.0801" y="94.041"/>
-      <point x="44.0801" y="77.2002" type="curve" smooth="yes"/>
-      <point x="44.0801" y="72.5605"/>
-      <point x="37.7002" y="70.2402"/>
-      <point x="24.9404" y="70.2402" type="curve" smooth="yes"/>
-      <point x="-46.125" y="70.2402"/>
-      <point x="-184.73" y="143.32"/>
-      <point x="-210.346" y="143.32" type="curve" smooth="yes"/>
-      <point x="-220.142" y="143.32"/>
-      <point x="-225.039" y="139.066"/>
-    </contour>
+    <component base="u1D07F"/>
   </outline>
   <lib>
     <dict>
