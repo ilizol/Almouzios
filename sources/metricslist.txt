@@ -97,7 +97,7 @@
 0xE022 apostrofosSyndesmos
 	width: 1615
 	leftSB: 20.0
-	rightSB: 39.44
+	rightSB: 39.04
 0xE023 yporroi
 	width: 340
 	leftSB: 10.0
